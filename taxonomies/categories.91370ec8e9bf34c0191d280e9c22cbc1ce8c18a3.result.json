@@ -1,0 +1,6454 @@
+{
+ "all_parents":{
+  "en:adult-cat-food":[
+   "en:dog-and-cat-food",
+   "en:cat-food"
+  ],
+  "en:castrated-cat-food":[
+   "en:dog-and-cat-food",
+   "en:cat-food"
+  ],
+  "en:cat-biscuits":[
+   "en:dog-and-cat-food",
+   "en:cat-food"
+  ],
+  "en:cat-food":[
+   "en:dog-and-cat-food"
+  ],
+  "en:dog-biscuit":[
+   "en:dog-and-cat-food",
+   "en:dog-food",
+   "en:dry-pet-food",
+   "en:dry-dog-food"
+  ],
+  "en:dog-food":[
+   "en:dog-and-cat-food"
+  ],
+  "en:dry-cat-food":[
+   "en:dog-and-cat-food",
+   "en:dry-pet-food",
+   "en:cat-food"
+  ],
+  "en:dry-dog-food":[
+   "en:dog-and-cat-food",
+   "en:dog-food",
+   "en:dry-pet-food"
+  ],
+  "en:non-pet-food-products":[
+   "en:incorrect-product-type"
+  ],
+  "en:open-beauty-facts":[
+   "en:incorrect-product-type",
+   "en:non-pet-food-products"
+  ],
+  "en:open-food-facts":[
+   "en:incorrect-product-type",
+   "en:non-pet-food-products"
+  ],
+  "en:open-products-facts":[
+   "en:incorrect-product-type",
+   "en:non-pet-food-products"
+  ],
+  "en:senior-cat-food":[
+   "en:dog-and-cat-food",
+   "en:cat-food"
+  ],
+  "en:wet-cat-food":[
+   "en:dog-and-cat-food",
+   "en:cat-food",
+   "en:wet-pet-food"
+  ],
+  "en:wet-dog-food":[
+   "en:dog-and-cat-food",
+   "en:dog-food",
+   "en:wet-pet-food"
+  ],
+  "ru:корм-консервированный-полнорационный-для-взрослых-кошек":[
+   "en:dog-and-cat-food",
+   "en:cat-food",
+   "en:wet-pet-food",
+   "en:adult-cat-food",
+   "en:wet-cat-food"
+  ],
+  "ru:корм-сухой-полнорационный-для-взрослых-кошек":[
+   "en:dog-and-cat-food",
+   "en:dry-pet-food",
+   "en:cat-food",
+   "en:adult-cat-food",
+   "en:dry-cat-food"
+  ]
+ },
+ "direct_children":{
+  "en:adult-cat-food":{
+   "ru:корм-консервированный-полнорационный-для-взрослых-кошек":1,
+   "ru:корм-сухой-полнорационный-для-взрослых-кошек":1
+  },
+  "en:cat-food":{
+   "en:adult-cat-food":1,
+   "en:castrated-cat-food":1,
+   "en:cat-biscuits":1,
+   "en:dry-cat-food":1,
+   "en:senior-cat-food":1,
+   "en:wet-cat-food":1
+  },
+  "en:dog-and-cat-food":{
+   "en:cat-food":1,
+   "en:dog-food":1
+  },
+  "en:dog-food":{
+   "en:dry-dog-food":1,
+   "en:wet-dog-food":1
+  },
+  "en:dry-cat-food":{
+   "ru:корм-сухой-полнорационный-для-взрослых-кошек":1
+  },
+  "en:dry-dog-food":{
+   "en:dog-biscuit":1
+  },
+  "en:dry-pet-food":{
+   "en:dry-cat-food":1,
+   "en:dry-dog-food":1
+  },
+  "en:incorrect-product-type":{
+   "en:non-pet-food-products":1
+  },
+  "en:non-pet-food-products":{
+   "en:open-beauty-facts":1,
+   "en:open-food-facts":1,
+   "en:open-products-facts":1
+  },
+  "en:wet-cat-food":{
+   "ru:корм-консервированный-полнорационный-для-взрослых-кошек":1
+  },
+  "en:wet-pet-food":{
+   "en:wet-cat-food":1,
+   "en:wet-dog-food":1
+  }
+ },
+ "direct_parents":{
+  "en:adult-cat-food":{
+   "en:cat-food":1
+  },
+  "en:castrated-cat-food":{
+   "en:cat-food":1
+  },
+  "en:cat-biscuits":{
+   "en:cat-food":1
+  },
+  "en:cat-food":{
+   "en:dog-and-cat-food":1
+  },
+  "en:dog-biscuit":{
+   "en:dry-dog-food":1
+  },
+  "en:dog-food":{
+   "en:dog-and-cat-food":1
+  },
+  "en:dry-cat-food":{
+   "en:cat-food":1,
+   "en:dry-pet-food":1
+  },
+  "en:dry-dog-food":{
+   "en:dog-food":1,
+   "en:dry-pet-food":1
+  },
+  "en:non-pet-food-products":{
+   "en:incorrect-product-type":1
+  },
+  "en:open-beauty-facts":{
+   "en:non-pet-food-products":1
+  },
+  "en:open-food-facts":{
+   "en:non-pet-food-products":1
+  },
+  "en:open-products-facts":{
+   "en:non-pet-food-products":1
+  },
+  "en:senior-cat-food":{
+   "en:cat-food":1
+  },
+  "en:wet-cat-food":{
+   "en:cat-food":1,
+   "en:wet-pet-food":1
+  },
+  "en:wet-dog-food":{
+   "en:dog-food":1,
+   "en:wet-pet-food":1
+  },
+  "ru:корм-консервированный-полнорационный-для-взрослых-кошек":{
+   "en:adult-cat-food":1,
+   "en:wet-cat-food":1
+  },
+  "ru:корм-сухой-полнорационный-для-взрослых-кошек":{
+   "en:adult-cat-food":1,
+   "en:dry-cat-food":1
+  }
+ },
+ "just_synonyms":{},
+ "level":{
+  "en:adult-cat-food":1,
+  "en:bird-and-fowl-food":1,
+  "en:bird-food":1,
+  "en:castrated-cat-food":1,
+  "en:cat-biscuits":1,
+  "en:cat-food":2,
+  "en:dog-and-cat-food":4,
+  "en:dog-biscuit":1,
+  "en:dog-food":3,
+  "en:dry-cat-food":1,
+  "en:dry-dog-food":2,
+  "en:dry-pet-food":3,
+  "en:fish-food":1,
+  "en:horse-food":1,
+  "en:incorrect-product-type":2,
+  "en:livestock-feed":1,
+  "en:miscellaneous-pet-food":1,
+  "en:non-pet-food-products":1,
+  "en:open-beauty-facts":1,
+  "en:open-food-facts":1,
+  "en:open-products-facts":1,
+  "en:rabbit-food":1,
+  "en:reptile-food":1,
+  "en:rodent-food":1,
+  "en:senior-cat-food":1,
+  "en:wet-cat-food":1,
+  "en:wet-dog-food":1,
+  "en:wet-pet-food":2,
+  "ru:корм-консервированный-полнорационный-для-взрослых-кошек":1,
+  "ru:корм-сухой-полнорационный-для-взрослых-кошек":1
+ },
+ "properties":{
+  "en:bird-food":{
+   "wikidata:en":"Q471236"
+  },
+  "en:cat-food":{
+   "wikidata:en":"Q1736906"
+  },
+  "en:dog-biscuit":{
+   "wikidata:en":"Q1637445"
+  },
+  "en:dog-food":{
+   "wikidata:en":"Q38420"
+  },
+  "en:senior-cat-food":{
+   "wikidata:en":"Q28455745"
+  }
+ },
+ "root_entries":{
+  "en:bird-and-fowl-food":1,
+  "en:bird-food":1,
+  "en:dog-and-cat-food":1,
+  "en:dry-pet-food":1,
+  "en:fish-food":1,
+  "en:horse-food":1,
+  "en:incorrect-product-type":1,
+  "en:livestock-feed":1,
+  "en:miscellaneous-pet-food":1,
+  "en:rabbit-food":1,
+  "en:reptile-food":1,
+  "en:rodent-food":1,
+  "en:wet-pet-food":1
+ },
+ "stopwords":{},
+ "synonyms":{
+  "ar":{
+   "بسكويت-للكلاب":"بسكويت-للكلاب",
+   "طعام-القطط-البالغة":"طعام-القطط-البالغة",
+   "طعام-القطط-الكبيرة-في-السن":"طعام-القطط-الكبيرة-في-السن",
+   "طعام-سمك":"طعام-سمك",
+   "طعام-قطط":"طعام-قطط",
+   "طعام-للطيور":"طعام-للطيور"
+  },
+  "as":{
+   "চৰাইৰ-খাদ্য":"চৰাইৰ-খাদ্য",
+   "পূৰ্ণবয়স্ক-মেকুৰীৰ-খাদ্য":"পূৰ্ণবয়স্ক-মেকুৰীৰ-খাদ্য",
+   "বয়সস্থ-মেকুৰীৰ-খাদ্য":"বয়সস্থ-মেকুৰীৰ-খাদ্য",
+   "মাছৰ-খাদ্য":"মাছৰ-খাদ্য",
+   "মেকুৰীৰ-খাদ্য":"মেকুৰীৰ-খাদ্য"
+  },
+  "az":{
+   "balıq-yemi":"balıq-yemi",
+   "i̇t-peçenyası":"i̇t-peçenyası",
+   "pişik-yeməyi":"pişik-yeməyi",
+   "quş-yemi":"quş-yemi",
+   "yaşlı-pişik-yeməyi":"yaşlı-pişik-yeməyi",
+   "yetkin-pişik-yeməyi":"yetkin-pişik-yeməyi"
+  },
+  "bg":{
+   "бисквитка-за-кучета":"бисквитка-за-кучета",
+   "неправилен-product-type":"неправилен-product-type",
+   "непродукти-за-храна-за-домашни-любимци":"непродукти-за-храна-за-домашни-любимци",
+   "храна-за-възрастни-котки":"храна-за-възрастни-котки",
+   "храна-за-котки":"храна-за-котки",
+   "храна-за-птици":"храна-за-птици",
+   "храна-за-риби":"храна-за-риби"
+  },
+  "bn":{
+   "কুকুরের-বিস্কুট":"কুকুরের-বিস্কুট",
+   "পাখির-খাবার":"পাখির-খাবার",
+   "প্রাপ্তবয়স্ক-বিড়ালের-খাবার":"প্রাপ্তবয়স্ক-বিড়ালের-খাবার",
+   "বয়স্ক-বিড়ালের-খাবার":"বয়স্ক-বিড়ালের-খাবার",
+   "বিড়ালের-খাবার":"বিড়ালের-খাবার",
+   "মাছের-খাবার":"মাছের-খাবার"
+  },
+  "ca":{
+   "galeta-per-a-gossos":"galeta-per-a-gossos",
+   "menjar-per-a-gats":"menjar-per-a-gats",
+   "menjar-per-a-gats-adults":"menjar-per-a-gats-adults",
+   "menjar-per-a-gats-grans":"menjar-per-a-gats-grans",
+   "menjar-per-a-ocells":"menjar-per-a-ocells",
+   "menjar-per-a-peixos":"menjar-per-a-peixos",
+   "productes-no-alimentaris-per-a-mascotes":"productes-no-alimentaris-per-a-mascotes",
+   "tipus-de-producte-incorrecte":"tipus-de-producte-incorrecte"
+  },
+  "cs":{
+   "krmivo-pro-dospělé-kočky":"krmivo-pro-dospělé-kočky",
+   "krmivo-pro-kočky":"krmivo-pro-kočky",
+   "krmivo-pro-ptáky":"krmivo-pro-ptáky",
+   "krmivo-pro-ryby":"krmivo-pro-ryby",
+   "krmivo-pro-starší-kočky":"krmivo-pro-starší-kočky",
+   "psí-sušenka":"psí-sušenka"
+  },
+  "cy":{
+   "bisged-ci":"bisged-ci",
+   "bwyd-adar":"bwyd-adar",
+   "bwyd-cath-hŷn":"bwyd-cath-hŷn",
+   "bwyd-cathod":"bwyd-cathod",
+   "bwyd-cathod-oedolion":"bwyd-cathod-oedolion",
+   "bwyd-pysgod":"bwyd-pysgod"
+  },
+  "da":{
+   "fiskefoder":"fiskefoder",
+   "fuglefoder":"fuglefoder",
+   "hundekiks":"hundekiks",
+   "kattemad":"kattemad",
+   "seniorkattemad":"seniorkattemad",
+   "voksen-kattemad":"voksen-kattemad"
+  },
+  "de":{
+   "falscher-product-type":"falscher-product-type",
+   "feuchtes-hundefutter":"feuchtes-hundefutter",
+   "feuchtes-hundenahrung":"feuchtes-hundefutter",
+   "feuchtes-katzenfutter":"katzennassfutter",
+   "fischfutter":"fischfutter",
+   "futter-für-kastrierte-und-sterilisierte-katzen":"kastriertes-katzenfutter",
+   "futter-für-reptilien":"futter-für-reptilien",
+   "futter-für-sterilisierte-und-kastrierte-katzen":"kastriertes-katzenfutter",
+   "getrockgnete-hundefutter":"hundetrockenfutter",
+   "getrockgnete-hundenahrung":"hundetrockenfutter",
+   "getrocknete-katzenfutter":"katzentrockenfutter",
+   "hunde-und-katzenfutter":"hunde-und-katzenfutter",
+   "hundefutter":"hundefutter",
+   "hundekeks":"hundekeks",
+   "hundenahrung":"hundefutter",
+   "hundenassfutter":"feuchtes-hundefutter",
+   "hundenassnahrung":"feuchtes-hundefutter",
+   "hundetrockenfutter":"hundetrockenfutter",
+   "hundetrockennahrung":"hundetrockenfutter",
+   "kaninchenfutter":"kaninchenfutter",
+   "kastriertes-katzenfutter":"kastriertes-katzenfutter",
+   "katzenfutter":"katzenfutter",
+   "katzenfutter-für-erwachsene":"katzenfutter-für-erwachsene",
+   "katzenfutter-für-senioren":"katzenfutter-für-senioren",
+   "katzennassfutter":"katzennassfutter",
+   "katzennassnahrung":"katzennassfutter",
+   "katzensnacks":"katzensnacks",
+   "katzentrockenfutter":"katzentrockenfutter",
+   "katzentrockennahrung":"katzentrockenfutter",
+   "nagetierfutter":"nagetierfutter",
+   "nasses-futter":"nassfutter",
+   "nasses-hundefutter":"feuchtes-hundefutter",
+   "nasses-hundenahrung":"feuchtes-hundefutter",
+   "nasses-katzenfutter":"katzennassfutter",
+   "nassfutter":"nassfutter",
+   "non-pet-food-produkte":"non-pet-food-produkte",
+   "pferdefutter":"pferdefutter",
+   "senior-katzenfutter":"katzenfutter-für-senioren",
+   "senioren-katzenfutter":"katzenfutter-für-senioren",
+   "snacks-für-katzen":"katzensnacks",
+   "sonstiges-tierfutter":"sonstiges-tierfutter",
+   "terrarientierfutter":"futter-für-reptilien",
+   "trockenes-futter":"trockenfutter",
+   "trockenes-futter-für-katzen":"katzentrockenfutter",
+   "trockenes-hundefutter":"hundetrockenfutter",
+   "trockenes-hundenahrung":"hundetrockenfutter",
+   "trockenes-katzenfutter":"katzentrockenfutter",
+   "trockenfutter":"trockenfutter",
+   "trockenfutter-für-katzen":"katzentrockenfutter",
+   "vogelfutter":"vogelfutter"
+  },
+  "el":{
+   "μπισκότο-σκύλου":"μπισκότο-σκύλου",
+   "τροφή-για-γάτες":"τροφή-για-γάτες",
+   "τροφή-για-ενήλικες-γάτες":"τροφή-για-ενήλικες-γάτες",
+   "τροφή-για-ηλικιωμένες-γάτες":"τροφή-για-ηλικιωμένες-γάτες",
+   "τροφή-για-πουλιά":"τροφή-για-πουλιά",
+   "τροφή-για-ψάρια":"τροφή-για-ψάρια"
+  },
+  "en":{
+   "adult-cat-food":"adult-cat-food",
+   "adult-cat-product":"adult-cat-food",
+   "adult-cat-products":"adult-cat-food",
+   "bird-and-fowl-food":"bird-and-fowl-food",
+   "bird-food":"bird-food",
+   "canned-cat-food":"wet-cat-food",
+   "canned-cat-product":"wet-cat-food",
+   "canned-cat-products":"wet-cat-food",
+   "canned-dog-food":"wet-dog-food",
+   "castrated-cat-food":"castrated-cat-food",
+   "castrated-cat-product":"castrated-cat-food",
+   "castrated-cat-products":"castrated-cat-food",
+   "cat-biscuit":"cat-biscuits",
+   "cat-biscuits":"cat-biscuits",
+   "cat-food":"cat-food",
+   "cat-product":"cat-food",
+   "cat-products":"cat-food",
+   "cat-treat":"cat-biscuits",
+   "cat-treats":"cat-biscuits",
+   "cosmetic":"open-beauty-facts",
+   "cosmetics":"open-beauty-facts",
+   "dog-and-cat-food":"dog-and-cat-food",
+   "dog-and-cat-product":"dog-and-cat-food",
+   "dog-and-cat-products":"dog-and-cat-food",
+   "dog-biscuit":"dog-biscuit",
+   "dog-food":"dog-food",
+   "dry-cat-food":"dry-cat-food",
+   "dry-cat-product":"dry-cat-food",
+   "dry-cat-products":"dry-cat-food",
+   "dry-complete-food-for-adult-cat":"dry-complete-food-for-adult-cats",
+   "dry-complete-food-for-adult-cats":"dry-complete-food-for-adult-cats",
+   "dry-dog-food":"dry-dog-food",
+   "dry-food":"dry-pet-food",
+   "dry-pet-food":"dry-pet-food",
+   "fish-food":"fish-food",
+   "horse-food":"horse-food",
+   "hygiene":"open-beauty-facts",
+   "incorrect-product-type":"incorrect-product-type",
+   "livestock-feed":"livestock-feed",
+   "miscellaneou-animal-food":"miscellaneous-pet-food",
+   "miscellaneou-pet-food":"miscellaneous-pet-food",
+   "miscellaneous-animal-food":"miscellaneous-pet-food",
+   "miscellaneous-pet-food":"miscellaneous-pet-food",
+   "non-pet-food-product":"non-pet-food-products",
+   "non-pet-food-products":"non-pet-food-products",
+   "obf":"open-beauty-facts",
+   "off":"open-food-facts",
+   "open-beauty-fact":"open-beauty-facts",
+   "open-beauty-facts":"open-beauty-facts",
+   "open-food-fact":"open-food-facts",
+   "open-food-facts":"open-food-facts",
+   "open-product-fact":"open-products-facts",
+   "open-products-facts":"open-products-facts",
+   "opf":"open-products-facts",
+   "rabbit-food":"rabbit-food",
+   "reptile-food":"reptile-food",
+   "rodent-food":"rodent-food",
+   "senior-cat-food":"senior-cat-food",
+   "senior-cat-product":"senior-cat-food",
+   "senior-cat-products":"senior-cat-food",
+   "wet-cat-food":"wet-cat-food",
+   "wet-cat-product":"wet-cat-food",
+   "wet-cat-products":"wet-cat-food",
+   "wet-dog-food":"wet-dog-food",
+   "wet-food":"wet-pet-food",
+   "wet-pet-food":"wet-pet-food"
+  },
+  "es":{
+   "comida-para-gato":"comida-para-gatos",
+   "comida-para-gato-adulto":"comida-para-gatos-adultos",
+   "comida-para-gato-castrado":"comida-para-gatos-castrados",
+   "comida-para-gato-mayore":"comida-para-gatos-mayores",
+   "comida-para-gatos":"comida-para-gatos",
+   "comida-para-gatos-adultos":"comida-para-gatos-adultos",
+   "comida-para-gatos-castrados":"comida-para-gatos-castrados",
+   "comida-para-gatos-mayores":"comida-para-gatos-mayores",
+   "comida-para-pajaro":"comida-para-pajaros",
+   "comida-para-pajaros":"comida-para-pajaros",
+   "comida-para-pece":"comida-para-peces",
+   "comida-para-peces":"comida-para-peces",
+   "galleta-para-perro":"galleta-para-perros",
+   "galleta-para-perros":"galleta-para-perros",
+   "producto-no-alimenticio-para-mascota":"productos-no-alimenticios-para-mascotas",
+   "productos-no-alimenticios-para-mascotas":"productos-no-alimenticios-para-mascotas",
+   "tipo-de-producto-incorrecto":"tipo-de-producto-incorrecto"
+  },
+  "et":{
+   "eakate-kassitoit":"eakate-kassitoit",
+   "kalatoit":"kalatoit",
+   "kassitoit":"kassitoit",
+   "koeraküpsis":"koeraküpsis",
+   "linnutoit":"linnutoit",
+   "täiskasvanud-kassitoit":"täiskasvanud-kassitoit"
+  },
+  "eu":{
+   "arrain-janaria":"arrain-janaria",
+   "hegazti-janaria":"hegazti-janaria",
+   "katu-janari-heldua":"katu-janari-heldua",
+   "katu-janari-zaharra":"katu-janari-zaharra",
+   "katu-janaria":"katu-janaria",
+   "txakur-gaileta":"txakur-gaileta"
+  },
+  "fa":{
+   "بیسکویت-سگ":"بیسکویت-سگ",
+   "غذای-ماهی":"غذای-ماهی",
+   "غذای-پرنده":"غذای-پرنده",
+   "غذای-گربه":"غذای-گربه",
+   "غذای-گربه-بالغ":"غذای-گربه-بالغ",
+   "غذای-گربه-مسن":"غذای-گربه-مسن"
+  },
+  "fi":{
+   "aikuisen-kissanruoka":"aikuisen-kissanruoka",
+   "ei-lemmikkiruokatuote":"ei-lemmikkiruokatuote",
+   "kalanruoka":"kalanruoka",
+   "kissanruoka":"kissanruoka",
+   "koirankeksi":"koirankeksi",
+   "linnunruoka":"linnunruoka",
+   "seniorikissanruoka":"seniorikissanruoka",
+   "väärä-product-type":"väärä-product-type"
+  },
+  "fr":{
+   "aliment-pour-chat":"nourriture-pour-chats",
+   "aliment-pour-chat-adulte":"nourriture-pour-chats-adultes",
+   "aliment-pour-chat-age":"nourriture-pour-chat-age",
+   "aliment-pour-chat-castre":"nourriture-pour-chats-castres",
+   "aliments-pour-chat":"nourriture-pour-chats",
+   "aliments-pour-chat-adultes":"nourriture-pour-chats-adultes",
+   "aliments-pour-chat-ages":"nourriture-pour-chat-age",
+   "aliments-pour-chat-castres":"nourriture-pour-chats-castres",
+   "biscuit-pour-chat":"biscuits-pour-chats",
+   "biscuit-pour-chien":"biscuit-pour-chien",
+   "biscuits-pour-chats":"biscuits-pour-chats",
+   "boite-pour-chat":"patees-pour-chat",
+   "boite-pour-chien":"patees-pour-chien",
+   "boites-pour-chat":"patees-pour-chat",
+   "boites-pour-chien":"patees-pour-chien",
+   "croquette-pour-animau":"nourriture-seche-pour-animaux",
+   "croquette-pour-chat":"croquettes-pour-chat",
+   "croquette-pour-chien":"croquettes-pour-chien",
+   "croquettes-pour-animaux":"nourriture-seche-pour-animaux",
+   "croquettes-pour-chat":"croquettes-pour-chat",
+   "croquettes-pour-chien":"croquettes-pour-chien",
+   "friandise-pour-chat":"biscuits-pour-chats",
+   "friandises-pour-chats":"biscuits-pour-chats",
+   "mauvai-product-type":"mauvais-product-type",
+   "mauvais-product-type":"mauvais-product-type",
+   "non-alimentaire-pour-animau":"non-alimentaire-pour-animaux",
+   "non-alimentaire-pour-animaux":"non-alimentaire-pour-animaux",
+   "nourriture-humide-pour-animau":"nourriture-humide-pour-animaux",
+   "nourriture-humide-pour-animaux":"nourriture-humide-pour-animaux",
+   "nourriture-humide-pour-chat":"patees-pour-chat",
+   "nourriture-humide-pour-chien":"patees-pour-chien",
+   "nourriture-pour-animau-diver":"nourriture-pour-animaux-divers",
+   "nourriture-pour-animau-varie":"nourriture-pour-animaux-divers",
+   "nourriture-pour-animaux-divers":"nourriture-pour-animaux-divers",
+   "nourriture-pour-animaux-varies":"nourriture-pour-animaux-divers",
+   "nourriture-pour-chat":"nourriture-pour-chats",
+   "nourriture-pour-chat-adulte":"nourriture-pour-chats-adultes",
+   "nourriture-pour-chat-age":"nourriture-pour-chat-age",
+   "nourriture-pour-chat-castre":"nourriture-pour-chats-castres",
+   "nourriture-pour-chats":"nourriture-pour-chats",
+   "nourriture-pour-chats-adultes":"nourriture-pour-chats-adultes",
+   "nourriture-pour-chats-ages":"nourriture-pour-chat-age",
+   "nourriture-pour-chats-castres":"nourriture-pour-chats-castres",
+   "nourriture-pour-chevau":"nourriture-pour-chevaux",
+   "nourriture-pour-chevaux":"nourriture-pour-chevaux",
+   "nourriture-pour-chien":"nourriture-pour-chiens",
+   "nourriture-pour-chien-et-chat":"nourriture-pour-chiens-et-chats",
+   "nourriture-pour-chiens":"nourriture-pour-chiens",
+   "nourriture-pour-chiens-et-chats":"nourriture-pour-chiens-et-chats",
+   "nourriture-pour-lapin":"nourriture-pour-lapins",
+   "nourriture-pour-lapins":"nourriture-pour-lapins",
+   "nourriture-pour-oiseau":"nourriture-pour-oiseaux",
+   "nourriture-pour-oiseaux":"nourriture-pour-oiseaux",
+   "nourriture-pour-poisson":"nourriture-pour-poissons",
+   "nourriture-pour-poissons":"nourriture-pour-poissons",
+   "nourriture-pour-reptile":"nourriture-pour-reptiles",
+   "nourriture-pour-reptiles":"nourriture-pour-reptiles",
+   "nourriture-pour-rongeur":"nourriture-pour-rongeurs",
+   "nourriture-pour-rongeurs":"nourriture-pour-rongeurs",
+   "nourriture-seche-complete-pour-chat-adulte":"nourriture-seche-complete-pour-chats-adultes",
+   "nourriture-seche-complete-pour-chats-adultes":"nourriture-seche-complete-pour-chats-adultes",
+   "nourriture-seche-pour-animau":"nourriture-seche-pour-animaux",
+   "nourriture-seche-pour-animaux":"nourriture-seche-pour-animaux",
+   "patee-pour-animau":"nourriture-humide-pour-animaux",
+   "patee-pour-chat":"patees-pour-chat",
+   "patee-pour-chien":"patees-pour-chien",
+   "patees-pour-animaux":"nourriture-humide-pour-animaux",
+   "patees-pour-chat":"patees-pour-chat",
+   "patees-pour-chien":"patees-pour-chien",
+   "produit-pour-chat":"nourriture-pour-chats",
+   "produit-pour-chat-adulte":"nourriture-pour-chats-adultes",
+   "produit-pour-chat-age":"nourriture-pour-chat-age",
+   "produit-pour-chat-castre":"nourriture-pour-chats-castres",
+   "produit-pour-chien":"nourriture-pour-chiens",
+   "produit-pour-chien-et-chat":"nourriture-pour-chiens-et-chats",
+   "produits-pour-chats":"nourriture-pour-chats",
+   "produits-pour-chats-adultes":"nourriture-pour-chats-adultes",
+   "produits-pour-chats-ages":"nourriture-pour-chat-age",
+   "produits-pour-chats-castres":"nourriture-pour-chats-castres",
+   "produits-pour-chiens":"nourriture-pour-chiens",
+   "produits-pour-chiens-et-chats":"nourriture-pour-chiens-et-chats",
+   "sachet-fraicheur-pour-chat":"patees-pour-chat"
+  },
+  "ga":{
+   "bia-cat":"bia-cat",
+   "bia-do-chait-aosach":"bia-do-chait-aosach",
+   "bia-do-chait-shinsearach":"bia-do-chait-shinsearach",
+   "bia-éan":"bia-éan",
+   "bia-éisc":"bia-éisc",
+   "briosca-madra":"briosca-madra"
+  },
+  "gl":{
+   "comida-para-aves":"comida-para-aves",
+   "comida-para-gatos":"comida-para-gatos",
+   "comida-para-gatos-adultos":"comida-para-gatos-adultos",
+   "comida-para-gatos-maiores":"comida-para-gatos-maiores",
+   "comida-para-peixes":"comida-para-peixes",
+   "galleta-para-cans":"galleta-para-cans"
+  },
+  "gu":{
+   "ડોગ-બિસ્કીટ":"ડોગ-બિસ્કીટ",
+   "પક્ષી-ખોરાક":"પક્ષી-ખોરાક",
+   "પુખ્ત-બિલાડી-ખોરાક":"પુખ્ત-બિલાડી-ખોરાક",
+   "બિલાડી-ખોરાક":"બિલાડી-ખોરાક",
+   "માછલી-ખોરાક":"માછલી-ખોરાક",
+   "વરિષ્ઠ-બિલાડી-ખોરાક":"વરિષ્ઠ-બિલાડી-ખોરાક"
+  },
+  "he":{
+   "ביסקוויט-לכלבים":"ביסקוויט-לכלבים",
+   "מזון-לדגים":"מזון-לדגים",
+   "מזון-לחתולים":"מזון-לחתולים",
+   "מזון-לחתולים-בוגרים":"מזון-לחתולים-בוגרים",
+   "מזון-לחתולים-ותיקים":"מזון-לחתולים-ותיקים",
+   "מזון-לציפורים":"מזון-לציפורים"
+  },
+  "hi":{
+   "कुत्ते-का-बिस्कुट":"कुत्ते-का-बिस्कुट",
+   "पक्षी-का-भोजन":"पक्षी-का-भोजन",
+   "बिल्ली-का-भोजन":"बिल्ली-का-भोजन",
+   "मछली-का-भोजन":"मछली-का-भोजन",
+   "वयस्क-बिल्ली-का-भोजन":"वयस्क-बिल्ली-का-भोजन",
+   "वरिष्ठ-बिल्ली-का-भोजन":"वरिष्ठ-बिल्ली-का-भोजन"
+  },
+  "hr":{
+   "hrana-za-glodavce":"hrana-za-glodavce",
+   "hrana-za-gmazove":"hrana-za-gmazove",
+   "hrana-za-kastrirane-mačke":"hrana-za-kastrirane-mačke",
+   "hrana-za-konje":"hrana-za-konje",
+   "hrana-za-kuniće":"hrana-za-kuniće",
+   "hrana-za-mačke":"hrana-za-mačke",
+   "hrana-za-odrasle-mačke":"hrana-za-odrasle-mačke",
+   "hrana-za-ptice":"hrana-za-ptice",
+   "hrana-za-ribe":"hrana-za-ribe",
+   "hrana-za-starije-mačke":"hrana-za-starije-mačke",
+   "mačji-keksi":"mačji-keksi",
+   "mokra-hrana-za-kućne-ljubimce":"mokra-hrana-za-kućne-ljubimce",
+   "mokra-hrana-za-pse":"mokra-hrana-za-pse",
+   "mokra-mačja-hrana":"mokra-mačja-hrana",
+   "neprehrambeni-proizvodi-za-kućne-ljubimce":"neprehrambeni-proizvodi-za-kućne-ljubimce",
+   "pasji-keks":"pasji-keks",
+   "pogrešan-product-type":"pogrešan-product-type",
+   "pseća-hrana":"pseća-hrana",
+   "razna-hrana-za-kućne-ljubimce":"razna-hrana-za-kućne-ljubimce",
+   "suha-hrana-za-kućne-ljubimce":"suha-hrana-za-kućne-ljubimce",
+   "suha-hrana-za-pse":"suha-hrana-za-pse",
+   "suha-mačja-hrana":"suha-mačja-hrana"
+  },
+  "hu":{
+   "felnőtt-macskaeledel":"felnőtt-macskaeledel",
+   "haltáp":"haltáp",
+   "idős-macskaeledel":"idős-macskaeledel",
+   "kozerv-macskaeledel":"macskakonzerv",
+   "kutya-keksz":"kutya-keksz",
+   "kutyaeledel":"kutyaeledel",
+   "macskaeledel":"macskaeledel",
+   "macskakonzerv":"macskakonzerv",
+   "madáreledel":"madáreleség",
+   "madáreleség":"madáreleség",
+   "nedves-macsakaeledel":"macskakonzerv",
+   "száraz-kutyaeledel":"száraz-kutyaeledel",
+   "száraz-macska-eledel":"száraz-macska-eledel"
+  },
+  "hy":{
+   "թռչնի-կեր":"թռչնի-կեր",
+   "կատվի-կեր":"կատվի-կեր",
+   "ձկան-կեր":"ձկան-կեր",
+   "մեծահասակ-կատվի-կեր":"մեծահասակ-կատվի-կեր",
+   "շան-թխվածքաբլիթ":"շան-թխվածքաբլիթ",
+   "տարեց-կատվի-կեր":"տարեց-կատվի-կեր"
+  },
+  "id":{
+   "biskuit-anjing":"biskuit-anjing",
+   "makanan-burung":"makanan-burung",
+   "makanan-ikan":"makanan-ikan",
+   "makanan-kucing":"makanan-kucing",
+   "makanan-kucing-dewasa":"makanan-kucing-dewasa",
+   "makanan-kucing-senior":"makanan-kucing-senior"
+  },
+  "is":{
+   "eldri-kattarmatur":"eldri-kattarmatur",
+   "fiskfóður":"fiskfóður",
+   "fuglafóður":"fuglafóður",
+   "fullorðins-kattarmatur":"fullorðins-kattarmatur",
+   "hundakex":"hundakex",
+   "kattarmatur":"kattarmatur"
+  },
+  "it":{
+   "biscotto-per-cani":"biscotto-per-cani",
+   "cibo-per-gatti":"cibo-per-gatti",
+   "cibo-per-gatti-adulti":"cibo-per-gatti-adulti",
+   "cibo-per-gatti-anziani":"cibo-per-gatti-anziani",
+   "cibo-per-uccelli":"cibo-per-uccelli",
+   "mangime-per-pesci":"mangime-per-pesci",
+   "prodotti-non-alimentari-per-animali-domestici":"prodotti-non-alimentari-per-animali-domestici",
+   "tipo-di-prodotto-errato":"tipo-di-prodotto-errato"
+  },
+  "ja":{
+   "ウェットタイプのキャットフード":"ウェットタイプのキャットフード",
+   "ウェットタイプのドッグフード":"ウェットタイプのドッグフード",
+   "ウェットタイプのペットフード":"ウェットタイプのペットフード",
+   "ドッグビスケット":"ドッグビスケット",
+   "ドッグフード":"ドッグフード",
+   "ドライタイプのキャットフード":"ドライタイプのキャットフード",
+   "ドライタイプのドッグフード":"ドライタイプのドッグフード",
+   "ドライタイプのペットフード":"ドライタイプのペットフード",
+   "成猫用フード":"成猫用フード",
+   "猫の餌":"猫の餌",
+   "高齢猫用フード":"高齢猫用フード",
+   "魚の餌":"魚の餌",
+   "鳥の餌":"鳥の餌"
+  },
+  "ka":{
+   "ზრდასრული-კატის-საკვები":"ზრდასრული-კატის-საკვები",
+   "თევზის-საკვები":"თევზის-საკვები",
+   "კატის-საკვები":"კატის-საკვები",
+   "ფრინველის-საკვები":"ფრინველის-საკვები",
+   "ძაღლის-ორცხობილა":"ძაღლის-ორცხობილა",
+   "ხანდაზმული-კატის-საკვები":"ხანდაზმული-კატის-საკვები"
+  },
+  "kk":{
+   "балық-жемі":"балық-жемі",
+   "егдегі-мысық-азығы":"егдегі-мысық-азығы",
+   "ересек-мысық-азығы":"ересек-мысық-азығы",
+   "ит-печеньесі":"ит-печеньесі",
+   "мысық-азығы":"мысық-азығы",
+   "құс-жемі":"құс-жемі"
+  },
+  "km":{
+   "ចំណី-ឆ្មា-ចាស់":"ចំណី-ឆ្មា-ចាស់",
+   "ចំណី-ឆ្មាពេញវ័យ":"ចំណី-ឆ្មាពេញវ័យ",
+   "ចំណីឆ្មា":"ចំណីឆ្មា",
+   "ចំណីត្រី":"ចំណីត្រី",
+   "ចំណីសត្វស្លាប":"ចំណីសត្វស្លាប",
+   "នំឆ្កែ":"នំឆ្កែ"
+  },
+  "kn":{
+   "ನಾಯಿ-ಬಿಸ್ಕತ್ತು":"ನಾಯಿ-ಬಿಸ್ಕತ್ತು",
+   "ಪಕ್ಷಿ-ಆಹಾರ":"ಪಕ್ಷಿ-ಆಹಾರ",
+   "ಬೆಕ್ಕು-ಆಹಾರ":"ಬೆಕ್ಕು-ಆಹಾರ",
+   "ಮೀನು-ಆಹಾರ":"ಮೀನು-ಆಹಾರ",
+   "ವಯಸ್ಕ-ಬೆಕ್ಕು-ಆಹಾರ":"ವಯಸ್ಕ-ಬೆಕ್ಕು-ಆಹಾರ",
+   "ಹಿರಿಯ-ಬೆಕ್ಕು-ಆಹಾರ":"ಹಿರಿಯ-ಬೆಕ್ಕು-ಆಹಾರ"
+  },
+  "ko":{
+   "개-비스킷":"개-비스킷",
+   "고양이-사료":"고양이-사료",
+   "노령묘-사료":"노령묘-사료",
+   "물고기-사료":"물고기-사료",
+   "새-모이":"새-모이",
+   "성묘-사료":"성묘-사료"
+  },
+  "ku":{
+   "biskuwîta-kûçikan":"biskuwîta-kûçikan",
+   "xwarina-masî":"xwarina-masî",
+   "xwarina-pisîkê":"xwarina-pisîkê",
+   "xwarina-pisîkên-mezin":"xwarina-pisîkên-mezin",
+   "xwarina-pisîkên-pîr":"xwarina-pisîkên-pîr",
+   "xwarina-çûkan":"xwarina-çûkan"
+  },
+  "ky":{
+   "балык-тоюту":"балык-тоюту",
+   "ит-печеньеси":"ит-печеньеси",
+   "кары-мышыктын-тамагы":"кары-мышыктын-тамагы",
+   "куш-тоюту":"куш-тоюту",
+   "мышыктын-тамагы":"мышыктын-тамагы",
+   "чоң-мышыктын-тамагы":"чоң-мышыктын-тамагы"
+  },
+  "lo":{
+   "ອາຫານນົກ":"ອາຫານນົກ",
+   "ອາຫານປາ":"ອາຫານປາ",
+   "ອາຫານແມວ":"ອາຫານແມວ",
+   "ອາຫານແມວແກ່":"ອາຫານແມວແກ່",
+   "ອາຫານແມວໃຫຍ່":"ອາຫານແມວໃຫຍ່",
+   "ເຂົ້າ-ໜົມ-ໝາ":"ເຂົ້າ-ໜົມ-ໝາ"
+  },
+  "lt":{
+   "kačių-maistas":"kačių-maistas",
+   "maistas-vyresnėms-katėms":"maistas-vyresnėms-katėms",
+   "paukščių-maistas":"paukščių-maistas",
+   "suaugusių-kačių-maistas":"suaugusių-kačių-maistas",
+   "šunų-sausainiai":"šunų-sausainiai",
+   "žuvų-maistas":"žuvų-maistas"
+  },
+  "lv":{
+   "barība-pieaugušiem-kaķiem":"barība-pieaugušiem-kaķiem",
+   "barība-vecākiem-kaķiem":"barība-vecākiem-kaķiem",
+   "kaķu-barība":"kaķu-barība",
+   "putnu-barība":"putnu-barība",
+   "suņu-cepums":"suņu-cepums",
+   "zivju-barība":"zivju-barība"
+  },
+  "mk":{
+   "бисквит-за-кучиња":"бисквит-за-кучиња",
+   "храна-за-возрасни-мачки":"храна-за-возрасни-мачки",
+   "храна-за-мачки":"храна-за-мачки",
+   "храна-за-птици":"храна-за-птици",
+   "храна-за-риби":"храна-за-риби",
+   "храна-за-стари-мачки":"храна-за-стари-мачки"
+  },
+  "ml":{
+   "നായ-ബിസ്ക്കറ്റ്":"നായ-ബിസ്ക്കറ്റ്",
+   "പക്ഷി-ഭക്ഷണം":"പക്ഷി-ഭക്ഷണം",
+   "പൂച്ച-ഭക്ഷണം":"പൂച്ച-ഭക്ഷണം",
+   "മത്സ്യം-ഭക്ഷണം":"മത്സ്യം-ഭക്ഷണം",
+   "മുതിർന്ന-പൂച്ച-ഭക്ഷണം":"മുതിർന്ന-പൂച്ച-ഭക്ഷണം"
+  },
+  "mn":{
+   "ахмад-настай-муурны-хоол":"ахмад-настай-муурны-хоол",
+   "загасны-хоол":"загасны-хоол",
+   "муурны-хоол":"муурны-хоол",
+   "насанд-хүрсэн-муурны-хоол":"насанд-хүрсэн-муурны-хоол",
+   "нохойн-жигнэмэг":"нохойн-жигнэмэг",
+   "шувууны-хоол":"шувууны-хоол"
+  },
+  "mr":{
+   "कुत्रा-बिस्किट":"कुत्रा-बिस्किट",
+   "ज्येष्ठ-मांजराचे-अन्न":"ज्येष्ठ-मांजराचे-अन्न",
+   "पक्षी-अन्न":"पक्षी-अन्न",
+   "प्रौढ-मांजराचे-अन्न":"प्रौढ-मांजराचे-अन्न",
+   "मांजर-अन्न":"मांजर-अन्न",
+   "मासे-अन्न":"मासे-अन्न"
+  },
+  "ms":{
+   "biskut-anjing":"biskut-anjing",
+   "makanan-burung":"makanan-burung",
+   "makanan-ikan":"makanan-ikan",
+   "makanan-kucing":"makanan-kucing",
+   "makanan-kucing-dewasa":"makanan-kucing-dewasa",
+   "makanan-kucing-tua":"makanan-kucing-tua"
+  },
+  "mt":{
+   "biskutt-tal-klieb":"biskutt-tal-klieb",
+   "ikel-għall-għasafar":"ikel-għall-għasafar",
+   "ikel-għall-qtates":"ikel-għall-qtates",
+   "ikel-għall-qtates-adulti":"ikel-għall-qtates-adulti",
+   "ikel-għall-qtates-anzjani":"ikel-għall-qtates-anzjani",
+   "ikel-għall-ħut":"ikel-għall-ħut"
+  },
+  "my":{
+   "ကြောင်အစာ":"ကြောင်အစာ",
+   "ကြောင်အိုစာ":"ကြောင်အိုစာ",
+   "ခွေးဘီစကွတ်":"ခွေးဘီစကွတ်",
+   "ငါးစာ":"ငါးစာ",
+   "ငှက်စာ":"ငှက်စာ",
+   "အရွယ်ရောက်-ကြောင်စာ":"အရွယ်ရောက်-ကြောင်စာ"
+  },
+  "nl":{
+   "divers-diervoer":"divers-diervoer",
+   "droog-dierenvoedsel":"droog-voedsel",
+   "droog-kattenvoer":"droog-kattenvoer",
+   "droog-kattevoer":"droog-kattenvoer",
+   "droog-voedsel":"droog-voedsel",
+   "honden-en-kattenvoedsel":"honden-en-kattenvoedsel",
+   "hondenbrokken":"hondenbrokken",
+   "hondenkoekjes":"hondenkoekjes",
+   "hondenvoedsel":"hondenvoedsel",
+   "hondenvoer":"hondenvoedsel",
+   "ingeblikt-kattenvoer":"nat-kattenvoet",
+   "ingeblikt-kattevoer":"nat-kattenvoet",
+   "kattebrokken":"kattebrokken",
+   "kattenbrokken":"kattebrokken",
+   "kattenvoer":"kattenvoer",
+   "kattevoer":"kattenvoer",
+   "nat-hondenvoedsel":"nat-hondenvoer",
+   "nat-hondenvoer":"nat-hondenvoer",
+   "nat-kattenvoet":"nat-kattenvoet",
+   "nat-voedsel":"nat-voedsel",
+   "natvoer-voor-volwassen-katten":"natvoer-voor-volwassen-katten",
+   "non-pet-food":"non-pet-food",
+   "rattenvoer":"rattenvoer",
+   "reptielenvoer":"reptielenvoer",
+   "verkeerd-product-type":"verkeerd-product-type",
+   "vissenvoer":"visvoeding",
+   "visvoeding":"visvoeding",
+   "voer-voor-gecastreerde-katten":"voer-voor-gecastreerde-katten",
+   "voer-voor-konijnen":"voer-voor-konijnen",
+   "voer-voor-oudere-katten":"voer-voor-oudere-katten",
+   "voer-voor-paarden":"voer-voor-paarden",
+   "voer-voor-reptielen":"reptielenvoer",
+   "vogelvoedsel":"vogelvoer",
+   "vogelvoer":"vogelvoer",
+   "volwassen-kattenvoer":"volwassen-kattenvoer",
+   "volwassen-kattevoer":"volwassen-kattenvoer"
+  },
+  "no":{
+   "fiskefôr":"fiskefôr",
+   "fuglemat":"fuglemat",
+   "hundekjeks":"hundekjeks",
+   "kattemat":"kattemat",
+   "seniorkattemat":"seniorkattemat",
+   "voksen-kattemat":"voksen-kattemat"
+  },
+  "or":{
+   "କୁକୁର-ବିସ୍କୁଟ୍":"କୁକୁର-ବିସ୍କୁଟ୍",
+   "ପକ୍ଷୀ-ଖାଦ୍ୟ":"ପକ୍ଷୀ-ଖାଦ୍ୟ",
+   "ବରିଷ୍ଠ-ବିଲେଇ-ଖାଦ୍ୟ":"ବରିଷ୍ଠ-ବିଲେଇ-ଖାଦ୍ୟ",
+   "ବିଲେଇ-ଖାଦ୍ୟ":"ବିଲେଇ-ଖାଦ୍ୟ",
+   "ବୟସ୍କ-ବିଲେଇ-ଖାଦ୍ୟ":"ବୟସ୍କ-ବିଲେଇ-ଖାଦ୍ୟ",
+   "ମାଛ-ଖାଦ୍ୟ":"ମାଛ-ଖାଦ୍ୟ"
+  },
+  "pa":{
+   "ਕੁੱਤਾ-ਬਿਸਕੁਟ":"ਕੁੱਤਾ-ਬਿਸਕੁਟ",
+   "ਪੰਛੀ-ਭੋਜਨ":"ਪੰਛੀ-ਭੋਜਨ",
+   "ਬਾਲਗ-ਬਿੱਲੀ-ਭੋਜਨ":"ਬਾਲਗ-ਬਿੱਲੀ-ਭੋਜਨ",
+   "ਬਿੱਲੀ-ਭੋਜਨ":"ਬਿੱਲੀ-ਭੋਜਨ",
+   "ਮੱਛੀ-ਭੋਜਨ":"ਮੱਛੀ-ਭੋਜਨ",
+   "ਸੀਨੀਅਰ-ਬਿੱਲੀ-ਭੋਜਨ":"ਸੀਨੀਅਰ-ਬਿੱਲੀ-ਭੋਜਨ"
+  },
+  "pl":{
+   "karma-dla-dorosłych-kotów":"karma-dla-dorosłych-kotów",
+   "karma-dla-kotów":"karma-dla-kotów",
+   "karma-dla-kotów-seniorów":"karma-dla-kotów-seniorów",
+   "karma-dla-ptaków":"karma-dla-ptaków",
+   "karma-dla-ryb":"karma-dla-ryb",
+   "psi-herbatnik":"psi-herbatnik"
+  },
+  "ps":{
+   "د-زړو-پیشو-خواړه":"د-زړو-پیشو-خواړه",
+   "د-سپي-بسکټ":"د-سپي-بسکټ",
+   "د-لوی-پیشو-خواړه":"د-لوی-پیشو-خواړه",
+   "د-مرغانو-خواړه":"د-مرغانو-خواړه",
+   "د-پیشو-خواړه":"د-پیشو-خواړه",
+   "د-کبانو-خواړه":"د-کبانو-خواړه"
+  },
+  "pt":{
+   "biscoito-para-caes":"biscoito-para-caes",
+   "comida-de-cao-humida":"comida-de-cao-humida",
+   "comida-para-gatos":"comida-para-gatos",
+   "comida-para-gatos-adultos":"comida-para-gatos-adultos",
+   "comida-para-gatos-idosos":"comida-para-gatos-idosos",
+   "comida-para-passaros":"comida-para-passaros",
+   "comida-para-peixes":"comida-para-peixes",
+   "produtos-nao-alimentares-para-animais-de-estimacao":"produtos-nao-alimentares-para-animais-de-estimacao",
+   "tipo-de-produto-incorreto":"tipo-de-produto-incorreto"
+  },
+  "ro":{
+   "biscuiți-pentru-câini":"biscuiți-pentru-câini",
+   "hrană-pentru-pești":"hrană-pentru-pești",
+   "hrană-pentru-pisici":"hrană-pentru-pisici",
+   "hrană-pentru-pisici-adulte":"hrană-pentru-pisici-adulte",
+   "hrană-pentru-pisici-seniori":"hrană-pentru-pisici-seniori",
+   "hrană-pentru-păsări":"hrană-pentru-păsări"
+  },
+  "ru":{
+   "влажный-корм-для-собаки":"влажный-корм-для-собаки",
+   "консервированные-корм-для-кошек":"консервированный-корм-для-кошек",
+   "консервированные-корма-для-кошек":"консервированный-корм-для-кошек",
+   "консервированные-кошачий-корм":"консервированный-корм-для-кошек",
+   "консервированные-кошачьи-корма":"консервированный-корм-для-кошек",
+   "консервированный-корм-для-кошек":"консервированный-корм-для-кошек",
+   "консервированный-корма-для-кошек":"консервированный-корм-для-кошек",
+   "консервированный-кошачий-корм":"консервированный-корм-для-кошек",
+   "консервированный-кошачьи-корма":"консервированный-корм-для-кошек",
+   "консервы-для-кошек":"консервированный-корм-для-кошек",
+   "корм-для-взрослых-кошек":"корм-для-взрослых-кошек",
+   "корм-для-грызунов":"корм-для-грызунов",
+   "корм-для-кастрированных-кошек":"корм-для-кастрированных-кошек",
+   "корм-для-кошек":"кошачий-корм",
+   "корм-для-пожилых-кошек":"корм-для-пожилых-кошек",
+   "корм-для-пресмыкающихся":"корм-для-пресмыкающихся",
+   "корм-для-птиц":"корм-для-птиц",
+   "корм-для-рептилий":"корм-для-пресмыкающихся",
+   "корм-для-рыб":"корм-для-рыб",
+   "корм-для-собак":"собачий-корм",
+   "корм-для-собак-и-кошек":"корм-для-собак-и-кошек",
+   "корм-консервированный-полнорационный-для-взрослых-кошек":"корм-консервированный-полнорационный-для-взрослых-кошек",
+   "корм-сухой-полнорационный-для-взрослых-кошек":"корм-сухой-полнорационный-для-взрослых-кошек",
+   "корма-для-кошек":"кошачий-корм",
+   "корма-для-птиц":"корм-для-птиц",
+   "корма-для-собак":"собачий-корм",
+   "корма-для-собак-и-кошек":"корм-для-собак-и-кошек",
+   "кошачий-корм":"кошачий-корм",
+   "кошачьи-консервы":"консервированный-корм-для-кошек",
+   "кошачьи-корма":"кошачий-корм",
+   "не-еда-для-животных":"непродукты-для-кормления-домашних-животных",
+   "неправильный-product-type":"неправильный-product-type",
+   "непродукты-для-кормления-домашних-животных":"непродукты-для-кормления-домашних-животных",
+   "печенье-для-собаки":"печенье-для-собаки",
+   "прочий-корм-для-животных":"прочий-корм-для-животных",
+   "рыбий-корм":"корм-для-рыб",
+   "собачий-корм":"собачий-корм",
+   "собачий-корм-и-кошек":"корм-для-собак-и-кошек",
+   "собачьи-корма":"собачий-корм",
+   "собачьи-корма-и-кошек":"корм-для-собак-и-кошек",
+   "сухие-корм-для-кошек":"сухой-корм-для-кошек",
+   "сухие-корм-для-собак":"сухой-корм-для-собак",
+   "сухие-корма-для-кошек":"сухой-корм-для-кошек",
+   "сухие-корма-для-собак":"сухой-корм-для-собак",
+   "сухие-кошачий-корм":"сухой-корм-для-кошек",
+   "сухие-кошачьи-корма":"сухой-корм-для-кошек",
+   "сухие-собачий-корм":"сухой-корм-для-собак",
+   "сухие-собачьи-корма":"сухой-корм-для-собак",
+   "сухой-корм":"сухой-корм",
+   "сухой-корм-для-кошек":"сухой-корм-для-кошек",
+   "сухой-корм-для-собак":"сухой-корм-для-собак",
+   "сухой-корма-для-кошек":"сухой-корм-для-кошек",
+   "сухой-корма-для-собак":"сухой-корм-для-собак",
+   "сухой-кошачий-корм":"сухой-корм-для-кошек",
+   "сухой-кошачьи-корма":"сухой-корм-для-кошек",
+   "сухой-собачий-корм":"сухой-корм-для-собак",
+   "сухой-собачьи-корма":"сухой-корм-для-собак"
+  },
+  "sd":{
+   "بالغ-ٻلي-کاڌو":"بالغ-ٻلي-کاڌو",
+   "مڇي-کاڌو":"مڇي-کاڌو",
+   "ٻلي-کاڌو":"ٻلي-کاڌو",
+   "پراڻي-ٻلي-کاڌو":"پراڻي-ٻلي-کاڌو",
+   "پکين-جو-کاڌو":"پکين-جو-کاڌو",
+   "ڪتي-بسڪوٽ":"ڪتي-بسڪوٽ"
+  },
+  "si":{
+   "කුරුළු-ආහාර":"කුරුළු-ආහාර",
+   "ජ්යෙෂ්ඨ-බළල්-ආහාර":"ජ්යෙෂ්ඨ-බළල්-ආහාර",
+   "බළල්-ආහාර":"බළල්-ආහාර",
+   "මාලු-ආහාර":"මාලු-ආහාර",
+   "වැඩිහිටි-බළල්-ආහාර":"වැඩිහිටි-බළල්-ආහාර",
+   "සුනඛ-බිස්කට්":"සුනඛ-බිස්කට්"
+  },
+  "sk":{
+   "krmivo-pre-dospele-mačky":"krmivo-pre-dospele-mačky",
+   "krmivo-pre-mačky":"krmivo-pre-mačky",
+   "krmivo-pre-ryby":"krmivo-pre-ryby",
+   "krmivo-pre-staršie-mačky":"krmivo-pre-staršie-mačky",
+   "krmivo-pre-vtaky":"krmivo-pre-vtaky",
+   "psia-sušienka":"psia-sušienka"
+  },
+  "sl":{
+   "hrana-za-mačke":"hrana-za-mačke",
+   "hrana-za-odrasle-mačke":"hrana-za-odrasle-mačke",
+   "hrana-za-ptice":"hrana-za-ptice",
+   "hrana-za-ribe":"hrana-za-ribe",
+   "hrana-za-starejše-mačke":"hrana-za-starejše-mačke",
+   "pasji-piškot":"pasji-piškot"
+  },
+  "sq":{
+   "biskota-për-qen":"biskota-për-qen",
+   "ushqim-për-mace":"ushqim-për-mace",
+   "ushqim-për-mace-të-rritura":"ushqim-për-mace-të-rritura",
+   "ushqim-për-mace-të-vjetra":"ushqim-për-mace-të-vjetra",
+   "ushqim-për-peshqit":"ushqim-për-peshqit",
+   "ushqim-për-zogj":"ushqim-për-zogj"
+  },
+  "sr":{
+   "hrana-za-mačke":"hrana-za-mačke",
+   "hrana-za-odrasle-mačke":"hrana-za-odrasle-mačke",
+   "hrana-za-ptice":"hrana-za-ptice",
+   "hrana-za-ribe":"hrana-za-ribe",
+   "hrana-za-starije-mačke":"hrana-za-starije-mačke",
+   "pasji-keks":"pasji-keks"
+  },
+  "sv":{
+   "fiskmat":"fiskmat",
+   "fågelmat":"fågelmat",
+   "hundkex":"hundkex",
+   "kattmat":"kattmat",
+   "vuxen-kattmat":"vuxen-kattmat",
+   "äldre-kattmat":"äldre-kattmat"
+  },
+  "sw":{
+   "biskuti-ya-mbwa":"biskuti-ya-mbwa",
+   "chakula-cha-ndege":"chakula-cha-ndege",
+   "chakula-cha-paka":"chakula-cha-paka",
+   "chakula-cha-paka-mzee":"chakula-cha-paka-mzee",
+   "chakula-cha-paka-mzima":"chakula-cha-paka-mzima",
+   "chakula-cha-samaki":"chakula-cha-samaki"
+  },
+  "ta":{
+   "நாய்-பிஸ்கட்":"நாய்-பிஸ்கட்",
+   "பறவை-உணவு":"பறவை-உணவு",
+   "பூனை-உணவு":"பூனை-உணவு",
+   "மீன்-உணவு":"மீன்-உணவு",
+   "மூத்த-பூனை-உணவு":"மூத்த-பூனை-உணவு",
+   "வயது-வந்த-பூனை-உணவு":"வயது-வந்த-பூனை-உணவு"
+  },
+  "te":{
+   "కుక్క-బిస్కెట్":"కుక్క-బిస్కెట్",
+   "చేపల-ఆహారం":"చేపల-ఆహారం",
+   "పక్షి-ఆహారం":"పక్షి-ఆహారం",
+   "పిల్లి-ఆహారం":"పిల్లి-ఆహారం",
+   "పెద్ద-పిల్లి-ఆహారం":"పెద్ద-పిల్లి-ఆహారం",
+   "సీనియర్-పిల్లి-ఆహారం":"సీనియర్-పిల్లి-ఆహారం"
+  },
+  "tg":{
+   "печенье-барои-сагҳо":"печенье-барои-сагҳо",
+   "хӯроки-гурба":"хӯроки-гурба",
+   "хӯроки-гурбаи-калонсол":"хӯроки-гурбаи-калонсол",
+   "хӯроки-моҳӣ":"хӯроки-моҳӣ",
+   "хӯроки-парранда":"хӯроки-парранда"
+  },
+  "th":{
+   "บิสกิตสุนัข":"บิสกิตสุนัข",
+   "อาหารนก":"อาหารนก",
+   "อาหารปลา":"อาหารปลา",
+   "อาหารแมว":"อาหารแมว",
+   "อาหารแมวสูงวัย":"อาหารแมวสูงวัย",
+   "อาหารแมวโต":"อาหารแมวโต"
+  },
+  "tk":{
+   "balyk-iýmiti":"balyk-iýmiti",
+   "gartaşan-pişik-iýmiti":"gartaşan-pişik-iýmiti",
+   "guş-iýmiti":"guş-iýmiti",
+   "it-pişgesi":"it-pişgesi",
+   "pişik-iýmiti":"pişik-iýmiti",
+   "ululy-pişik-iýmiti":"ululy-pişik-iýmiti"
+  },
+  "tl":{
+   "biskwit-ng-aso":"biskwit-ng-aso",
+   "pagkain-ng-ibon":"pagkain-ng-ibon",
+   "pagkain-ng-isda":"pagkain-ng-isda",
+   "pagkain-ng-pusa":"pagkain-ng-pusa",
+   "pagkain-para-sa-adultong-pusa":"pagkain-para-sa-adultong-pusa",
+   "pagkain-para-sa-matatandang-pusa":"pagkain-para-sa-matatandang-pusa"
+  },
+  "tr":{
+   "balık-yemi":"balık-yemi",
+   "kedi-maması":"kedi-maması",
+   "kuş-yemi":"kuş-yemi",
+   "köpek-bisküvisi":"köpek-bisküvisi",
+   "yaşlı-kedi-maması":"yaşlı-kedi-maması",
+   "yetişkin-kedi-maması":"yetişkin-kedi-maması"
+  },
+  "ug":{
+   "ئىت-печеньеси":"ئىت-печеньеси",
+   "بېلىق-يېمى":"بېلىق-يېمى",
+   "قۇش-يېمى":"قۇش-يېمى",
+   "مۈشۈك-ئېزىقى":"مۈشۈك-ئېزىقى",
+   "ياشانغان-مۈشۈك-ئېزىقى":"ياشانغان-مۈشۈك-ئېزىقى",
+   "چوڭ-مۈشۈك-ئېزىقى":"چوڭ-مۈشۈك-ئېزىقى"
+  },
+  "uk":{
+   "корм-для-дорослих-котів":"корм-для-дорослих-котів",
+   "корм-для-літніх-котів":"корм-для-літніх-котів",
+   "корм-для-птахів":"корм-для-птахів",
+   "корм-для-риб":"корм-для-риб",
+   "котячий-корм":"котячий-корм",
+   "печиво-для-собак":"печиво-для-собак"
+  },
+  "uz":{
+   "baliq-ovqati":"baliq-ovqati",
+   "it-pechenesi":"it-pechenesi",
+   "katta-mushuk-ovqati":"katta-mushuk-ovqati",
+   "keksa-mushuk-ovqati":"keksa-mushuk-ovqati",
+   "mushuk-ovqati":"mushuk-ovqati",
+   "qush-ovqati":"qush-ovqati"
+  },
+  "vi":{
+   "bánh-quy-cho-chó":"bánh-quy-cho-chó",
+   "thức-ăn-cho-chim":"thức-ăn-cho-chim",
+   "thức-ăn-cho-cá":"thức-ăn-cho-cá",
+   "thức-ăn-cho-mèo":"thức-ăn-cho-mèo",
+   "thức-ăn-cho-mèo-già":"thức-ăn-cho-mèo-già",
+   "thức-ăn-cho-mèo-trưởng-thành":"thức-ăn-cho-mèo-trưởng-thành"
+  },
+  "xx":{
+   "obf":"open-beauty-facts",
+   "off":"open-food-facts",
+   "open-beauty-facts":"open-beauty-facts",
+   "open-food-facts":"open-food-facts",
+   "open-products-facts":"open-products-facts",
+   "opf":"open-products-facts"
+  },
+  "zh":{
+   "成年猫粮":"成年猫粮",
+   "狗饼干":"狗饼干",
+   "猫粮":"猫粮",
+   "老年猫粮":"老年猫粮",
+   "鱼食":"鱼食",
+   "鸟食":"鸟食"
+  }
+ },
+ "synonyms_for":{
+  "ar":{
+   "بسكويت-للكلاب":[
+    "بسكويت للكلاب"
+   ],
+   "طعام-القطط-البالغة":[
+    "طعام القطط البالغة"
+   ],
+   "طعام-القطط-الكبيرة-في-السن":[
+    "طعام القطط الكبيرة في السن"
+   ],
+   "طعام-سمك":[
+    "طعام سمك"
+   ],
+   "طعام-قطط":[
+    "طعام قطط"
+   ],
+   "طعام-للطيور":[
+    "طعام للطيور"
+   ]
+  },
+  "as":{
+   "চৰাইৰ-খাদ্য":[
+    "চৰাইৰ খাদ্য"
+   ],
+   "পূৰ্ণবয়স্ক-মেকুৰীৰ-খাদ্য":[
+    "পূৰ্ণবয়স্ক মেকুৰীৰ খাদ্য"
+   ],
+   "বয়সস্থ-মেকুৰীৰ-খাদ্য":[
+    "বয়সস্থ মেকুৰীৰ খাদ্য"
+   ],
+   "মাছৰ-খাদ্য":[
+    "মাছৰ খাদ্য"
+   ],
+   "মেকুৰীৰ-খাদ্য":[
+    "মেকুৰীৰ খাদ্য"
+   ]
+  },
+  "az":{
+   "balıq-yemi":[
+    "Balıq yemi"
+   ],
+   "i̇t-peçenyası":[
+    "İt peçenyası"
+   ],
+   "pişik-yeməyi":[
+    "Pişik yeməyi"
+   ],
+   "quş-yemi":[
+    "Quş yemi"
+   ],
+   "yaşlı-pişik-yeməyi":[
+    "Yaşlı pişik yeməyi"
+   ],
+   "yetkin-pişik-yeməyi":[
+    "Yetkin pişik yeməyi"
+   ]
+  },
+  "bg":{
+   "бисквитка-за-кучета":[
+    "Бисквитка за кучета"
+   ],
+   "неправилен-product-type":[
+    "Неправилен product type"
+   ],
+   "непродукти-за-храна-за-домашни-любимци":[
+    "Непродукти за храна за домашни любимци"
+   ],
+   "храна-за-възрастни-котки":[
+    "Храна за възрастни котки"
+   ],
+   "храна-за-котки":[
+    "Храна за котки"
+   ],
+   "храна-за-птици":[
+    "Храна за птици"
+   ],
+   "храна-за-риби":[
+    "Храна за риби"
+   ]
+  },
+  "bn":{
+   "কুকুরের-বিস্কুট":[
+    "কুকুরের বিস্কুট"
+   ],
+   "পাখির-খাবার":[
+    "পাখির খাবার"
+   ],
+   "প্রাপ্তবয়স্ক-বিড়ালের-খাবার":[
+    "প্রাপ্তবয়স্ক বিড়ালের খাবার"
+   ],
+   "বয়স্ক-বিড়ালের-খাবার":[
+    "বয়স্ক বিড়ালের খাবার"
+   ],
+   "বিড়ালের-খাবার":[
+    "বিড়ালের খাবার"
+   ],
+   "মাছের-খাবার":[
+    "মাছের খাবার"
+   ]
+  },
+  "ca":{
+   "galeta-per-a-gossos":[
+    "Galeta per a gossos"
+   ],
+   "menjar-per-a-gats":[
+    "Menjar per a gats"
+   ],
+   "menjar-per-a-gats-adults":[
+    "Menjar per a gats adults"
+   ],
+   "menjar-per-a-gats-grans":[
+    "Menjar per a gats grans"
+   ],
+   "menjar-per-a-ocells":[
+    "Menjar per a ocells"
+   ],
+   "menjar-per-a-peixos":[
+    "Menjar per a peixos"
+   ],
+   "productes-no-alimentaris-per-a-mascotes":[
+    "Productes no alimentaris per a mascotes"
+   ],
+   "tipus-de-producte-incorrecte":[
+    "Tipus de producte incorrecte"
+   ]
+  },
+  "cs":{
+   "krmivo-pro-dospělé-kočky":[
+    "Krmivo pro dospělé kočky"
+   ],
+   "krmivo-pro-kočky":[
+    "Krmivo pro kočky"
+   ],
+   "krmivo-pro-ptáky":[
+    "Krmivo pro ptáky"
+   ],
+   "krmivo-pro-ryby":[
+    "Krmivo pro ryby"
+   ],
+   "krmivo-pro-starší-kočky":[
+    "Krmivo pro starší kočky"
+   ],
+   "psí-sušenka":[
+    "Psí sušenka"
+   ]
+  },
+  "cy":{
+   "bisged-ci":[
+    "Bisged ci"
+   ],
+   "bwyd-adar":[
+    "Bwyd adar"
+   ],
+   "bwyd-cath-hŷn":[
+    "Bwyd cath hŷn"
+   ],
+   "bwyd-cathod":[
+    "Bwyd cathod"
+   ],
+   "bwyd-cathod-oedolion":[
+    "Bwyd cathod oedolion"
+   ],
+   "bwyd-pysgod":[
+    "Bwyd pysgod"
+   ]
+  },
+  "da":{
+   "fiskefoder":[
+    "Fiskefoder"
+   ],
+   "fuglefoder":[
+    "Fuglefoder"
+   ],
+   "hundekiks":[
+    "Hundekiks"
+   ],
+   "kattemad":[
+    "Kattemad"
+   ],
+   "seniorkattemad":[
+    "Seniorkattemad"
+   ],
+   "voksen-kattemad":[
+    "Voksen kattemad"
+   ]
+  },
+  "de":{
+   "falscher-product-type":[
+    "Falscher product type"
+   ],
+   "feuchtes-hundefutter":[
+    "feuchtes Hundefutter",
+    "Hundenassfutter",
+    "Hundenassnahrung",
+    "nasses Hundefutter"
+   ],
+   "fischfutter":[
+    "Fischfutter"
+   ],
+   "futter-für-reptilien":[
+    "Futter für Reptilien",
+    "Terrarientierfutter"
+   ],
+   "hunde-und-katzenfutter":[
+    "Hunde- und Katzenfutter"
+   ],
+   "hundefutter":[
+    "Hundefutter",
+    "Hundenahrung"
+   ],
+   "hundekeks":[
+    "Hundekeks"
+   ],
+   "hundetrockenfutter":[
+    "Hundetrockenfutter",
+    "Hundetrockennahrung",
+    "trockenes Hundefutter",
+    "Getrockgnete Hundefutter"
+   ],
+   "kaninchenfutter":[
+    "Kaninchenfutter"
+   ],
+   "kastriertes-katzenfutter":[
+    "Kastriertes Katzenfutter",
+    "Futter für kastrierte und sterilisierte Katzen",
+    "Futter für sterilisierte und kastrierte Katzen"
+   ],
+   "katzenfutter":[
+    "Katzenfutter"
+   ],
+   "katzenfutter-für-erwachsene":[
+    "Katzenfutter für Erwachsene"
+   ],
+   "katzenfutter-für-senioren":[
+    "Katzenfutter für Senioren",
+    "Senioren Katzenfutter",
+    "Katzenfutter für Senioren",
+    "Senior Katzenfutter"
+   ],
+   "katzennassfutter":[
+    "Katzennassfutter",
+    "Katzennassnahrung",
+    "nasses Katzenfutter",
+    "feuchtes Katzenfutter"
+   ],
+   "katzensnacks":[
+    "Katzensnacks",
+    "Snacks für Katzen"
+   ],
+   "katzentrockenfutter":[
+    "Katzentrockenfutter",
+    "Katzentrockennahrung",
+    "trockenes Katzenfutter",
+    "Trockenfutter für Katzen",
+    "getrocknete Katzenfutter"
+   ],
+   "nagetierfutter":[
+    "Nagetierfutter"
+   ],
+   "nassfutter":[
+    "Nassfutter",
+    "nasses Futter"
+   ],
+   "non-pet-food-produkte":[
+    "Non-Pet-Food-Produkte",
+    "Non Pet Food Produkte"
+   ],
+   "pferdefutter":[
+    "Pferdefutter"
+   ],
+   "sonstiges-tierfutter":[
+    "sonstiges Tierfutter"
+   ],
+   "trockenfutter":[
+    "Trockenfutter",
+    "trockenes Futter"
+   ],
+   "vogelfutter":[
+    "Vogelfutter"
+   ]
+  },
+  "el":{
+   "μπισκότο-σκύλου":[
+    "Μπισκότο σκύλου"
+   ],
+   "τροφή-για-γάτες":[
+    "Τροφή για γάτες"
+   ],
+   "τροφή-για-ενήλικες-γάτες":[
+    "Τροφή για ενήλικες γάτες"
+   ],
+   "τροφή-για-ηλικιωμένες-γάτες":[
+    "Τροφή για ηλικιωμένες γάτες"
+   ],
+   "τροφή-για-πουλιά":[
+    "Τροφή για πουλιά"
+   ],
+   "τροφή-για-ψάρια":[
+    "Τροφή για ψάρια"
+   ]
+  },
+  "en":{
+   "adult-cat-food":[
+    "Adult cat food"
+   ],
+   "bird-and-fowl-food":[
+    "bird and fowl food"
+   ],
+   "bird-food":[
+    "bird food"
+   ],
+   "castrated-cat-food":[
+    "castrated cat food"
+   ],
+   "cat-biscuits":[
+    "cat biscuits",
+    "cat treats"
+   ],
+   "cat-food":[
+    "Cat food",
+    "cat products"
+   ],
+   "dog-and-cat-food":[
+    "Dog and cat food"
+   ],
+   "dog-biscuit":[
+    "dog biscuit"
+   ],
+   "dog-food":[
+    "dog food"
+   ],
+   "dry-cat-food":[
+    "dry cat food"
+   ],
+   "dry-complete-food-for-adult-cats":[
+    "Dry complete food for adult cats"
+   ],
+   "dry-dog-food":[
+    "dry dog food"
+   ],
+   "dry-pet-food":[
+    "Dry pet food",
+    "dry food"
+   ],
+   "fish-food":[
+    "fish food"
+   ],
+   "horse-food":[
+    "Horse food"
+   ],
+   "incorrect-product-type":[
+    "Incorrect product type"
+   ],
+   "livestock-feed":[
+    "livestock feed"
+   ],
+   "miscellaneous-pet-food":[
+    "miscellaneous pet food",
+    "miscellaneous animal food"
+   ],
+   "non-pet-food-products":[
+    "Non pet food products"
+   ],
+   "open-beauty-facts":[
+    "Open Beauty Facts",
+    "OBF",
+    "Cosmetics",
+    "Hygiene"
+   ],
+   "open-food-facts":[
+    "Open Food Facts",
+    "OFF"
+   ],
+   "open-products-facts":[
+    "Open Products Facts",
+    "OPF"
+   ],
+   "rabbit-food":[
+    "Rabbit food"
+   ],
+   "reptile-food":[
+    "reptile food"
+   ],
+   "rodent-food":[
+    "rodent food"
+   ],
+   "senior-cat-food":[
+    "senior cat food"
+   ],
+   "wet-cat-food":[
+    "Wet cat food",
+    "canned cat food"
+   ],
+   "wet-dog-food":[
+    "wet dog food",
+    "canned dog food"
+   ],
+   "wet-pet-food":[
+    "Wet pet food",
+    "wet food"
+   ]
+  },
+  "es":{
+   "comida-para-gatos":[
+    "Comida para gatos"
+   ],
+   "comida-para-gatos-adultos":[
+    "Comida para gatos adultos"
+   ],
+   "comida-para-gatos-castrados":[
+    "Comida para gatos castrados"
+   ],
+   "comida-para-gatos-mayores":[
+    "Comida para gatos mayores"
+   ],
+   "comida-para-pajaros":[
+    "Comida para pájaros"
+   ],
+   "comida-para-peces":[
+    "Comida para peces"
+   ],
+   "galleta-para-perros":[
+    "Galleta para perros"
+   ],
+   "productos-no-alimenticios-para-mascotas":[
+    "Productos no alimenticios para mascotas"
+   ],
+   "tipo-de-producto-incorrecto":[
+    "Tipo de producto incorrecto"
+   ]
+  },
+  "et":{
+   "eakate-kassitoit":[
+    "Eakate kassitoit"
+   ],
+   "kalatoit":[
+    "Kalatoit"
+   ],
+   "kassitoit":[
+    "Kassitoit"
+   ],
+   "koeraküpsis":[
+    "Koeraküpsis"
+   ],
+   "linnutoit":[
+    "Linnutoit"
+   ],
+   "täiskasvanud-kassitoit":[
+    "Täiskasvanud kassitoit"
+   ]
+  },
+  "eu":{
+   "arrain-janaria":[
+    "Arrain janaria"
+   ],
+   "hegazti-janaria":[
+    "Hegazti janaria"
+   ],
+   "katu-janari-heldua":[
+    "Katu janari heldua"
+   ],
+   "katu-janari-zaharra":[
+    "Katu janari zaharra"
+   ],
+   "katu-janaria":[
+    "Katu janaria"
+   ],
+   "txakur-gaileta":[
+    "Txakur gaileta"
+   ]
+  },
+  "fa":{
+   "بیسکویت-سگ":[
+    "بیسکویت سگ"
+   ],
+   "غذای-ماهی":[
+    "غذای ماهی"
+   ],
+   "غذای-پرنده":[
+    "غذای پرنده"
+   ],
+   "غذای-گربه":[
+    "غذای گربه"
+   ],
+   "غذای-گربه-بالغ":[
+    "غذای گربه بالغ"
+   ],
+   "غذای-گربه-مسن":[
+    "غذای گربه مسن"
+   ]
+  },
+  "fi":{
+   "aikuisen-kissanruoka":[
+    "Aikuisen kissanruoka"
+   ],
+   "ei-lemmikkiruokatuote":[
+    "ei lemmikkiruokatuote"
+   ],
+   "kalanruoka":[
+    "Kalanruoka"
+   ],
+   "kissanruoka":[
+    "Kissanruoka"
+   ],
+   "koirankeksi":[
+    "Koirankeksi"
+   ],
+   "linnunruoka":[
+    "Linnunruoka"
+   ],
+   "seniorikissanruoka":[
+    "Seniorikissanruoka"
+   ],
+   "väärä-product-type":[
+    "Väärä product type"
+   ]
+  },
+  "fr":{
+   "biscuit-pour-chien":[
+    "Biscuit pour chien"
+   ],
+   "biscuits-pour-chats":[
+    "biscuits pour chats",
+    "friandises pour chats"
+   ],
+   "croquettes-pour-chat":[
+    "croquettes pour chat"
+   ],
+   "croquettes-pour-chien":[
+    "croquettes pour chien"
+   ],
+   "mauvais-product-type":[
+    "Mauvais product type"
+   ],
+   "non-alimentaire-pour-animaux":[
+    "Non alimentaire pour animaux"
+   ],
+   "nourriture-humide-pour-animaux":[
+    "Nourriture humide pour animaux",
+    "Pâtées pour animaux"
+   ],
+   "nourriture-pour-animaux-divers":[
+    "nourriture pour animaux divers",
+    "nourriture pour animaux variés"
+   ],
+   "nourriture-pour-chat-age":[
+    "nourriture pour chat agé",
+    "nourriture pour chats âgés"
+   ],
+   "nourriture-pour-chats":[
+    "Nourriture pour chats",
+    "produits pour chats",
+    "Aliments pour chat"
+   ],
+   "nourriture-pour-chats-adultes":[
+    "Nourriture pour chats adultes"
+   ],
+   "nourriture-pour-chats-castres":[
+    "Nourriture pour chats castrés",
+    "Nourriture pour chat castré"
+   ],
+   "nourriture-pour-chevaux":[
+    "Nourriture pour chevaux"
+   ],
+   "nourriture-pour-chiens":[
+    "nourriture pour chiens",
+    "produits pour chiens"
+   ],
+   "nourriture-pour-chiens-et-chats":[
+    "Nourriture pour chiens et chats"
+   ],
+   "nourriture-pour-lapins":[
+    "Nourriture pour lapins"
+   ],
+   "nourriture-pour-oiseaux":[
+    "nourriture pour oiseaux"
+   ],
+   "nourriture-pour-poissons":[
+    "nourriture pour poissons"
+   ],
+   "nourriture-pour-reptiles":[
+    "nourriture pour reptiles"
+   ],
+   "nourriture-pour-rongeurs":[
+    "nourriture pour rongeurs"
+   ],
+   "nourriture-seche-complete-pour-chats-adultes":[
+    "Nourriture sèche complète pour chats adultes"
+   ],
+   "nourriture-seche-pour-animaux":[
+    "Nourriture sèche pour animaux",
+    "Croquettes pour animaux"
+   ],
+   "patees-pour-chat":[
+    "pâtées pour chat",
+    "nourriture humide pour chat",
+    "boites pour chat",
+    "sachet fraicheur pour chat"
+   ],
+   "patees-pour-chien":[
+    "Pâtées pour chien",
+    "nourriture humide pour chien",
+    "boites pour chien"
+   ]
+  },
+  "ga":{
+   "bia-cat":[
+    "Bia cat"
+   ],
+   "bia-do-chait-aosach":[
+    "Bia do chait aosach"
+   ],
+   "bia-do-chait-shinsearach":[
+    "Bia do chait shinsearach"
+   ],
+   "bia-éan":[
+    "Bia éan"
+   ],
+   "bia-éisc":[
+    "Bia éisc"
+   ],
+   "briosca-madra":[
+    "Briosca madra"
+   ]
+  },
+  "gl":{
+   "comida-para-aves":[
+    "Comida para aves"
+   ],
+   "comida-para-gatos":[
+    "Comida para gatos"
+   ],
+   "comida-para-gatos-adultos":[
+    "Comida para gatos adultos"
+   ],
+   "comida-para-gatos-maiores":[
+    "Comida para gatos maiores"
+   ],
+   "comida-para-peixes":[
+    "Comida para peixes"
+   ],
+   "galleta-para-cans":[
+    "Galleta para cans"
+   ]
+  },
+  "gu":{
+   "ડોગ-બિસ્કીટ":[
+    "ડોગ બિસ્કીટ"
+   ],
+   "પક્ષી-ખોરાક":[
+    "પક્ષી ખોરાક"
+   ],
+   "પુખ્ત-બિલાડી-ખોરાક":[
+    "પુખ્ત બિલાડી ખોરાક"
+   ],
+   "બિલાડી-ખોરાક":[
+    "બિલાડી ખોરાક"
+   ],
+   "માછલી-ખોરાક":[
+    "માછલી ખોરાક"
+   ],
+   "વરિષ્ઠ-બિલાડી-ખોરાક":[
+    "વરિષ્ઠ બિલાડી ખોરાક"
+   ]
+  },
+  "he":{
+   "ביסקוויט-לכלבים":[
+    "ביסקוויט לכלבים"
+   ],
+   "מזון-לדגים":[
+    "מזון לדגים"
+   ],
+   "מזון-לחתולים":[
+    "מזון לחתולים"
+   ],
+   "מזון-לחתולים-בוגרים":[
+    "מזון לחתולים בוגרים"
+   ],
+   "מזון-לחתולים-ותיקים":[
+    "מזון לחתולים ותיקים"
+   ],
+   "מזון-לציפורים":[
+    "מזון לציפורים"
+   ]
+  },
+  "hi":{
+   "कुत्ते-का-बिस्कुट":[
+    "कुत्ते का बिस्कुट"
+   ],
+   "पक्षी-का-भोजन":[
+    "पक्षी का भोजन"
+   ],
+   "बिल्ली-का-भोजन":[
+    "बिल्ली का भोजन"
+   ],
+   "मछली-का-भोजन":[
+    "मछली का भोजन"
+   ],
+   "वयस्क-बिल्ली-का-भोजन":[
+    "वयस्क बिल्ली का भोजन"
+   ],
+   "वरिष्ठ-बिल्ली-का-भोजन":[
+    "वरिष्ठ बिल्ली का भोजन"
+   ]
+  },
+  "hr":{
+   "hrana-za-glodavce":[
+    "Hrana za glodavce"
+   ],
+   "hrana-za-gmazove":[
+    "Hrana za gmazove"
+   ],
+   "hrana-za-kastrirane-mačke":[
+    "Hrana za kastrirane mačke"
+   ],
+   "hrana-za-konje":[
+    "Hrana za konje"
+   ],
+   "hrana-za-kuniće":[
+    "Hrana za kuniće"
+   ],
+   "hrana-za-mačke":[
+    "Hrana za mačke"
+   ],
+   "hrana-za-odrasle-mačke":[
+    "Hrana za odrasle mačke"
+   ],
+   "hrana-za-ptice":[
+    "Hrana za ptice"
+   ],
+   "hrana-za-ribe":[
+    "Hrana za ribe"
+   ],
+   "hrana-za-starije-mačke":[
+    "Hrana za starije mačke"
+   ],
+   "mačji-keksi":[
+    "Mačji keksi"
+   ],
+   "mokra-hrana-za-kućne-ljubimce":[
+    "Mokra hrana za kućne ljubimce"
+   ],
+   "mokra-hrana-za-pse":[
+    "Mokra hrana za pse"
+   ],
+   "mokra-mačja-hrana":[
+    "Mokra mačja hrana"
+   ],
+   "neprehrambeni-proizvodi-za-kućne-ljubimce":[
+    "Neprehrambeni proizvodi za kućne ljubimce"
+   ],
+   "pasji-keks":[
+    "Pasji keks"
+   ],
+   "pogrešan-product-type":[
+    "Pogrešan product type"
+   ],
+   "pseća-hrana":[
+    "Pseća hrana"
+   ],
+   "razna-hrana-za-kućne-ljubimce":[
+    "Razna hrana za kućne ljubimce"
+   ],
+   "suha-hrana-za-kućne-ljubimce":[
+    "Suha hrana za kućne ljubimce"
+   ],
+   "suha-hrana-za-pse":[
+    "Suha hrana za pse"
+   ],
+   "suha-mačja-hrana":[
+    "Suha mačja hrana"
+   ]
+  },
+  "hu":{
+   "felnőtt-macskaeledel":[
+    "Felnőtt macskaeledel"
+   ],
+   "haltáp":[
+    "Haltáp"
+   ],
+   "idős-macskaeledel":[
+    "Idős macskaeledel"
+   ],
+   "kutya-keksz":[
+    "Kutya keksz"
+   ],
+   "kutyaeledel":[
+    "Kutyaeledel"
+   ],
+   "macskaeledel":[
+    "Macskaeledel"
+   ],
+   "macskakonzerv":[
+    "Macskakonzerv",
+    "Kozerv macskaeledel",
+    "Nedves macsakaeledel"
+   ],
+   "madáreleség":[
+    "Madáreleség",
+    "Madáreledel"
+   ],
+   "száraz-kutyaeledel":[
+    "Száraz kutyaeledel"
+   ],
+   "száraz-macska-eledel":[
+    "Száraz macska eledel"
+   ]
+  },
+  "hy":{
+   "թռչնի-կեր":[
+    "Թռչնի կեր"
+   ],
+   "կատվի-կեր":[
+    "Կատվի կեր"
+   ],
+   "ձկան-կեր":[
+    "Ձկան կեր"
+   ],
+   "մեծահասակ-կատվի-կեր":[
+    "Մեծահասակ կատվի կեր"
+   ],
+   "շան-թխվածքաբլիթ":[
+    "Շան թխվածքաբլիթ"
+   ],
+   "տարեց-կատվի-կեր":[
+    "Տարեց կատվի կեր"
+   ]
+  },
+  "id":{
+   "biskuit-anjing":[
+    "Biskuit anjing"
+   ],
+   "makanan-burung":[
+    "Makanan burung"
+   ],
+   "makanan-ikan":[
+    "Makanan ikan"
+   ],
+   "makanan-kucing":[
+    "Makanan kucing"
+   ],
+   "makanan-kucing-dewasa":[
+    "Makanan kucing dewasa"
+   ],
+   "makanan-kucing-senior":[
+    "Makanan kucing senior"
+   ]
+  },
+  "is":{
+   "eldri-kattarmatur":[
+    "Eldri kattarmatur"
+   ],
+   "fiskfóður":[
+    "Fiskfóður"
+   ],
+   "fuglafóður":[
+    "Fuglafóður"
+   ],
+   "fullorðins-kattarmatur":[
+    "Fullorðins kattarmatur"
+   ],
+   "hundakex":[
+    "Hundakex"
+   ],
+   "kattarmatur":[
+    "Kattarmatur"
+   ]
+  },
+  "it":{
+   "biscotto-per-cani":[
+    "Biscotto per cani"
+   ],
+   "cibo-per-gatti":[
+    "Cibo per gatti"
+   ],
+   "cibo-per-gatti-adulti":[
+    "Cibo per gatti adulti"
+   ],
+   "cibo-per-gatti-anziani":[
+    "Cibo per gatti anziani"
+   ],
+   "cibo-per-uccelli":[
+    "Cibo per uccelli"
+   ],
+   "mangime-per-pesci":[
+    "Mangime per pesci"
+   ],
+   "prodotti-non-alimentari-per-animali-domestici":[
+    "Prodotti non alimentari per animali domestici"
+   ],
+   "tipo-di-prodotto-errato":[
+    "Tipo di prodotto errato"
+   ]
+  },
+  "ja":{
+   "ウェットタイプのキャットフード":[
+    "ウェットタイプのキャットフード"
+   ],
+   "ウェットタイプのドッグフード":[
+    "ウェットタイプのドッグフード"
+   ],
+   "ウェットタイプのペットフード":[
+    "ウェットタイプのペットフード"
+   ],
+   "ドッグビスケット":[
+    "ドッグビスケット"
+   ],
+   "ドッグフード":[
+    "ドッグフード"
+   ],
+   "ドライタイプのキャットフード":[
+    "ドライタイプのキャットフード"
+   ],
+   "ドライタイプのドッグフード":[
+    "ドライタイプのドッグフード"
+   ],
+   "ドライタイプのペットフード":[
+    "ドライタイプのペットフード"
+   ],
+   "成猫用フード":[
+    "成猫用フード"
+   ],
+   "猫の餌":[
+    "猫の餌"
+   ],
+   "高齢猫用フード":[
+    "高齢猫用フード"
+   ],
+   "魚の餌":[
+    "魚の餌"
+   ],
+   "鳥の餌":[
+    "鳥の餌"
+   ]
+  },
+  "ka":{
+   "ზრდასრული-კატის-საკვები":[
+    "ზრდასრული კატის საკვები"
+   ],
+   "თევზის-საკვები":[
+    "თევზის საკვები"
+   ],
+   "კატის-საკვები":[
+    "კატის საკვები"
+   ],
+   "ფრინველის-საკვები":[
+    "ფრინველის საკვები"
+   ],
+   "ძაღლის-ორცხობილა":[
+    "ძაღლის ორცხობილა"
+   ],
+   "ხანდაზმული-კატის-საკვები":[
+    "ხანდაზმული კატის საკვები"
+   ]
+  },
+  "kk":{
+   "балық-жемі":[
+    "Балық жемі"
+   ],
+   "егдегі-мысық-азығы":[
+    "Егдегі мысық азығы"
+   ],
+   "ересек-мысық-азығы":[
+    "Ересек мысық азығы"
+   ],
+   "ит-печеньесі":[
+    "Ит печеньесі"
+   ],
+   "мысық-азығы":[
+    "Мысық азығы"
+   ],
+   "құс-жемі":[
+    "Құс жемі"
+   ]
+  },
+  "km":{
+   "ចំណី-ឆ្មា-ចាស់":[
+    "ចំណី​ឆ្មា​ចាស់"
+   ],
+   "ចំណី-ឆ្មាពេញវ័យ":[
+    "ចំណី​ឆ្មាពេញវ័យ"
+   ],
+   "ចំណីឆ្មា":[
+    "ចំណីឆ្មា"
+   ],
+   "ចំណីត្រី":[
+    "ចំណីត្រី"
+   ],
+   "ចំណីសត្វស្លាប":[
+    "ចំណីសត្វស្លាប"
+   ],
+   "នំឆ្កែ":[
+    "នំឆ្កែ"
+   ]
+  },
+  "kn":{
+   "ನಾಯಿ-ಬಿಸ್ಕತ್ತು":[
+    "ನಾಯಿ ಬಿಸ್ಕತ್ತು"
+   ],
+   "ಪಕ್ಷಿ-ಆಹಾರ":[
+    "ಪಕ್ಷಿ ಆಹಾರ"
+   ],
+   "ಬೆಕ್ಕು-ಆಹಾರ":[
+    "ಬೆಕ್ಕು ಆಹಾರ"
+   ],
+   "ಮೀನು-ಆಹಾರ":[
+    "ಮೀನು ಆಹಾರ"
+   ],
+   "ವಯಸ್ಕ-ಬೆಕ್ಕು-ಆಹಾರ":[
+    "ವಯಸ್ಕ ಬೆಕ್ಕು ಆಹಾರ"
+   ],
+   "ಹಿರಿಯ-ಬೆಕ್ಕು-ಆಹಾರ":[
+    "ಹಿರಿಯ ಬೆಕ್ಕು ಆಹಾರ"
+   ]
+  },
+  "ko":{
+   "개-비스킷":[
+    "개 비스킷"
+   ],
+   "고양이-사료":[
+    "고양이 사료"
+   ],
+   "노령묘-사료":[
+    "노령묘 사료"
+   ],
+   "물고기-사료":[
+    "물고기 사료"
+   ],
+   "새-모이":[
+    "새 모이"
+   ],
+   "성묘-사료":[
+    "성묘 사료"
+   ]
+  },
+  "ku":{
+   "biskuwîta-kûçikan":[
+    "Biskuwîta kûçikan"
+   ],
+   "xwarina-masî":[
+    "Xwarina masî"
+   ],
+   "xwarina-pisîkê":[
+    "Xwarina pisîkê"
+   ],
+   "xwarina-pisîkên-mezin":[
+    "Xwarina pisîkên mezin"
+   ],
+   "xwarina-pisîkên-pîr":[
+    "Xwarina pisîkên pîr"
+   ],
+   "xwarina-çûkan":[
+    "Xwarina çûkan"
+   ]
+  },
+  "ky":{
+   "балык-тоюту":[
+    "Балык тоюту"
+   ],
+   "ит-печеньеси":[
+    "Ит печеньеси"
+   ],
+   "кары-мышыктын-тамагы":[
+    "Кары мышыктын тамагы"
+   ],
+   "куш-тоюту":[
+    "Куш тоюту"
+   ],
+   "мышыктын-тамагы":[
+    "Мышыктын тамагы"
+   ],
+   "чоң-мышыктын-тамагы":[
+    "Чоң мышыктын тамагы"
+   ]
+  },
+  "lo":{
+   "ອາຫານນົກ":[
+    "ອາຫານນົກ"
+   ],
+   "ອາຫານປາ":[
+    "ອາຫານປາ"
+   ],
+   "ອາຫານແມວ":[
+    "ອາຫານແມວ"
+   ],
+   "ອາຫານແມວແກ່":[
+    "ອາຫານແມວແກ່"
+   ],
+   "ອາຫານແມວໃຫຍ່":[
+    "ອາຫານແມວໃຫຍ່"
+   ],
+   "ເຂົ້າ-ໜົມ-ໝາ":[
+    "ເຂົ້າ ໜົມ ໝາ"
+   ]
+  },
+  "lt":{
+   "kačių-maistas":[
+    "Kačių maistas"
+   ],
+   "maistas-vyresnėms-katėms":[
+    "Maistas vyresnėms katėms"
+   ],
+   "paukščių-maistas":[
+    "Paukščių maistas"
+   ],
+   "suaugusių-kačių-maistas":[
+    "Suaugusių kačių maistas"
+   ],
+   "šunų-sausainiai":[
+    "Šunų sausainiai"
+   ],
+   "žuvų-maistas":[
+    "Žuvų maistas"
+   ]
+  },
+  "lv":{
+   "barība-pieaugušiem-kaķiem":[
+    "Barība pieaugušiem kaķiem"
+   ],
+   "barība-vecākiem-kaķiem":[
+    "Barība vecākiem kaķiem"
+   ],
+   "kaķu-barība":[
+    "Kaķu barība"
+   ],
+   "putnu-barība":[
+    "Putnu barība"
+   ],
+   "suņu-cepums":[
+    "Suņu cepums"
+   ],
+   "zivju-barība":[
+    "Zivju barība"
+   ]
+  },
+  "mk":{
+   "бисквит-за-кучиња":[
+    "Бисквит за кучиња"
+   ],
+   "храна-за-возрасни-мачки":[
+    "Храна за возрасни мачки"
+   ],
+   "храна-за-мачки":[
+    "Храна за мачки"
+   ],
+   "храна-за-птици":[
+    "Храна за птици"
+   ],
+   "храна-за-риби":[
+    "Храна за риби"
+   ],
+   "храна-за-стари-мачки":[
+    "Храна за стари мачки"
+   ]
+  },
+  "ml":{
+   "നായ-ബിസ്ക്കറ്റ്":[
+    "നായ ബിസ്ക്കറ്റ്"
+   ],
+   "പക്ഷി-ഭക്ഷണം":[
+    "പക്ഷി ഭക്ഷണം"
+   ],
+   "പൂച്ച-ഭക്ഷണം":[
+    "പൂച്ച ഭക്ഷണം"
+   ],
+   "മത്സ്യം-ഭക്ഷണം":[
+    "മത്സ്യം ഭക്ഷണം"
+   ],
+   "മുതിർന്ന-പൂച്ച-ഭക്ഷണം":[
+    "മുതിർന്ന പൂച്ച ഭക്ഷണം"
+   ]
+  },
+  "mn":{
+   "ахмад-настай-муурны-хоол":[
+    "Ахмад настай муурны хоол"
+   ],
+   "загасны-хоол":[
+    "Загасны хоол"
+   ],
+   "муурны-хоол":[
+    "Муурны хоол"
+   ],
+   "насанд-хүрсэн-муурны-хоол":[
+    "Насанд хүрсэн муурны хоол"
+   ],
+   "нохойн-жигнэмэг":[
+    "Нохойн жигнэмэг"
+   ],
+   "шувууны-хоол":[
+    "Шувууны хоол"
+   ]
+  },
+  "mr":{
+   "कुत्रा-बिस्किट":[
+    "कुत्रा बिस्किट"
+   ],
+   "ज्येष्ठ-मांजराचे-अन्न":[
+    "ज्येष्ठ मांजराचे अन्न"
+   ],
+   "पक्षी-अन्न":[
+    "पक्षी अन्न"
+   ],
+   "प्रौढ-मांजराचे-अन्न":[
+    "प्रौढ मांजराचे अन्न"
+   ],
+   "मांजर-अन्न":[
+    "मांजर अन्न"
+   ],
+   "मासे-अन्न":[
+    "मासे अन्न"
+   ]
+  },
+  "ms":{
+   "biskut-anjing":[
+    "Biskut anjing"
+   ],
+   "makanan-burung":[
+    "Makanan burung"
+   ],
+   "makanan-ikan":[
+    "Makanan ikan"
+   ],
+   "makanan-kucing":[
+    "Makanan kucing"
+   ],
+   "makanan-kucing-dewasa":[
+    "Makanan kucing dewasa"
+   ],
+   "makanan-kucing-tua":[
+    "Makanan kucing tua"
+   ]
+  },
+  "mt":{
+   "biskutt-tal-klieb":[
+    "Biskutt tal-klieb"
+   ],
+   "ikel-għall-għasafar":[
+    "Ikel għall-għasafar"
+   ],
+   "ikel-għall-qtates":[
+    "Ikel għall-qtates"
+   ],
+   "ikel-għall-qtates-adulti":[
+    "Ikel għall-qtates adulti"
+   ],
+   "ikel-għall-qtates-anzjani":[
+    "Ikel għall-qtates anzjani"
+   ],
+   "ikel-għall-ħut":[
+    "Ikel għall-ħut"
+   ]
+  },
+  "my":{
+   "ကြောင်အစာ":[
+    "ကြောင်အစာ"
+   ],
+   "ကြောင်အိုစာ":[
+    "ကြောင်အိုစာ"
+   ],
+   "ခွေးဘီစကွတ်":[
+    "ခွေးဘီစကွတ်"
+   ],
+   "ငါးစာ":[
+    "ငါးစာ"
+   ],
+   "ငှက်စာ":[
+    "ငှက်စာ"
+   ],
+   "အရွယ်ရောက်-ကြောင်စာ":[
+    "အရွယ်ရောက် ကြောင်စာ"
+   ]
+  },
+  "nl":{
+   "divers-diervoer":[
+    "divers diervoer"
+   ],
+   "droog-kattenvoer":[
+    "Droog kattenvoer"
+   ],
+   "droog-voedsel":[
+    "Droog voedsel",
+    "Droog dierenvoedsel"
+   ],
+   "honden-en-kattenvoedsel":[
+    "Honden en kattenvoedsel"
+   ],
+   "hondenbrokken":[
+    "Hondenbrokken"
+   ],
+   "hondenkoekjes":[
+    "Hondenkoekjes"
+   ],
+   "hondenvoedsel":[
+    "Hondenvoedsel",
+    "hondenvoer"
+   ],
+   "kattebrokken":[
+    "Kattebrokken",
+    "Kattenbrokken"
+   ],
+   "kattenvoer":[
+    "Kattenvoer",
+    "Kattevoer"
+   ],
+   "nat-hondenvoer":[
+    "Nat hondenvoer"
+   ],
+   "nat-kattenvoet":[
+    "Nat kattenvoet",
+    "Ingeblikt kattenvoer"
+   ],
+   "nat-voedsel":[
+    "Nat voedsel"
+   ],
+   "natvoer-voor-volwassen-katten":[
+    "Natvoer voor volwassen katten"
+   ],
+   "non-pet-food":[
+    "Non-pet-food"
+   ],
+   "rattenvoer":[
+    "rattenvoer"
+   ],
+   "reptielenvoer":[
+    "reptielenvoer",
+    "voer voor reptielen"
+   ],
+   "verkeerd-product-type":[
+    "Verkeerd product type"
+   ],
+   "visvoeding":[
+    "Visvoeding",
+    "Vissenvoer"
+   ],
+   "voer-voor-gecastreerde-katten":[
+    "Voer voor gecastreerde katten"
+   ],
+   "voer-voor-konijnen":[
+    "Voer voor konijnen"
+   ],
+   "voer-voor-oudere-katten":[
+    "voer voor oudere katten"
+   ],
+   "voer-voor-paarden":[
+    "Voer voor paarden"
+   ],
+   "vogelvoer":[
+    "Vogelvoer",
+    "Vogelvoedsel"
+   ],
+   "volwassen-kattenvoer":[
+    "Volwassen kattenvoer"
+   ]
+  },
+  "no":{
+   "fiskefôr":[
+    "Fiskefôr"
+   ],
+   "fuglemat":[
+    "Fuglemat"
+   ],
+   "hundekjeks":[
+    "Hundekjeks"
+   ],
+   "kattemat":[
+    "Kattemat"
+   ],
+   "seniorkattemat":[
+    "Seniorkattemat"
+   ],
+   "voksen-kattemat":[
+    "Voksen kattemat"
+   ]
+  },
+  "or":{
+   "କୁକୁର-ବିସ୍କୁଟ୍":[
+    "କୁକୁର ବିସ୍କୁଟ୍"
+   ],
+   "ପକ୍ଷୀ-ଖାଦ୍ୟ":[
+    "ପକ୍ଷୀ ଖାଦ୍ୟ"
+   ],
+   "ବରିଷ୍ଠ-ବିଲେଇ-ଖାଦ୍ୟ":[
+    "ବରିଷ୍ଠ ବିଲେଇ ଖାଦ୍ୟ"
+   ],
+   "ବିଲେଇ-ଖାଦ୍ୟ":[
+    "ବିଲେଇ ଖାଦ୍ୟ"
+   ],
+   "ବୟସ୍କ-ବିଲେଇ-ଖାଦ୍ୟ":[
+    "ବୟସ୍କ ବିଲେଇ ଖାଦ୍ୟ"
+   ],
+   "ମାଛ-ଖାଦ୍ୟ":[
+    "ମାଛ ଖାଦ୍ୟ"
+   ]
+  },
+  "pa":{
+   "ਕੁੱਤਾ-ਬਿਸਕੁਟ":[
+    "ਕੁੱਤਾ ਬਿਸਕੁਟ"
+   ],
+   "ਪੰਛੀ-ਭੋਜਨ":[
+    "ਪੰਛੀ ਭੋਜਨ"
+   ],
+   "ਬਾਲਗ-ਬਿੱਲੀ-ਭੋਜਨ":[
+    "ਬਾਲਗ ਬਿੱਲੀ ਭੋਜਨ"
+   ],
+   "ਬਿੱਲੀ-ਭੋਜਨ":[
+    "ਬਿੱਲੀ ਭੋਜਨ"
+   ],
+   "ਮੱਛੀ-ਭੋਜਨ":[
+    "ਮੱਛੀ ਭੋਜਨ"
+   ],
+   "ਸੀਨੀਅਰ-ਬਿੱਲੀ-ਭੋਜਨ":[
+    "ਸੀਨੀਅਰ ਬਿੱਲੀ ਭੋਜਨ"
+   ]
+  },
+  "pl":{
+   "karma-dla-dorosłych-kotów":[
+    "Karma dla dorosłych kotów"
+   ],
+   "karma-dla-kotów":[
+    "Karma dla kotów"
+   ],
+   "karma-dla-kotów-seniorów":[
+    "Karma dla kotów seniorów"
+   ],
+   "karma-dla-ptaków":[
+    "Karma dla ptaków"
+   ],
+   "karma-dla-ryb":[
+    "Karma dla ryb"
+   ],
+   "psi-herbatnik":[
+    "Psi herbatnik"
+   ]
+  },
+  "ps":{
+   "د-زړو-پیشو-خواړه":[
+    "د زړو پیشو خواړه"
+   ],
+   "د-سپي-بسکټ":[
+    "د سپي بسکټ"
+   ],
+   "د-لوی-پیشو-خواړه":[
+    "د لوی پیشو خواړه"
+   ],
+   "د-مرغانو-خواړه":[
+    "د مرغانو خواړه"
+   ],
+   "د-پیشو-خواړه":[
+    "د پیشو خواړه"
+   ],
+   "د-کبانو-خواړه":[
+    "د کبانو خواړه"
+   ]
+  },
+  "pt":{
+   "biscoito-para-caes":[
+    "Biscoito para cães"
+   ],
+   "comida-de-cao-humida":[
+    "Comida de cão húmida"
+   ],
+   "comida-para-gatos":[
+    "Comida para gatos"
+   ],
+   "comida-para-gatos-adultos":[
+    "Comida para gatos adultos"
+   ],
+   "comida-para-gatos-idosos":[
+    "Comida para gatos idosos"
+   ],
+   "comida-para-passaros":[
+    "Comida para pássaros"
+   ],
+   "comida-para-peixes":[
+    "Comida para peixes"
+   ],
+   "produtos-nao-alimentares-para-animais-de-estimacao":[
+    "Produtos não alimentares para animais de estimação"
+   ],
+   "tipo-de-produto-incorreto":[
+    "Tipo de produto incorreto"
+   ]
+  },
+  "ro":{
+   "biscuiți-pentru-câini":[
+    "Biscuiți pentru câini"
+   ],
+   "hrană-pentru-pești":[
+    "Hrană pentru pești"
+   ],
+   "hrană-pentru-pisici":[
+    "Hrană pentru pisici"
+   ],
+   "hrană-pentru-pisici-adulte":[
+    "Hrană pentru pisici adulte"
+   ],
+   "hrană-pentru-pisici-seniori":[
+    "Hrană pentru pisici seniori"
+   ],
+   "hrană-pentru-păsări":[
+    "Hrană pentru păsări"
+   ]
+  },
+  "ru":{
+   "влажный-корм-для-собаки":[
+    "влажный корм для собаки"
+   ],
+   "консервированный-корм-для-кошек":[
+    "Консервированный корм для кошек",
+    "Консервированный кошачий корм",
+    "Консервы для кошек",
+    "Консервированные корма для кошек",
+    "Консервированные кошачьи корма",
+    "Кошачьи консервы"
+   ],
+   "корм-для-взрослых-кошек":[
+    "Корм для взрослых кошек"
+   ],
+   "корм-для-грызунов":[
+    "корм для грызунов"
+   ],
+   "корм-для-кастрированных-кошек":[
+    "корм для кастрированных кошек"
+   ],
+   "корм-для-пожилых-кошек":[
+    "корм для пожилых кошек"
+   ],
+   "корм-для-пресмыкающихся":[
+    "корм для пресмыкающихся",
+    "корм для рептилий"
+   ],
+   "корм-для-птиц":[
+    "корм для птиц",
+    "корма для птиц"
+   ],
+   "корм-для-рыб":[
+    "корм для рыб",
+    "рыбий корм"
+   ],
+   "корм-для-собак-и-кошек":[
+    "Корм для собак и кошек"
+   ],
+   "корм-консервированный-полнорационный-для-взрослых-кошек":[
+    "Корм консервированный полнорационный для взрослых кошек"
+   ],
+   "корм-сухой-полнорационный-для-взрослых-кошек":[
+    "Корм сухой полнорационный для взрослых кошек"
+   ],
+   "кошачий-корм":[
+    "Кошачий корм",
+    "Корм для кошек",
+    "Корма для кошек",
+    "Кошачьи корма"
+   ],
+   "неправильный-product-type":[
+    "Неправильный product type"
+   ],
+   "непродукты-для-кормления-домашних-животных":[
+    "Непродукты для кормления домашних животных",
+    "Не еда для животных"
+   ],
+   "печенье-для-собаки":[
+    "печенье для собаки"
+   ],
+   "прочий-корм-для-животных":[
+    "прочий корм для животных"
+   ],
+   "собачий-корм":[
+    "собачий корм",
+    "корм для собак",
+    "собачьи корма",
+    "корма для собак"
+   ],
+   "сухой-корм":[
+    "Сухой корм"
+   ],
+   "сухой-корм-для-кошек":[
+    "Сухой корм для кошек",
+    "Сухие корма для кошек"
+   ],
+   "сухой-корм-для-собак":[
+    "сухой корм для собак",
+    "сухие корма для собак"
+   ]
+  },
+  "sd":{
+   "بالغ-ٻلي-کاڌو":[
+    "بالغ ٻلي کاڌو"
+   ],
+   "مڇي-کاڌو":[
+    "مڇي کاڌو"
+   ],
+   "ٻلي-کاڌو":[
+    "ٻلي کاڌو"
+   ],
+   "پراڻي-ٻلي-کاڌو":[
+    "پراڻي ٻلي کاڌو"
+   ],
+   "پکين-جو-کاڌو":[
+    "پکين جو کاڌو"
+   ],
+   "ڪتي-بسڪوٽ":[
+    "ڪتي بسڪوٽ"
+   ]
+  },
+  "si":{
+   "කුරුළු-ආහාර":[
+    "කුරුළු ආහාර"
+   ],
+   "ජ්යෙෂ්ඨ-බළල්-ආහාර":[
+    "ජ්යෙෂ්ඨ බළල් ආහාර"
+   ],
+   "බළල්-ආහාර":[
+    "බළල් ආහාර"
+   ],
+   "මාලු-ආහාර":[
+    "මාලු ආහාර"
+   ],
+   "වැඩිහිටි-බළල්-ආහාර":[
+    "වැඩිහිටි බළල් ආහාර"
+   ],
+   "සුනඛ-බිස්කට්":[
+    "සුනඛ බිස්කට්"
+   ]
+  },
+  "sk":{
+   "krmivo-pre-dospele-mačky":[
+    "Krmivo pre dospelé mačky"
+   ],
+   "krmivo-pre-mačky":[
+    "Krmivo pre mačky"
+   ],
+   "krmivo-pre-ryby":[
+    "Krmivo pre ryby"
+   ],
+   "krmivo-pre-staršie-mačky":[
+    "Krmivo pre staršie mačky"
+   ],
+   "krmivo-pre-vtaky":[
+    "Krmivo pre vtáky"
+   ],
+   "psia-sušienka":[
+    "Psia sušienka"
+   ]
+  },
+  "sl":{
+   "hrana-za-mačke":[
+    "Hrana za mačke"
+   ],
+   "hrana-za-odrasle-mačke":[
+    "Hrana za odrasle mačke"
+   ],
+   "hrana-za-ptice":[
+    "Hrana za ptice"
+   ],
+   "hrana-za-ribe":[
+    "Hrana za ribe"
+   ],
+   "hrana-za-starejše-mačke":[
+    "Hrana za starejše mačke"
+   ],
+   "pasji-piškot":[
+    "Pasji piškot"
+   ]
+  },
+  "sq":{
+   "biskota-për-qen":[
+    "Biskota për qen"
+   ],
+   "ushqim-për-mace":[
+    "Ushqim për mace"
+   ],
+   "ushqim-për-mace-të-rritura":[
+    "Ushqim për mace të rritura"
+   ],
+   "ushqim-për-mace-të-vjetra":[
+    "Ushqim për mace të vjetra"
+   ],
+   "ushqim-për-peshqit":[
+    "Ushqim për peshqit"
+   ],
+   "ushqim-për-zogj":[
+    "Ushqim për zogj"
+   ]
+  },
+  "sr":{
+   "hrana-za-mačke":[
+    "Hrana za mačke"
+   ],
+   "hrana-za-odrasle-mačke":[
+    "Hrana za odrasle mačke"
+   ],
+   "hrana-za-ptice":[
+    "Hrana za ptice"
+   ],
+   "hrana-za-ribe":[
+    "Hrana za ribe"
+   ],
+   "hrana-za-starije-mačke":[
+    "Hrana za starije mačke"
+   ],
+   "pasji-keks":[
+    "Pasji keks"
+   ]
+  },
+  "sv":{
+   "fiskmat":[
+    "Fiskmat"
+   ],
+   "fågelmat":[
+    "Fågelmat"
+   ],
+   "hundkex":[
+    "Hundkex"
+   ],
+   "kattmat":[
+    "Kattmat"
+   ],
+   "vuxen-kattmat":[
+    "Vuxen kattmat"
+   ],
+   "äldre-kattmat":[
+    "Äldre kattmat"
+   ]
+  },
+  "sw":{
+   "biskuti-ya-mbwa":[
+    "Biskuti ya mbwa"
+   ],
+   "chakula-cha-ndege":[
+    "Chakula cha ndege"
+   ],
+   "chakula-cha-paka":[
+    "Chakula cha paka"
+   ],
+   "chakula-cha-paka-mzee":[
+    "Chakula cha paka mzee"
+   ],
+   "chakula-cha-paka-mzima":[
+    "Chakula cha paka mzima"
+   ],
+   "chakula-cha-samaki":[
+    "Chakula cha samaki"
+   ]
+  },
+  "ta":{
+   "நாய்-பிஸ்கட்":[
+    "நாய் பிஸ்கட்"
+   ],
+   "பறவை-உணவு":[
+    "பறவை உணவு"
+   ],
+   "பூனை-உணவு":[
+    "பூனை உணவு"
+   ],
+   "மீன்-உணவு":[
+    "மீன் உணவு"
+   ],
+   "மூத்த-பூனை-உணவு":[
+    "மூத்த பூனை உணவு"
+   ],
+   "வயது-வந்த-பூனை-உணவு":[
+    "வயது வந்த பூனை உணவு"
+   ]
+  },
+  "te":{
+   "కుక్క-బిస్కెట్":[
+    "కుక్క బిస్కెట్"
+   ],
+   "చేపల-ఆహారం":[
+    "చేపల ఆహారం"
+   ],
+   "పక్షి-ఆహారం":[
+    "పక్షి ఆహారం"
+   ],
+   "పిల్లి-ఆహారం":[
+    "పిల్లి ఆహారం"
+   ],
+   "పెద్ద-పిల్లి-ఆహారం":[
+    "పెద్ద పిల్లి ఆహారం"
+   ],
+   "సీనియర్-పిల్లి-ఆహారం":[
+    "సీనియర్ పిల్లి ఆహారం"
+   ]
+  },
+  "tg":{
+   "печенье-барои-сагҳо":[
+    "Печенье барои сагҳо"
+   ],
+   "хӯроки-гурба":[
+    "Хӯроки гурба"
+   ],
+   "хӯроки-гурбаи-калонсол":[
+    "Хӯроки гурбаи калонсол"
+   ],
+   "хӯроки-моҳӣ":[
+    "Хӯроки моҳӣ"
+   ],
+   "хӯроки-парранда":[
+    "Хӯроки парранда"
+   ]
+  },
+  "th":{
+   "บิสกิตสุนัข":[
+    "บิสกิตสุนัข"
+   ],
+   "อาหารนก":[
+    "อาหารนก"
+   ],
+   "อาหารปลา":[
+    "อาหารปลา"
+   ],
+   "อาหารแมว":[
+    "อาหารแมว"
+   ],
+   "อาหารแมวสูงวัย":[
+    "อาหารแมวสูงวัย"
+   ],
+   "อาหารแมวโต":[
+    "อาหารแมวโต"
+   ]
+  },
+  "tk":{
+   "balyk-iýmiti":[
+    "Balyk iýmiti"
+   ],
+   "gartaşan-pişik-iýmiti":[
+    "Gartaşan pişik iýmiti"
+   ],
+   "guş-iýmiti":[
+    "Guş iýmiti"
+   ],
+   "it-pişgesi":[
+    "It pişgesi"
+   ],
+   "pişik-iýmiti":[
+    "Pişik iýmiti"
+   ],
+   "ululy-pişik-iýmiti":[
+    "Ululy pişik iýmiti"
+   ]
+  },
+  "tl":{
+   "biskwit-ng-aso":[
+    "Biskwit ng aso"
+   ],
+   "pagkain-ng-ibon":[
+    "Pagkain ng ibon"
+   ],
+   "pagkain-ng-isda":[
+    "Pagkain ng isda"
+   ],
+   "pagkain-ng-pusa":[
+    "Pagkain ng pusa"
+   ],
+   "pagkain-para-sa-adultong-pusa":[
+    "Pagkain para sa adultong pusa"
+   ],
+   "pagkain-para-sa-matatandang-pusa":[
+    "Pagkain para sa matatandang pusa"
+   ]
+  },
+  "tr":{
+   "balık-yemi":[
+    "Balık yemi"
+   ],
+   "kedi-maması":[
+    "Kedi maması"
+   ],
+   "kuş-yemi":[
+    "Kuş yemi"
+   ],
+   "köpek-bisküvisi":[
+    "Köpek bisküvisi"
+   ],
+   "yaşlı-kedi-maması":[
+    "Yaşlı kedi maması"
+   ],
+   "yetişkin-kedi-maması":[
+    "Yetişkin kedi maması"
+   ]
+  },
+  "ug":{
+   "ئىت-печеньеси":[
+    "ئىت печеньеси"
+   ],
+   "بېلىق-يېمى":[
+    "بېلىق يېمى"
+   ],
+   "قۇش-يېمى":[
+    "قۇش يېمى"
+   ],
+   "مۈشۈك-ئېزىقى":[
+    "مۈشۈك ئېزىقى"
+   ],
+   "ياشانغان-مۈشۈك-ئېزىقى":[
+    "ياشانغان مۈشۈك ئېزىقى"
+   ],
+   "چوڭ-مۈشۈك-ئېزىقى":[
+    "چوڭ مۈشۈك ئېزىقى"
+   ]
+  },
+  "uk":{
+   "корм-для-дорослих-котів":[
+    "Корм для дорослих котів"
+   ],
+   "корм-для-літніх-котів":[
+    "Корм для літніх котів"
+   ],
+   "корм-для-птахів":[
+    "Корм для птахів"
+   ],
+   "корм-для-риб":[
+    "Корм для риб"
+   ],
+   "котячий-корм":[
+    "Котячий корм"
+   ],
+   "печиво-для-собак":[
+    "Печиво для собак"
+   ]
+  },
+  "uz":{
+   "baliq-ovqati":[
+    "Baliq ovqati"
+   ],
+   "it-pechenesi":[
+    "It pechenesi"
+   ],
+   "katta-mushuk-ovqati":[
+    "Katta mushuk ovqati"
+   ],
+   "keksa-mushuk-ovqati":[
+    "Keksa mushuk ovqati"
+   ],
+   "mushuk-ovqati":[
+    "Mushuk ovqati"
+   ],
+   "qush-ovqati":[
+    "Qush ovqati"
+   ]
+  },
+  "vi":{
+   "bánh-quy-cho-chó":[
+    "Bánh quy cho chó"
+   ],
+   "thức-ăn-cho-chim":[
+    "Thức ăn cho chim"
+   ],
+   "thức-ăn-cho-cá":[
+    "Thức ăn cho cá"
+   ],
+   "thức-ăn-cho-mèo":[
+    "Thức ăn cho mèo"
+   ],
+   "thức-ăn-cho-mèo-già":[
+    "Thức ăn cho mèo già"
+   ],
+   "thức-ăn-cho-mèo-trưởng-thành":[
+    "Thức ăn cho mèo trưởng thành"
+   ]
+  },
+  "xx":{
+   "open-beauty-facts":[
+    "Open Beauty Facts",
+    "OBF"
+   ],
+   "open-food-facts":[
+    "Open Food Facts",
+    "OFF"
+   ],
+   "open-products-facts":[
+    "Open Products Facts",
+    "OPF"
+   ]
+  },
+  "zh":{
+   "成年猫粮":[
+    "成年猫粮"
+   ],
+   "狗饼干":[
+    "狗饼干"
+   ],
+   "猫粮":[
+    "猫粮"
+   ],
+   "老年猫粮":[
+    "老年猫粮"
+   ],
+   "鱼食":[
+    "鱼食"
+   ],
+   "鸟食":[
+    "鸟食"
+   ]
+  }
+ },
+ "synonyms_for_extended":{
+  "ar":{
+   "بسكويت-للكلاب":{
+    "بسكويت-للكلاب":1
+   },
+   "طعام-القطط-البالغة":{
+    "طعام-القطط-البالغة":1
+   },
+   "طعام-القطط-الكبيرة-في-السن":{
+    "طعام-القطط-الكبيرة-في-السن":1
+   },
+   "طعام-سمك":{
+    "طعام-سمك":1
+   },
+   "طعام-قطط":{
+    "طعام-قطط":1
+   },
+   "طعام-للطيور":{
+    "طعام-للطيور":1
+   }
+  },
+  "as":{
+   "চৰাইৰ-খাদ্য":{
+    "চৰাইৰ-খাদ্য":1
+   },
+   "পূৰ্ণবয়স্ক-মেকুৰীৰ-খাদ্য":{
+    "পূৰ্ণবয়স্ক-মেকুৰীৰ-খাদ্য":1
+   },
+   "বয়সস্থ-মেকুৰীৰ-খাদ্য":{
+    "বয়সস্থ-মেকুৰীৰ-খাদ্য":1
+   },
+   "মাছৰ-খাদ্য":{
+    "মাছৰ-খাদ্য":1
+   },
+   "মেকুৰীৰ-খাদ্য":{
+    "মেকুৰীৰ-খাদ্য":1
+   }
+  },
+  "az":{
+   "balıq-yemi":{
+    "balıq-yemi":1
+   },
+   "i̇t-peçenyası":{
+    "i̇t-peçenyası":1
+   },
+   "pişik-yeməyi":{
+    "pişik-yeməyi":1
+   },
+   "quş-yemi":{
+    "quş-yemi":1
+   },
+   "yaşlı-pişik-yeməyi":{
+    "yaşlı-pişik-yeməyi":1
+   },
+   "yetkin-pişik-yeməyi":{
+    "yetkin-pişik-yeməyi":1
+   }
+  },
+  "bg":{
+   "бисквитка-за-кучета":{
+    "бисквитка-за-кучета":1
+   },
+   "неправилен-product-type":{
+    "неправилен-product-type":1
+   },
+   "непродукти-за-храна-за-домашни-любимци":{
+    "непродукти-за-храна-за-домашни-любимци":1
+   },
+   "храна-за-възрастни-котки":{
+    "храна-за-възрастни-котки":1
+   },
+   "храна-за-котки":{
+    "храна-за-котки":1
+   },
+   "храна-за-птици":{
+    "храна-за-птици":1
+   },
+   "храна-за-риби":{
+    "храна-за-риби":1
+   }
+  },
+  "bn":{
+   "কুকুরের-বিস্কুট":{
+    "কুকুরের-বিস্কুট":1
+   },
+   "পাখির-খাবার":{
+    "পাখির-খাবার":1
+   },
+   "প্রাপ্তবয়স্ক-বিড়ালের-খাবার":{
+    "প্রাপ্তবয়স্ক-বিড়ালের-খাবার":1
+   },
+   "বয়স্ক-বিড়ালের-খাবার":{
+    "বয়স্ক-বিড়ালের-খাবার":1
+   },
+   "বিড়ালের-খাবার":{
+    "বিড়ালের-খাবার":1
+   },
+   "মাছের-খাবার":{
+    "মাছের-খাবার":1
+   }
+  },
+  "ca":{
+   "galeta-per-a-gossos":{
+    "galeta-per-a-gossos":1
+   },
+   "menjar-per-a-gats":{
+    "menjar-per-a-gats":1
+   },
+   "menjar-per-a-gats-adults":{
+    "menjar-per-a-gats-adults":1
+   },
+   "menjar-per-a-gats-grans":{
+    "menjar-per-a-gats-grans":1
+   },
+   "menjar-per-a-ocells":{
+    "menjar-per-a-ocells":1
+   },
+   "menjar-per-a-peixos":{
+    "menjar-per-a-peixos":1
+   },
+   "productes-no-alimentaris-per-a-mascotes":{
+    "productes-no-alimentaris-per-a-mascotes":1
+   },
+   "tipus-de-producte-incorrecte":{
+    "tipus-de-producte-incorrecte":1
+   }
+  },
+  "cs":{
+   "krmivo-pro-dospělé-kočky":{
+    "krmivo-pro-dospělé-kočky":1
+   },
+   "krmivo-pro-kočky":{
+    "krmivo-pro-kočky":1
+   },
+   "krmivo-pro-ptáky":{
+    "krmivo-pro-ptáky":1
+   },
+   "krmivo-pro-ryby":{
+    "krmivo-pro-ryby":1
+   },
+   "krmivo-pro-starší-kočky":{
+    "krmivo-pro-starší-kočky":1
+   },
+   "psí-sušenka":{
+    "psí-sušenka":1
+   }
+  },
+  "cy":{
+   "bisged-ci":{
+    "bisged-ci":1
+   },
+   "bwyd-adar":{
+    "bwyd-adar":1
+   },
+   "bwyd-cath-hŷn":{
+    "bwyd-cath-hŷn":1
+   },
+   "bwyd-cathod":{
+    "bwyd-cathod":1
+   },
+   "bwyd-cathod-oedolion":{
+    "bwyd-cathod-oedolion":1
+   },
+   "bwyd-pysgod":{
+    "bwyd-pysgod":1
+   }
+  },
+  "da":{
+   "fiskefoder":{
+    "fiskefoder":1
+   },
+   "fuglefoder":{
+    "fuglefoder":1
+   },
+   "hundekiks":{
+    "hundekiks":1
+   },
+   "kattemad":{
+    "kattemad":1
+   },
+   "seniorkattemad":{
+    "seniorkattemad":1
+   },
+   "voksen-kattemad":{
+    "voksen-kattemad":1
+   }
+  },
+  "de":{
+   "falscher-product-type":{
+    "falscher-product-type":1
+   },
+   "feuchtes-hundefutter":{
+    "feuchtes-hundefutter":1,
+    "feuchtes-hundenahrung":1,
+    "hundenassfutter":1,
+    "hundenassnahrung":1,
+    "nasses-hundefutter":1,
+    "nasses-hundenahrung":1
+   },
+   "fischfutter":{
+    "fischfutter":1
+   },
+   "futter-für-reptilien":{
+    "futter-für-reptilien":1,
+    "terrarientierfutter":1
+   },
+   "hunde-und-katzenfutter":{
+    "hunde-und-katzenfutter":1
+   },
+   "hundefutter":{
+    "hundefutter":1,
+    "hundenahrung":1
+   },
+   "hundekeks":{
+    "hundekeks":1
+   },
+   "hundetrockenfutter":{
+    "getrockgnete-hundefutter":1,
+    "getrockgnete-hundenahrung":1,
+    "hundetrockenfutter":1,
+    "hundetrockennahrung":1,
+    "trockenes-hundefutter":1,
+    "trockenes-hundenahrung":1
+   },
+   "kaninchenfutter":{
+    "kaninchenfutter":1
+   },
+   "kastriertes-katzenfutter":{
+    "futter-für-kastrierte-und-sterilisierte-katzen":1,
+    "futter-für-sterilisierte-und-kastrierte-katzen":1,
+    "kastriertes-katzenfutter":1
+   },
+   "katzenfutter":{
+    "katzenfutter":1
+   },
+   "katzenfutter-für-erwachsene":{
+    "katzenfutter-für-erwachsene":1
+   },
+   "katzenfutter-für-senioren":{
+    "katzenfutter-für-senioren":1,
+    "senior-katzenfutter":1,
+    "senioren-katzenfutter":1
+   },
+   "katzennassfutter":{
+    "feuchtes-katzenfutter":1,
+    "katzennassfutter":1,
+    "katzennassnahrung":1,
+    "nasses-katzenfutter":1
+   },
+   "katzensnacks":{
+    "katzensnacks":1,
+    "snacks-für-katzen":1
+   },
+   "katzentrockenfutter":{
+    "getrocknete-katzenfutter":1,
+    "katzentrockenfutter":1,
+    "katzentrockennahrung":1,
+    "trockenes-futter-für-katzen":1,
+    "trockenes-katzenfutter":1,
+    "trockenfutter-für-katzen":1
+   },
+   "nagetierfutter":{
+    "nagetierfutter":1
+   },
+   "nassfutter":{
+    "nasses-futter":1,
+    "nassfutter":1
+   },
+   "non-pet-food-produkte":{
+    "non-pet-food-produkte":1
+   },
+   "pferdefutter":{
+    "pferdefutter":1
+   },
+   "sonstiges-tierfutter":{
+    "sonstiges-tierfutter":1
+   },
+   "trockenfutter":{
+    "trockenes-futter":1,
+    "trockenfutter":1
+   },
+   "vogelfutter":{
+    "vogelfutter":1
+   }
+  },
+  "el":{
+   "μπισκότο-σκύλου":{
+    "μπισκότο-σκύλου":1
+   },
+   "τροφή-για-γάτες":{
+    "τροφή-για-γάτες":1
+   },
+   "τροφή-για-ενήλικες-γάτες":{
+    "τροφή-για-ενήλικες-γάτες":1
+   },
+   "τροφή-για-ηλικιωμένες-γάτες":{
+    "τροφή-για-ηλικιωμένες-γάτες":1
+   },
+   "τροφή-για-πουλιά":{
+    "τροφή-για-πουλιά":1
+   },
+   "τροφή-για-ψάρια":{
+    "τροφή-για-ψάρια":1
+   }
+  },
+  "en":{
+   "adult-cat-food":{
+    "adult-cat-food":1,
+    "adult-cat-products":1
+   },
+   "bird-and-fowl-food":{
+    "bird-and-fowl-food":1
+   },
+   "bird-food":{
+    "bird-food":1
+   },
+   "castrated-cat-food":{
+    "castrated-cat-food":1,
+    "castrated-cat-products":1
+   },
+   "cat-biscuits":{
+    "cat-biscuits":1,
+    "cat-treats":1
+   },
+   "cat-food":{
+    "cat-food":1,
+    "cat-products":1
+   },
+   "dog-and-cat-food":{
+    "dog-and-cat-food":1,
+    "dog-and-cat-products":1
+   },
+   "dog-biscuit":{
+    "dog-biscuit":1
+   },
+   "dog-food":{
+    "dog-food":1
+   },
+   "dry-cat-food":{
+    "dry-cat-food":1,
+    "dry-cat-products":1
+   },
+   "dry-complete-food-for-adult-cats":{
+    "dry-complete-food-for-adult-cats":1
+   },
+   "dry-dog-food":{
+    "dry-dog-food":1
+   },
+   "dry-pet-food":{
+    "dry-food":1,
+    "dry-pet-food":1
+   },
+   "fish-food":{
+    "fish-food":1
+   },
+   "horse-food":{
+    "horse-food":1
+   },
+   "incorrect-product-type":{
+    "incorrect-product-type":1
+   },
+   "livestock-feed":{
+    "livestock-feed":1
+   },
+   "miscellaneous-pet-food":{
+    "miscellaneous-animal-food":1,
+    "miscellaneous-pet-food":1
+   },
+   "non-pet-food-products":{
+    "non-pet-food-products":1
+   },
+   "open-beauty-facts":{
+    "cosmetics":1,
+    "hygiene":1,
+    "obf":1,
+    "open-beauty-facts":1
+   },
+   "open-food-facts":{
+    "off":1,
+    "open-food-facts":1
+   },
+   "open-products-facts":{
+    "open-products-facts":1,
+    "opf":1
+   },
+   "rabbit-food":{
+    "rabbit-food":1
+   },
+   "reptile-food":{
+    "reptile-food":1
+   },
+   "rodent-food":{
+    "rodent-food":1
+   },
+   "senior-cat-food":{
+    "senior-cat-food":1,
+    "senior-cat-products":1
+   },
+   "wet-cat-food":{
+    "canned-cat-food":1,
+    "canned-cat-products":1,
+    "wet-cat-food":1,
+    "wet-cat-products":1
+   },
+   "wet-dog-food":{
+    "canned-dog-food":1,
+    "wet-dog-food":1
+   },
+   "wet-pet-food":{
+    "wet-food":1,
+    "wet-pet-food":1
+   }
+  },
+  "es":{
+   "comida-para-gatos":{
+    "comida-para-gatos":1
+   },
+   "comida-para-gatos-adultos":{
+    "comida-para-gatos-adultos":1
+   },
+   "comida-para-gatos-castrados":{
+    "comida-para-gatos-castrados":1
+   },
+   "comida-para-gatos-mayores":{
+    "comida-para-gatos-mayores":1
+   },
+   "comida-para-pajaros":{
+    "comida-para-pajaros":1
+   },
+   "comida-para-peces":{
+    "comida-para-peces":1
+   },
+   "galleta-para-perros":{
+    "galleta-para-perros":1
+   },
+   "productos-no-alimenticios-para-mascotas":{
+    "productos-no-alimenticios-para-mascotas":1
+   },
+   "tipo-de-producto-incorrecto":{
+    "tipo-de-producto-incorrecto":1
+   }
+  },
+  "et":{
+   "eakate-kassitoit":{
+    "eakate-kassitoit":1
+   },
+   "kalatoit":{
+    "kalatoit":1
+   },
+   "kassitoit":{
+    "kassitoit":1
+   },
+   "koeraküpsis":{
+    "koeraküpsis":1
+   },
+   "linnutoit":{
+    "linnutoit":1
+   },
+   "täiskasvanud-kassitoit":{
+    "täiskasvanud-kassitoit":1
+   }
+  },
+  "eu":{
+   "arrain-janaria":{
+    "arrain-janaria":1
+   },
+   "hegazti-janaria":{
+    "hegazti-janaria":1
+   },
+   "katu-janari-heldua":{
+    "katu-janari-heldua":1
+   },
+   "katu-janari-zaharra":{
+    "katu-janari-zaharra":1
+   },
+   "katu-janaria":{
+    "katu-janaria":1
+   },
+   "txakur-gaileta":{
+    "txakur-gaileta":1
+   }
+  },
+  "fa":{
+   "بیسکویت-سگ":{
+    "بیسکویت-سگ":1
+   },
+   "غذای-ماهی":{
+    "غذای-ماهی":1
+   },
+   "غذای-پرنده":{
+    "غذای-پرنده":1
+   },
+   "غذای-گربه":{
+    "غذای-گربه":1
+   },
+   "غذای-گربه-بالغ":{
+    "غذای-گربه-بالغ":1
+   },
+   "غذای-گربه-مسن":{
+    "غذای-گربه-مسن":1
+   }
+  },
+  "fi":{
+   "aikuisen-kissanruoka":{
+    "aikuisen-kissanruoka":1
+   },
+   "ei-lemmikkiruokatuote":{
+    "ei-lemmikkiruokatuote":1
+   },
+   "kalanruoka":{
+    "kalanruoka":1
+   },
+   "kissanruoka":{
+    "kissanruoka":1
+   },
+   "koirankeksi":{
+    "koirankeksi":1
+   },
+   "linnunruoka":{
+    "linnunruoka":1
+   },
+   "seniorikissanruoka":{
+    "seniorikissanruoka":1
+   },
+   "väärä-product-type":{
+    "väärä-product-type":1
+   }
+  },
+  "fr":{
+   "biscuit-pour-chien":{
+    "biscuit-pour-chien":1
+   },
+   "biscuits-pour-chats":{
+    "biscuits-pour-chats":1,
+    "friandises-pour-chats":1
+   },
+   "croquettes-pour-chat":{
+    "croquettes-pour-chat":1
+   },
+   "croquettes-pour-chien":{
+    "croquettes-pour-chien":1
+   },
+   "mauvais-product-type":{
+    "mauvais-product-type":1
+   },
+   "non-alimentaire-pour-animaux":{
+    "non-alimentaire-pour-animaux":1
+   },
+   "nourriture-humide-pour-animaux":{
+    "nourriture-humide-pour-animaux":1,
+    "patees-pour-animaux":1
+   },
+   "nourriture-pour-animaux-divers":{
+    "nourriture-pour-animaux-divers":1,
+    "nourriture-pour-animaux-varies":1
+   },
+   "nourriture-pour-chat-age":{
+    "aliments-pour-chat-ages":1,
+    "nourriture-pour-chat-age":1,
+    "nourriture-pour-chats-ages":1,
+    "produits-pour-chats-ages":1
+   },
+   "nourriture-pour-chats":{
+    "aliments-pour-chat":1,
+    "nourriture-pour-chats":1,
+    "produits-pour-chats":1
+   },
+   "nourriture-pour-chats-adultes":{
+    "aliments-pour-chat-adultes":1,
+    "nourriture-pour-chats-adultes":1,
+    "produits-pour-chats-adultes":1
+   },
+   "nourriture-pour-chats-castres":{
+    "aliments-pour-chat-castres":1,
+    "nourriture-pour-chat-castre":1,
+    "nourriture-pour-chats-castres":1,
+    "produits-pour-chats-castres":1
+   },
+   "nourriture-pour-chevaux":{
+    "nourriture-pour-chevaux":1
+   },
+   "nourriture-pour-chiens":{
+    "nourriture-pour-chiens":1,
+    "produits-pour-chiens":1
+   },
+   "nourriture-pour-chiens-et-chats":{
+    "nourriture-pour-chiens-et-chats":1,
+    "produits-pour-chiens-et-chats":1
+   },
+   "nourriture-pour-lapins":{
+    "nourriture-pour-lapins":1
+   },
+   "nourriture-pour-oiseaux":{
+    "nourriture-pour-oiseaux":1
+   },
+   "nourriture-pour-poissons":{
+    "nourriture-pour-poissons":1
+   },
+   "nourriture-pour-reptiles":{
+    "nourriture-pour-reptiles":1
+   },
+   "nourriture-pour-rongeurs":{
+    "nourriture-pour-rongeurs":1
+   },
+   "nourriture-seche-complete-pour-chats-adultes":{
+    "nourriture-seche-complete-pour-chats-adultes":1
+   },
+   "nourriture-seche-pour-animaux":{
+    "croquettes-pour-animaux":1,
+    "nourriture-seche-pour-animaux":1
+   },
+   "patees-pour-chat":{
+    "boites-pour-chat":1,
+    "nourriture-humide-pour-chat":1,
+    "patees-pour-chat":1,
+    "sachet-fraicheur-pour-chat":1
+   },
+   "patees-pour-chien":{
+    "boites-pour-chien":1,
+    "nourriture-humide-pour-chien":1,
+    "patees-pour-chien":1
+   }
+  },
+  "ga":{
+   "bia-cat":{
+    "bia-cat":1
+   },
+   "bia-do-chait-aosach":{
+    "bia-do-chait-aosach":1
+   },
+   "bia-do-chait-shinsearach":{
+    "bia-do-chait-shinsearach":1
+   },
+   "bia-éan":{
+    "bia-éan":1
+   },
+   "bia-éisc":{
+    "bia-éisc":1
+   },
+   "briosca-madra":{
+    "briosca-madra":1
+   }
+  },
+  "gl":{
+   "comida-para-aves":{
+    "comida-para-aves":1
+   },
+   "comida-para-gatos":{
+    "comida-para-gatos":1
+   },
+   "comida-para-gatos-adultos":{
+    "comida-para-gatos-adultos":1
+   },
+   "comida-para-gatos-maiores":{
+    "comida-para-gatos-maiores":1
+   },
+   "comida-para-peixes":{
+    "comida-para-peixes":1
+   },
+   "galleta-para-cans":{
+    "galleta-para-cans":1
+   }
+  },
+  "gu":{
+   "ડોગ-બિસ્કીટ":{
+    "ડોગ-બિસ્કીટ":1
+   },
+   "પક્ષી-ખોરાક":{
+    "પક્ષી-ખોરાક":1
+   },
+   "પુખ્ત-બિલાડી-ખોરાક":{
+    "પુખ્ત-બિલાડી-ખોરાક":1
+   },
+   "બિલાડી-ખોરાક":{
+    "બિલાડી-ખોરાક":1
+   },
+   "માછલી-ખોરાક":{
+    "માછલી-ખોરાક":1
+   },
+   "વરિષ્ઠ-બિલાડી-ખોરાક":{
+    "વરિષ્ઠ-બિલાડી-ખોરાક":1
+   }
+  },
+  "he":{
+   "ביסקוויט-לכלבים":{
+    "ביסקוויט-לכלבים":1
+   },
+   "מזון-לדגים":{
+    "מזון-לדגים":1
+   },
+   "מזון-לחתולים":{
+    "מזון-לחתולים":1
+   },
+   "מזון-לחתולים-בוגרים":{
+    "מזון-לחתולים-בוגרים":1
+   },
+   "מזון-לחתולים-ותיקים":{
+    "מזון-לחתולים-ותיקים":1
+   },
+   "מזון-לציפורים":{
+    "מזון-לציפורים":1
+   }
+  },
+  "hi":{
+   "कुत्ते-का-बिस्कुट":{
+    "कुत्ते-का-बिस्कुट":1
+   },
+   "पक्षी-का-भोजन":{
+    "पक्षी-का-भोजन":1
+   },
+   "बिल्ली-का-भोजन":{
+    "बिल्ली-का-भोजन":1
+   },
+   "मछली-का-भोजन":{
+    "मछली-का-भोजन":1
+   },
+   "वयस्क-बिल्ली-का-भोजन":{
+    "वयस्क-बिल्ली-का-भोजन":1
+   },
+   "वरिष्ठ-बिल्ली-का-भोजन":{
+    "वरिष्ठ-बिल्ली-का-भोजन":1
+   }
+  },
+  "hr":{
+   "hrana-za-glodavce":{
+    "hrana-za-glodavce":1
+   },
+   "hrana-za-gmazove":{
+    "hrana-za-gmazove":1
+   },
+   "hrana-za-kastrirane-mačke":{
+    "hrana-za-kastrirane-mačke":1
+   },
+   "hrana-za-konje":{
+    "hrana-za-konje":1
+   },
+   "hrana-za-kuniće":{
+    "hrana-za-kuniće":1
+   },
+   "hrana-za-mačke":{
+    "hrana-za-mačke":1
+   },
+   "hrana-za-odrasle-mačke":{
+    "hrana-za-odrasle-mačke":1
+   },
+   "hrana-za-ptice":{
+    "hrana-za-ptice":1
+   },
+   "hrana-za-ribe":{
+    "hrana-za-ribe":1
+   },
+   "hrana-za-starije-mačke":{
+    "hrana-za-starije-mačke":1
+   },
+   "mačji-keksi":{
+    "mačji-keksi":1
+   },
+   "mokra-hrana-za-kućne-ljubimce":{
+    "mokra-hrana-za-kućne-ljubimce":1
+   },
+   "mokra-hrana-za-pse":{
+    "mokra-hrana-za-pse":1
+   },
+   "mokra-mačja-hrana":{
+    "mokra-mačja-hrana":1
+   },
+   "neprehrambeni-proizvodi-za-kućne-ljubimce":{
+    "neprehrambeni-proizvodi-za-kućne-ljubimce":1
+   },
+   "pasji-keks":{
+    "pasji-keks":1
+   },
+   "pogrešan-product-type":{
+    "pogrešan-product-type":1
+   },
+   "pseća-hrana":{
+    "pseća-hrana":1
+   },
+   "razna-hrana-za-kućne-ljubimce":{
+    "razna-hrana-za-kućne-ljubimce":1
+   },
+   "suha-hrana-za-kućne-ljubimce":{
+    "suha-hrana-za-kućne-ljubimce":1
+   },
+   "suha-hrana-za-pse":{
+    "suha-hrana-za-pse":1
+   },
+   "suha-mačja-hrana":{
+    "suha-mačja-hrana":1
+   }
+  },
+  "hu":{
+   "felnőtt-macskaeledel":{
+    "felnőtt-macskaeledel":1
+   },
+   "haltáp":{
+    "haltáp":1
+   },
+   "idős-macskaeledel":{
+    "idős-macskaeledel":1
+   },
+   "kutya-keksz":{
+    "kutya-keksz":1
+   },
+   "kutyaeledel":{
+    "kutyaeledel":1
+   },
+   "macskaeledel":{
+    "macskaeledel":1
+   },
+   "macskakonzerv":{
+    "kozerv-macskaeledel":1,
+    "macskakonzerv":1,
+    "nedves-macsakaeledel":1
+   },
+   "madáreleség":{
+    "madáreledel":1,
+    "madáreleség":1
+   },
+   "száraz-kutyaeledel":{
+    "száraz-kutyaeledel":1
+   },
+   "száraz-macska-eledel":{
+    "száraz-macska-eledel":1
+   }
+  },
+  "hy":{
+   "թռչնի-կեր":{
+    "թռչնի-կեր":1
+   },
+   "կատվի-կեր":{
+    "կատվի-կեր":1
+   },
+   "ձկան-կեր":{
+    "ձկան-կեր":1
+   },
+   "մեծահասակ-կատվի-կեր":{
+    "մեծահասակ-կատվի-կեր":1
+   },
+   "շան-թխվածքաբլիթ":{
+    "շան-թխվածքաբլիթ":1
+   },
+   "տարեց-կատվի-կեր":{
+    "տարեց-կատվի-կեր":1
+   }
+  },
+  "id":{
+   "biskuit-anjing":{
+    "biskuit-anjing":1
+   },
+   "makanan-burung":{
+    "makanan-burung":1
+   },
+   "makanan-ikan":{
+    "makanan-ikan":1
+   },
+   "makanan-kucing":{
+    "makanan-kucing":1
+   },
+   "makanan-kucing-dewasa":{
+    "makanan-kucing-dewasa":1
+   },
+   "makanan-kucing-senior":{
+    "makanan-kucing-senior":1
+   }
+  },
+  "is":{
+   "eldri-kattarmatur":{
+    "eldri-kattarmatur":1
+   },
+   "fiskfóður":{
+    "fiskfóður":1
+   },
+   "fuglafóður":{
+    "fuglafóður":1
+   },
+   "fullorðins-kattarmatur":{
+    "fullorðins-kattarmatur":1
+   },
+   "hundakex":{
+    "hundakex":1
+   },
+   "kattarmatur":{
+    "kattarmatur":1
+   }
+  },
+  "it":{
+   "biscotto-per-cani":{
+    "biscotto-per-cani":1
+   },
+   "cibo-per-gatti":{
+    "cibo-per-gatti":1
+   },
+   "cibo-per-gatti-adulti":{
+    "cibo-per-gatti-adulti":1
+   },
+   "cibo-per-gatti-anziani":{
+    "cibo-per-gatti-anziani":1
+   },
+   "cibo-per-uccelli":{
+    "cibo-per-uccelli":1
+   },
+   "mangime-per-pesci":{
+    "mangime-per-pesci":1
+   },
+   "prodotti-non-alimentari-per-animali-domestici":{
+    "prodotti-non-alimentari-per-animali-domestici":1
+   },
+   "tipo-di-prodotto-errato":{
+    "tipo-di-prodotto-errato":1
+   }
+  },
+  "ja":{
+   "ウェットタイプのキャットフード":{
+    "ウェットタイプのキャットフード":1
+   },
+   "ウェットタイプのドッグフード":{
+    "ウェットタイプのドッグフード":1
+   },
+   "ウェットタイプのペットフード":{
+    "ウェットタイプのペットフード":1
+   },
+   "ドッグビスケット":{
+    "ドッグビスケット":1
+   },
+   "ドッグフード":{
+    "ドッグフード":1
+   },
+   "ドライタイプのキャットフード":{
+    "ドライタイプのキャットフード":1
+   },
+   "ドライタイプのドッグフード":{
+    "ドライタイプのドッグフード":1
+   },
+   "ドライタイプのペットフード":{
+    "ドライタイプのペットフード":1
+   },
+   "成猫用フード":{
+    "成猫用フード":1
+   },
+   "猫の餌":{
+    "猫の餌":1
+   },
+   "高齢猫用フード":{
+    "高齢猫用フード":1
+   },
+   "魚の餌":{
+    "魚の餌":1
+   },
+   "鳥の餌":{
+    "鳥の餌":1
+   }
+  },
+  "ka":{
+   "ზრდასრული-კატის-საკვები":{
+    "ზრდასრული-კატის-საკვები":1
+   },
+   "თევზის-საკვები":{
+    "თევზის-საკვები":1
+   },
+   "კატის-საკვები":{
+    "კატის-საკვები":1
+   },
+   "ფრინველის-საკვები":{
+    "ფრინველის-საკვები":1
+   },
+   "ძაღლის-ორცხობილა":{
+    "ძაღლის-ორცხობილა":1
+   },
+   "ხანდაზმული-კატის-საკვები":{
+    "ხანდაზმული-კატის-საკვები":1
+   }
+  },
+  "kk":{
+   "балық-жемі":{
+    "балық-жемі":1
+   },
+   "егдегі-мысық-азығы":{
+    "егдегі-мысық-азығы":1
+   },
+   "ересек-мысық-азығы":{
+    "ересек-мысық-азығы":1
+   },
+   "ит-печеньесі":{
+    "ит-печеньесі":1
+   },
+   "мысық-азығы":{
+    "мысық-азығы":1
+   },
+   "құс-жемі":{
+    "құс-жемі":1
+   }
+  },
+  "km":{
+   "ចំណី-ឆ្មា-ចាស់":{
+    "ចំណី-ឆ្មា-ចាស់":1
+   },
+   "ចំណី-ឆ្មាពេញវ័យ":{
+    "ចំណី-ឆ្មាពេញវ័យ":1
+   },
+   "ចំណីឆ្មា":{
+    "ចំណីឆ្មា":1
+   },
+   "ចំណីត្រី":{
+    "ចំណីត្រី":1
+   },
+   "ចំណីសត្វស្លាប":{
+    "ចំណីសត្វស្លាប":1
+   },
+   "នំឆ្កែ":{
+    "នំឆ្កែ":1
+   }
+  },
+  "kn":{
+   "ನಾಯಿ-ಬಿಸ್ಕತ್ತು":{
+    "ನಾಯಿ-ಬಿಸ್ಕತ್ತು":1
+   },
+   "ಪಕ್ಷಿ-ಆಹಾರ":{
+    "ಪಕ್ಷಿ-ಆಹಾರ":1
+   },
+   "ಬೆಕ್ಕು-ಆಹಾರ":{
+    "ಬೆಕ್ಕು-ಆಹಾರ":1
+   },
+   "ಮೀನು-ಆಹಾರ":{
+    "ಮೀನು-ಆಹಾರ":1
+   },
+   "ವಯಸ್ಕ-ಬೆಕ್ಕು-ಆಹಾರ":{
+    "ವಯಸ್ಕ-ಬೆಕ್ಕು-ಆಹಾರ":1
+   },
+   "ಹಿರಿಯ-ಬೆಕ್ಕು-ಆಹಾರ":{
+    "ಹಿರಿಯ-ಬೆಕ್ಕು-ಆಹಾರ":1
+   }
+  },
+  "ko":{
+   "개-비스킷":{
+    "개-비스킷":1
+   },
+   "고양이-사료":{
+    "고양이-사료":1
+   },
+   "노령묘-사료":{
+    "노령묘-사료":1
+   },
+   "물고기-사료":{
+    "물고기-사료":1
+   },
+   "새-모이":{
+    "새-모이":1
+   },
+   "성묘-사료":{
+    "성묘-사료":1
+   }
+  },
+  "ku":{
+   "biskuwîta-kûçikan":{
+    "biskuwîta-kûçikan":1
+   },
+   "xwarina-masî":{
+    "xwarina-masî":1
+   },
+   "xwarina-pisîkê":{
+    "xwarina-pisîkê":1
+   },
+   "xwarina-pisîkên-mezin":{
+    "xwarina-pisîkên-mezin":1
+   },
+   "xwarina-pisîkên-pîr":{
+    "xwarina-pisîkên-pîr":1
+   },
+   "xwarina-çûkan":{
+    "xwarina-çûkan":1
+   }
+  },
+  "ky":{
+   "балык-тоюту":{
+    "балык-тоюту":1
+   },
+   "ит-печеньеси":{
+    "ит-печеньеси":1
+   },
+   "кары-мышыктын-тамагы":{
+    "кары-мышыктын-тамагы":1
+   },
+   "куш-тоюту":{
+    "куш-тоюту":1
+   },
+   "мышыктын-тамагы":{
+    "мышыктын-тамагы":1
+   },
+   "чоң-мышыктын-тамагы":{
+    "чоң-мышыктын-тамагы":1
+   }
+  },
+  "lo":{
+   "ອາຫານນົກ":{
+    "ອາຫານນົກ":1
+   },
+   "ອາຫານປາ":{
+    "ອາຫານປາ":1
+   },
+   "ອາຫານແມວ":{
+    "ອາຫານແມວ":1
+   },
+   "ອາຫານແມວແກ່":{
+    "ອາຫານແມວແກ່":1
+   },
+   "ອາຫານແມວໃຫຍ່":{
+    "ອາຫານແມວໃຫຍ່":1
+   },
+   "ເຂົ້າ-ໜົມ-ໝາ":{
+    "ເຂົ້າ-ໜົມ-ໝາ":1
+   }
+  },
+  "lt":{
+   "kačių-maistas":{
+    "kačių-maistas":1
+   },
+   "maistas-vyresnėms-katėms":{
+    "maistas-vyresnėms-katėms":1
+   },
+   "paukščių-maistas":{
+    "paukščių-maistas":1
+   },
+   "suaugusių-kačių-maistas":{
+    "suaugusių-kačių-maistas":1
+   },
+   "šunų-sausainiai":{
+    "šunų-sausainiai":1
+   },
+   "žuvų-maistas":{
+    "žuvų-maistas":1
+   }
+  },
+  "lv":{
+   "barība-pieaugušiem-kaķiem":{
+    "barība-pieaugušiem-kaķiem":1
+   },
+   "barība-vecākiem-kaķiem":{
+    "barība-vecākiem-kaķiem":1
+   },
+   "kaķu-barība":{
+    "kaķu-barība":1
+   },
+   "putnu-barība":{
+    "putnu-barība":1
+   },
+   "suņu-cepums":{
+    "suņu-cepums":1
+   },
+   "zivju-barība":{
+    "zivju-barība":1
+   }
+  },
+  "mk":{
+   "бисквит-за-кучиња":{
+    "бисквит-за-кучиња":1
+   },
+   "храна-за-возрасни-мачки":{
+    "храна-за-возрасни-мачки":1
+   },
+   "храна-за-мачки":{
+    "храна-за-мачки":1
+   },
+   "храна-за-птици":{
+    "храна-за-птици":1
+   },
+   "храна-за-риби":{
+    "храна-за-риби":1
+   },
+   "храна-за-стари-мачки":{
+    "храна-за-стари-мачки":1
+   }
+  },
+  "ml":{
+   "നായ-ബിസ്ക്കറ്റ്":{
+    "നായ-ബിസ്ക്കറ്റ്":1
+   },
+   "പക്ഷി-ഭക്ഷണം":{
+    "പക്ഷി-ഭക്ഷണം":1
+   },
+   "പൂച്ച-ഭക്ഷണം":{
+    "പൂച്ച-ഭക്ഷണം":1
+   },
+   "മത്സ്യം-ഭക്ഷണം":{
+    "മത്സ്യം-ഭക്ഷണം":1
+   },
+   "മുതിർന്ന-പൂച്ച-ഭക്ഷണം":{
+    "മുതിർന്ന-പൂച്ച-ഭക്ഷണം":1
+   }
+  },
+  "mn":{
+   "ахмад-настай-муурны-хоол":{
+    "ахмад-настай-муурны-хоол":1
+   },
+   "загасны-хоол":{
+    "загасны-хоол":1
+   },
+   "муурны-хоол":{
+    "муурны-хоол":1
+   },
+   "насанд-хүрсэн-муурны-хоол":{
+    "насанд-хүрсэн-муурны-хоол":1
+   },
+   "нохойн-жигнэмэг":{
+    "нохойн-жигнэмэг":1
+   },
+   "шувууны-хоол":{
+    "шувууны-хоол":1
+   }
+  },
+  "mr":{
+   "कुत्रा-बिस्किट":{
+    "कुत्रा-बिस्किट":1
+   },
+   "ज्येष्ठ-मांजराचे-अन्न":{
+    "ज्येष्ठ-मांजराचे-अन्न":1
+   },
+   "पक्षी-अन्न":{
+    "पक्षी-अन्न":1
+   },
+   "प्रौढ-मांजराचे-अन्न":{
+    "प्रौढ-मांजराचे-अन्न":1
+   },
+   "मांजर-अन्न":{
+    "मांजर-अन्न":1
+   },
+   "मासे-अन्न":{
+    "मासे-अन्न":1
+   }
+  },
+  "ms":{
+   "biskut-anjing":{
+    "biskut-anjing":1
+   },
+   "makanan-burung":{
+    "makanan-burung":1
+   },
+   "makanan-ikan":{
+    "makanan-ikan":1
+   },
+   "makanan-kucing":{
+    "makanan-kucing":1
+   },
+   "makanan-kucing-dewasa":{
+    "makanan-kucing-dewasa":1
+   },
+   "makanan-kucing-tua":{
+    "makanan-kucing-tua":1
+   }
+  },
+  "mt":{
+   "biskutt-tal-klieb":{
+    "biskutt-tal-klieb":1
+   },
+   "ikel-għall-għasafar":{
+    "ikel-għall-għasafar":1
+   },
+   "ikel-għall-qtates":{
+    "ikel-għall-qtates":1
+   },
+   "ikel-għall-qtates-adulti":{
+    "ikel-għall-qtates-adulti":1
+   },
+   "ikel-għall-qtates-anzjani":{
+    "ikel-għall-qtates-anzjani":1
+   },
+   "ikel-għall-ħut":{
+    "ikel-għall-ħut":1
+   }
+  },
+  "my":{
+   "ကြောင်အစာ":{
+    "ကြောင်အစာ":1
+   },
+   "ကြောင်အိုစာ":{
+    "ကြောင်အိုစာ":1
+   },
+   "ခွေးဘီစကွတ်":{
+    "ခွေးဘီစကွတ်":1
+   },
+   "ငါးစာ":{
+    "ငါးစာ":1
+   },
+   "ငှက်စာ":{
+    "ငှက်စာ":1
+   },
+   "အရွယ်ရောက်-ကြောင်စာ":{
+    "အရွယ်ရောက်-ကြောင်စာ":1
+   }
+  },
+  "nl":{
+   "divers-diervoer":{
+    "divers-diervoer":1
+   },
+   "droog-kattenvoer":{
+    "droog-kattenvoer":1,
+    "droog-kattevoer":1
+   },
+   "droog-voedsel":{
+    "droog-dierenvoedsel":1,
+    "droog-voedsel":1
+   },
+   "honden-en-kattenvoedsel":{
+    "honden-en-kattenvoedsel":1
+   },
+   "hondenbrokken":{
+    "hondenbrokken":1
+   },
+   "hondenkoekjes":{
+    "hondenkoekjes":1
+   },
+   "hondenvoedsel":{
+    "hondenvoedsel":1,
+    "hondenvoer":1
+   },
+   "kattebrokken":{
+    "kattebrokken":1,
+    "kattenbrokken":1
+   },
+   "kattenvoer":{
+    "kattenvoer":1,
+    "kattevoer":1
+   },
+   "nat-hondenvoer":{
+    "nat-hondenvoedsel":1,
+    "nat-hondenvoer":1
+   },
+   "nat-kattenvoet":{
+    "ingeblikt-kattenvoer":1,
+    "ingeblikt-kattevoer":1,
+    "nat-kattenvoet":1
+   },
+   "nat-voedsel":{
+    "nat-voedsel":1
+   },
+   "natvoer-voor-volwassen-katten":{
+    "natvoer-voor-volwassen-katten":1
+   },
+   "non-pet-food":{
+    "non-pet-food":1
+   },
+   "rattenvoer":{
+    "rattenvoer":1
+   },
+   "reptielenvoer":{
+    "reptielenvoer":1,
+    "voer-voor-reptielen":1
+   },
+   "verkeerd-product-type":{
+    "verkeerd-product-type":1
+   },
+   "visvoeding":{
+    "vissenvoer":1,
+    "visvoeding":1
+   },
+   "voer-voor-gecastreerde-katten":{
+    "voer-voor-gecastreerde-katten":1
+   },
+   "voer-voor-konijnen":{
+    "voer-voor-konijnen":1
+   },
+   "voer-voor-oudere-katten":{
+    "voer-voor-oudere-katten":1
+   },
+   "voer-voor-paarden":{
+    "voer-voor-paarden":1
+   },
+   "vogelvoer":{
+    "vogelvoedsel":1,
+    "vogelvoer":1
+   },
+   "volwassen-kattenvoer":{
+    "volwassen-kattenvoer":1,
+    "volwassen-kattevoer":1
+   }
+  },
+  "no":{
+   "fiskefôr":{
+    "fiskefôr":1
+   },
+   "fuglemat":{
+    "fuglemat":1
+   },
+   "hundekjeks":{
+    "hundekjeks":1
+   },
+   "kattemat":{
+    "kattemat":1
+   },
+   "seniorkattemat":{
+    "seniorkattemat":1
+   },
+   "voksen-kattemat":{
+    "voksen-kattemat":1
+   }
+  },
+  "or":{
+   "କୁକୁର-ବିସ୍କୁଟ୍":{
+    "କୁକୁର-ବିସ୍କୁଟ୍":1
+   },
+   "ପକ୍ଷୀ-ଖାଦ୍ୟ":{
+    "ପକ୍ଷୀ-ଖାଦ୍ୟ":1
+   },
+   "ବରିଷ୍ଠ-ବିଲେଇ-ଖାଦ୍ୟ":{
+    "ବରିଷ୍ଠ-ବିଲେଇ-ଖାଦ୍ୟ":1
+   },
+   "ବିଲେଇ-ଖାଦ୍ୟ":{
+    "ବିଲେଇ-ଖାଦ୍ୟ":1
+   },
+   "ବୟସ୍କ-ବିଲେଇ-ଖାଦ୍ୟ":{
+    "ବୟସ୍କ-ବିଲେଇ-ଖାଦ୍ୟ":1
+   },
+   "ମାଛ-ଖାଦ୍ୟ":{
+    "ମାଛ-ଖାଦ୍ୟ":1
+   }
+  },
+  "pa":{
+   "ਕੁੱਤਾ-ਬਿਸਕੁਟ":{
+    "ਕੁੱਤਾ-ਬਿਸਕੁਟ":1
+   },
+   "ਪੰਛੀ-ਭੋਜਨ":{
+    "ਪੰਛੀ-ਭੋਜਨ":1
+   },
+   "ਬਾਲਗ-ਬਿੱਲੀ-ਭੋਜਨ":{
+    "ਬਾਲਗ-ਬਿੱਲੀ-ਭੋਜਨ":1
+   },
+   "ਬਿੱਲੀ-ਭੋਜਨ":{
+    "ਬਿੱਲੀ-ਭੋਜਨ":1
+   },
+   "ਮੱਛੀ-ਭੋਜਨ":{
+    "ਮੱਛੀ-ਭੋਜਨ":1
+   },
+   "ਸੀਨੀਅਰ-ਬਿੱਲੀ-ਭੋਜਨ":{
+    "ਸੀਨੀਅਰ-ਬਿੱਲੀ-ਭੋਜਨ":1
+   }
+  },
+  "pl":{
+   "karma-dla-dorosłych-kotów":{
+    "karma-dla-dorosłych-kotów":1
+   },
+   "karma-dla-kotów":{
+    "karma-dla-kotów":1
+   },
+   "karma-dla-kotów-seniorów":{
+    "karma-dla-kotów-seniorów":1
+   },
+   "karma-dla-ptaków":{
+    "karma-dla-ptaków":1
+   },
+   "karma-dla-ryb":{
+    "karma-dla-ryb":1
+   },
+   "psi-herbatnik":{
+    "psi-herbatnik":1
+   }
+  },
+  "ps":{
+   "د-زړو-پیشو-خواړه":{
+    "د-زړو-پیشو-خواړه":1
+   },
+   "د-سپي-بسکټ":{
+    "د-سپي-بسکټ":1
+   },
+   "د-لوی-پیشو-خواړه":{
+    "د-لوی-پیشو-خواړه":1
+   },
+   "د-مرغانو-خواړه":{
+    "د-مرغانو-خواړه":1
+   },
+   "د-پیشو-خواړه":{
+    "د-پیشو-خواړه":1
+   },
+   "د-کبانو-خواړه":{
+    "د-کبانو-خواړه":1
+   }
+  },
+  "pt":{
+   "biscoito-para-caes":{
+    "biscoito-para-caes":1
+   },
+   "comida-de-cao-humida":{
+    "comida-de-cao-humida":1
+   },
+   "comida-para-gatos":{
+    "comida-para-gatos":1
+   },
+   "comida-para-gatos-adultos":{
+    "comida-para-gatos-adultos":1
+   },
+   "comida-para-gatos-idosos":{
+    "comida-para-gatos-idosos":1
+   },
+   "comida-para-passaros":{
+    "comida-para-passaros":1
+   },
+   "comida-para-peixes":{
+    "comida-para-peixes":1
+   },
+   "produtos-nao-alimentares-para-animais-de-estimacao":{
+    "produtos-nao-alimentares-para-animais-de-estimacao":1
+   },
+   "tipo-de-produto-incorreto":{
+    "tipo-de-produto-incorreto":1
+   }
+  },
+  "ro":{
+   "biscuiți-pentru-câini":{
+    "biscuiți-pentru-câini":1
+   },
+   "hrană-pentru-pești":{
+    "hrană-pentru-pești":1
+   },
+   "hrană-pentru-pisici":{
+    "hrană-pentru-pisici":1
+   },
+   "hrană-pentru-pisici-adulte":{
+    "hrană-pentru-pisici-adulte":1
+   },
+   "hrană-pentru-pisici-seniori":{
+    "hrană-pentru-pisici-seniori":1
+   },
+   "hrană-pentru-păsări":{
+    "hrană-pentru-păsări":1
+   }
+  },
+  "ru":{
+   "влажный-корм-для-собаки":{
+    "влажный-корм-для-собаки":1
+   },
+   "консервированный-корм-для-кошек":{
+    "консервированные-корм-для-кошек":1,
+    "консервированные-корма-для-кошек":1,
+    "консервированные-кошачий-корм":1,
+    "консервированные-кошачьи-корма":1,
+    "консервированный-корм-для-кошек":1,
+    "консервированный-корма-для-кошек":1,
+    "консервированный-кошачий-корм":1,
+    "консервированный-кошачьи-корма":1,
+    "консервы-для-кошек":1,
+    "кошачьи-консервы":1
+   },
+   "корм-для-взрослых-кошек":{
+    "корм-для-взрослых-кошек":1
+   },
+   "корм-для-грызунов":{
+    "корм-для-грызунов":1
+   },
+   "корм-для-кастрированных-кошек":{
+    "корм-для-кастрированных-кошек":1
+   },
+   "корм-для-пожилых-кошек":{
+    "корм-для-пожилых-кошек":1
+   },
+   "корм-для-пресмыкающихся":{
+    "корм-для-пресмыкающихся":1,
+    "корм-для-рептилий":1
+   },
+   "корм-для-птиц":{
+    "корм-для-птиц":1,
+    "корма-для-птиц":1
+   },
+   "корм-для-рыб":{
+    "корм-для-рыб":1,
+    "рыбий-корм":1
+   },
+   "корм-для-собак-и-кошек":{
+    "корм-для-собак-и-кошек":1,
+    "корма-для-собак-и-кошек":1,
+    "собачий-корм-и-кошек":1,
+    "собачьи-корма-и-кошек":1
+   },
+   "корм-консервированный-полнорационный-для-взрослых-кошек":{
+    "корм-консервированный-полнорационный-для-взрослых-кошек":1
+   },
+   "корм-сухой-полнорационный-для-взрослых-кошек":{
+    "корм-сухой-полнорационный-для-взрослых-кошек":1
+   },
+   "кошачий-корм":{
+    "корм-для-кошек":1,
+    "корма-для-кошек":1,
+    "кошачий-корм":1,
+    "кошачьи-корма":1
+   },
+   "неправильный-product-type":{
+    "неправильный-product-type":1
+   },
+   "непродукты-для-кормления-домашних-животных":{
+    "не-еда-для-животных":1,
+    "непродукты-для-кормления-домашних-животных":1
+   },
+   "печенье-для-собаки":{
+    "печенье-для-собаки":1
+   },
+   "прочий-корм-для-животных":{
+    "прочий-корм-для-животных":1
+   },
+   "собачий-корм":{
+    "корм-для-собак":1,
+    "корма-для-собак":1,
+    "собачий-корм":1,
+    "собачьи-корма":1
+   },
+   "сухой-корм":{
+    "сухой-корм":1
+   },
+   "сухой-корм-для-кошек":{
+    "сухие-корм-для-кошек":1,
+    "сухие-корма-для-кошек":1,
+    "сухие-кошачий-корм":1,
+    "сухие-кошачьи-корма":1,
+    "сухой-корм-для-кошек":1,
+    "сухой-корма-для-кошек":1,
+    "сухой-кошачий-корм":1,
+    "сухой-кошачьи-корма":1
+   },
+   "сухой-корм-для-собак":{
+    "сухие-корм-для-собак":1,
+    "сухие-корма-для-собак":1,
+    "сухие-собачий-корм":1,
+    "сухие-собачьи-корма":1,
+    "сухой-корм-для-собак":1,
+    "сухой-корма-для-собак":1,
+    "сухой-собачий-корм":1,
+    "сухой-собачьи-корма":1
+   }
+  },
+  "sd":{
+   "بالغ-ٻلي-کاڌو":{
+    "بالغ-ٻلي-کاڌو":1
+   },
+   "مڇي-کاڌو":{
+    "مڇي-کاڌو":1
+   },
+   "ٻلي-کاڌو":{
+    "ٻلي-کاڌو":1
+   },
+   "پراڻي-ٻلي-کاڌو":{
+    "پراڻي-ٻلي-کاڌو":1
+   },
+   "پکين-جو-کاڌو":{
+    "پکين-جو-کاڌو":1
+   },
+   "ڪتي-بسڪوٽ":{
+    "ڪتي-بسڪوٽ":1
+   }
+  },
+  "si":{
+   "කුරුළු-ආහාර":{
+    "කුරුළු-ආහාර":1
+   },
+   "ජ්යෙෂ්ඨ-බළල්-ආහාර":{
+    "ජ්යෙෂ්ඨ-බළල්-ආහාර":1
+   },
+   "බළල්-ආහාර":{
+    "බළල්-ආහාර":1
+   },
+   "මාලු-ආහාර":{
+    "මාලු-ආහාර":1
+   },
+   "වැඩිහිටි-බළල්-ආහාර":{
+    "වැඩිහිටි-බළල්-ආහාර":1
+   },
+   "සුනඛ-බිස්කට්":{
+    "සුනඛ-බිස්කට්":1
+   }
+  },
+  "sk":{
+   "krmivo-pre-dospele-mačky":{
+    "krmivo-pre-dospele-mačky":1
+   },
+   "krmivo-pre-mačky":{
+    "krmivo-pre-mačky":1
+   },
+   "krmivo-pre-ryby":{
+    "krmivo-pre-ryby":1
+   },
+   "krmivo-pre-staršie-mačky":{
+    "krmivo-pre-staršie-mačky":1
+   },
+   "krmivo-pre-vtaky":{
+    "krmivo-pre-vtaky":1
+   },
+   "psia-sušienka":{
+    "psia-sušienka":1
+   }
+  },
+  "sl":{
+   "hrana-za-mačke":{
+    "hrana-za-mačke":1
+   },
+   "hrana-za-odrasle-mačke":{
+    "hrana-za-odrasle-mačke":1
+   },
+   "hrana-za-ptice":{
+    "hrana-za-ptice":1
+   },
+   "hrana-za-ribe":{
+    "hrana-za-ribe":1
+   },
+   "hrana-za-starejše-mačke":{
+    "hrana-za-starejše-mačke":1
+   },
+   "pasji-piškot":{
+    "pasji-piškot":1
+   }
+  },
+  "sq":{
+   "biskota-për-qen":{
+    "biskota-për-qen":1
+   },
+   "ushqim-për-mace":{
+    "ushqim-për-mace":1
+   },
+   "ushqim-për-mace-të-rritura":{
+    "ushqim-për-mace-të-rritura":1
+   },
+   "ushqim-për-mace-të-vjetra":{
+    "ushqim-për-mace-të-vjetra":1
+   },
+   "ushqim-për-peshqit":{
+    "ushqim-për-peshqit":1
+   },
+   "ushqim-për-zogj":{
+    "ushqim-për-zogj":1
+   }
+  },
+  "sr":{
+   "hrana-za-mačke":{
+    "hrana-za-mačke":1
+   },
+   "hrana-za-odrasle-mačke":{
+    "hrana-za-odrasle-mačke":1
+   },
+   "hrana-za-ptice":{
+    "hrana-za-ptice":1
+   },
+   "hrana-za-ribe":{
+    "hrana-za-ribe":1
+   },
+   "hrana-za-starije-mačke":{
+    "hrana-za-starije-mačke":1
+   },
+   "pasji-keks":{
+    "pasji-keks":1
+   }
+  },
+  "sv":{
+   "fiskmat":{
+    "fiskmat":1
+   },
+   "fågelmat":{
+    "fågelmat":1
+   },
+   "hundkex":{
+    "hundkex":1
+   },
+   "kattmat":{
+    "kattmat":1
+   },
+   "vuxen-kattmat":{
+    "vuxen-kattmat":1
+   },
+   "äldre-kattmat":{
+    "äldre-kattmat":1
+   }
+  },
+  "sw":{
+   "biskuti-ya-mbwa":{
+    "biskuti-ya-mbwa":1
+   },
+   "chakula-cha-ndege":{
+    "chakula-cha-ndege":1
+   },
+   "chakula-cha-paka":{
+    "chakula-cha-paka":1
+   },
+   "chakula-cha-paka-mzee":{
+    "chakula-cha-paka-mzee":1
+   },
+   "chakula-cha-paka-mzima":{
+    "chakula-cha-paka-mzima":1
+   },
+   "chakula-cha-samaki":{
+    "chakula-cha-samaki":1
+   }
+  },
+  "ta":{
+   "நாய்-பிஸ்கட்":{
+    "நாய்-பிஸ்கட்":1
+   },
+   "பறவை-உணவு":{
+    "பறவை-உணவு":1
+   },
+   "பூனை-உணவு":{
+    "பூனை-உணவு":1
+   },
+   "மீன்-உணவு":{
+    "மீன்-உணவு":1
+   },
+   "மூத்த-பூனை-உணவு":{
+    "மூத்த-பூனை-உணவு":1
+   },
+   "வயது-வந்த-பூனை-உணவு":{
+    "வயது-வந்த-பூனை-உணவு":1
+   }
+  },
+  "te":{
+   "కుక్క-బిస్కెట్":{
+    "కుక్క-బిస్కెట్":1
+   },
+   "చేపల-ఆహారం":{
+    "చేపల-ఆహారం":1
+   },
+   "పక్షి-ఆహారం":{
+    "పక్షి-ఆహారం":1
+   },
+   "పిల్లి-ఆహారం":{
+    "పిల్లి-ఆహారం":1
+   },
+   "పెద్ద-పిల్లి-ఆహారం":{
+    "పెద్ద-పిల్లి-ఆహారం":1
+   },
+   "సీనియర్-పిల్లి-ఆహారం":{
+    "సీనియర్-పిల్లి-ఆహారం":1
+   }
+  },
+  "tg":{
+   "печенье-барои-сагҳо":{
+    "печенье-барои-сагҳо":1
+   },
+   "хӯроки-гурба":{
+    "хӯроки-гурба":1
+   },
+   "хӯроки-гурбаи-калонсол":{
+    "хӯроки-гурбаи-калонсол":1
+   },
+   "хӯроки-моҳӣ":{
+    "хӯроки-моҳӣ":1
+   },
+   "хӯроки-парранда":{
+    "хӯроки-парранда":1
+   }
+  },
+  "th":{
+   "บิสกิตสุนัข":{
+    "บิสกิตสุนัข":1
+   },
+   "อาหารนก":{
+    "อาหารนก":1
+   },
+   "อาหารปลา":{
+    "อาหารปลา":1
+   },
+   "อาหารแมว":{
+    "อาหารแมว":1
+   },
+   "อาหารแมวสูงวัย":{
+    "อาหารแมวสูงวัย":1
+   },
+   "อาหารแมวโต":{
+    "อาหารแมวโต":1
+   }
+  },
+  "tk":{
+   "balyk-iýmiti":{
+    "balyk-iýmiti":1
+   },
+   "gartaşan-pişik-iýmiti":{
+    "gartaşan-pişik-iýmiti":1
+   },
+   "guş-iýmiti":{
+    "guş-iýmiti":1
+   },
+   "it-pişgesi":{
+    "it-pişgesi":1
+   },
+   "pişik-iýmiti":{
+    "pişik-iýmiti":1
+   },
+   "ululy-pişik-iýmiti":{
+    "ululy-pişik-iýmiti":1
+   }
+  },
+  "tl":{
+   "biskwit-ng-aso":{
+    "biskwit-ng-aso":1
+   },
+   "pagkain-ng-ibon":{
+    "pagkain-ng-ibon":1
+   },
+   "pagkain-ng-isda":{
+    "pagkain-ng-isda":1
+   },
+   "pagkain-ng-pusa":{
+    "pagkain-ng-pusa":1
+   },
+   "pagkain-para-sa-adultong-pusa":{
+    "pagkain-para-sa-adultong-pusa":1
+   },
+   "pagkain-para-sa-matatandang-pusa":{
+    "pagkain-para-sa-matatandang-pusa":1
+   }
+  },
+  "tr":{
+   "balık-yemi":{
+    "balık-yemi":1
+   },
+   "kedi-maması":{
+    "kedi-maması":1
+   },
+   "kuş-yemi":{
+    "kuş-yemi":1
+   },
+   "köpek-bisküvisi":{
+    "köpek-bisküvisi":1
+   },
+   "yaşlı-kedi-maması":{
+    "yaşlı-kedi-maması":1
+   },
+   "yetişkin-kedi-maması":{
+    "yetişkin-kedi-maması":1
+   }
+  },
+  "ug":{
+   "ئىت-печеньеси":{
+    "ئىت-печеньеси":1
+   },
+   "بېلىق-يېمى":{
+    "بېلىق-يېمى":1
+   },
+   "قۇش-يېمى":{
+    "قۇش-يېمى":1
+   },
+   "مۈشۈك-ئېزىقى":{
+    "مۈشۈك-ئېزىقى":1
+   },
+   "ياشانغان-مۈشۈك-ئېزىقى":{
+    "ياشانغان-مۈشۈك-ئېزىقى":1
+   },
+   "چوڭ-مۈشۈك-ئېزىقى":{
+    "چوڭ-مۈشۈك-ئېزىقى":1
+   }
+  },
+  "uk":{
+   "корм-для-дорослих-котів":{
+    "корм-для-дорослих-котів":1
+   },
+   "корм-для-літніх-котів":{
+    "корм-для-літніх-котів":1
+   },
+   "корм-для-птахів":{
+    "корм-для-птахів":1
+   },
+   "корм-для-риб":{
+    "корм-для-риб":1
+   },
+   "котячий-корм":{
+    "котячий-корм":1
+   },
+   "печиво-для-собак":{
+    "печиво-для-собак":1
+   }
+  },
+  "uz":{
+   "baliq-ovqati":{
+    "baliq-ovqati":1
+   },
+   "it-pechenesi":{
+    "it-pechenesi":1
+   },
+   "katta-mushuk-ovqati":{
+    "katta-mushuk-ovqati":1
+   },
+   "keksa-mushuk-ovqati":{
+    "keksa-mushuk-ovqati":1
+   },
+   "mushuk-ovqati":{
+    "mushuk-ovqati":1
+   },
+   "qush-ovqati":{
+    "qush-ovqati":1
+   }
+  },
+  "vi":{
+   "bánh-quy-cho-chó":{
+    "bánh-quy-cho-chó":1
+   },
+   "thức-ăn-cho-chim":{
+    "thức-ăn-cho-chim":1
+   },
+   "thức-ăn-cho-cá":{
+    "thức-ăn-cho-cá":1
+   },
+   "thức-ăn-cho-mèo":{
+    "thức-ăn-cho-mèo":1
+   },
+   "thức-ăn-cho-mèo-già":{
+    "thức-ăn-cho-mèo-già":1
+   },
+   "thức-ăn-cho-mèo-trưởng-thành":{
+    "thức-ăn-cho-mèo-trưởng-thành":1
+   }
+  },
+  "xx":{
+   "open-beauty-facts":{
+    "obf":1,
+    "open-beauty-facts":1
+   },
+   "open-food-facts":{
+    "off":1,
+    "open-food-facts":1
+   },
+   "open-products-facts":{
+    "open-products-facts":1,
+    "opf":1
+   }
+  },
+  "zh":{
+   "成年猫粮":{
+    "成年猫粮":1
+   },
+   "狗饼干":{
+    "狗饼干":1
+   },
+   "猫粮":{
+    "猫粮":1
+   },
+   "老年猫粮":{
+    "老年猫粮":1
+   },
+   "鱼食":{
+    "鱼食":1
+   },
+   "鸟食":{
+    "鸟食":1
+   }
+  }
+ },
+ "translations_from":{
+  "ar:بسكويت-للكلاب":"en:dog-biscuit",
+  "ar:طعام-القطط-البالغة":"en:adult-cat-food",
+  "ar:طعام-القطط-الكبيرة-في-السن":"en:senior-cat-food",
+  "ar:طعام-سمك":"en:fish-food",
+  "ar:طعام-قطط":"en:cat-food",
+  "ar:طعام-للطيور":"en:bird-food",
+  "as:চৰাইৰ-খাদ্য":"en:bird-food",
+  "as:পূৰ্ণবয়স্ক-মেকুৰীৰ-খাদ্য":"en:adult-cat-food",
+  "as:বয়সস্থ-মেকুৰীৰ-খাদ্য":"en:senior-cat-food",
+  "as:মাছৰ-খাদ্য":"en:fish-food",
+  "as:মেকুৰীৰ-খাদ্য":"en:cat-food",
+  "az:balıq-yemi":"en:fish-food",
+  "az:i̇t-peçenyası":"en:dog-biscuit",
+  "az:pişik-yeməyi":"en:cat-food",
+  "az:quş-yemi":"en:bird-food",
+  "az:yaşlı-pişik-yeməyi":"en:senior-cat-food",
+  "az:yetkin-pişik-yeməyi":"en:adult-cat-food",
+  "bg:бисквитка-за-кучета":"en:dog-biscuit",
+  "bg:неправилен-product-type":"en:incorrect-product-type",
+  "bg:непродукти-за-храна-за-домашни-любимци":"en:non-pet-food-products",
+  "bg:храна-за-възрастни-котки":"en:adult-cat-food",
+  "bg:храна-за-котки":"en:cat-food",
+  "bg:храна-за-птици":"en:bird-food",
+  "bg:храна-за-риби":"en:fish-food",
+  "bn:কুকুরের-বিস্কুট":"en:dog-biscuit",
+  "bn:পাখির-খাবার":"en:bird-food",
+  "bn:প্রাপ্তবয়স্ক-বিড়ালের-খাবার":"en:adult-cat-food",
+  "bn:বয়স্ক-বিড়ালের-খাবার":"en:senior-cat-food",
+  "bn:বিড়ালের-খাবার":"en:cat-food",
+  "bn:মাছের-খাবার":"en:fish-food",
+  "ca:galeta-per-a-gossos":"en:dog-biscuit",
+  "ca:menjar-per-a-gats":"en:cat-food",
+  "ca:menjar-per-a-gats-adults":"en:adult-cat-food",
+  "ca:menjar-per-a-gats-grans":"en:senior-cat-food",
+  "ca:menjar-per-a-ocells":"en:bird-food",
+  "ca:menjar-per-a-peixos":"en:fish-food",
+  "ca:productes-no-alimentaris-per-a-mascotes":"en:non-pet-food-products",
+  "ca:tipus-de-producte-incorrecte":"en:incorrect-product-type",
+  "cs:krmivo-pro-dospělé-kočky":"en:adult-cat-food",
+  "cs:krmivo-pro-kočky":"en:cat-food",
+  "cs:krmivo-pro-ptáky":"en:bird-food",
+  "cs:krmivo-pro-ryby":"en:fish-food",
+  "cs:krmivo-pro-starší-kočky":"en:senior-cat-food",
+  "cs:psí-sušenka":"en:dog-biscuit",
+  "cy:bisged-ci":"en:dog-biscuit",
+  "cy:bwyd-adar":"en:bird-food",
+  "cy:bwyd-cath-hŷn":"en:senior-cat-food",
+  "cy:bwyd-cathod":"en:cat-food",
+  "cy:bwyd-cathod-oedolion":"en:adult-cat-food",
+  "cy:bwyd-pysgod":"en:fish-food",
+  "da:fiskefoder":"en:fish-food",
+  "da:fuglefoder":"en:bird-food",
+  "da:hundekiks":"en:dog-biscuit",
+  "da:kattemad":"en:cat-food",
+  "da:seniorkattemad":"en:senior-cat-food",
+  "da:voksen-kattemad":"en:adult-cat-food",
+  "de:falscher-product-type":"en:incorrect-product-type",
+  "de:feuchtes-hundefutter":"en:wet-dog-food",
+  "de:fischfutter":"en:fish-food",
+  "de:futter-für-reptilien":"en:reptile-food",
+  "de:hunde-und-katzenfutter":"en:dog-and-cat-food",
+  "de:hundefutter":"en:dog-food",
+  "de:hundekeks":"en:dog-biscuit",
+  "de:hundetrockenfutter":"en:dry-dog-food",
+  "de:kaninchenfutter":"en:rabbit-food",
+  "de:kastriertes-katzenfutter":"en:castrated-cat-food",
+  "de:katzenfutter":"en:cat-food",
+  "de:katzenfutter-für-erwachsene":"en:adult-cat-food",
+  "de:katzenfutter-für-senioren":"en:senior-cat-food",
+  "de:katzennassfutter":"en:wet-cat-food",
+  "de:katzensnacks":"en:cat-biscuits",
+  "de:katzentrockenfutter":"en:dry-cat-food",
+  "de:nagetierfutter":"en:rodent-food",
+  "de:nassfutter":"en:wet-pet-food",
+  "de:non-pet-food-produkte":"en:non-pet-food-products",
+  "de:pferdefutter":"en:horse-food",
+  "de:sonstiges-tierfutter":"en:miscellaneous-pet-food",
+  "de:trockenfutter":"en:dry-pet-food",
+  "de:vogelfutter":"en:bird-food",
+  "el:μπισκότο-σκύλου":"en:dog-biscuit",
+  "el:τροφή-για-γάτες":"en:cat-food",
+  "el:τροφή-για-ενήλικες-γάτες":"en:adult-cat-food",
+  "el:τροφή-για-ηλικιωμένες-γάτες":"en:senior-cat-food",
+  "el:τροφή-για-πουλιά":"en:bird-food",
+  "el:τροφή-για-ψάρια":"en:fish-food",
+  "en:adult-cat-food":"en:adult-cat-food",
+  "en:bird-and-fowl-food":"en:bird-and-fowl-food",
+  "en:bird-food":"en:bird-food",
+  "en:castrated-cat-food":"en:castrated-cat-food",
+  "en:cat-biscuits":"en:cat-biscuits",
+  "en:cat-food":"en:cat-food",
+  "en:dog-and-cat-food":"en:dog-and-cat-food",
+  "en:dog-biscuit":"en:dog-biscuit",
+  "en:dog-food":"en:dog-food",
+  "en:dry-cat-food":"en:dry-cat-food",
+  "en:dry-complete-food-for-adult-cats":"ru:корм-сухой-полнорационный-для-взрослых-кошек",
+  "en:dry-dog-food":"en:dry-dog-food",
+  "en:dry-pet-food":"en:dry-pet-food",
+  "en:fish-food":"en:fish-food",
+  "en:horse-food":"en:horse-food",
+  "en:incorrect-product-type":"en:incorrect-product-type",
+  "en:livestock-feed":"en:livestock-feed",
+  "en:miscellaneous-pet-food":"en:miscellaneous-pet-food",
+  "en:non-pet-food-products":"en:non-pet-food-products",
+  "en:open-beauty-facts":"en:open-beauty-facts",
+  "en:open-food-facts":"en:open-food-facts",
+  "en:open-products-facts":"en:open-products-facts",
+  "en:rabbit-food":"en:rabbit-food",
+  "en:reptile-food":"en:reptile-food",
+  "en:rodent-food":"en:rodent-food",
+  "en:senior-cat-food":"en:senior-cat-food",
+  "en:wet-cat-food":"en:wet-cat-food",
+  "en:wet-dog-food":"en:wet-dog-food",
+  "en:wet-pet-food":"en:wet-pet-food",
+  "es:comida-para-gatos":"en:cat-food",
+  "es:comida-para-gatos-adultos":"en:adult-cat-food",
+  "es:comida-para-gatos-castrados":"en:castrated-cat-food",
+  "es:comida-para-gatos-mayores":"en:senior-cat-food",
+  "es:comida-para-pajaros":"en:bird-food",
+  "es:comida-para-peces":"en:fish-food",
+  "es:galleta-para-perros":"en:dog-biscuit",
+  "es:productos-no-alimenticios-para-mascotas":"en:non-pet-food-products",
+  "es:tipo-de-producto-incorrecto":"en:incorrect-product-type",
+  "et:eakate-kassitoit":"en:senior-cat-food",
+  "et:kalatoit":"en:fish-food",
+  "et:kassitoit":"en:cat-food",
+  "et:koeraküpsis":"en:dog-biscuit",
+  "et:linnutoit":"en:bird-food",
+  "et:täiskasvanud-kassitoit":"en:adult-cat-food",
+  "eu:arrain-janaria":"en:fish-food",
+  "eu:hegazti-janaria":"en:bird-food",
+  "eu:katu-janari-heldua":"en:adult-cat-food",
+  "eu:katu-janari-zaharra":"en:senior-cat-food",
+  "eu:katu-janaria":"en:cat-food",
+  "eu:txakur-gaileta":"en:dog-biscuit",
+  "fa:بیسکویت-سگ":"en:dog-biscuit",
+  "fa:غذای-ماهی":"en:fish-food",
+  "fa:غذای-پرنده":"en:bird-food",
+  "fa:غذای-گربه":"en:cat-food",
+  "fa:غذای-گربه-بالغ":"en:adult-cat-food",
+  "fa:غذای-گربه-مسن":"en:senior-cat-food",
+  "fi:aikuisen-kissanruoka":"en:adult-cat-food",
+  "fi:ei-lemmikkiruokatuote":"en:non-pet-food-products",
+  "fi:kalanruoka":"en:fish-food",
+  "fi:kissanruoka":"en:cat-food",
+  "fi:koirankeksi":"en:dog-biscuit",
+  "fi:linnunruoka":"en:bird-food",
+  "fi:seniorikissanruoka":"en:senior-cat-food",
+  "fi:väärä-product-type":"en:incorrect-product-type",
+  "fr:biscuit-pour-chien":"en:dog-biscuit",
+  "fr:biscuits-pour-chats":"en:cat-biscuits",
+  "fr:croquettes-pour-chat":"en:dry-cat-food",
+  "fr:croquettes-pour-chien":"en:dry-dog-food",
+  "fr:mauvais-product-type":"en:incorrect-product-type",
+  "fr:non-alimentaire-pour-animaux":"en:non-pet-food-products",
+  "fr:nourriture-humide-pour-animaux":"en:wet-pet-food",
+  "fr:nourriture-pour-animaux-divers":"en:miscellaneous-pet-food",
+  "fr:nourriture-pour-chat-age":"en:senior-cat-food",
+  "fr:nourriture-pour-chats":"en:cat-food",
+  "fr:nourriture-pour-chats-adultes":"en:adult-cat-food",
+  "fr:nourriture-pour-chats-castres":"en:castrated-cat-food",
+  "fr:nourriture-pour-chevaux":"en:horse-food",
+  "fr:nourriture-pour-chiens":"en:dog-food",
+  "fr:nourriture-pour-chiens-et-chats":"en:dog-and-cat-food",
+  "fr:nourriture-pour-lapins":"en:rabbit-food",
+  "fr:nourriture-pour-oiseaux":"en:bird-food",
+  "fr:nourriture-pour-poissons":"en:fish-food",
+  "fr:nourriture-pour-reptiles":"en:reptile-food",
+  "fr:nourriture-pour-rongeurs":"en:rodent-food",
+  "fr:nourriture-seche-complete-pour-chats-adultes":"ru:корм-сухой-полнорационный-для-взрослых-кошек",
+  "fr:nourriture-seche-pour-animaux":"en:dry-pet-food",
+  "fr:patees-pour-chat":"en:wet-cat-food",
+  "fr:patees-pour-chien":"en:wet-dog-food",
+  "ga:bia-cat":"en:cat-food",
+  "ga:bia-do-chait-aosach":"en:adult-cat-food",
+  "ga:bia-do-chait-shinsearach":"en:senior-cat-food",
+  "ga:bia-éan":"en:bird-food",
+  "ga:bia-éisc":"en:fish-food",
+  "ga:briosca-madra":"en:dog-biscuit",
+  "gl:comida-para-aves":"en:bird-food",
+  "gl:comida-para-gatos":"en:cat-food",
+  "gl:comida-para-gatos-adultos":"en:adult-cat-food",
+  "gl:comida-para-gatos-maiores":"en:senior-cat-food",
+  "gl:comida-para-peixes":"en:fish-food",
+  "gl:galleta-para-cans":"en:dog-biscuit",
+  "gu:ડોગ-બિસ્કીટ":"en:dog-biscuit",
+  "gu:પક્ષી-ખોરાક":"en:bird-food",
+  "gu:પુખ્ત-બિલાડી-ખોરાક":"en:adult-cat-food",
+  "gu:બિલાડી-ખોરાક":"en:cat-food",
+  "gu:માછલી-ખોરાક":"en:fish-food",
+  "gu:વરિષ્ઠ-બિલાડી-ખોરાક":"en:senior-cat-food",
+  "he:ביסקוויט-לכלבים":"en:dog-biscuit",
+  "he:מזון-לדגים":"en:fish-food",
+  "he:מזון-לחתולים":"en:cat-food",
+  "he:מזון-לחתולים-בוגרים":"en:adult-cat-food",
+  "he:מזון-לחתולים-ותיקים":"en:senior-cat-food",
+  "he:מזון-לציפורים":"en:bird-food",
+  "hi:कुत्ते-का-बिस्कुट":"en:dog-biscuit",
+  "hi:पक्षी-का-भोजन":"en:bird-food",
+  "hi:बिल्ली-का-भोजन":"en:cat-food",
+  "hi:मछली-का-भोजन":"en:fish-food",
+  "hi:वयस्क-बिल्ली-का-भोजन":"en:adult-cat-food",
+  "hi:वरिष्ठ-बिल्ली-का-भोजन":"en:senior-cat-food",
+  "hr:hrana-za-glodavce":"en:rodent-food",
+  "hr:hrana-za-gmazove":"en:reptile-food",
+  "hr:hrana-za-kastrirane-mačke":"en:castrated-cat-food",
+  "hr:hrana-za-konje":"en:horse-food",
+  "hr:hrana-za-kuniće":"en:rabbit-food",
+  "hr:hrana-za-mačke":"en:cat-food",
+  "hr:hrana-za-odrasle-mačke":"en:adult-cat-food",
+  "hr:hrana-za-ptice":"en:bird-food",
+  "hr:hrana-za-ribe":"en:fish-food",
+  "hr:hrana-za-starije-mačke":"en:senior-cat-food",
+  "hr:mačji-keksi":"en:cat-biscuits",
+  "hr:mokra-hrana-za-kućne-ljubimce":"en:wet-pet-food",
+  "hr:mokra-hrana-za-pse":"en:wet-dog-food",
+  "hr:mokra-mačja-hrana":"en:wet-cat-food",
+  "hr:neprehrambeni-proizvodi-za-kućne-ljubimce":"en:non-pet-food-products",
+  "hr:pasji-keks":"en:dog-biscuit",
+  "hr:pogrešan-product-type":"en:incorrect-product-type",
+  "hr:pseća-hrana":"en:dog-food",
+  "hr:razna-hrana-za-kućne-ljubimce":"en:miscellaneous-pet-food",
+  "hr:suha-hrana-za-kućne-ljubimce":"en:dry-pet-food",
+  "hr:suha-hrana-za-pse":"en:dry-dog-food",
+  "hr:suha-mačja-hrana":"en:dry-cat-food",
+  "hu:felnőtt-macskaeledel":"en:adult-cat-food",
+  "hu:haltáp":"en:fish-food",
+  "hu:idős-macskaeledel":"en:senior-cat-food",
+  "hu:kutya-keksz":"en:dog-biscuit",
+  "hu:kutyaeledel":"en:dog-food",
+  "hu:macskaeledel":"en:cat-food",
+  "hu:macskakonzerv":"en:wet-cat-food",
+  "hu:madáreleség":"en:bird-food",
+  "hu:száraz-kutyaeledel":"en:dry-dog-food",
+  "hu:száraz-macska-eledel":"en:dry-cat-food",
+  "hy:թռչնի-կեր":"en:bird-food",
+  "hy:կատվի-կեր":"en:cat-food",
+  "hy:ձկան-կեր":"en:fish-food",
+  "hy:մեծահասակ-կատվի-կեր":"en:adult-cat-food",
+  "hy:շան-թխվածքաբլիթ":"en:dog-biscuit",
+  "hy:տարեց-կատվի-կեր":"en:senior-cat-food",
+  "id:biskuit-anjing":"en:dog-biscuit",
+  "id:makanan-burung":"en:bird-food",
+  "id:makanan-ikan":"en:fish-food",
+  "id:makanan-kucing":"en:cat-food",
+  "id:makanan-kucing-dewasa":"en:adult-cat-food",
+  "id:makanan-kucing-senior":"en:senior-cat-food",
+  "is:eldri-kattarmatur":"en:senior-cat-food",
+  "is:fiskfóður":"en:fish-food",
+  "is:fuglafóður":"en:bird-food",
+  "is:fullorðins-kattarmatur":"en:adult-cat-food",
+  "is:hundakex":"en:dog-biscuit",
+  "is:kattarmatur":"en:cat-food",
+  "it:biscotto-per-cani":"en:dog-biscuit",
+  "it:cibo-per-gatti":"en:cat-food",
+  "it:cibo-per-gatti-adulti":"en:adult-cat-food",
+  "it:cibo-per-gatti-anziani":"en:senior-cat-food",
+  "it:cibo-per-uccelli":"en:bird-food",
+  "it:mangime-per-pesci":"en:fish-food",
+  "it:prodotti-non-alimentari-per-animali-domestici":"en:non-pet-food-products",
+  "it:tipo-di-prodotto-errato":"en:incorrect-product-type",
+  "ja:ウェットタイプのキャットフード":"en:wet-cat-food",
+  "ja:ウェットタイプのドッグフード":"en:wet-dog-food",
+  "ja:ウェットタイプのペットフード":"en:wet-pet-food",
+  "ja:ドッグビスケット":"en:dog-biscuit",
+  "ja:ドッグフード":"en:dog-food",
+  "ja:ドライタイプのキャットフード":"en:dry-cat-food",
+  "ja:ドライタイプのドッグフード":"en:dry-dog-food",
+  "ja:ドライタイプのペットフード":"en:dry-pet-food",
+  "ja:成猫用フード":"en:adult-cat-food",
+  "ja:猫の餌":"en:cat-food",
+  "ja:高齢猫用フード":"en:senior-cat-food",
+  "ja:魚の餌":"en:fish-food",
+  "ja:鳥の餌":"en:bird-food",
+  "ka:ზრდასრული-კატის-საკვები":"en:adult-cat-food",
+  "ka:თევზის-საკვები":"en:fish-food",
+  "ka:კატის-საკვები":"en:cat-food",
+  "ka:ფრინველის-საკვები":"en:bird-food",
+  "ka:ძაღლის-ორცხობილა":"en:dog-biscuit",
+  "ka:ხანდაზმული-კატის-საკვები":"en:senior-cat-food",
+  "kk:балық-жемі":"en:fish-food",
+  "kk:егдегі-мысық-азығы":"en:senior-cat-food",
+  "kk:ересек-мысық-азығы":"en:adult-cat-food",
+  "kk:ит-печеньесі":"en:dog-biscuit",
+  "kk:мысық-азығы":"en:cat-food",
+  "kk:құс-жемі":"en:bird-food",
+  "km:ចំណី-ឆ្មា-ចាស់":"en:senior-cat-food",
+  "km:ចំណី-ឆ្មាពេញវ័យ":"en:adult-cat-food",
+  "km:ចំណីឆ្មា":"en:cat-food",
+  "km:ចំណីត្រី":"en:fish-food",
+  "km:ចំណីសត្វស្លាប":"en:bird-food",
+  "km:នំឆ្កែ":"en:dog-biscuit",
+  "kn:ನಾಯಿ-ಬಿಸ್ಕತ್ತು":"en:dog-biscuit",
+  "kn:ಪಕ್ಷಿ-ಆಹಾರ":"en:bird-food",
+  "kn:ಬೆಕ್ಕು-ಆಹಾರ":"en:cat-food",
+  "kn:ಮೀನು-ಆಹಾರ":"en:fish-food",
+  "kn:ವಯಸ್ಕ-ಬೆಕ್ಕು-ಆಹಾರ":"en:adult-cat-food",
+  "kn:ಹಿರಿಯ-ಬೆಕ್ಕು-ಆಹಾರ":"en:senior-cat-food",
+  "ko:개-비스킷":"en:dog-biscuit",
+  "ko:고양이-사료":"en:cat-food",
+  "ko:노령묘-사료":"en:senior-cat-food",
+  "ko:물고기-사료":"en:fish-food",
+  "ko:새-모이":"en:bird-food",
+  "ko:성묘-사료":"en:adult-cat-food",
+  "ku:biskuwîta-kûçikan":"en:dog-biscuit",
+  "ku:xwarina-masî":"en:fish-food",
+  "ku:xwarina-pisîkê":"en:cat-food",
+  "ku:xwarina-pisîkên-mezin":"en:adult-cat-food",
+  "ku:xwarina-pisîkên-pîr":"en:senior-cat-food",
+  "ku:xwarina-çûkan":"en:bird-food",
+  "ky:балык-тоюту":"en:fish-food",
+  "ky:ит-печеньеси":"en:dog-biscuit",
+  "ky:кары-мышыктын-тамагы":"en:senior-cat-food",
+  "ky:куш-тоюту":"en:bird-food",
+  "ky:мышыктын-тамагы":"en:cat-food",
+  "ky:чоң-мышыктын-тамагы":"en:adult-cat-food",
+  "lo:ອາຫານນົກ":"en:bird-food",
+  "lo:ອາຫານປາ":"en:fish-food",
+  "lo:ອາຫານແມວ":"en:cat-food",
+  "lo:ອາຫານແມວແກ່":"en:senior-cat-food",
+  "lo:ອາຫານແມວໃຫຍ່":"en:adult-cat-food",
+  "lo:ເຂົ້າ-ໜົມ-ໝາ":"en:dog-biscuit",
+  "lt:kačių-maistas":"en:cat-food",
+  "lt:maistas-vyresnėms-katėms":"en:senior-cat-food",
+  "lt:paukščių-maistas":"en:bird-food",
+  "lt:suaugusių-kačių-maistas":"en:adult-cat-food",
+  "lt:šunų-sausainiai":"en:dog-biscuit",
+  "lt:žuvų-maistas":"en:fish-food",
+  "lv:barība-pieaugušiem-kaķiem":"en:adult-cat-food",
+  "lv:barība-vecākiem-kaķiem":"en:senior-cat-food",
+  "lv:kaķu-barība":"en:cat-food",
+  "lv:putnu-barība":"en:bird-food",
+  "lv:suņu-cepums":"en:dog-biscuit",
+  "lv:zivju-barība":"en:fish-food",
+  "mk:бисквит-за-кучиња":"en:dog-biscuit",
+  "mk:храна-за-возрасни-мачки":"en:adult-cat-food",
+  "mk:храна-за-мачки":"en:cat-food",
+  "mk:храна-за-птици":"en:bird-food",
+  "mk:храна-за-риби":"en:fish-food",
+  "mk:храна-за-стари-мачки":"en:senior-cat-food",
+  "ml:നായ-ബിസ്ക്കറ്റ്":"en:dog-biscuit",
+  "ml:പക്ഷി-ഭക്ഷണം":"en:bird-food",
+  "ml:പൂച്ച-ഭക്ഷണം":"en:cat-food",
+  "ml:മത്സ്യം-ഭക്ഷണം":"en:fish-food",
+  "ml:മുതിർന്ന-പൂച്ച-ഭക്ഷണം":"en:adult-cat-food",
+  "mn:ахмад-настай-муурны-хоол":"en:senior-cat-food",
+  "mn:загасны-хоол":"en:fish-food",
+  "mn:муурны-хоол":"en:cat-food",
+  "mn:насанд-хүрсэн-муурны-хоол":"en:adult-cat-food",
+  "mn:нохойн-жигнэмэг":"en:dog-biscuit",
+  "mn:шувууны-хоол":"en:bird-food",
+  "mr:कुत्रा-बिस्किट":"en:dog-biscuit",
+  "mr:ज्येष्ठ-मांजराचे-अन्न":"en:senior-cat-food",
+  "mr:पक्षी-अन्न":"en:bird-food",
+  "mr:प्रौढ-मांजराचे-अन्न":"en:adult-cat-food",
+  "mr:मांजर-अन्न":"en:cat-food",
+  "mr:मासे-अन्न":"en:fish-food",
+  "ms:biskut-anjing":"en:dog-biscuit",
+  "ms:makanan-burung":"en:bird-food",
+  "ms:makanan-ikan":"en:fish-food",
+  "ms:makanan-kucing":"en:cat-food",
+  "ms:makanan-kucing-dewasa":"en:adult-cat-food",
+  "ms:makanan-kucing-tua":"en:senior-cat-food",
+  "mt:biskutt-tal-klieb":"en:dog-biscuit",
+  "mt:ikel-għall-għasafar":"en:bird-food",
+  "mt:ikel-għall-qtates":"en:cat-food",
+  "mt:ikel-għall-qtates-adulti":"en:adult-cat-food",
+  "mt:ikel-għall-qtates-anzjani":"en:senior-cat-food",
+  "mt:ikel-għall-ħut":"en:fish-food",
+  "my:ကြောင်အစာ":"en:cat-food",
+  "my:ကြောင်အိုစာ":"en:senior-cat-food",
+  "my:ခွေးဘီစကွတ်":"en:dog-biscuit",
+  "my:ငါးစာ":"en:fish-food",
+  "my:ငှက်စာ":"en:bird-food",
+  "my:အရွယ်ရောက်-ကြောင်စာ":"en:adult-cat-food",
+  "nl:divers-diervoer":"en:miscellaneous-pet-food",
+  "nl:droog-kattenvoer":"ru:корм-сухой-полнорационный-для-взрослых-кошек",
+  "nl:droog-voedsel":"en:dry-pet-food",
+  "nl:honden-en-kattenvoedsel":"en:dog-and-cat-food",
+  "nl:hondenbrokken":"en:dry-dog-food",
+  "nl:hondenkoekjes":"en:dog-biscuit",
+  "nl:hondenvoedsel":"en:dog-food",
+  "nl:kattebrokken":"en:dry-cat-food",
+  "nl:kattenvoer":"en:cat-food",
+  "nl:nat-hondenvoer":"en:wet-dog-food",
+  "nl:nat-kattenvoet":"en:wet-cat-food",
+  "nl:nat-voedsel":"en:wet-pet-food",
+  "nl:natvoer-voor-volwassen-katten":"ru:корм-консервированный-полнорационный-для-взрослых-кошек",
+  "nl:non-pet-food":"en:non-pet-food-products",
+  "nl:rattenvoer":"en:rodent-food",
+  "nl:reptielenvoer":"en:reptile-food",
+  "nl:verkeerd-product-type":"en:incorrect-product-type",
+  "nl:visvoeding":"en:fish-food",
+  "nl:voer-voor-gecastreerde-katten":"en:castrated-cat-food",
+  "nl:voer-voor-konijnen":"en:rabbit-food",
+  "nl:voer-voor-oudere-katten":"en:senior-cat-food",
+  "nl:voer-voor-paarden":"en:horse-food",
+  "nl:vogelvoer":"en:bird-food",
+  "nl:volwassen-kattenvoer":"en:adult-cat-food",
+  "no:fiskefôr":"en:fish-food",
+  "no:fuglemat":"en:bird-food",
+  "no:hundekjeks":"en:dog-biscuit",
+  "no:kattemat":"en:cat-food",
+  "no:seniorkattemat":"en:senior-cat-food",
+  "no:voksen-kattemat":"en:adult-cat-food",
+  "or:କୁକୁର-ବିସ୍କୁଟ୍":"en:dog-biscuit",
+  "or:ପକ୍ଷୀ-ଖାଦ୍ୟ":"en:bird-food",
+  "or:ବରିଷ୍ଠ-ବିଲେଇ-ଖାଦ୍ୟ":"en:senior-cat-food",
+  "or:ବିଲେଇ-ଖାଦ୍ୟ":"en:cat-food",
+  "or:ବୟସ୍କ-ବିଲେଇ-ଖାଦ୍ୟ":"en:adult-cat-food",
+  "or:ମାଛ-ଖାଦ୍ୟ":"en:fish-food",
+  "pa:ਕੁੱਤਾ-ਬਿਸਕੁਟ":"en:dog-biscuit",
+  "pa:ਪੰਛੀ-ਭੋਜਨ":"en:bird-food",
+  "pa:ਬਾਲਗ-ਬਿੱਲੀ-ਭੋਜਨ":"en:adult-cat-food",
+  "pa:ਬਿੱਲੀ-ਭੋਜਨ":"en:cat-food",
+  "pa:ਮੱਛੀ-ਭੋਜਨ":"en:fish-food",
+  "pa:ਸੀਨੀਅਰ-ਬਿੱਲੀ-ਭੋਜਨ":"en:senior-cat-food",
+  "pl:karma-dla-dorosłych-kotów":"en:adult-cat-food",
+  "pl:karma-dla-kotów":"en:cat-food",
+  "pl:karma-dla-kotów-seniorów":"en:senior-cat-food",
+  "pl:karma-dla-ptaków":"en:bird-food",
+  "pl:karma-dla-ryb":"en:fish-food",
+  "pl:psi-herbatnik":"en:dog-biscuit",
+  "ps:د-زړو-پیشو-خواړه":"en:senior-cat-food",
+  "ps:د-سپي-بسکټ":"en:dog-biscuit",
+  "ps:د-لوی-پیشو-خواړه":"en:adult-cat-food",
+  "ps:د-مرغانو-خواړه":"en:bird-food",
+  "ps:د-پیشو-خواړه":"en:cat-food",
+  "ps:د-کبانو-خواړه":"en:fish-food",
+  "pt:biscoito-para-caes":"en:dog-biscuit",
+  "pt:comida-de-cao-humida":"en:wet-dog-food",
+  "pt:comida-para-gatos":"en:cat-food",
+  "pt:comida-para-gatos-adultos":"en:adult-cat-food",
+  "pt:comida-para-gatos-idosos":"en:senior-cat-food",
+  "pt:comida-para-passaros":"en:bird-food",
+  "pt:comida-para-peixes":"en:fish-food",
+  "pt:produtos-nao-alimentares-para-animais-de-estimacao":"en:non-pet-food-products",
+  "pt:tipo-de-produto-incorreto":"en:incorrect-product-type",
+  "ro:biscuiți-pentru-câini":"en:dog-biscuit",
+  "ro:hrană-pentru-pești":"en:fish-food",
+  "ro:hrană-pentru-pisici":"en:cat-food",
+  "ro:hrană-pentru-pisici-adulte":"en:adult-cat-food",
+  "ro:hrană-pentru-pisici-seniori":"en:senior-cat-food",
+  "ro:hrană-pentru-păsări":"en:bird-food",
+  "ru:влажный-корм-для-собаки":"en:wet-dog-food",
+  "ru:консервированный-корм-для-кошек":"en:wet-cat-food",
+  "ru:корм-для-взрослых-кошек":"en:adult-cat-food",
+  "ru:корм-для-грызунов":"en:rodent-food",
+  "ru:корм-для-кастрированных-кошек":"en:castrated-cat-food",
+  "ru:корм-для-пожилых-кошек":"en:senior-cat-food",
+  "ru:корм-для-пресмыкающихся":"en:reptile-food",
+  "ru:корм-для-птиц":"en:bird-food",
+  "ru:корм-для-рыб":"en:fish-food",
+  "ru:корм-для-собак-и-кошек":"en:dog-and-cat-food",
+  "ru:корм-консервированный-полнорационный-для-взрослых-кошек":"ru:корм-консервированный-полнорационный-для-взрослых-кошек",
+  "ru:корм-сухой-полнорационный-для-взрослых-кошек":"ru:корм-сухой-полнорационный-для-взрослых-кошек",
+  "ru:кошачий-корм":"en:cat-food",
+  "ru:неправильный-product-type":"en:incorrect-product-type",
+  "ru:непродукты-для-кормления-домашних-животных":"en:non-pet-food-products",
+  "ru:печенье-для-собаки":"en:dog-biscuit",
+  "ru:прочий-корм-для-животных":"en:miscellaneous-pet-food",
+  "ru:собачий-корм":"en:dog-food",
+  "ru:сухой-корм":"en:dry-pet-food",
+  "ru:сухой-корм-для-кошек":"en:dry-cat-food",
+  "ru:сухой-корм-для-собак":"en:dry-dog-food",
+  "sd:بالغ-ٻلي-کاڌو":"en:adult-cat-food",
+  "sd:مڇي-کاڌو":"en:fish-food",
+  "sd:ٻلي-کاڌو":"en:cat-food",
+  "sd:پراڻي-ٻلي-کاڌو":"en:senior-cat-food",
+  "sd:پکين-جو-کاڌو":"en:bird-food",
+  "sd:ڪتي-بسڪوٽ":"en:dog-biscuit",
+  "si:කුරුළු-ආහාර":"en:bird-food",
+  "si:ජ්යෙෂ්ඨ-බළල්-ආහාර":"en:senior-cat-food",
+  "si:බළල්-ආහාර":"en:cat-food",
+  "si:මාලු-ආහාර":"en:fish-food",
+  "si:වැඩිහිටි-බළල්-ආහාර":"en:adult-cat-food",
+  "si:සුනඛ-බිස්කට්":"en:dog-biscuit",
+  "sk:krmivo-pre-dospele-mačky":"en:adult-cat-food",
+  "sk:krmivo-pre-mačky":"en:cat-food",
+  "sk:krmivo-pre-ryby":"en:fish-food",
+  "sk:krmivo-pre-staršie-mačky":"en:senior-cat-food",
+  "sk:krmivo-pre-vtaky":"en:bird-food",
+  "sk:psia-sušienka":"en:dog-biscuit",
+  "sl:hrana-za-mačke":"en:cat-food",
+  "sl:hrana-za-odrasle-mačke":"en:adult-cat-food",
+  "sl:hrana-za-ptice":"en:bird-food",
+  "sl:hrana-za-ribe":"en:fish-food",
+  "sl:hrana-za-starejše-mačke":"en:senior-cat-food",
+  "sl:pasji-piškot":"en:dog-biscuit",
+  "sq:biskota-për-qen":"en:dog-biscuit",
+  "sq:ushqim-për-mace":"en:cat-food",
+  "sq:ushqim-për-mace-të-rritura":"en:adult-cat-food",
+  "sq:ushqim-për-mace-të-vjetra":"en:senior-cat-food",
+  "sq:ushqim-për-peshqit":"en:fish-food",
+  "sq:ushqim-për-zogj":"en:bird-food",
+  "sr:hrana-za-mačke":"en:cat-food",
+  "sr:hrana-za-odrasle-mačke":"en:adult-cat-food",
+  "sr:hrana-za-ptice":"en:bird-food",
+  "sr:hrana-za-ribe":"en:fish-food",
+  "sr:hrana-za-starije-mačke":"en:senior-cat-food",
+  "sr:pasji-keks":"en:dog-biscuit",
+  "sv:fiskmat":"en:fish-food",
+  "sv:fågelmat":"en:bird-food",
+  "sv:hundkex":"en:dog-biscuit",
+  "sv:kattmat":"en:cat-food",
+  "sv:vuxen-kattmat":"en:adult-cat-food",
+  "sv:äldre-kattmat":"en:senior-cat-food",
+  "sw:biskuti-ya-mbwa":"en:dog-biscuit",
+  "sw:chakula-cha-ndege":"en:bird-food",
+  "sw:chakula-cha-paka":"en:cat-food",
+  "sw:chakula-cha-paka-mzee":"en:senior-cat-food",
+  "sw:chakula-cha-paka-mzima":"en:adult-cat-food",
+  "sw:chakula-cha-samaki":"en:fish-food",
+  "ta:நாய்-பிஸ்கட்":"en:dog-biscuit",
+  "ta:பறவை-உணவு":"en:bird-food",
+  "ta:பூனை-உணவு":"en:cat-food",
+  "ta:மீன்-உணவு":"en:fish-food",
+  "ta:மூத்த-பூனை-உணவு":"en:senior-cat-food",
+  "ta:வயது-வந்த-பூனை-உணவு":"en:adult-cat-food",
+  "te:కుక్క-బిస్కెట్":"en:dog-biscuit",
+  "te:చేపల-ఆహారం":"en:fish-food",
+  "te:పక్షి-ఆహారం":"en:bird-food",
+  "te:పిల్లి-ఆహారం":"en:cat-food",
+  "te:పెద్ద-పిల్లి-ఆహారం":"en:adult-cat-food",
+  "te:సీనియర్-పిల్లి-ఆహారం":"en:senior-cat-food",
+  "tg:печенье-барои-сагҳо":"en:dog-biscuit",
+  "tg:хӯроки-гурба":"en:cat-food",
+  "tg:хӯроки-гурбаи-калонсол":"en:adult-cat-food",
+  "tg:хӯроки-моҳӣ":"en:fish-food",
+  "tg:хӯроки-парранда":"en:bird-food",
+  "th:บิสกิตสุนัข":"en:dog-biscuit",
+  "th:อาหารนก":"en:bird-food",
+  "th:อาหารปลา":"en:fish-food",
+  "th:อาหารแมว":"en:cat-food",
+  "th:อาหารแมวสูงวัย":"en:senior-cat-food",
+  "th:อาหารแมวโต":"en:adult-cat-food",
+  "tk:balyk-iýmiti":"en:fish-food",
+  "tk:gartaşan-pişik-iýmiti":"en:senior-cat-food",
+  "tk:guş-iýmiti":"en:bird-food",
+  "tk:it-pişgesi":"en:dog-biscuit",
+  "tk:pişik-iýmiti":"en:cat-food",
+  "tk:ululy-pişik-iýmiti":"en:adult-cat-food",
+  "tl:biskwit-ng-aso":"en:dog-biscuit",
+  "tl:pagkain-ng-ibon":"en:bird-food",
+  "tl:pagkain-ng-isda":"en:fish-food",
+  "tl:pagkain-ng-pusa":"en:cat-food",
+  "tl:pagkain-para-sa-adultong-pusa":"en:adult-cat-food",
+  "tl:pagkain-para-sa-matatandang-pusa":"en:senior-cat-food",
+  "tr:balık-yemi":"en:fish-food",
+  "tr:kedi-maması":"en:cat-food",
+  "tr:kuş-yemi":"en:bird-food",
+  "tr:köpek-bisküvisi":"en:dog-biscuit",
+  "tr:yaşlı-kedi-maması":"en:senior-cat-food",
+  "tr:yetişkin-kedi-maması":"en:adult-cat-food",
+  "ug:ئىت-печеньеси":"en:dog-biscuit",
+  "ug:بېلىق-يېمى":"en:fish-food",
+  "ug:قۇش-يېمى":"en:bird-food",
+  "ug:مۈشۈك-ئېزىقى":"en:cat-food",
+  "ug:ياشانغان-مۈشۈك-ئېزىقى":"en:senior-cat-food",
+  "ug:چوڭ-مۈشۈك-ئېزىقى":"en:adult-cat-food",
+  "uk:корм-для-дорослих-котів":"en:adult-cat-food",
+  "uk:корм-для-літніх-котів":"en:senior-cat-food",
+  "uk:корм-для-птахів":"en:bird-food",
+  "uk:корм-для-риб":"en:fish-food",
+  "uk:котячий-корм":"en:cat-food",
+  "uk:печиво-для-собак":"en:dog-biscuit",
+  "uz:baliq-ovqati":"en:fish-food",
+  "uz:it-pechenesi":"en:dog-biscuit",
+  "uz:katta-mushuk-ovqati":"en:adult-cat-food",
+  "uz:keksa-mushuk-ovqati":"en:senior-cat-food",
+  "uz:mushuk-ovqati":"en:cat-food",
+  "uz:qush-ovqati":"en:bird-food",
+  "vi:bánh-quy-cho-chó":"en:dog-biscuit",
+  "vi:thức-ăn-cho-chim":"en:bird-food",
+  "vi:thức-ăn-cho-cá":"en:fish-food",
+  "vi:thức-ăn-cho-mèo":"en:cat-food",
+  "vi:thức-ăn-cho-mèo-già":"en:senior-cat-food",
+  "vi:thức-ăn-cho-mèo-trưởng-thành":"en:adult-cat-food",
+  "xx:open-beauty-facts":"en:open-beauty-facts",
+  "xx:open-food-facts":"en:open-food-facts",
+  "xx:open-products-facts":"en:open-products-facts",
+  "zh:成年猫粮":"en:adult-cat-food",
+  "zh:狗饼干":"en:dog-biscuit",
+  "zh:猫粮":"en:cat-food",
+  "zh:老年猫粮":"en:senior-cat-food",
+  "zh:鱼食":"en:fish-food",
+  "zh:鸟食":"en:bird-food"
+ },
+ "translations_to":{
+  "en:adult-cat-food":{
+   "ar":"طعام القطط البالغة",
+   "as":"পূৰ্ণবয়স্ক মেকুৰীৰ খাদ্য",
+   "az":"Yetkin pişik yeməyi",
+   "bg":"Храна за възрастни котки",
+   "bn":"প্রাপ্তবয়স্ক বিড়ালের খাবার",
+   "ca":"Menjar per a gats adults",
+   "cs":"Krmivo pro dospělé kočky",
+   "cy":"Bwyd cathod oedolion",
+   "da":"Voksen kattemad",
+   "de":"Katzenfutter für Erwachsene",
+   "el":"Τροφή για ενήλικες γάτες",
+   "en":"Adult cat food",
+   "es":"Comida para gatos adultos",
+   "et":"Täiskasvanud kassitoit",
+   "eu":"Katu janari heldua",
+   "fa":"غذای گربه بالغ",
+   "fi":"Aikuisen kissanruoka",
+   "fr":"Nourriture pour chats adultes",
+   "ga":"Bia do chait aosach",
+   "gl":"Comida para gatos adultos",
+   "gu":"પુખ્ત બિલાડી ખોરાક",
+   "he":"מזון לחתולים בוגרים",
+   "hi":"वयस्क बिल्ली का भोजन",
+   "hr":"Hrana za odrasle mačke",
+   "hu":"Felnőtt macskaeledel",
+   "hy":"Մեծահասակ կատվի կեր",
+   "id":"Makanan kucing dewasa",
+   "is":"Fullorðins kattarmatur",
+   "it":"Cibo per gatti adulti",
+   "ja":"成猫用フード",
+   "ka":"ზრდასრული კატის საკვები",
+   "kk":"Ересек мысық азығы",
+   "km":"ចំណី​ឆ្មាពេញវ័យ",
+   "kn":"ವಯಸ್ಕ ಬೆಕ್ಕು ಆಹಾರ",
+   "ko":"성묘 사료",
+   "ku":"Xwarina pisîkên mezin",
+   "ky":"Чоң мышыктын тамагы",
+   "lo":"ອາຫານແມວໃຫຍ່",
+   "lt":"Suaugusių kačių maistas",
+   "lv":"Barība pieaugušiem kaķiem",
+   "mk":"Храна за возрасни мачки",
+   "ml":"മുതിർന്ന പൂച്ച ഭക്ഷണം",
+   "mn":"Насанд хүрсэн муурны хоол",
+   "mr":"प्रौढ मांजराचे अन्न",
+   "ms":"Makanan kucing dewasa",
+   "mt":"Ikel għall-qtates adulti",
+   "my":"အရွယ်ရောက် ကြောင်စာ",
+   "nl":"Volwassen kattenvoer",
+   "no":"Voksen kattemat",
+   "or":"ବୟସ୍କ ବିଲେଇ ଖାଦ୍ୟ",
+   "pa":"ਬਾਲਗ ਬਿੱਲੀ ਭੋਜਨ",
+   "pl":"Karma dla dorosłych kotów",
+   "ps":"د لوی پیشو خواړه",
+   "pt":"Comida para gatos adultos",
+   "ro":"Hrană pentru pisici adulte",
+   "ru":"Корм для взрослых кошек",
+   "sd":"بالغ ٻلي کاڌو",
+   "si":"වැඩිහිටි බළල් ආහාර",
+   "sk":"Krmivo pre dospelé mačky",
+   "sl":"Hrana za odrasle mačke",
+   "sq":"Ushqim për mace të rritura",
+   "sr":"Hrana za odrasle mačke",
+   "sv":"Vuxen kattmat",
+   "sw":"Chakula cha paka mzima",
+   "ta":"வயது வந்த பூனை உணவு",
+   "te":"పెద్ద పిల్లి ఆహారం",
+   "tg":"Хӯроки гурбаи калонсол",
+   "th":"อาหารแมวโต",
+   "tk":"Ululy pişik iýmiti",
+   "tl":"Pagkain para sa adultong pusa",
+   "tr":"Yetişkin kedi maması",
+   "ug":"چوڭ مۈشۈك ئېزىقى",
+   "uk":"Корм для дорослих котів",
+   "uz":"Katta mushuk ovqati",
+   "vi":"Thức ăn cho mèo trưởng thành",
+   "zh":"成年猫粮"
+  },
+  "en:bird-and-fowl-food":{
+   "en":"Bird and fowl food"
+  },
+  "en:bird-food":{
+   "ar":"طعام للطيور",
+   "as":"চৰাইৰ খাদ্য",
+   "az":"Quş yemi",
+   "bg":"Храна за птици",
+   "bn":"পাখির খাবার",
+   "ca":"Menjar per a ocells",
+   "cs":"Krmivo pro ptáky",
+   "cy":"Bwyd adar",
+   "da":"Fuglefoder",
+   "de":"Vogelfutter",
+   "el":"Τροφή για πουλιά",
+   "en":"Bird food",
+   "es":"Comida para pájaros",
+   "et":"Linnutoit",
+   "eu":"Hegazti janaria",
+   "fa":"غذای پرنده",
+   "fi":"Linnunruoka",
+   "fr":"Nourriture pour oiseaux",
+   "ga":"Bia éan",
+   "gl":"Comida para aves",
+   "gu":"પક્ષી ખોરાક",
+   "he":"מזון לציפורים",
+   "hi":"पक्षी का भोजन",
+   "hr":"Hrana za ptice",
+   "hu":"Madáreleség",
+   "hy":"Թռչնի կեր",
+   "id":"Makanan burung",
+   "is":"Fuglafóður",
+   "it":"Cibo per uccelli",
+   "ja":"鳥の餌",
+   "ka":"ფრინველის საკვები",
+   "kk":"Құс жемі",
+   "km":"ចំណីសត្វស្លាប",
+   "kn":"ಪಕ್ಷಿ ಆಹಾರ",
+   "ko":"새 모이",
+   "ku":"Xwarina çûkan",
+   "ky":"Куш тоюту",
+   "lo":"ອາຫານນົກ",
+   "lt":"Paukščių maistas",
+   "lv":"Putnu barība",
+   "mk":"Храна за птици",
+   "ml":"പക്ഷി ഭക്ഷണം",
+   "mn":"Шувууны хоол",
+   "mr":"पक्षी अन्न",
+   "ms":"Makanan burung",
+   "mt":"Ikel għall-għasafar",
+   "my":"ငှက်စာ",
+   "nl":"Vogelvoer",
+   "no":"Fuglemat",
+   "or":"ପକ୍ଷୀ ଖାଦ୍ୟ",
+   "pa":"ਪੰਛੀ ਭੋਜਨ",
+   "pl":"Karma dla ptaków",
+   "ps":"د مرغانو خواړه",
+   "pt":"Comida para pássaros",
+   "ro":"Hrană pentru păsări",
+   "ru":"Корм для птиц",
+   "sd":"پکين جو کاڌو",
+   "si":"කුරුළු ආහාර",
+   "sk":"Krmivo pre vtáky",
+   "sl":"Hrana za ptice",
+   "sq":"Ushqim për zogj",
+   "sr":"Hrana za ptice",
+   "sv":"Fågelmat",
+   "sw":"Chakula cha ndege",
+   "ta":"பறவை உணவு",
+   "te":"పక్షి ఆహారం",
+   "tg":"Хӯроки парранда",
+   "th":"อาหารนก",
+   "tk":"Guş iýmiti",
+   "tl":"Pagkain ng ibon",
+   "tr":"Kuş yemi",
+   "ug":"قۇش يېمى",
+   "uk":"Корм для птахів",
+   "uz":"Qush ovqati",
+   "vi":"Thức ăn cho chim",
+   "zh":"鸟食"
+  },
+  "en:castrated-cat-food":{
+   "de":"Kastriertes Katzenfutter",
+   "en":"Castrated cat food",
+   "es":"Comida para gatos castrados",
+   "fr":"Nourriture pour chats castrés",
+   "hr":"Hrana za kastrirane mačke",
+   "nl":"Voer voor gecastreerde katten",
+   "ru":"Корм для кастрированных кошек"
+  },
+  "en:cat-biscuits":{
+   "de":"Katzensnacks",
+   "en":"Cat biscuits",
+   "fr":"Biscuits pour chats",
+   "hr":"Mačji keksi"
+  },
+  "en:cat-food":{
+   "ar":"طعام قطط",
+   "as":"মেকুৰীৰ খাদ্য",
+   "az":"Pişik yeməyi",
+   "bg":"Храна за котки",
+   "bn":"বিড়ালের খাবার",
+   "ca":"Menjar per a gats",
+   "cs":"Krmivo pro kočky",
+   "cy":"Bwyd cathod",
+   "da":"Kattemad",
+   "de":"Katzenfutter",
+   "el":"Τροφή για γάτες",
+   "en":"Cat food",
+   "es":"Comida para gatos",
+   "et":"Kassitoit",
+   "eu":"Katu janaria",
+   "fa":"غذای گربه",
+   "fi":"Kissanruoka",
+   "fr":"Nourriture pour chats",
+   "ga":"Bia cat",
+   "gl":"Comida para gatos",
+   "gu":"બિલાડી ખોરાક",
+   "he":"מזון לחתולים",
+   "hi":"बिल्ली का भोजन",
+   "hr":"Hrana za mačke",
+   "hu":"Macskaeledel",
+   "hy":"Կատվի կեր",
+   "id":"Makanan kucing",
+   "is":"Kattarmatur",
+   "it":"Cibo per gatti",
+   "ja":"猫の餌",
+   "ka":"კატის საკვები",
+   "kk":"Мысық азығы",
+   "km":"ចំណីឆ្មា",
+   "kn":"ಬೆಕ್ಕು ಆಹಾರ",
+   "ko":"고양이 사료",
+   "ku":"Xwarina pisîkê",
+   "ky":"Мышыктын тамагы",
+   "lo":"ອາຫານແມວ",
+   "lt":"Kačių maistas",
+   "lv":"Kaķu barība",
+   "mk":"Храна за мачки",
+   "ml":"പൂച്ച ഭക്ഷണം",
+   "mn":"Муурны хоол",
+   "mr":"मांजर अन्न",
+   "ms":"Makanan kucing",
+   "mt":"Ikel għall-qtates",
+   "my":"ကြောင်အစာ",
+   "nl":"Kattenvoer",
+   "no":"Kattemat",
+   "or":"ବିଲେଇ ଖାଦ୍ୟ",
+   "pa":"ਬਿੱਲੀ ਭੋਜਨ",
+   "pl":"Karma dla kotów",
+   "ps":"د پیشو خواړه",
+   "pt":"Comida para gatos",
+   "ro":"Hrană pentru pisici",
+   "ru":"Кошачий корм",
+   "sd":"ٻلي کاڌو",
+   "si":"බළල් ආහාර",
+   "sk":"Krmivo pre mačky",
+   "sl":"Hrana za mačke",
+   "sq":"Ushqim për mace",
+   "sr":"Hrana za mačke",
+   "sv":"Kattmat",
+   "sw":"Chakula cha paka",
+   "ta":"பூனை உணவு",
+   "te":"పిల్లి ఆహారం",
+   "tg":"Хӯроки гурба",
+   "th":"อาหารแมว",
+   "tk":"Pişik iýmiti",
+   "tl":"Pagkain ng pusa",
+   "tr":"Kedi maması",
+   "ug":"مۈشۈك ئېزىقى",
+   "uk":"Котячий корм",
+   "uz":"Mushuk ovqati",
+   "vi":"Thức ăn cho mèo",
+   "zh":"猫粮"
+  },
+  "en:dog-and-cat-food":{
+   "de":"Hunde- und Katzenfutter",
+   "en":"Dog and cat food",
+   "fr":"Nourriture pour chiens et chats",
+   "nl":"Honden en kattenvoedsel",
+   "ru":"Корм для собак и кошек"
+  },
+  "en:dog-biscuit":{
+   "ar":"بسكويت للكلاب",
+   "az":"İt peçenyası",
+   "bg":"Бисквитка за кучета",
+   "bn":"কুকুরের বিস্কুট",
+   "ca":"Galeta per a gossos",
+   "cs":"Psí sušenka",
+   "cy":"Bisged ci",
+   "da":"Hundekiks",
+   "de":"Hundekeks",
+   "el":"Μπισκότο σκύλου",
+   "en":"Dog biscuit",
+   "es":"Galleta para perros",
+   "et":"Koeraküpsis",
+   "eu":"Txakur gaileta",
+   "fa":"بیسکویت سگ",
+   "fi":"Koirankeksi",
+   "fr":"Biscuit pour chien",
+   "ga":"Briosca madra",
+   "gl":"Galleta para cans",
+   "gu":"ડોગ બિસ્કીટ",
+   "he":"ביסקוויט לכלבים",
+   "hi":"कुत्ते का बिस्कुट",
+   "hr":"Pasji keks",
+   "hu":"Kutya keksz",
+   "hy":"Շան թխվածքաբլիթ",
+   "id":"Biskuit anjing",
+   "is":"Hundakex",
+   "it":"Biscotto per cani",
+   "ja":"ドッグビスケット",
+   "ka":"ძაღლის ორცხობილა",
+   "kk":"Ит печеньесі",
+   "km":"នំឆ្កែ",
+   "kn":"ನಾಯಿ ಬಿಸ್ಕತ್ತು",
+   "ko":"개 비스킷",
+   "ku":"Biskuwîta kûçikan",
+   "ky":"Ит печеньеси",
+   "lo":"ເຂົ້າ ໜົມ ໝາ",
+   "lt":"Šunų sausainiai",
+   "lv":"Suņu cepums",
+   "mk":"Бисквит за кучиња",
+   "ml":"നായ ബിസ്ക്കറ്റ്",
+   "mn":"Нохойн жигнэмэг",
+   "mr":"कुत्रा बिस्किट",
+   "ms":"Biskut anjing",
+   "mt":"Biskutt tal-klieb",
+   "my":"ခွေးဘီစကွတ်",
+   "nl":"Hondenkoekjes",
+   "no":"Hundekjeks",
+   "or":"କୁକୁର ବିସ୍କୁଟ୍",
+   "pa":"ਕੁੱਤਾ ਬਿਸਕੁਟ",
+   "pl":"Psi herbatnik",
+   "ps":"د سپي بسکټ",
+   "pt":"Biscoito para cães",
+   "ro":"Biscuiți pentru câini",
+   "ru":"Печенье для собаки",
+   "sd":"ڪتي بسڪوٽ",
+   "si":"සුනඛ බිස්කට්",
+   "sk":"Psia sušienka",
+   "sl":"Pasji piškot",
+   "sq":"Biskota për qen",
+   "sr":"Pasji keks",
+   "sv":"Hundkex",
+   "sw":"Biskuti ya mbwa",
+   "ta":"நாய் பிஸ்கட்",
+   "te":"కుక్క బిస్కెట్",
+   "tg":"Печенье барои сагҳо",
+   "th":"บิสกิตสุนัข",
+   "tk":"It pişgesi",
+   "tl":"Biskwit ng aso",
+   "tr":"Köpek bisküvisi",
+   "ug":"ئىت печеньеси",
+   "uk":"Печиво для собак",
+   "uz":"It pechenesi",
+   "vi":"Bánh quy cho chó",
+   "zh":"狗饼干"
+  },
+  "en:dog-food":{
+   "de":"Hundefutter",
+   "en":"Dog food",
+   "fr":"Nourriture pour chiens",
+   "hr":"Pseća hrana",
+   "hu":"Kutyaeledel",
+   "ja":"ドッグフード",
+   "nl":"Hondenvoedsel",
+   "ru":"Собачий корм"
+  },
+  "en:dry-cat-food":{
+   "de":"Katzentrockenfutter",
+   "en":"Dry cat food",
+   "fr":"Croquettes pour chat",
+   "hr":"Suha mačja hrana",
+   "hu":"Száraz macska eledel",
+   "ja":"ドライタイプのキャットフード",
+   "nl":"Kattebrokken",
+   "ru":"Сухой корм для кошек"
+  },
+  "en:dry-dog-food":{
+   "de":"Hundetrockenfutter",
+   "en":"Dry dog food",
+   "fr":"Croquettes pour chien",
+   "hr":"Suha hrana za pse",
+   "hu":"Száraz kutyaeledel",
+   "ja":"ドライタイプのドッグフード",
+   "nl":"Hondenbrokken",
+   "ru":"Сухой корм для собак"
+  },
+  "en:dry-pet-food":{
+   "de":"Trockenfutter",
+   "en":"Dry pet food",
+   "fr":"Nourriture sèche pour animaux",
+   "hr":"Suha hrana za kućne ljubimce",
+   "ja":"ドライタイプのペットフード",
+   "nl":"Droog voedsel",
+   "ru":"Сухой корм"
+  },
+  "en:fish-food":{
+   "ar":"طعام سمك",
+   "as":"মাছৰ খাদ্য",
+   "az":"Balıq yemi",
+   "bg":"Храна за риби",
+   "bn":"মাছের খাবার",
+   "ca":"Menjar per a peixos",
+   "cs":"Krmivo pro ryby",
+   "cy":"Bwyd pysgod",
+   "da":"Fiskefoder",
+   "de":"Fischfutter",
+   "el":"Τροφή για ψάρια",
+   "en":"Fish food",
+   "es":"Comida para peces",
+   "et":"Kalatoit",
+   "eu":"Arrain janaria",
+   "fa":"غذای ماهی",
+   "fi":"Kalanruoka",
+   "fr":"Nourriture pour poissons",
+   "ga":"Bia éisc",
+   "gl":"Comida para peixes",
+   "gu":"માછલી ખોરાક",
+   "he":"מזון לדגים",
+   "hi":"मछली का भोजन",
+   "hr":"Hrana za ribe",
+   "hu":"Haltáp",
+   "hy":"Ձկան կեր",
+   "id":"Makanan ikan",
+   "is":"Fiskfóður",
+   "it":"Mangime per pesci",
+   "ja":"魚の餌",
+   "ka":"თევზის საკვები",
+   "kk":"Балық жемі",
+   "km":"ចំណីត្រី",
+   "kn":"ಮೀನು ಆಹಾರ",
+   "ko":"물고기 사료",
+   "ku":"Xwarina masî",
+   "ky":"Балык тоюту",
+   "lo":"ອາຫານປາ",
+   "lt":"Žuvų maistas",
+   "lv":"Zivju barība",
+   "mk":"Храна за риби",
+   "ml":"മത്സ്യം ഭക്ഷണം",
+   "mn":"Загасны хоол",
+   "mr":"मासे अन्न",
+   "ms":"Makanan ikan",
+   "mt":"Ikel għall-ħut",
+   "my":"ငါးစာ",
+   "nl":"Visvoeding",
+   "no":"Fiskefôr",
+   "or":"ମାଛ ଖାଦ୍ୟ",
+   "pa":"ਮੱਛੀ ਭੋਜਨ",
+   "pl":"Karma dla ryb",
+   "ps":"د کبانو خواړه",
+   "pt":"Comida para peixes",
+   "ro":"Hrană pentru pești",
+   "ru":"Корм для рыб",
+   "sd":"مڇي کاڌو",
+   "si":"මාලු ආහාර",
+   "sk":"Krmivo pre ryby",
+   "sl":"Hrana za ribe",
+   "sq":"Ushqim për peshqit",
+   "sr":"Hrana za ribe",
+   "sv":"Fiskmat",
+   "sw":"Chakula cha samaki",
+   "ta":"மீன் உணவு",
+   "te":"చేపల ఆహారం",
+   "tg":"Хӯроки моҳӣ",
+   "th":"อาหารปลา",
+   "tk":"Balyk iýmiti",
+   "tl":"Pagkain ng isda",
+   "tr":"Balık yemi",
+   "ug":"بېلىق يېمى",
+   "uk":"Корм для риб",
+   "uz":"Baliq ovqati",
+   "vi":"Thức ăn cho cá",
+   "zh":"鱼食"
+  },
+  "en:horse-food":{
+   "de":"Pferdefutter",
+   "en":"Horse food",
+   "fr":"Nourriture pour chevaux",
+   "hr":"Hrana za konje",
+   "nl":"Voer voor paarden"
+  },
+  "en:incorrect-product-type":{
+   "bg":"Неправилен product type",
+   "ca":"Tipus de producte incorrecte",
+   "de":"Falscher product type",
+   "en":"Incorrect product type",
+   "es":"Tipo de producto incorrecto",
+   "fi":"Väärä product type",
+   "fr":"Mauvais product type",
+   "hr":"Pogrešan product type",
+   "it":"Tipo di prodotto errato",
+   "nl":"Verkeerd product type",
+   "pt":"Tipo de produto incorreto",
+   "ru":"Неправильный product type"
+  },
+  "en:livestock-feed":{
+   "en":"Livestock feed"
+  },
+  "en:miscellaneous-pet-food":{
+   "de":"Sonstiges Tierfutter",
+   "en":"Miscellaneous pet food",
+   "fr":"Nourriture pour animaux divers",
+   "hr":"Razna hrana za kućne ljubimce",
+   "nl":"Divers diervoer",
+   "ru":"Прочий корм для животных"
+  },
+  "en:non-pet-food-products":{
+   "bg":"Непродукти за храна за домашни любимци",
+   "ca":"Productes no alimentaris per a mascotes",
+   "de":"Non-Pet-Food-Produkte",
+   "en":"Non pet food products",
+   "es":"Productos no alimenticios para mascotas",
+   "fi":"Ei lemmikkiruokatuote",
+   "fr":"Non alimentaire pour animaux",
+   "hr":"Neprehrambeni proizvodi za kućne ljubimce",
+   "it":"Prodotti non alimentari per animali domestici",
+   "nl":"Non-pet-food",
+   "pt":"Produtos não alimentares para animais de estimação",
+   "ru":"Непродукты для кормления домашних животных"
+  },
+  "en:open-beauty-facts":{
+   "en":"Open Beauty Facts",
+   "xx":"Open Beauty Facts"
+  },
+  "en:open-food-facts":{
+   "en":"Open Food Facts",
+   "xx":"Open Food Facts"
+  },
+  "en:open-products-facts":{
+   "en":"Open Products Facts",
+   "xx":"Open Products Facts"
+  },
+  "en:rabbit-food":{
+   "de":"Kaninchenfutter",
+   "en":"Rabbit food",
+   "fr":"Nourriture pour lapins",
+   "hr":"Hrana za kuniće",
+   "nl":"Voer voor konijnen"
+  },
+  "en:reptile-food":{
+   "de":"Futter für Reptilien",
+   "en":"Reptile food",
+   "fr":"Nourriture pour reptiles",
+   "hr":"Hrana za gmazove",
+   "nl":"Reptielenvoer",
+   "ru":"Корм для пресмыкающихся"
+  },
+  "en:rodent-food":{
+   "de":"Nagetierfutter",
+   "en":"Rodent food",
+   "fr":"Nourriture pour rongeurs",
+   "hr":"Hrana za glodavce",
+   "nl":"Rattenvoer",
+   "ru":"Корм для грызунов"
+  },
+  "en:senior-cat-food":{
+   "ar":"طعام القطط الكبيرة في السن",
+   "as":"বয়সস্থ মেকুৰীৰ খাদ্য",
+   "az":"Yaşlı pişik yeməyi",
+   "bn":"বয়স্ক বিড়ালের খাবার",
+   "ca":"Menjar per a gats grans",
+   "cs":"Krmivo pro starší kočky",
+   "cy":"Bwyd cath hŷn",
+   "da":"Seniorkattemad",
+   "de":"Katzenfutter für Senioren",
+   "el":"Τροφή για ηλικιωμένες γάτες",
+   "en":"Senior cat food",
+   "es":"Comida para gatos mayores",
+   "et":"Eakate kassitoit",
+   "eu":"Katu janari zaharra",
+   "fa":"غذای گربه مسن",
+   "fi":"Seniorikissanruoka",
+   "fr":"Nourriture pour chat agé",
+   "ga":"Bia do chait shinsearach",
+   "gl":"Comida para gatos maiores",
+   "gu":"વરિષ્ઠ બિલાડી ખોરાક",
+   "he":"מזון לחתולים ותיקים",
+   "hi":"वरिष्ठ बिल्ली का भोजन",
+   "hr":"Hrana za starije mačke",
+   "hu":"Idős macskaeledel",
+   "hy":"Տարեց կատվի կեր",
+   "id":"Makanan kucing senior",
+   "is":"Eldri kattarmatur",
+   "it":"Cibo per gatti anziani",
+   "ja":"高齢猫用フード",
+   "ka":"ხანდაზმული კატის საკვები",
+   "kk":"Егдегі мысық азығы",
+   "km":"ចំណី​ឆ្មា​ចាស់",
+   "kn":"ಹಿರಿಯ ಬೆಕ್ಕು ಆಹಾರ",
+   "ko":"노령묘 사료",
+   "ku":"Xwarina pisîkên pîr",
+   "ky":"Кары мышыктын тамагы",
+   "lo":"ອາຫານແມວແກ່",
+   "lt":"Maistas vyresnėms katėms",
+   "lv":"Barība vecākiem kaķiem",
+   "mk":"Храна за стари мачки",
+   "mn":"Ахмад настай муурны хоол",
+   "mr":"ज्येष्ठ मांजराचे अन्न",
+   "ms":"Makanan kucing tua",
+   "mt":"Ikel għall-qtates anzjani",
+   "my":"ကြောင်အိုစာ",
+   "nl":"Voer voor oudere katten",
+   "no":"Seniorkattemat",
+   "or":"ବରିଷ୍ଠ ବିଲେଇ ଖାଦ୍ୟ",
+   "pa":"ਸੀਨੀਅਰ ਬਿੱਲੀ ਭੋਜਨ",
+   "pl":"Karma dla kotów seniorów",
+   "ps":"د زړو پیشو خواړه",
+   "pt":"Comida para gatos idosos",
+   "ro":"Hrană pentru pisici seniori",
+   "ru":"Корм для пожилых кошек",
+   "sd":"پراڻي ٻلي کاڌو",
+   "si":"ජ්යෙෂ්ඨ බළල් ආහාර",
+   "sk":"Krmivo pre staršie mačky",
+   "sl":"Hrana za starejše mačke",
+   "sq":"Ushqim për mace të vjetra",
+   "sr":"Hrana za starije mačke",
+   "sv":"Äldre kattmat",
+   "sw":"Chakula cha paka mzee",
+   "ta":"மூத்த பூனை உணவு",
+   "te":"సీనియర్ పిల్లి ఆహారం",
+   "th":"อาหารแมวสูงวัย",
+   "tk":"Gartaşan pişik iýmiti",
+   "tl":"Pagkain para sa matatandang pusa",
+   "tr":"Yaşlı kedi maması",
+   "ug":"ياشانغان مۈشۈك ئېزىقى",
+   "uk":"Корм для літніх котів",
+   "uz":"Keksa mushuk ovqati",
+   "vi":"Thức ăn cho mèo già",
+   "zh":"老年猫粮"
+  },
+  "en:wet-cat-food":{
+   "de":"Katzennassfutter",
+   "en":"Wet cat food",
+   "fr":"Pâtées pour chat",
+   "hr":"Mokra mačja hrana",
+   "hu":"Macskakonzerv",
+   "ja":"ウェットタイプのキャットフード",
+   "nl":"Nat kattenvoet",
+   "ru":"Консервированный корм для кошек"
+  },
+  "en:wet-dog-food":{
+   "de":"Feuchtes Hundefutter",
+   "en":"Wet dog food",
+   "fr":"Pâtées pour chien",
+   "hr":"Mokra hrana za pse",
+   "ja":"ウェットタイプのドッグフード",
+   "nl":"Nat hondenvoer",
+   "pt":"Comida de cão húmida",
+   "ru":"Влажный корм для собаки"
+  },
+  "en:wet-pet-food":{
+   "de":"Nassfutter",
+   "en":"Wet pet food",
+   "fr":"Nourriture humide pour animaux",
+   "hr":"Mokra hrana za kućne ljubimce",
+   "ja":"ウェットタイプのペットフード",
+   "nl":"Nat voedsel"
+  },
+  "ru:корм-консервированный-полнорационный-для-взрослых-кошек":{
+   "nl":"Natvoer voor volwassen katten",
+   "ru":"Корм консервированный полнорационный для взрослых кошек"
+  },
+  "ru:корм-сухой-полнорационный-для-взрослых-кошек":{
+   "en":"Dry complete food for adult cats",
+   "fr":"Nourriture sèche complète pour chats adultes",
+   "nl":"Droog kattenvoer",
+   "ru":"Корм сухой полнорационный для взрослых кошек"
+  }
+ }
+}
