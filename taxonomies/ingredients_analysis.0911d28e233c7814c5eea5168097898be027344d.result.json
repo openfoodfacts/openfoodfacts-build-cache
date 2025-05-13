@@ -1,0 +1,3614 @@
+{
+ "all_parents":{},
+ "direct_children":{},
+ "direct_parents":{},
+ "just_synonyms":{},
+ "level":{
+  "en:may-contain-palm-oil":1,
+  "en:maybe-vegan":1,
+  "en:maybe-vegetarian":1,
+  "en:non-vegan":1,
+  "en:non-vegetarian":1,
+  "en:palm-oil":1,
+  "en:palm-oil-content-unknown":1,
+  "en:palm-oil-free":1,
+  "en:vegan":1,
+  "en:vegan-status-unknown":1,
+  "en:vegetarian":1,
+  "en:vegetarian-status-unknown":1
+ },
+ "properties":{
+  "en:may-contain-palm-oil":{
+   "show_ingredients:en":"from_palm_oil:maybe"
+  },
+  "en:maybe-vegan":{
+   "show_ingredients:en":"vegan:maybe"
+  },
+  "en:maybe-vegetarian":{
+   "show_ingredients:en":"vegetarian:maybe"
+  },
+  "en:non-vegan":{
+   "show_ingredients:en":"vegan:no"
+  },
+  "en:non-vegetarian":{
+   "show_ingredients:en":"vegetarian:no"
+  },
+  "en:palm-oil":{
+   "show_ingredients:en":"from_palm_oil:yes"
+  }
+ },
+ "root_entries":{
+  "en:may-contain-palm-oil":1,
+  "en:maybe-vegan":1,
+  "en:maybe-vegetarian":1,
+  "en:non-vegan":1,
+  "en:non-vegetarian":1,
+  "en:palm-oil":1,
+  "en:palm-oil-content-unknown":1,
+  "en:palm-oil-free":1,
+  "en:vegan":1,
+  "en:vegan-status-unknown":1,
+  "en:vegetarian":1,
+  "en:vegetarian-status-unknown":1
+ },
+ "stopwords":{},
+ "synonyms":{
+  "ar":{
+   "ربما-نباتي":"ربما-نباتي",
+   "غير-النباتية":"غير-النباتية",
+   "غير-نباتي":"غير-نباتي",
+   "نباتي":"نباتي"
+  },
+  "bg":{
+   "без-палмово-масло":"без-палмово-масло",
+   "веган":"веган",
+   "вегетарианско":"вегетарианско",
+   "може-да-е-веган":"може-да-е-веган",
+   "може-да-е-вегетарианско":"може-да-е-вегетарианско",
+   "може-да-съдържа-палмово-масло":"може-да-съдържа-палмово-масло",
+   "не-е-веган":"не-е-веган",
+   "не-е-вегетарианско":"не-е-вегетарианско",
+   "неизвестен-вегански-статус":"неизвестен-вегански-статус",
+   "неизвестен-вегетариански-статус":"неизвестен-вегетариански-статус",
+   "неизвестно-съдържание-на-палмово-масло":"неизвестно-съдържание-на-палмово-масло",
+   "палмово-масло":"палмово-масло"
+  },
+  "ca":{
+   "es-desconeix-si-conte-oli-de-palma":"es-desconeix-si-conte-oli-de-palma",
+   "es-desconeix-si-es-vega":"es-desconeix-si-es-vega",
+   "es-desconeix-si-es-vegetaria":"es-desconeix-si-es-vegetaria",
+   "esta-pendent-si-es-vega":"es-desconeix-si-es-vega",
+   "no-conte-oli-de-palma":"no-conte-oli-de-palma",
+   "no-es-vega":"no-es-vega",
+   "no-es-vegetaria":"no-es-vegetaria",
+   "oli-de-palma":"oli-de-palma",
+   "pot-contenir-oli-de-palma":"pot-contenir-oli-de-palma",
+   "pot-ser-vega":"pot-ser-vega",
+   "pot-ser-vegetaria":"pot-ser-vegetaria",
+   "vega":"vega",
+   "vegetaria":"vegetaria"
+  },
+  "cs":{
+   "možná-vegan":"možná-vegan",
+   "možná-vegetarián":"možná-vegetarián",
+   "neveganová":"neveganová",
+   "nevegetarián":"nevegetarián",
+   "palmový-olej":"palmový-olej",
+   "stav-vegetariánský-neznámý":"stav-vegetariánský-neznámý",
+   "vegan":"vegan",
+   "veganský-status-neznámý":"veganský-status-neznámý",
+   "vegetariánský":"vegetariánský"
+  },
+  "da":{
+   "fri-for-palmeolie":"fri-for-palmeolie",
+   "ikke-vegansk":"ikke-vegansk",
+   "ikke-vegetarisk":"ikke-vegetarisk",
+   "kan-indeholde-palmeolie":"kan-indeholde-palmeolie",
+   "måske-vegansk":"måske-vegansk",
+   "måske-vegetarisk":"måske-vegetarisk",
+   "palmeolie":"palmeolie",
+   "palmeoliefri":"fri-for-palmeolie",
+   "palmeolieindhold-ukendt":"palmeolieindhold-ukendt",
+   "vegansk":"vegansk",
+   "vegansk-status-ukendt":"vegansk-status-ukendt",
+   "vegetarisk":"vegetarisk",
+   "vegetarisk-status-ukendt":"vegetarisk-status-ukendt"
+  },
+  "de":{
+   "kann-palmöl-enthalten":"kann-palmöl-enthalten",
+   "nicht-vegan":"nicht-vegan",
+   "nicht-vegetarisch":"nicht-vegetarisch",
+   "palmöl":"palmöl",
+   "palmölfrei":"palmölfrei",
+   "palmölgehalt-unbekannt":"palmölgehalt-unbekannt",
+   "vegan":"vegan",
+   "veganer-status-unbekannt":"veganer-status-unbekannt",
+   "vegetarisch":"vegetarisch",
+   "vegetarischer-status-unbekannt":"vegetarischer-status-unbekannt",
+   "vielleicht-vegan":"vielleicht-vegan",
+   "vielleicht-vegetarisch":"vielleicht-vegetarisch"
+  },
+  "el":{
+   "άγνωστη-κατάσταση-vegan":"άγνωστη-κατάσταση-vegan",
+   "άγνωστη-κατάσταση-ως-προς-το-αν-είναι-χορτοφάγος":"άγνωστη-κατάσταση-ως-προς-το-αν-είναι-χορτοφάγος",
+   "άγνωστη-περιεκτικότητα-σε-φοινικέλαιο":"άγνωστη-περιεκτικότητα-σε-φοινικέλαιο",
+   "ίσως-vegan":"ίσως-vegan",
+   "ίσως-χορτοφάγος":"ίσως-χορτοφάγος",
+   "βιγκανικό":"βιγκανικό",
+   "μη-βέγκαν":"μη-βέγκαν",
+   "μη-χορτοφάγος":"μη-χορτοφάγος",
+   "μπορεί-να-περιέχει-φοινικέλαιο":"μπορεί-να-περιέχει-φοινικέλαιο",
+   "χορτοφάγος":"χορτοφάγος",
+   "χωρίς-φοινικέλαιο":"χωρίς-φοινικέλαιο"
+  },
+  "en":{
+   "may-contain-palm-oil":"may-contain-palm-oil",
+   "maybe-vegan":"maybe-vegan",
+   "maybe-vegetarian":"maybe-vegetarian",
+   "non-vegan":"non-vegan",
+   "non-vegetarian":"non-vegetarian",
+   "palm-oil":"palm-oil",
+   "palm-oil-content-unknown":"palm-oil-content-unknown",
+   "palm-oil-free":"palm-oil-free",
+   "vegan":"vegan",
+   "vegan-statu-unknown":"vegan-status-unknown",
+   "vegan-status-unknown":"vegan-status-unknown",
+   "vegetarian":"vegetarian",
+   "vegetarian-statu-unknown":"vegetarian-status-unknown",
+   "vegetarian-status-unknown":"vegetarian-status-unknown"
+  },
+  "es":{
+   "aceite-de-palma":"aceite-de-palma",
+   "no-vegano":"no-vegano",
+   "no-vegetariano":"no-vegetariano",
+   "puede-contener-aceite-de-palma":"puede-contener-aceite-de-palma",
+   "quiza-vegano":"quiza-vegano",
+   "quiza-vegetariano":"quiza-vegetariano",
+   "se-desconoce-si-contiene-aceite-de-palma":"se-desconoce-si-contiene-aceite-de-palma",
+   "se-desconoce-si-e-vegano":"se-desconoce-si-es-vegano",
+   "se-desconoce-si-e-vegetariano":"se-desconoce-si-es-vegetariano",
+   "se-desconoce-si-es-vegano":"se-desconoce-si-es-vegano",
+   "se-desconoce-si-es-vegetariano":"se-desconoce-si-es-vegetariano",
+   "sin-aceite-de-palma":"sin-aceite-de-palma",
+   "tal-vez-vegano":"quiza-vegano",
+   "vegano":"vegano",
+   "vegetariano":"vegetariano"
+  },
+  "et":{
+   "mittesööjane":"mittesööjane",
+   "mittetaimetoitlane":"mittetaimetoitlane",
+   "palmiõli":"palmiõli",
+   "palmiõli-sisaldus-teadmata":"palmiõli-sisaldus-teadmata",
+   "palmiõlivaba":"palmiõlivaba",
+   "taimetoitlase-staatus-teadmata":"taimetoitlase-staatus-teadmata",
+   "vegan":"vegan",
+   "vegan-staatus-teadmata":"vegan-staatus-teadmata",
+   "võib-olla-vegan":"võib-olla-vegan",
+   "võib-sisaldada-palmiõli":"võib-sisaldada-palmiõli"
+  },
+  "fi":{
+   "ehkä-vegaani":"mahdollisesti-vegaaninen",
+   "ei-palmuöljyä":"ei-palmuöljyä",
+   "ei-vegaaninen":"ei-vegaaninen",
+   "ei-vegetaarinen":"ei-vegetaarinen",
+   "mahdollisesti-vegaaninen":"mahdollisesti-vegaaninen",
+   "mahdollisesti-vegetaarinen":"mahdollisesti-vegetaarinen",
+   "palmuöljy":"palmuöljy",
+   "palmuöljysisältö-ei-ole-tiedossa":"palmuöljysisältö-ei-ole-tiedossa",
+   "saattaa-sisältää-palmuöljyä":"saattaa-sisältää-palmuöljyä",
+   "vegaani":"vegaani",
+   "vegaaninen-tila-tuntematon":"vegaaninen-tila-tuntematon",
+   "vegaanisuus-ei-ole-tiedossa":"vegaaninen-tila-tuntematon",
+   "vegetaarinen":"vegetaarinen",
+   "vegetaarisuus-ei-ole-tiedossa":"vegetaarisuus-ei-ole-tiedossa"
+  },
+  "fr":{
+   "caractere-vegetalien-inconnu":"caractere-vegetalien-inconnu",
+   "caractere-vegetarien-inconnu":"caractere-vegetarien-inconnu",
+   "huile-de-palme":"huile-de-palme",
+   "la-presence-d-huile-de-palme-n-a-pa-ete-determinee":"la-presence-d-huile-de-palme-n-a-pas-ete-determinee",
+   "la-presence-d-huile-de-palme-n-a-pas-ete-determinee":"la-presence-d-huile-de-palme-n-a-pas-ete-determinee",
+   "non-vegetalien":"non-vegetalien",
+   "non-vegetarien":"non-vegetarien",
+   "peut-etre-vegetalien":"peut-etre-vegetalien",
+   "peut-etre-vegetarien":"peut-etre-vegetarien",
+   "pourrait-contenir-de-l-huile-de-palme":"pourrait-contenir-de-l-huile-de-palme",
+   "san-huile-de-palme":"sans-huile-de-palme",
+   "sans-huile-de-palme":"sans-huile-de-palme",
+   "vegetalien":"vegetalien",
+   "vegetarien":"vegetarien"
+  },
+  "he":{
+   "טבעוני":"טבעוני",
+   "כנראה-טבעוני":"כנראה-טבעוני",
+   "כנראה-צמחוני":"כנראה-צמחוני",
+   "לא-טבעוני":"לא-טבעוני",
+   "לא-צמחוני":"לא-צמחוני",
+   "ללא-שמן-דקלים":"ללא-שמן-דקלים",
+   "מצב-טבעוני-לא-ידוע":"מצב-טבעוני-לא-ידוע",
+   "מצב-צמחוני-לא-ידוע":"מצב-צמחוני-לא-ידוע",
+   "עשוי-להכין-שמן-דקלים":"עשוי-להכין-שמן-דקלים",
+   "צמחוני":"צמחוני",
+   "שמן-דקלים":"שמן-דקלים",
+   "תכולת-שמן-דקלים-לא-ידועה":"תכולת-שמן-דקלים-לא-ידועה"
+  },
+  "hr":{
+   "bez-palminog-ulja":"bez-palminog-ulja",
+   "možda-vegansko":"možda-vegansko",
+   "može-sadržavati-palmino-ulje":"može-sadržavati-palmino-ulje",
+   "nepoznat-vegetarijanski-status":"nepoznat-vegetarijanski-status",
+   "nepoznata-količina-palminog-ulja":"nepoznata-količina-palminog-ulja",
+   "nije-vegansko":"nije-vegansko",
+   "nije-vegetarijansko":"nije-vegetarijansko",
+   "palmino-ulje":"palmino-ulje",
+   "veganski-status-nepoznat":"veganski-status-nepoznat",
+   "vegansko":"vegansko"
+  },
+  "hu":{
+   "nem-vegetáriánus":"nem-vegetáriánus",
+   "nem-vegán":"nem-vegán",
+   "pálmaolaj":"pálmaolaj",
+   "pálmaolaj-tartalom-ismeretlen":"pálmaolaj-tartalom-ismeretlen",
+   "pálmaolajat-tartalmazhat":"pálmaolajat-tartalmazhat",
+   "pálmaolajmentes":"pálmaolajmentes",
+   "talán-vegetáriánus":"talán-vegetáriánus",
+   "talán-vegán":"talán-vegán",
+   "vegetáriánus":"vegetáriánus",
+   "vegetáriánus-státusz-ismeretlen":"vegetáriánus-státusz-ismeretlen",
+   "vegán":"vegán",
+   "vegán-státusz-ismeretlen":"vegán-státusz-ismeretlen"
+  },
+  "it":{
+   "forse-vegano":"potrebbe-essere-vegano",
+   "la-presenza-di-olio-di-palma-non-e-stata-determinata":"la-presenza-di-olio-di-palma-non-e-stata-determinata",
+   "non-vegano":"non-vegano",
+   "non-vegetariano":"non-vegetariano",
+   "olio-di-palma":"olio-di-palma",
+   "potrebbe-contenere-olio-di-palma":"potrebbe-contenere-olio-di-palma",
+   "potrebbe-essere-vegano":"potrebbe-essere-vegano",
+   "potrebbe-essere-vegetariano":"potrebbe-essere-vegetariano",
+   "senza-olio-di-palma":"senza-olio-di-palma",
+   "stato-vegano-sconosciuto":"stato-vegano-sconosciuto",
+   "stato-vegetariano-sconosciuto":"stato-vegetariano-sconosciuto",
+   "vegano":"vegano",
+   "vegetariano":"vegetariano"
+  },
+  "ja":{
+   "パームオイルフリー":"パームオイルフリー",
+   "パーム油":"パーム油",
+   "パーム油を含むか不明":"パーム油を含むか不明",
+   "パーム油を含む可能性あり":"パーム油を含む可能性あり",
+   "ビーガン":"ビーガン",
+   "ビーガンか不明":"ビーガンか不明",
+   "ベジタリアン":"ベジタリアン",
+   "ベジタリアンか不明":"ベジタリアンか不明",
+   "多分ビーガン":"多分ビーガン",
+   "多分ベジタリアン":"多分ベジタリアン",
+   "非ビーガン":"非ビーガン",
+   "非菜食主義者":"非菜食主義者"
+  },
+  "ko":{
+   "비-채식":"비-채식",
+   "비-채식주의-자":"비-채식주의-자",
+   "비건-상태-알-수-없음":"비건-상태-알-수-없음",
+   "비건-채식":"비건-채식",
+   "아마-비건-채식":"아마-비건-채식",
+   "어쩌면-채식주의-자":"어쩌면-채식주의-자",
+   "채식":"채식",
+   "채식주의자-상태-알-수-없음":"채식주의자-상태-알-수-없음"
+  },
+  "lt":{
+   "be-palmių-aliejaus":"be-palmių-aliejaus",
+   "galbūt-veganiška":"galbūt-veganiška",
+   "galbūt-vegetariškas":"galbūt-vegetariškas",
+   "gali-turėti-palmių-aliejaus":"gali-turėti-palmių-aliejaus",
+   "neveganiškas":"neveganiškas",
+   "nevegetariškas":"nevegetariškas",
+   "nežinoma-palmių-aliejaus-kiekis":"nežinoma-palmių-aliejaus-kiekis",
+   "nežinomas-vegetarų-statusas":"nežinomas-vegetarų-statusas",
+   "palmių-aliejus":"palmių-aliejus",
+   "veganas":"veganas",
+   "vegano-statusas-nežinomas":"vegano-statusas-nežinomas",
+   "vegetariškas":"vegetariškas"
+  },
+  "lv":{
+   "bez-palmu-eļļas":"bez-palmu-eļļas",
+   "nav-vegāns":"nav-vegāns",
+   "nav-veģetārisks":"nav-veģetārisks",
+   "nezināms-palmu-eļļas-saturs":"nezināms-palmu-eļļas-saturs",
+   "palmu-eļļa":"palmu-eļļa",
+   "var-saturēt-palmu-eļļu":"var-saturēt-palmu-eļļu",
+   "varbūt-vegāns":"varbūt-vegāns",
+   "varbūt-veģetārisks":"varbūt-veģetārisks",
+   "vegāna-statuss-nav-zināms":"vegāna-statuss-nav-zināms",
+   "vegāns":"vegāns",
+   "veģetānisks-status-nav-zināms":"veģetānisks-status-nav-zināms",
+   "veģetārisks":"veģetārisks"
+  },
+  "nl":{
+   "bevat-mogelijk-palmolie":"bevat-mogelijk-palmolie",
+   "bevat-palm-olie":"bevat-palm-olie",
+   "mogelijk-vegan":"mogelijk-vegan",
+   "mogelijk-vegetarisch":"mogelijk-vegetarisch",
+   "niet-veganistisch":"niet-veganistisch",
+   "niet-vegetarisch":"niet-vegetarisch",
+   "palm-olie-status-onbekend":"palm-olie-status-onbekend",
+   "veganistisch":"veganistisch",
+   "veganistische-status-onbekend":"veganistische-status-onbekend",
+   "vegetarisch":"vegetarisch",
+   "vegetarische-status-onbekend":"vegetarische-status-onbekend",
+   "zonder-palm-olie":"zonder-palm-olie"
+  },
+  "pl":{
+   "bez-oleju-palmowego":"bez-oleju-palmowego",
+   "może-wegańskie":"może-wegańskie",
+   "może-wegetariańskie":"może-wegetariańskie",
+   "może-zawierać-olej-palmowy":"może-zawierać-olej-palmowy",
+   "niewegańskie":"niewegańskie",
+   "niewegetariańskie":"niewegetariańskie",
+   "nieznany-status-wegetariański":"nieznany-status-wegetariański",
+   "olej-palmowy":"olej-palmowy",
+   "status-wegański-nieznany":"status-wegański-nieznany",
+   "wegańskie":"wegańskie",
+   "wegetariańskie":"wegetariańskie"
+  },
+  "pt":{
+   "desconhece-se-se-contem-oleo-de-palma":"desconhece-se-se-contem-oleo-de-palma",
+   "desconhece-se-se-e-vegano":"desconhece-se-se-e-vegano",
+   "estado-vegetariano-desconhecido":"estado-vegetariano-desconhecido",
+   "nao-vegano":"nao-vegano",
+   "nao-vegetariano":"nao-vegetariano",
+   "oleo-de-palma":"oleo-de-palma",
+   "pode-conter-oleo-de-palma":"pode-conter-oleo-de-palma",
+   "possivelmente-vegano":"possivelmente-vegano",
+   "possivelmente-vegetariano":"possivelmente-vegetariano",
+   "sem-oleo-de-palma":"sem-oleo-de-palma",
+   "vegano":"vegano",
+   "vegetariano":"vegetariano"
+  },
+  "ro":{
+   "conținutul-de-ulei-de-palmier-este-necunoscut":"conținutul-de-ulei-de-palmier-este-necunoscut",
+   "fără-ulei-de-palmier":"fără-ulei-de-palmier",
+   "non-vegan":"non-vegan",
+   "non-vegetarian":"non-vegetarian",
+   "poate-conține-ulei-de-palmier":"poate-conține-ulei-de-palmier",
+   "poate-vegan":"poate-vegan",
+   "poate-vegetarian":"poate-vegetarian",
+   "stare-vegetariană-necunoscută":"stare-vegetariană-necunoscută",
+   "starea-vegană-este-necunoscută":"starea-vegană-este-necunoscută",
+   "ulei-de-palmier":"ulei-de-palmier",
+   "vegan":"vegan",
+   "vegetarian":"vegetarian"
+  },
+  "ru":{
+   "веганский-статус-неизвестен":"веганский-статус-неизвестен",
+   "веганское":"веганское",
+   "вегетарианский-статус-неизвестен":"вегетарианский-статус-неизвестен",
+   "вегетарианское":"вегетарианское",
+   "возможно-веганское":"возможно-веганское",
+   "возможно-вегетарианское":"возможно-вегетарианское",
+   "может-содержать-пальмовое-масло":"может-содержать-пальмовое-масло",
+   "не-веганское":"не-веганское",
+   "не-вегетарианское":"не-вегетарианское",
+   "не-содержит-пальмовое-масло":"не-содержит-пальмовое-масло",
+   "пальмовое-масло":"пальмовое-масло",
+   "содержание-пальмового-масла-неизвестно":"содержание-пальмового-масла-неизвестно"
+  },
+  "sk":{
+   "bez-palmoveho-oleja":"bez-palmoveho-oleja",
+   "može-obsahovať-palmovy-olej":"može-obsahovať-palmovy-olej",
+   "možno-veganske":"možno-veganske",
+   "možno-vegetarianske":"možno-vegetarianske",
+   "neveganske":"neveganske",
+   "nevegetarianske":"nevegetarianske",
+   "obsah-palmoveho-oleja-neznamy":"obsah-palmoveho-oleja-neznamy",
+   "palmovy-olej":"palmovy-olej",
+   "stav-vegetariansky-neznamy":"stav-vegetariansky-neznamy",
+   "veganske":"veganske",
+   "vegansky-status-neznamy":"vegansky-status-neznamy",
+   "vegetarianske":"vegetarianske"
+  },
+  "sl":{
+   "brez-palmovega-olja":"brez-palmovega-olja",
+   "lahko-vsebuje-palmino-olje":"lahko-vsebuje-palmino-olje",
+   "morda-vegansko":"morda-vegansko",
+   "morda-vegetarijansko":"morda-vegetarijansko",
+   "nevegansko":"nevegansko",
+   "nevegetarijansko":"nevegetarijansko",
+   "palmino-olje":"palmino-olje",
+   "status-vegetarijanca-ni-znan":"status-vegetarijanca-ni-znan",
+   "veganski-status-neznan":"veganski-status-neznan",
+   "vegansko":"vegansko",
+   "vegetarijansko":"vegetarijansko",
+   "vsebnost-palmovega-olja-ni-znana":"vsebnost-palmovega-olja-ni-znana"
+  },
+  "sr":{
+   "nepoznata-količina-palminog-ulja":"nepoznata-količina-palminog-ulja",
+   "без-палмовог-уља":"без-палмовог-уља",
+   "веганско":"веганско",
+   "вегетаријанско":"вегетаријанско",
+   "можда-веганско":"можда-веганско",
+   "можда-је-вегетаријанско":"можда-је-вегетаријанско",
+   "може-садржати-палмово-уље":"може-садржати-палмово-уље",
+   "није-веганско":"није-веганско",
+   "није-вегетаријанско":"није-вегетаријанско",
+   "палмино-масло":"палмино-масло",
+   "статус-вегана-непознат":"статус-вегана-непознат",
+   "статус-вегетаријанца-непознат":"статус-вегетаријанца-непознат"
+  },
+  "sv":{
+   "icke-vegan":"icke-vegan",
+   "icke-vegetarisk":"icke-vegetarisk",
+   "kan-innehålla-palmolja":"kan-innehålla-palmolja",
+   "kanske-vegansk":"kanske-vegansk",
+   "kanske-vegetariskt":"kanske-vegetariskt",
+   "palmolja":"palmolja",
+   "palmolja-innehåll-okänt":"palmolja-innehåll-okänt",
+   "palmoljefri":"palmoljefri",
+   "palmoljefritt":"palmoljefri",
+   "vegansk":"vegansk",
+   "vegansk-status-okänd":"vegansk-status-okänd",
+   "vegetarisk-status-okänd":"vegetarisk-status-okänd",
+   "vegetariskt":"vegetariskt"
+  },
+  "th":{
+   "มังสวิรัติ":"มังสวิรัติ",
+   "อาจจะเป็นมังสวิรัติ":"อาจจะเป็นมังสวิรัติ",
+   "ไม่ใช่มังสวิรัติ":"ไม่ใช่มังสวิรัติ"
+  },
+  "tr":{
+   "hurma-yağı":"hurma-yağı",
+   "hurma-yağı-içerebilir":"hurma-yağı-içerebilir",
+   "hurma-yağı-içeriği-bilinmiyor":"hurma-yağı-içeriği-bilinmiyor",
+   "hurma-yağı-yok":"hurma-yağı-yok",
+   "vegan":"vegan",
+   "vegan-değil":"vegan-değil",
+   "vegan-durumu-bilinmiyor":"vegan-durumu-bilinmiyor",
+   "vegan-olabilir":"vegan-olabilir",
+   "vejetaryen":"vejetaryen",
+   "vejetaryen-değil":"vejetaryen-değil",
+   "vejetaryen-durumu-bilinmiyor":"vejetaryen-durumu-bilinmiyor",
+   "vejetaryen-olabilir":"vejetaryen-olabilir"
+  },
+  "uk":{
+   "без-пальмової-олії":"без-пальмової-олії",
+   "веганське":"веганське",
+   "вегетаріанське":"вегетаріанське",
+   "може-містити-пальмову-олію":"може-містити-пальмову-олію",
+   "можливо-вегетаріанське":"можливо-вегетаріанське",
+   "не-веганське":"не-веганське",
+   "не-вегетаріанське":"не-вегетаріанське",
+   "невідоме-вміст-пальмової-олії":"невідоме-вміст-пальмової-олії",
+   "пальмова-олія":"пальмова-олія",
+   "статус-вегана-невідомий":"статус-вегана-невідомий",
+   "статус-вегетаріанський-невідомий":"статус-вегетаріанський-невідомий"
+  },
+  "vi":{
+   "có-lẽ-là-thuần-chay":"có-lẽ-là-thuần-chay",
+   "có-thể-ăn-chay":"có-thể-ăn-chay",
+   "không-ăn-chay":"không-ăn-chay",
+   "người-không-ăn-chay":"người-không-ăn-chay",
+   "thuần-chay":"thuần-chay",
+   "tình-trạng-ăn-chay-không-rõ":"tình-trạng-ăn-chay-không-rõ",
+   "ăn-chay":"ăn-chay"
+  },
+  "zh":{
+   "也许是素食主义者":"也许是素食主义者",
+   "可能是素食的":"可能是素食的",
+   "未知的素食主义者状态":"未知的素食主义者状态",
+   "素食状态未知":"素食状态未知",
+   "非素食":"非素食",
+   "非素食者":"非素食者"
+  }
+ },
+ "synonyms_for":{
+  "ar":{
+   "ربما-نباتي":[
+    "ربما نباتي"
+   ],
+   "غير-النباتية":[
+    "غير النباتية"
+   ],
+   "غير-نباتي":[
+    "غير نباتي"
+   ],
+   "نباتي":[
+    "نباتي"
+   ]
+  },
+  "bg":{
+   "без-палмово-масло":[
+    "Без палмово масло"
+   ],
+   "веган":[
+    "Веган"
+   ],
+   "вегетарианско":[
+    "Вегетарианско"
+   ],
+   "може-да-е-веган":[
+    "Може да е веган"
+   ],
+   "може-да-е-вегетарианско":[
+    "Може да е вегетарианско"
+   ],
+   "може-да-съдържа-палмово-масло":[
+    "Може да съдържа палмово масло"
+   ],
+   "не-е-веган":[
+    "Не е веган"
+   ],
+   "не-е-вегетарианско":[
+    "Не е вегетарианско"
+   ],
+   "неизвестен-вегански-статус":[
+    "Неизвестен вегански статус"
+   ],
+   "неизвестен-вегетариански-статус":[
+    "Неизвестен вегетариански статус"
+   ],
+   "неизвестно-съдържание-на-палмово-масло":[
+    "Неизвестно съдържание на палмово масло"
+   ],
+   "палмово-масло":[
+    "Палмово масло"
+   ]
+  },
+  "ca":{
+   "es-desconeix-si-conte-oli-de-palma":[
+    "Es desconeix si conté oli de palma"
+   ],
+   "es-desconeix-si-es-vega":[
+    "Es desconeix si és vegà",
+    "Està pendent si és vegà"
+   ],
+   "es-desconeix-si-es-vegetaria":[
+    "Es desconeix si és vegetarià"
+   ],
+   "no-conte-oli-de-palma":[
+    "No conté oli de palma"
+   ],
+   "no-es-vega":[
+    "No és vegà"
+   ],
+   "no-es-vegetaria":[
+    "No és vegetarià"
+   ],
+   "oli-de-palma":[
+    "Oli de palma"
+   ],
+   "pot-contenir-oli-de-palma":[
+    "Pot contenir oli de palma"
+   ],
+   "pot-ser-vega":[
+    "Pot ser vegà"
+   ],
+   "pot-ser-vegetaria":[
+    "Pot ser vegetarià"
+   ],
+   "vega":[
+    "Vegà"
+   ],
+   "vegetaria":[
+    "Vegetarià"
+   ]
+  },
+  "cs":{
+   "možná-vegan":[
+    "Možná vegan"
+   ],
+   "možná-vegetarián":[
+    "Možná vegetarián"
+   ],
+   "neveganová":[
+    "Neveganová"
+   ],
+   "nevegetarián":[
+    "Nevegetarián"
+   ],
+   "palmový-olej":[
+    "Palmový olej"
+   ],
+   "stav-vegetariánský-neznámý":[
+    "Stav vegetariánský neznámý"
+   ],
+   "vegan":[
+    "Vegan"
+   ],
+   "veganský-status-neznámý":[
+    "Veganský status neznámý"
+   ],
+   "vegetariánský":[
+    "Vegetariánský"
+   ]
+  },
+  "da":{
+   "fri-for-palmeolie":[
+    "Fri for palmeolie",
+    "palmeoliefri"
+   ],
+   "ikke-vegansk":[
+    "Ikke-vegansk"
+   ],
+   "ikke-vegetarisk":[
+    "Ikke-vegetarisk"
+   ],
+   "kan-indeholde-palmeolie":[
+    "Kan indeholde palmeolie"
+   ],
+   "måske-vegansk":[
+    "Måske vegansk"
+   ],
+   "måske-vegetarisk":[
+    "Måske vegetarisk"
+   ],
+   "palmeolie":[
+    "Palmeolie"
+   ],
+   "palmeolieindhold-ukendt":[
+    "Palmeolieindhold ukendt"
+   ],
+   "vegansk":[
+    "Vegansk"
+   ],
+   "vegansk-status-ukendt":[
+    "Vegansk status ukendt"
+   ],
+   "vegetarisk":[
+    "vegetarisk"
+   ],
+   "vegetarisk-status-ukendt":[
+    "Vegetarisk status ukendt"
+   ]
+  },
+  "de":{
+   "kann-palmöl-enthalten":[
+    "Kann Palmöl enthalten"
+   ],
+   "nicht-vegan":[
+    "Nicht-vegan"
+   ],
+   "nicht-vegetarisch":[
+    "Nicht-vegetarisch"
+   ],
+   "palmöl":[
+    "Palmöl"
+   ],
+   "palmölfrei":[
+    "Palmölfrei"
+   ],
+   "palmölgehalt-unbekannt":[
+    "Palmölgehalt unbekannt"
+   ],
+   "vegan":[
+    "vegan"
+   ],
+   "veganer-status-unbekannt":[
+    "Veganer Status unbekannt"
+   ],
+   "vegetarisch":[
+    "vegetarisch"
+   ],
+   "vegetarischer-status-unbekannt":[
+    "Vegetarischer Status unbekannt"
+   ],
+   "vielleicht-vegan":[
+    "Vielleicht vegan"
+   ],
+   "vielleicht-vegetarisch":[
+    "Vielleicht vegetarisch"
+   ]
+  },
+  "el":{
+   "άγνωστη-κατάσταση-vegan":[
+    "Άγνωστη κατάσταση vegan"
+   ],
+   "άγνωστη-κατάσταση-ως-προς-το-αν-είναι-χορτοφάγος":[
+    "Άγνωστη κατάσταση ως προς το αν είναι χορτοφάγος"
+   ],
+   "άγνωστη-περιεκτικότητα-σε-φοινικέλαιο":[
+    "Άγνωστη περιεκτικότητα σε φοινικέλαιο"
+   ],
+   "ίσως-vegan":[
+    "Ίσως vegan"
+   ],
+   "ίσως-χορτοφάγος":[
+    "Ίσως χορτοφάγος"
+   ],
+   "βιγκανικό":[
+    "Βιγκανικό"
+   ],
+   "μη-βέγκαν":[
+    "Μη βέγκαν"
+   ],
+   "μη-χορτοφάγος":[
+    "Μη χορτοφάγος"
+   ],
+   "μπορεί-να-περιέχει-φοινικέλαιο":[
+    "Μπορεί να περιέχει φοινικέλαιο"
+   ],
+   "χορτοφάγος":[
+    "Χορτοφάγος"
+   ],
+   "χωρίς-φοινικέλαιο":[
+    "Χωρίς φοινικέλαιο"
+   ]
+  },
+  "en":{
+   "may-contain-palm-oil":[
+    "May contain palm oil"
+   ],
+   "maybe-vegan":[
+    "Maybe vegan"
+   ],
+   "maybe-vegetarian":[
+    "Maybe vegetarian"
+   ],
+   "non-vegan":[
+    "Non-vegan"
+   ],
+   "non-vegetarian":[
+    "Non-vegetarian"
+   ],
+   "palm-oil":[
+    "Palm oil"
+   ],
+   "palm-oil-content-unknown":[
+    "Palm oil content unknown"
+   ],
+   "palm-oil-free":[
+    "Palm oil free"
+   ],
+   "vegan":[
+    "Vegan"
+   ],
+   "vegan-status-unknown":[
+    "Vegan status unknown"
+   ],
+   "vegetarian":[
+    "Vegetarian"
+   ],
+   "vegetarian-status-unknown":[
+    "Vegetarian status unknown"
+   ]
+  },
+  "es":{
+   "aceite-de-palma":[
+    "Aceite de palma"
+   ],
+   "no-vegano":[
+    "No vegano"
+   ],
+   "no-vegetariano":[
+    "No vegetariano"
+   ],
+   "puede-contener-aceite-de-palma":[
+    "Puede contener aceite de palma"
+   ],
+   "quiza-vegano":[
+    "Quizá vegano",
+    "Tal vez vegano"
+   ],
+   "quiza-vegetariano":[
+    "Quizá vegetariano"
+   ],
+   "se-desconoce-si-contiene-aceite-de-palma":[
+    "Se desconoce si contiene aceite de palma"
+   ],
+   "se-desconoce-si-es-vegano":[
+    "Se desconoce si es vegano"
+   ],
+   "se-desconoce-si-es-vegetariano":[
+    "Se desconoce si es vegetariano"
+   ],
+   "sin-aceite-de-palma":[
+    "Sin aceite de palma"
+   ],
+   "vegano":[
+    "Vegano"
+   ],
+   "vegetariano":[
+    "Vegetariano"
+   ]
+  },
+  "et":{
+   "mittesööjane":[
+    "Mittesööjane"
+   ],
+   "mittetaimetoitlane":[
+    "Mittetaimetoitlane"
+   ],
+   "palmiõli":[
+    "Palmiõli"
+   ],
+   "palmiõli-sisaldus-teadmata":[
+    "Palmiõli sisaldus teadmata"
+   ],
+   "palmiõlivaba":[
+    "Palmiõlivaba"
+   ],
+   "taimetoitlase-staatus-teadmata":[
+    "Taimetoitlase staatus teadmata"
+   ],
+   "vegan":[
+    "Vegan"
+   ],
+   "vegan-staatus-teadmata":[
+    "Vegan staatus teadmata"
+   ],
+   "võib-olla-vegan":[
+    "Võib-olla vegan"
+   ],
+   "võib-sisaldada-palmiõli":[
+    "Võib sisaldada palmiõli"
+   ]
+  },
+  "fi":{
+   "ei-palmuöljyä":[
+    "Ei palmuöljyä"
+   ],
+   "ei-vegaaninen":[
+    "Ei-vegaaninen"
+   ],
+   "ei-vegetaarinen":[
+    "Ei-vegetaarinen"
+   ],
+   "mahdollisesti-vegaaninen":[
+    "Mahdollisesti vegaaninen",
+    "Ehkä vegaani"
+   ],
+   "mahdollisesti-vegetaarinen":[
+    "Mahdollisesti vegetaarinen"
+   ],
+   "palmuöljy":[
+    "Palmuöljy"
+   ],
+   "palmuöljysisältö-ei-ole-tiedossa":[
+    "Palmuöljysisältö ei ole tiedossa"
+   ],
+   "saattaa-sisältää-palmuöljyä":[
+    "Saattaa sisältää palmuöljyä"
+   ],
+   "vegaani":[
+    "Vegaani"
+   ],
+   "vegaaninen-tila-tuntematon":[
+    "Vegaaninen tila tuntematon",
+    "vegaanisuus ei ole tiedossa"
+   ],
+   "vegetaarinen":[
+    "Vegetaarinen"
+   ],
+   "vegetaarisuus-ei-ole-tiedossa":[
+    "Vegetaarisuus ei ole tiedossa"
+   ]
+  },
+  "fr":{
+   "caractere-vegetalien-inconnu":[
+    "Caractère végétalien inconnu"
+   ],
+   "caractere-vegetarien-inconnu":[
+    "Caractère végétarien inconnu"
+   ],
+   "huile-de-palme":[
+    "Huile de palme"
+   ],
+   "la-presence-d-huile-de-palme-n-a-pas-ete-determinee":[
+    "La présence d'huile de palme n'a pas été déterminée"
+   ],
+   "non-vegetalien":[
+    "Non végétalien"
+   ],
+   "non-vegetarien":[
+    "Non végétarien"
+   ],
+   "peut-etre-vegetalien":[
+    "Peut-être végétalien"
+   ],
+   "peut-etre-vegetarien":[
+    "Peut-être végétarien"
+   ],
+   "pourrait-contenir-de-l-huile-de-palme":[
+    "Pourrait contenir de l'huile de palme"
+   ],
+   "sans-huile-de-palme":[
+    "Sans huile de palme"
+   ],
+   "vegetalien":[
+    "Végétalien"
+   ],
+   "vegetarien":[
+    "Végétarien"
+   ]
+  },
+  "he":{
+   "טבעוני":[
+    "טבעוני"
+   ],
+   "כנראה-טבעוני":[
+    "כנראה טבעוני"
+   ],
+   "כנראה-צמחוני":[
+    "כנראה צמחוני"
+   ],
+   "לא-טבעוני":[
+    "לא טבעוני"
+   ],
+   "לא-צמחוני":[
+    "לא צמחוני"
+   ],
+   "ללא-שמן-דקלים":[
+    "ללא שמן דקלים"
+   ],
+   "מצב-טבעוני-לא-ידוע":[
+    "מצב טבעוני לא ידוע"
+   ],
+   "מצב-צמחוני-לא-ידוע":[
+    "מצב צמחוני לא ידוע"
+   ],
+   "עשוי-להכין-שמן-דקלים":[
+    "עשוי להכין שמן דקלים"
+   ],
+   "צמחוני":[
+    "צמחוני"
+   ],
+   "שמן-דקלים":[
+    "שמן דקלים"
+   ],
+   "תכולת-שמן-דקלים-לא-ידועה":[
+    "תכולת שמן דקלים לא ידועה"
+   ]
+  },
+  "hr":{
+   "bez-palminog-ulja":[
+    "Bez palminog ulja"
+   ],
+   "možda-vegansko":[
+    "Možda vegansko"
+   ],
+   "može-sadržavati-palmino-ulje":[
+    "Može sadržavati palmino ulje"
+   ],
+   "nepoznat-vegetarijanski-status":[
+    "Nepoznat vegetarijanski status"
+   ],
+   "nepoznata-količina-palminog-ulja":[
+    "Nepoznata količina palminog ulja"
+   ],
+   "nije-vegansko":[
+    "Nije vegansko"
+   ],
+   "nije-vegetarijansko":[
+    "Nije vegetarijansko"
+   ],
+   "palmino-ulje":[
+    "Palmino ulje"
+   ],
+   "veganski-status-nepoznat":[
+    "Veganski status nepoznat"
+   ],
+   "vegansko":[
+    "Vegansko"
+   ]
+  },
+  "hu":{
+   "nem-vegetáriánus":[
+    "Nem vegetáriánus"
+   ],
+   "nem-vegán":[
+    "Nem vegán"
+   ],
+   "pálmaolaj":[
+    "Pálmaolaj"
+   ],
+   "pálmaolaj-tartalom-ismeretlen":[
+    "Pálmaolaj tartalom ismeretlen"
+   ],
+   "pálmaolajat-tartalmazhat":[
+    "Pálmaolajat tartalmazhat"
+   ],
+   "pálmaolajmentes":[
+    "Pálmaolajmentes"
+   ],
+   "talán-vegetáriánus":[
+    "Talán vegetáriánus"
+   ],
+   "talán-vegán":[
+    "Talán vegán"
+   ],
+   "vegetáriánus":[
+    "Vegetáriánus"
+   ],
+   "vegetáriánus-státusz-ismeretlen":[
+    "Vegetáriánus státusz ismeretlen"
+   ],
+   "vegán":[
+    "Vegán"
+   ],
+   "vegán-státusz-ismeretlen":[
+    "Vegán státusz ismeretlen"
+   ]
+  },
+  "it":{
+   "la-presenza-di-olio-di-palma-non-e-stata-determinata":[
+    "La presenza di olio di palma non è stata determinata"
+   ],
+   "non-vegano":[
+    "Non vegano"
+   ],
+   "non-vegetariano":[
+    "Non vegetariano"
+   ],
+   "olio-di-palma":[
+    "Olio di palma"
+   ],
+   "potrebbe-contenere-olio-di-palma":[
+    "Potrebbe contenere olio di palma"
+   ],
+   "potrebbe-essere-vegano":[
+    "Potrebbe essere vegano",
+    "Forse vegano"
+   ],
+   "potrebbe-essere-vegetariano":[
+    "Potrebbe essere vegetariano"
+   ],
+   "senza-olio-di-palma":[
+    "Senza olio di palma"
+   ],
+   "stato-vegano-sconosciuto":[
+    "Stato vegano sconosciuto"
+   ],
+   "stato-vegetariano-sconosciuto":[
+    "Stato vegetariano sconosciuto"
+   ],
+   "vegano":[
+    "Vegano"
+   ],
+   "vegetariano":[
+    "Vegetariano"
+   ]
+  },
+  "ja":{
+   "パームオイルフリー":[
+    "パームオイルフリー"
+   ],
+   "パーム油":[
+    "パーム油"
+   ],
+   "パーム油を含むか不明":[
+    "パーム油を含むか不明"
+   ],
+   "パーム油を含む可能性あり":[
+    "パーム油を含む可能性あり"
+   ],
+   "ビーガン":[
+    "ビーガン"
+   ],
+   "ビーガンか不明":[
+    "ビーガンか不明"
+   ],
+   "ベジタリアン":[
+    "ベジタリアン"
+   ],
+   "ベジタリアンか不明":[
+    "ベジタリアンか不明"
+   ],
+   "多分ビーガン":[
+    "多分ビーガン"
+   ],
+   "多分ベジタリアン":[
+    "多分ベジタリアン"
+   ],
+   "非ビーガン":[
+    "非ビーガン"
+   ],
+   "非菜食主義者":[
+    "非菜食主義者"
+   ]
+  },
+  "ko":{
+   "비-채식":[
+    "비 채식"
+   ],
+   "비-채식주의-자":[
+    "비 채식주의 자"
+   ],
+   "비건-상태-알-수-없음":[
+    "비건 상태 알 수 없음"
+   ],
+   "비건-채식":[
+    "비건 채식"
+   ],
+   "아마-비건-채식":[
+    "아마 비건 채식"
+   ],
+   "어쩌면-채식주의-자":[
+    "어쩌면 채식주의 자"
+   ],
+   "채식":[
+    "채식"
+   ],
+   "채식주의자-상태-알-수-없음":[
+    "채식주의자 상태 알 수 없음"
+   ]
+  },
+  "lt":{
+   "be-palmių-aliejaus":[
+    "Be palmių aliejaus"
+   ],
+   "galbūt-veganiška":[
+    "Galbūt veganiška"
+   ],
+   "galbūt-vegetariškas":[
+    "Galbūt vegetariškas"
+   ],
+   "gali-turėti-palmių-aliejaus":[
+    "Gali turėti palmių aliejaus"
+   ],
+   "neveganiškas":[
+    "Neveganiškas"
+   ],
+   "nevegetariškas":[
+    "Nevegetariškas"
+   ],
+   "nežinoma-palmių-aliejaus-kiekis":[
+    "Nežinoma palmių aliejaus kiekis"
+   ],
+   "nežinomas-vegetarų-statusas":[
+    "Nežinomas vegetarų statusas"
+   ],
+   "palmių-aliejus":[
+    "Palmių aliejus"
+   ],
+   "veganas":[
+    "Veganas"
+   ],
+   "vegano-statusas-nežinomas":[
+    "Vegano statusas nežinomas"
+   ],
+   "vegetariškas":[
+    "Vegetariškas"
+   ]
+  },
+  "lv":{
+   "bez-palmu-eļļas":[
+    "Bez palmu eļļas"
+   ],
+   "nav-vegāns":[
+    "Nav vegāns"
+   ],
+   "nav-veģetārisks":[
+    "Nav veģetārisks"
+   ],
+   "nezināms-palmu-eļļas-saturs":[
+    "Nezināms palmu eļļas saturs"
+   ],
+   "palmu-eļļa":[
+    "Palmu eļļa"
+   ],
+   "var-saturēt-palmu-eļļu":[
+    "Var saturēt palmu eļļu"
+   ],
+   "varbūt-vegāns":[
+    "Varbūt vegāns"
+   ],
+   "varbūt-veģetārisks":[
+    "Varbūt veģetārisks"
+   ],
+   "vegāna-statuss-nav-zināms":[
+    "Vegāna statuss nav zināms"
+   ],
+   "vegāns":[
+    "Vegāns"
+   ],
+   "veģetānisks-status-nav-zināms":[
+    "Veģetānisks status nav zināms"
+   ],
+   "veģetārisks":[
+    "Veģetārisks"
+   ]
+  },
+  "nl":{
+   "bevat-mogelijk-palmolie":[
+    "Bevat mogelijk palmolie"
+   ],
+   "bevat-palm-olie":[
+    "Bevat palm olie"
+   ],
+   "mogelijk-vegan":[
+    "Mogelijk vegan"
+   ],
+   "mogelijk-vegetarisch":[
+    "Mogelijk vegetarisch"
+   ],
+   "niet-veganistisch":[
+    "Niet veganistisch"
+   ],
+   "niet-vegetarisch":[
+    "Niet vegetarisch"
+   ],
+   "palm-olie-status-onbekend":[
+    "Palm olie status onbekend"
+   ],
+   "veganistisch":[
+    "Veganistisch"
+   ],
+   "veganistische-status-onbekend":[
+    "Veganistische status onbekend"
+   ],
+   "vegetarisch":[
+    "Vegetarisch"
+   ],
+   "vegetarische-status-onbekend":[
+    "Vegetarische status onbekend"
+   ],
+   "zonder-palm-olie":[
+    "Zonder palm olie"
+   ]
+  },
+  "pl":{
+   "bez-oleju-palmowego":[
+    "Bez oleju palmowego"
+   ],
+   "może-wegańskie":[
+    "Może wegańskie"
+   ],
+   "może-wegetariańskie":[
+    "Może wegetariańskie"
+   ],
+   "może-zawierać-olej-palmowy":[
+    "Może zawierać olej palmowy"
+   ],
+   "niewegańskie":[
+    "Niewegańskie"
+   ],
+   "niewegetariańskie":[
+    "Niewegetariańskie"
+   ],
+   "nieznany-status-wegetariański":[
+    "Nieznany status wegetariański"
+   ],
+   "olej-palmowy":[
+    "olej palmowy"
+   ],
+   "status-wegański-nieznany":[
+    "Status wegański nieznany"
+   ],
+   "wegańskie":[
+    "Wegańskie"
+   ],
+   "wegetariańskie":[
+    "Wegetariańskie"
+   ]
+  },
+  "pt":{
+   "desconhece-se-se-contem-oleo-de-palma":[
+    "Desconhece-se se contém óleo de palma"
+   ],
+   "desconhece-se-se-e-vegano":[
+    "Desconhece-se se é vegano"
+   ],
+   "estado-vegetariano-desconhecido":[
+    "Estado vegetariano desconhecido"
+   ],
+   "nao-vegano":[
+    "Não vegano"
+   ],
+   "nao-vegetariano":[
+    "Não vegetariano"
+   ],
+   "oleo-de-palma":[
+    "Óleo de palma"
+   ],
+   "pode-conter-oleo-de-palma":[
+    "Pode conter óleo de palma"
+   ],
+   "possivelmente-vegano":[
+    "Possivelmente vegano"
+   ],
+   "possivelmente-vegetariano":[
+    "Possivelmente vegetariano"
+   ],
+   "sem-oleo-de-palma":[
+    "Sem óleo de palma"
+   ],
+   "vegano":[
+    "Vegano"
+   ],
+   "vegetariano":[
+    "Vegetariano"
+   ]
+  },
+  "ro":{
+   "conținutul-de-ulei-de-palmier-este-necunoscut":[
+    "Conținutul de ulei de palmier este necunoscut"
+   ],
+   "fără-ulei-de-palmier":[
+    "Fără ulei de palmier"
+   ],
+   "non-vegan":[
+    "Non-vegan"
+   ],
+   "non-vegetarian":[
+    "Non vegetarian"
+   ],
+   "poate-conține-ulei-de-palmier":[
+    "Poate conține ulei de palmier"
+   ],
+   "poate-vegan":[
+    "Poate vegan"
+   ],
+   "poate-vegetarian":[
+    "Poate vegetarian"
+   ],
+   "stare-vegetariană-necunoscută":[
+    "Stare vegetariană necunoscută"
+   ],
+   "starea-vegană-este-necunoscută":[
+    "Starea vegană este necunoscută"
+   ],
+   "ulei-de-palmier":[
+    "Ulei de palmier"
+   ],
+   "vegan":[
+    "Vegan"
+   ],
+   "vegetarian":[
+    "Vegetarian"
+   ]
+  },
+  "ru":{
+   "веганский-статус-неизвестен":[
+    "Веганский статус неизвестен"
+   ],
+   "веганское":[
+    "Веганское"
+   ],
+   "вегетарианский-статус-неизвестен":[
+    "Вегетарианский статус неизвестен"
+   ],
+   "вегетарианское":[
+    "Вегетарианское"
+   ],
+   "возможно-веганское":[
+    "Возможно веганское"
+   ],
+   "возможно-вегетарианское":[
+    "Возможно вегетарианское"
+   ],
+   "может-содержать-пальмовое-масло":[
+    "Может содержать пальмовое масло"
+   ],
+   "не-веганское":[
+    "Не веганское"
+   ],
+   "не-вегетарианское":[
+    "Не вегетарианское"
+   ],
+   "не-содержит-пальмовое-масло":[
+    "Не содержит пальмовое масло"
+   ],
+   "пальмовое-масло":[
+    "Пальмовое масло"
+   ],
+   "содержание-пальмового-масла-неизвестно":[
+    "Содержание пальмового масла неизвестно"
+   ]
+  },
+  "sk":{
+   "bez-palmoveho-oleja":[
+    "Bez palmového oleja"
+   ],
+   "može-obsahovať-palmovy-olej":[
+    "Môže obsahovať palmový olej"
+   ],
+   "možno-veganske":[
+    "Možno vegánske"
+   ],
+   "možno-vegetarianske":[
+    "Možno vegetariánske"
+   ],
+   "neveganske":[
+    "Nevegánske"
+   ],
+   "nevegetarianske":[
+    "Nevegetariánske"
+   ],
+   "obsah-palmoveho-oleja-neznamy":[
+    "Obsah palmového oleja neznámy"
+   ],
+   "palmovy-olej":[
+    "Palmový olej"
+   ],
+   "stav-vegetariansky-neznamy":[
+    "Stav vegetariánsky neznámy"
+   ],
+   "veganske":[
+    "Vegánske"
+   ],
+   "vegansky-status-neznamy":[
+    "Vegánsky status neznámy"
+   ],
+   "vegetarianske":[
+    "Vegetariánske"
+   ]
+  },
+  "sl":{
+   "brez-palmovega-olja":[
+    "Brez palmovega olja"
+   ],
+   "lahko-vsebuje-palmino-olje":[
+    "Lahko vsebuje palmino olje"
+   ],
+   "morda-vegansko":[
+    "Morda vegansko"
+   ],
+   "morda-vegetarijansko":[
+    "Morda vegetarijansko"
+   ],
+   "nevegansko":[
+    "Nevegansko"
+   ],
+   "nevegetarijansko":[
+    "Nevegetarijansko"
+   ],
+   "palmino-olje":[
+    "Palmino olje"
+   ],
+   "status-vegetarijanca-ni-znan":[
+    "Status vegetarijanca ni znan"
+   ],
+   "veganski-status-neznan":[
+    "Veganski status neznan"
+   ],
+   "vegansko":[
+    "Vegansko"
+   ],
+   "vegetarijansko":[
+    "Vegetarijansko"
+   ],
+   "vsebnost-palmovega-olja-ni-znana":[
+    "Vsebnost palmovega olja ni znana"
+   ]
+  },
+  "sr":{
+   "nepoznata-količina-palminog-ulja":[
+    "Nepoznata količina palminog ulja"
+   ],
+   "без-палмовог-уља":[
+    "Без палмовог уља"
+   ],
+   "веганско":[
+    "Веганско"
+   ],
+   "вегетаријанско":[
+    "Вегетаријанско"
+   ],
+   "можда-веганско":[
+    "Можда веганско"
+   ],
+   "можда-је-вегетаријанско":[
+    "Можда је вегетаријанско"
+   ],
+   "може-садржати-палмово-уље":[
+    "Може садржати палмово уље"
+   ],
+   "није-веганско":[
+    "Није веганско"
+   ],
+   "није-вегетаријанско":[
+    "Није вегетаријанско"
+   ],
+   "палмино-масло":[
+    "Палмино масло"
+   ],
+   "статус-вегана-непознат":[
+    "Статус вегана непознат"
+   ],
+   "статус-вегетаријанца-непознат":[
+    "Статус вегетаријанца непознат"
+   ]
+  },
+  "sv":{
+   "icke-vegan":[
+    "icke-vegan"
+   ],
+   "icke-vegetarisk":[
+    "Icke-vegetarisk"
+   ],
+   "kan-innehålla-palmolja":[
+    "Kan innehålla palmolja"
+   ],
+   "kanske-vegansk":[
+    "Kanske vegansk"
+   ],
+   "kanske-vegetariskt":[
+    "Kanske vegetariskt"
+   ],
+   "palmolja":[
+    "Palmolja"
+   ],
+   "palmolja-innehåll-okänt":[
+    "Palmolja innehåll okänt"
+   ],
+   "palmoljefri":[
+    "Palmoljefri",
+    "Palmoljefritt"
+   ],
+   "vegansk":[
+    "Vegansk"
+   ],
+   "vegansk-status-okänd":[
+    "Vegansk status okänd"
+   ],
+   "vegetarisk-status-okänd":[
+    "Vegetarisk status okänd"
+   ],
+   "vegetariskt":[
+    "Vegetariskt"
+   ]
+  },
+  "th":{
+   "มังสวิรัติ":[
+    "มังสวิรัติ"
+   ],
+   "อาจจะเป็นมังสวิรัติ":[
+    "อาจจะเป็นมังสวิรัติ"
+   ],
+   "ไม่ใช่มังสวิรัติ":[
+    "ไม่ใช่มังสวิรัติ"
+   ]
+  },
+  "tr":{
+   "hurma-yağı":[
+    "Hurma yağı"
+   ],
+   "hurma-yağı-içerebilir":[
+    "Hurma yağı içerebilir"
+   ],
+   "hurma-yağı-içeriği-bilinmiyor":[
+    "Hurma yağı içeriği bilinmiyor"
+   ],
+   "hurma-yağı-yok":[
+    "Hurma yağı yok"
+   ],
+   "vegan":[
+    "Vegan"
+   ],
+   "vegan-değil":[
+    "Vegan değil"
+   ],
+   "vegan-durumu-bilinmiyor":[
+    "Vegan durumu bilinmiyor"
+   ],
+   "vegan-olabilir":[
+    "Vegan olabilir"
+   ],
+   "vejetaryen":[
+    "Vejetaryen"
+   ],
+   "vejetaryen-değil":[
+    "Vejetaryen değil"
+   ],
+   "vejetaryen-durumu-bilinmiyor":[
+    "Vejetaryen durumu bilinmiyor"
+   ],
+   "vejetaryen-olabilir":[
+    "Vejetaryen olabilir"
+   ]
+  },
+  "uk":{
+   "без-пальмової-олії":[
+    "Без пальмової олії"
+   ],
+   "веганське":[
+    "Веганське"
+   ],
+   "вегетаріанське":[
+    "Вегетаріанське"
+   ],
+   "може-містити-пальмову-олію":[
+    "Може містити пальмову олію"
+   ],
+   "можливо-вегетаріанське":[
+    "Можливо вегетаріанське"
+   ],
+   "не-веганське":[
+    "Не веганське"
+   ],
+   "не-вегетаріанське":[
+    "Не вегетаріанське"
+   ],
+   "невідоме-вміст-пальмової-олії":[
+    "Невідоме вміст пальмової олії"
+   ],
+   "пальмова-олія":[
+    "Пальмова олія"
+   ],
+   "статус-вегана-невідомий":[
+    "Статус вегана невідомий"
+   ],
+   "статус-вегетаріанський-невідомий":[
+    "Статус вегетаріанський невідомий"
+   ]
+  },
+  "vi":{
+   "có-lẽ-là-thuần-chay":[
+    "Có lẽ là thuần chay"
+   ],
+   "có-thể-ăn-chay":[
+    "Có thể ăn chay"
+   ],
+   "không-ăn-chay":[
+    "Không ăn chay"
+   ],
+   "người-không-ăn-chay":[
+    "Người không ăn chay"
+   ],
+   "thuần-chay":[
+    "Thuần chay"
+   ],
+   "tình-trạng-ăn-chay-không-rõ":[
+    "Tình trạng ăn chay không rõ"
+   ],
+   "ăn-chay":[
+    "Ăn chay"
+   ]
+  },
+  "zh":{
+   "也许是素食主义者":[
+    "也许是素食主义者"
+   ],
+   "可能是素食的":[
+    "可能是素食的"
+   ],
+   "未知的素食主义者状态":[
+    "未知的素食主义者状态"
+   ],
+   "素食状态未知":[
+    "素食状态未知"
+   ],
+   "非素食":[
+    "非素食"
+   ],
+   "非素食者":[
+    "非素食者"
+   ]
+  }
+ },
+ "synonyms_for_extended":{
+  "ar":{
+   "ربما-نباتي":{
+    "ربما-نباتي":1
+   },
+   "غير-النباتية":{
+    "غير-النباتية":1
+   },
+   "غير-نباتي":{
+    "غير-نباتي":1
+   },
+   "نباتي":{
+    "نباتي":1
+   }
+  },
+  "bg":{
+   "без-палмово-масло":{
+    "без-палмово-масло":1
+   },
+   "веган":{
+    "веган":1
+   },
+   "вегетарианско":{
+    "вегетарианско":1
+   },
+   "може-да-е-веган":{
+    "може-да-е-веган":1
+   },
+   "може-да-е-вегетарианско":{
+    "може-да-е-вегетарианско":1
+   },
+   "може-да-съдържа-палмово-масло":{
+    "може-да-съдържа-палмово-масло":1
+   },
+   "не-е-веган":{
+    "не-е-веган":1
+   },
+   "не-е-вегетарианско":{
+    "не-е-вегетарианско":1
+   },
+   "неизвестен-вегански-статус":{
+    "неизвестен-вегански-статус":1
+   },
+   "неизвестен-вегетариански-статус":{
+    "неизвестен-вегетариански-статус":1
+   },
+   "неизвестно-съдържание-на-палмово-масло":{
+    "неизвестно-съдържание-на-палмово-масло":1
+   },
+   "палмово-масло":{
+    "палмово-масло":1
+   }
+  },
+  "ca":{
+   "es-desconeix-si-conte-oli-de-palma":{
+    "es-desconeix-si-conte-oli-de-palma":1
+   },
+   "es-desconeix-si-es-vega":{
+    "es-desconeix-si-es-vega":1,
+    "esta-pendent-si-es-vega":1
+   },
+   "es-desconeix-si-es-vegetaria":{
+    "es-desconeix-si-es-vegetaria":1
+   },
+   "no-conte-oli-de-palma":{
+    "no-conte-oli-de-palma":1
+   },
+   "no-es-vega":{
+    "no-es-vega":1
+   },
+   "no-es-vegetaria":{
+    "no-es-vegetaria":1
+   },
+   "oli-de-palma":{
+    "oli-de-palma":1
+   },
+   "pot-contenir-oli-de-palma":{
+    "pot-contenir-oli-de-palma":1
+   },
+   "pot-ser-vega":{
+    "pot-ser-vega":1
+   },
+   "pot-ser-vegetaria":{
+    "pot-ser-vegetaria":1
+   },
+   "vega":{
+    "vega":1
+   },
+   "vegetaria":{
+    "vegetaria":1
+   }
+  },
+  "cs":{
+   "možná-vegan":{
+    "možná-vegan":1
+   },
+   "možná-vegetarián":{
+    "možná-vegetarián":1
+   },
+   "neveganová":{
+    "neveganová":1
+   },
+   "nevegetarián":{
+    "nevegetarián":1
+   },
+   "palmový-olej":{
+    "palmový-olej":1
+   },
+   "stav-vegetariánský-neznámý":{
+    "stav-vegetariánský-neznámý":1
+   },
+   "vegan":{
+    "vegan":1
+   },
+   "veganský-status-neznámý":{
+    "veganský-status-neznámý":1
+   },
+   "vegetariánský":{
+    "vegetariánský":1
+   }
+  },
+  "da":{
+   "fri-for-palmeolie":{
+    "fri-for-palmeolie":1,
+    "palmeoliefri":1
+   },
+   "ikke-vegansk":{
+    "ikke-vegansk":1
+   },
+   "ikke-vegetarisk":{
+    "ikke-vegetarisk":1
+   },
+   "kan-indeholde-palmeolie":{
+    "kan-indeholde-palmeolie":1
+   },
+   "måske-vegansk":{
+    "måske-vegansk":1
+   },
+   "måske-vegetarisk":{
+    "måske-vegetarisk":1
+   },
+   "palmeolie":{
+    "palmeolie":1
+   },
+   "palmeolieindhold-ukendt":{
+    "palmeolieindhold-ukendt":1
+   },
+   "vegansk":{
+    "vegansk":1
+   },
+   "vegansk-status-ukendt":{
+    "vegansk-status-ukendt":1
+   },
+   "vegetarisk":{
+    "vegetarisk":1
+   },
+   "vegetarisk-status-ukendt":{
+    "vegetarisk-status-ukendt":1
+   }
+  },
+  "de":{
+   "kann-palmöl-enthalten":{
+    "kann-palmöl-enthalten":1
+   },
+   "nicht-vegan":{
+    "nicht-vegan":1
+   },
+   "nicht-vegetarisch":{
+    "nicht-vegetarisch":1
+   },
+   "palmöl":{
+    "palmöl":1
+   },
+   "palmölfrei":{
+    "palmölfrei":1
+   },
+   "palmölgehalt-unbekannt":{
+    "palmölgehalt-unbekannt":1
+   },
+   "vegan":{
+    "vegan":1
+   },
+   "veganer-status-unbekannt":{
+    "veganer-status-unbekannt":1
+   },
+   "vegetarisch":{
+    "vegetarisch":1
+   },
+   "vegetarischer-status-unbekannt":{
+    "vegetarischer-status-unbekannt":1
+   },
+   "vielleicht-vegan":{
+    "vielleicht-vegan":1
+   },
+   "vielleicht-vegetarisch":{
+    "vielleicht-vegetarisch":1
+   }
+  },
+  "el":{
+   "άγνωστη-κατάσταση-vegan":{
+    "άγνωστη-κατάσταση-vegan":1
+   },
+   "άγνωστη-κατάσταση-ως-προς-το-αν-είναι-χορτοφάγος":{
+    "άγνωστη-κατάσταση-ως-προς-το-αν-είναι-χορτοφάγος":1
+   },
+   "άγνωστη-περιεκτικότητα-σε-φοινικέλαιο":{
+    "άγνωστη-περιεκτικότητα-σε-φοινικέλαιο":1
+   },
+   "ίσως-vegan":{
+    "ίσως-vegan":1
+   },
+   "ίσως-χορτοφάγος":{
+    "ίσως-χορτοφάγος":1
+   },
+   "βιγκανικό":{
+    "βιγκανικό":1
+   },
+   "μη-βέγκαν":{
+    "μη-βέγκαν":1
+   },
+   "μη-χορτοφάγος":{
+    "μη-χορτοφάγος":1
+   },
+   "μπορεί-να-περιέχει-φοινικέλαιο":{
+    "μπορεί-να-περιέχει-φοινικέλαιο":1
+   },
+   "χορτοφάγος":{
+    "χορτοφάγος":1
+   },
+   "χωρίς-φοινικέλαιο":{
+    "χωρίς-φοινικέλαιο":1
+   }
+  },
+  "en":{
+   "may-contain-palm-oil":{
+    "may-contain-palm-oil":1
+   },
+   "maybe-vegan":{
+    "maybe-vegan":1
+   },
+   "maybe-vegetarian":{
+    "maybe-vegetarian":1
+   },
+   "non-vegan":{
+    "non-vegan":1
+   },
+   "non-vegetarian":{
+    "non-vegetarian":1
+   },
+   "palm-oil":{
+    "palm-oil":1
+   },
+   "palm-oil-content-unknown":{
+    "palm-oil-content-unknown":1
+   },
+   "palm-oil-free":{
+    "palm-oil-free":1
+   },
+   "vegan":{
+    "vegan":1
+   },
+   "vegan-status-unknown":{
+    "vegan-status-unknown":1
+   },
+   "vegetarian":{
+    "vegetarian":1
+   },
+   "vegetarian-status-unknown":{
+    "vegetarian-status-unknown":1
+   }
+  },
+  "es":{
+   "aceite-de-palma":{
+    "aceite-de-palma":1
+   },
+   "no-vegano":{
+    "no-vegano":1
+   },
+   "no-vegetariano":{
+    "no-vegetariano":1
+   },
+   "puede-contener-aceite-de-palma":{
+    "puede-contener-aceite-de-palma":1
+   },
+   "quiza-vegano":{
+    "quiza-vegano":1,
+    "tal-vez-vegano":1
+   },
+   "quiza-vegetariano":{
+    "quiza-vegetariano":1
+   },
+   "se-desconoce-si-contiene-aceite-de-palma":{
+    "se-desconoce-si-contiene-aceite-de-palma":1
+   },
+   "se-desconoce-si-es-vegano":{
+    "se-desconoce-si-es-vegano":1
+   },
+   "se-desconoce-si-es-vegetariano":{
+    "se-desconoce-si-es-vegetariano":1
+   },
+   "sin-aceite-de-palma":{
+    "sin-aceite-de-palma":1
+   },
+   "vegano":{
+    "vegano":1
+   },
+   "vegetariano":{
+    "vegetariano":1
+   }
+  },
+  "et":{
+   "mittesööjane":{
+    "mittesööjane":1
+   },
+   "mittetaimetoitlane":{
+    "mittetaimetoitlane":1
+   },
+   "palmiõli":{
+    "palmiõli":1
+   },
+   "palmiõli-sisaldus-teadmata":{
+    "palmiõli-sisaldus-teadmata":1
+   },
+   "palmiõlivaba":{
+    "palmiõlivaba":1
+   },
+   "taimetoitlase-staatus-teadmata":{
+    "taimetoitlase-staatus-teadmata":1
+   },
+   "vegan":{
+    "vegan":1
+   },
+   "vegan-staatus-teadmata":{
+    "vegan-staatus-teadmata":1
+   },
+   "võib-olla-vegan":{
+    "võib-olla-vegan":1
+   },
+   "võib-sisaldada-palmiõli":{
+    "võib-sisaldada-palmiõli":1
+   }
+  },
+  "fi":{
+   "ei-palmuöljyä":{
+    "ei-palmuöljyä":1
+   },
+   "ei-vegaaninen":{
+    "ei-vegaaninen":1
+   },
+   "ei-vegetaarinen":{
+    "ei-vegetaarinen":1
+   },
+   "mahdollisesti-vegaaninen":{
+    "ehkä-vegaani":1,
+    "mahdollisesti-vegaaninen":1
+   },
+   "mahdollisesti-vegetaarinen":{
+    "mahdollisesti-vegetaarinen":1
+   },
+   "palmuöljy":{
+    "palmuöljy":1
+   },
+   "palmuöljysisältö-ei-ole-tiedossa":{
+    "palmuöljysisältö-ei-ole-tiedossa":1
+   },
+   "saattaa-sisältää-palmuöljyä":{
+    "saattaa-sisältää-palmuöljyä":1
+   },
+   "vegaani":{
+    "vegaani":1
+   },
+   "vegaaninen-tila-tuntematon":{
+    "vegaaninen-tila-tuntematon":1,
+    "vegaanisuus-ei-ole-tiedossa":1
+   },
+   "vegetaarinen":{
+    "vegetaarinen":1
+   },
+   "vegetaarisuus-ei-ole-tiedossa":{
+    "vegetaarisuus-ei-ole-tiedossa":1
+   }
+  },
+  "fr":{
+   "caractere-vegetalien-inconnu":{
+    "caractere-vegetalien-inconnu":1
+   },
+   "caractere-vegetarien-inconnu":{
+    "caractere-vegetarien-inconnu":1
+   },
+   "huile-de-palme":{
+    "huile-de-palme":1
+   },
+   "la-presence-d-huile-de-palme-n-a-pas-ete-determinee":{
+    "la-presence-d-huile-de-palme-n-a-pas-ete-determinee":1
+   },
+   "non-vegetalien":{
+    "non-vegetalien":1
+   },
+   "non-vegetarien":{
+    "non-vegetarien":1
+   },
+   "peut-etre-vegetalien":{
+    "peut-etre-vegetalien":1
+   },
+   "peut-etre-vegetarien":{
+    "peut-etre-vegetarien":1
+   },
+   "pourrait-contenir-de-l-huile-de-palme":{
+    "pourrait-contenir-de-l-huile-de-palme":1
+   },
+   "sans-huile-de-palme":{
+    "sans-huile-de-palme":1
+   },
+   "vegetalien":{
+    "vegetalien":1
+   },
+   "vegetarien":{
+    "vegetarien":1
+   }
+  },
+  "he":{
+   "טבעוני":{
+    "טבעוני":1
+   },
+   "כנראה-טבעוני":{
+    "כנראה-טבעוני":1
+   },
+   "כנראה-צמחוני":{
+    "כנראה-צמחוני":1
+   },
+   "לא-טבעוני":{
+    "לא-טבעוני":1
+   },
+   "לא-צמחוני":{
+    "לא-צמחוני":1
+   },
+   "ללא-שמן-דקלים":{
+    "ללא-שמן-דקלים":1
+   },
+   "מצב-טבעוני-לא-ידוע":{
+    "מצב-טבעוני-לא-ידוע":1
+   },
+   "מצב-צמחוני-לא-ידוע":{
+    "מצב-צמחוני-לא-ידוע":1
+   },
+   "עשוי-להכין-שמן-דקלים":{
+    "עשוי-להכין-שמן-דקלים":1
+   },
+   "צמחוני":{
+    "צמחוני":1
+   },
+   "שמן-דקלים":{
+    "שמן-דקלים":1
+   },
+   "תכולת-שמן-דקלים-לא-ידועה":{
+    "תכולת-שמן-דקלים-לא-ידועה":1
+   }
+  },
+  "hr":{
+   "bez-palminog-ulja":{
+    "bez-palminog-ulja":1
+   },
+   "možda-vegansko":{
+    "možda-vegansko":1
+   },
+   "može-sadržavati-palmino-ulje":{
+    "može-sadržavati-palmino-ulje":1
+   },
+   "nepoznat-vegetarijanski-status":{
+    "nepoznat-vegetarijanski-status":1
+   },
+   "nepoznata-količina-palminog-ulja":{
+    "nepoznata-količina-palminog-ulja":1
+   },
+   "nije-vegansko":{
+    "nije-vegansko":1
+   },
+   "nije-vegetarijansko":{
+    "nije-vegetarijansko":1
+   },
+   "palmino-ulje":{
+    "palmino-ulje":1
+   },
+   "veganski-status-nepoznat":{
+    "veganski-status-nepoznat":1
+   },
+   "vegansko":{
+    "vegansko":1
+   }
+  },
+  "hu":{
+   "nem-vegetáriánus":{
+    "nem-vegetáriánus":1
+   },
+   "nem-vegán":{
+    "nem-vegán":1
+   },
+   "pálmaolaj":{
+    "pálmaolaj":1
+   },
+   "pálmaolaj-tartalom-ismeretlen":{
+    "pálmaolaj-tartalom-ismeretlen":1
+   },
+   "pálmaolajat-tartalmazhat":{
+    "pálmaolajat-tartalmazhat":1
+   },
+   "pálmaolajmentes":{
+    "pálmaolajmentes":1
+   },
+   "talán-vegetáriánus":{
+    "talán-vegetáriánus":1
+   },
+   "talán-vegán":{
+    "talán-vegán":1
+   },
+   "vegetáriánus":{
+    "vegetáriánus":1
+   },
+   "vegetáriánus-státusz-ismeretlen":{
+    "vegetáriánus-státusz-ismeretlen":1
+   },
+   "vegán":{
+    "vegán":1
+   },
+   "vegán-státusz-ismeretlen":{
+    "vegán-státusz-ismeretlen":1
+   }
+  },
+  "it":{
+   "la-presenza-di-olio-di-palma-non-e-stata-determinata":{
+    "la-presenza-di-olio-di-palma-non-e-stata-determinata":1
+   },
+   "non-vegano":{
+    "non-vegano":1
+   },
+   "non-vegetariano":{
+    "non-vegetariano":1
+   },
+   "olio-di-palma":{
+    "olio-di-palma":1
+   },
+   "potrebbe-contenere-olio-di-palma":{
+    "potrebbe-contenere-olio-di-palma":1
+   },
+   "potrebbe-essere-vegano":{
+    "forse-vegano":1,
+    "potrebbe-essere-vegano":1
+   },
+   "potrebbe-essere-vegetariano":{
+    "potrebbe-essere-vegetariano":1
+   },
+   "senza-olio-di-palma":{
+    "senza-olio-di-palma":1
+   },
+   "stato-vegano-sconosciuto":{
+    "stato-vegano-sconosciuto":1
+   },
+   "stato-vegetariano-sconosciuto":{
+    "stato-vegetariano-sconosciuto":1
+   },
+   "vegano":{
+    "vegano":1
+   },
+   "vegetariano":{
+    "vegetariano":1
+   }
+  },
+  "ja":{
+   "パームオイルフリー":{
+    "パームオイルフリー":1
+   },
+   "パーム油":{
+    "パーム油":1
+   },
+   "パーム油を含むか不明":{
+    "パーム油を含むか不明":1
+   },
+   "パーム油を含む可能性あり":{
+    "パーム油を含む可能性あり":1
+   },
+   "ビーガン":{
+    "ビーガン":1
+   },
+   "ビーガンか不明":{
+    "ビーガンか不明":1
+   },
+   "ベジタリアン":{
+    "ベジタリアン":1
+   },
+   "ベジタリアンか不明":{
+    "ベジタリアンか不明":1
+   },
+   "多分ビーガン":{
+    "多分ビーガン":1
+   },
+   "多分ベジタリアン":{
+    "多分ベジタリアン":1
+   },
+   "非ビーガン":{
+    "非ビーガン":1
+   },
+   "非菜食主義者":{
+    "非菜食主義者":1
+   }
+  },
+  "ko":{
+   "비-채식":{
+    "비-채식":1
+   },
+   "비-채식주의-자":{
+    "비-채식주의-자":1
+   },
+   "비건-상태-알-수-없음":{
+    "비건-상태-알-수-없음":1
+   },
+   "비건-채식":{
+    "비건-채식":1
+   },
+   "아마-비건-채식":{
+    "아마-비건-채식":1
+   },
+   "어쩌면-채식주의-자":{
+    "어쩌면-채식주의-자":1
+   },
+   "채식":{
+    "채식":1
+   },
+   "채식주의자-상태-알-수-없음":{
+    "채식주의자-상태-알-수-없음":1
+   }
+  },
+  "lt":{
+   "be-palmių-aliejaus":{
+    "be-palmių-aliejaus":1
+   },
+   "galbūt-veganiška":{
+    "galbūt-veganiška":1
+   },
+   "galbūt-vegetariškas":{
+    "galbūt-vegetariškas":1
+   },
+   "gali-turėti-palmių-aliejaus":{
+    "gali-turėti-palmių-aliejaus":1
+   },
+   "neveganiškas":{
+    "neveganiškas":1
+   },
+   "nevegetariškas":{
+    "nevegetariškas":1
+   },
+   "nežinoma-palmių-aliejaus-kiekis":{
+    "nežinoma-palmių-aliejaus-kiekis":1
+   },
+   "nežinomas-vegetarų-statusas":{
+    "nežinomas-vegetarų-statusas":1
+   },
+   "palmių-aliejus":{
+    "palmių-aliejus":1
+   },
+   "veganas":{
+    "veganas":1
+   },
+   "vegano-statusas-nežinomas":{
+    "vegano-statusas-nežinomas":1
+   },
+   "vegetariškas":{
+    "vegetariškas":1
+   }
+  },
+  "lv":{
+   "bez-palmu-eļļas":{
+    "bez-palmu-eļļas":1
+   },
+   "nav-vegāns":{
+    "nav-vegāns":1
+   },
+   "nav-veģetārisks":{
+    "nav-veģetārisks":1
+   },
+   "nezināms-palmu-eļļas-saturs":{
+    "nezināms-palmu-eļļas-saturs":1
+   },
+   "palmu-eļļa":{
+    "palmu-eļļa":1
+   },
+   "var-saturēt-palmu-eļļu":{
+    "var-saturēt-palmu-eļļu":1
+   },
+   "varbūt-vegāns":{
+    "varbūt-vegāns":1
+   },
+   "varbūt-veģetārisks":{
+    "varbūt-veģetārisks":1
+   },
+   "vegāna-statuss-nav-zināms":{
+    "vegāna-statuss-nav-zināms":1
+   },
+   "vegāns":{
+    "vegāns":1
+   },
+   "veģetānisks-status-nav-zināms":{
+    "veģetānisks-status-nav-zināms":1
+   },
+   "veģetārisks":{
+    "veģetārisks":1
+   }
+  },
+  "nl":{
+   "bevat-mogelijk-palmolie":{
+    "bevat-mogelijk-palmolie":1
+   },
+   "bevat-palm-olie":{
+    "bevat-palm-olie":1
+   },
+   "mogelijk-vegan":{
+    "mogelijk-vegan":1
+   },
+   "mogelijk-vegetarisch":{
+    "mogelijk-vegetarisch":1
+   },
+   "niet-veganistisch":{
+    "niet-veganistisch":1
+   },
+   "niet-vegetarisch":{
+    "niet-vegetarisch":1
+   },
+   "palm-olie-status-onbekend":{
+    "palm-olie-status-onbekend":1
+   },
+   "veganistisch":{
+    "veganistisch":1
+   },
+   "veganistische-status-onbekend":{
+    "veganistische-status-onbekend":1
+   },
+   "vegetarisch":{
+    "vegetarisch":1
+   },
+   "vegetarische-status-onbekend":{
+    "vegetarische-status-onbekend":1
+   },
+   "zonder-palm-olie":{
+    "zonder-palm-olie":1
+   }
+  },
+  "pl":{
+   "bez-oleju-palmowego":{
+    "bez-oleju-palmowego":1
+   },
+   "może-wegańskie":{
+    "może-wegańskie":1
+   },
+   "może-wegetariańskie":{
+    "może-wegetariańskie":1
+   },
+   "może-zawierać-olej-palmowy":{
+    "może-zawierać-olej-palmowy":1
+   },
+   "niewegańskie":{
+    "niewegańskie":1
+   },
+   "niewegetariańskie":{
+    "niewegetariańskie":1
+   },
+   "nieznany-status-wegetariański":{
+    "nieznany-status-wegetariański":1
+   },
+   "olej-palmowy":{
+    "olej-palmowy":1
+   },
+   "status-wegański-nieznany":{
+    "status-wegański-nieznany":1
+   },
+   "wegańskie":{
+    "wegańskie":1
+   },
+   "wegetariańskie":{
+    "wegetariańskie":1
+   }
+  },
+  "pt":{
+   "desconhece-se-se-contem-oleo-de-palma":{
+    "desconhece-se-se-contem-oleo-de-palma":1
+   },
+   "desconhece-se-se-e-vegano":{
+    "desconhece-se-se-e-vegano":1
+   },
+   "estado-vegetariano-desconhecido":{
+    "estado-vegetariano-desconhecido":1
+   },
+   "nao-vegano":{
+    "nao-vegano":1
+   },
+   "nao-vegetariano":{
+    "nao-vegetariano":1
+   },
+   "oleo-de-palma":{
+    "oleo-de-palma":1
+   },
+   "pode-conter-oleo-de-palma":{
+    "pode-conter-oleo-de-palma":1
+   },
+   "possivelmente-vegano":{
+    "possivelmente-vegano":1
+   },
+   "possivelmente-vegetariano":{
+    "possivelmente-vegetariano":1
+   },
+   "sem-oleo-de-palma":{
+    "sem-oleo-de-palma":1
+   },
+   "vegano":{
+    "vegano":1
+   },
+   "vegetariano":{
+    "vegetariano":1
+   }
+  },
+  "ro":{
+   "conținutul-de-ulei-de-palmier-este-necunoscut":{
+    "conținutul-de-ulei-de-palmier-este-necunoscut":1
+   },
+   "fără-ulei-de-palmier":{
+    "fără-ulei-de-palmier":1
+   },
+   "non-vegan":{
+    "non-vegan":1
+   },
+   "non-vegetarian":{
+    "non-vegetarian":1
+   },
+   "poate-conține-ulei-de-palmier":{
+    "poate-conține-ulei-de-palmier":1
+   },
+   "poate-vegan":{
+    "poate-vegan":1
+   },
+   "poate-vegetarian":{
+    "poate-vegetarian":1
+   },
+   "stare-vegetariană-necunoscută":{
+    "stare-vegetariană-necunoscută":1
+   },
+   "starea-vegană-este-necunoscută":{
+    "starea-vegană-este-necunoscută":1
+   },
+   "ulei-de-palmier":{
+    "ulei-de-palmier":1
+   },
+   "vegan":{
+    "vegan":1
+   },
+   "vegetarian":{
+    "vegetarian":1
+   }
+  },
+  "ru":{
+   "веганский-статус-неизвестен":{
+    "веганский-статус-неизвестен":1
+   },
+   "веганское":{
+    "веганское":1
+   },
+   "вегетарианский-статус-неизвестен":{
+    "вегетарианский-статус-неизвестен":1
+   },
+   "вегетарианское":{
+    "вегетарианское":1
+   },
+   "возможно-веганское":{
+    "возможно-веганское":1
+   },
+   "возможно-вегетарианское":{
+    "возможно-вегетарианское":1
+   },
+   "может-содержать-пальмовое-масло":{
+    "может-содержать-пальмовое-масло":1
+   },
+   "не-веганское":{
+    "не-веганское":1
+   },
+   "не-вегетарианское":{
+    "не-вегетарианское":1
+   },
+   "не-содержит-пальмовое-масло":{
+    "не-содержит-пальмовое-масло":1
+   },
+   "пальмовое-масло":{
+    "пальмовое-масло":1
+   },
+   "содержание-пальмового-масла-неизвестно":{
+    "содержание-пальмового-масла-неизвестно":1
+   }
+  },
+  "sk":{
+   "bez-palmoveho-oleja":{
+    "bez-palmoveho-oleja":1
+   },
+   "može-obsahovať-palmovy-olej":{
+    "može-obsahovať-palmovy-olej":1
+   },
+   "možno-veganske":{
+    "možno-veganske":1
+   },
+   "možno-vegetarianske":{
+    "možno-vegetarianske":1
+   },
+   "neveganske":{
+    "neveganske":1
+   },
+   "nevegetarianske":{
+    "nevegetarianske":1
+   },
+   "obsah-palmoveho-oleja-neznamy":{
+    "obsah-palmoveho-oleja-neznamy":1
+   },
+   "palmovy-olej":{
+    "palmovy-olej":1
+   },
+   "stav-vegetariansky-neznamy":{
+    "stav-vegetariansky-neznamy":1
+   },
+   "veganske":{
+    "veganske":1
+   },
+   "vegansky-status-neznamy":{
+    "vegansky-status-neznamy":1
+   },
+   "vegetarianske":{
+    "vegetarianske":1
+   }
+  },
+  "sl":{
+   "brez-palmovega-olja":{
+    "brez-palmovega-olja":1
+   },
+   "lahko-vsebuje-palmino-olje":{
+    "lahko-vsebuje-palmino-olje":1
+   },
+   "morda-vegansko":{
+    "morda-vegansko":1
+   },
+   "morda-vegetarijansko":{
+    "morda-vegetarijansko":1
+   },
+   "nevegansko":{
+    "nevegansko":1
+   },
+   "nevegetarijansko":{
+    "nevegetarijansko":1
+   },
+   "palmino-olje":{
+    "palmino-olje":1
+   },
+   "status-vegetarijanca-ni-znan":{
+    "status-vegetarijanca-ni-znan":1
+   },
+   "veganski-status-neznan":{
+    "veganski-status-neznan":1
+   },
+   "vegansko":{
+    "vegansko":1
+   },
+   "vegetarijansko":{
+    "vegetarijansko":1
+   },
+   "vsebnost-palmovega-olja-ni-znana":{
+    "vsebnost-palmovega-olja-ni-znana":1
+   }
+  },
+  "sr":{
+   "nepoznata-količina-palminog-ulja":{
+    "nepoznata-količina-palminog-ulja":1
+   },
+   "без-палмовог-уља":{
+    "без-палмовог-уља":1
+   },
+   "веганско":{
+    "веганско":1
+   },
+   "вегетаријанско":{
+    "вегетаријанско":1
+   },
+   "можда-веганско":{
+    "можда-веганско":1
+   },
+   "можда-је-вегетаријанско":{
+    "можда-је-вегетаријанско":1
+   },
+   "може-садржати-палмово-уље":{
+    "може-садржати-палмово-уље":1
+   },
+   "није-веганско":{
+    "није-веганско":1
+   },
+   "није-вегетаријанско":{
+    "није-вегетаријанско":1
+   },
+   "палмино-масло":{
+    "палмино-масло":1
+   },
+   "статус-вегана-непознат":{
+    "статус-вегана-непознат":1
+   },
+   "статус-вегетаријанца-непознат":{
+    "статус-вегетаријанца-непознат":1
+   }
+  },
+  "sv":{
+   "icke-vegan":{
+    "icke-vegan":1
+   },
+   "icke-vegetarisk":{
+    "icke-vegetarisk":1
+   },
+   "kan-innehålla-palmolja":{
+    "kan-innehålla-palmolja":1
+   },
+   "kanske-vegansk":{
+    "kanske-vegansk":1
+   },
+   "kanske-vegetariskt":{
+    "kanske-vegetariskt":1
+   },
+   "palmolja":{
+    "palmolja":1
+   },
+   "palmolja-innehåll-okänt":{
+    "palmolja-innehåll-okänt":1
+   },
+   "palmoljefri":{
+    "palmoljefri":1,
+    "palmoljefritt":1
+   },
+   "vegansk":{
+    "vegansk":1
+   },
+   "vegansk-status-okänd":{
+    "vegansk-status-okänd":1
+   },
+   "vegetarisk-status-okänd":{
+    "vegetarisk-status-okänd":1
+   },
+   "vegetariskt":{
+    "vegetariskt":1
+   }
+  },
+  "th":{
+   "มังสวิรัติ":{
+    "มังสวิรัติ":1
+   },
+   "อาจจะเป็นมังสวิรัติ":{
+    "อาจจะเป็นมังสวิรัติ":1
+   },
+   "ไม่ใช่มังสวิรัติ":{
+    "ไม่ใช่มังสวิรัติ":1
+   }
+  },
+  "tr":{
+   "hurma-yağı":{
+    "hurma-yağı":1
+   },
+   "hurma-yağı-içerebilir":{
+    "hurma-yağı-içerebilir":1
+   },
+   "hurma-yağı-içeriği-bilinmiyor":{
+    "hurma-yağı-içeriği-bilinmiyor":1
+   },
+   "hurma-yağı-yok":{
+    "hurma-yağı-yok":1
+   },
+   "vegan":{
+    "vegan":1
+   },
+   "vegan-değil":{
+    "vegan-değil":1
+   },
+   "vegan-durumu-bilinmiyor":{
+    "vegan-durumu-bilinmiyor":1
+   },
+   "vegan-olabilir":{
+    "vegan-olabilir":1
+   },
+   "vejetaryen":{
+    "vejetaryen":1
+   },
+   "vejetaryen-değil":{
+    "vejetaryen-değil":1
+   },
+   "vejetaryen-durumu-bilinmiyor":{
+    "vejetaryen-durumu-bilinmiyor":1
+   },
+   "vejetaryen-olabilir":{
+    "vejetaryen-olabilir":1
+   }
+  },
+  "uk":{
+   "без-пальмової-олії":{
+    "без-пальмової-олії":1
+   },
+   "веганське":{
+    "веганське":1
+   },
+   "вегетаріанське":{
+    "вегетаріанське":1
+   },
+   "може-містити-пальмову-олію":{
+    "може-містити-пальмову-олію":1
+   },
+   "можливо-вегетаріанське":{
+    "можливо-вегетаріанське":1
+   },
+   "не-веганське":{
+    "не-веганське":1
+   },
+   "не-вегетаріанське":{
+    "не-вегетаріанське":1
+   },
+   "невідоме-вміст-пальмової-олії":{
+    "невідоме-вміст-пальмової-олії":1
+   },
+   "пальмова-олія":{
+    "пальмова-олія":1
+   },
+   "статус-вегана-невідомий":{
+    "статус-вегана-невідомий":1
+   },
+   "статус-вегетаріанський-невідомий":{
+    "статус-вегетаріанський-невідомий":1
+   }
+  },
+  "vi":{
+   "có-lẽ-là-thuần-chay":{
+    "có-lẽ-là-thuần-chay":1
+   },
+   "có-thể-ăn-chay":{
+    "có-thể-ăn-chay":1
+   },
+   "không-ăn-chay":{
+    "không-ăn-chay":1
+   },
+   "người-không-ăn-chay":{
+    "người-không-ăn-chay":1
+   },
+   "thuần-chay":{
+    "thuần-chay":1
+   },
+   "tình-trạng-ăn-chay-không-rõ":{
+    "tình-trạng-ăn-chay-không-rõ":1
+   },
+   "ăn-chay":{
+    "ăn-chay":1
+   }
+  },
+  "zh":{
+   "也许是素食主义者":{
+    "也许是素食主义者":1
+   },
+   "可能是素食的":{
+    "可能是素食的":1
+   },
+   "未知的素食主义者状态":{
+    "未知的素食主义者状态":1
+   },
+   "素食状态未知":{
+    "素食状态未知":1
+   },
+   "非素食":{
+    "非素食":1
+   },
+   "非素食者":{
+    "非素食者":1
+   }
+  }
+ },
+ "translations_from":{
+  "ar:ربما-نباتي":"en:maybe-vegan",
+  "ar:غير-النباتية":"en:non-vegan",
+  "ar:غير-نباتي":"en:non-vegetarian",
+  "ar:نباتي":"en:vegetarian",
+  "bg:без-палмово-масло":"en:palm-oil-free",
+  "bg:веган":"en:vegan",
+  "bg:вегетарианско":"en:vegetarian",
+  "bg:може-да-е-веган":"en:maybe-vegan",
+  "bg:може-да-е-вегетарианско":"en:maybe-vegetarian",
+  "bg:може-да-съдържа-палмово-масло":"en:may-contain-palm-oil",
+  "bg:не-е-веган":"en:non-vegan",
+  "bg:не-е-вегетарианско":"en:non-vegetarian",
+  "bg:неизвестен-вегански-статус":"en:vegan-status-unknown",
+  "bg:неизвестен-вегетариански-статус":"en:vegetarian-status-unknown",
+  "bg:неизвестно-съдържание-на-палмово-масло":"en:palm-oil-content-unknown",
+  "bg:палмово-масло":"en:palm-oil",
+  "ca:es-desconeix-si-conte-oli-de-palma":"en:palm-oil-content-unknown",
+  "ca:es-desconeix-si-es-vega":"en:vegan-status-unknown",
+  "ca:es-desconeix-si-es-vegetaria":"en:vegetarian-status-unknown",
+  "ca:no-conte-oli-de-palma":"en:palm-oil-free",
+  "ca:no-es-vega":"en:non-vegan",
+  "ca:no-es-vegetaria":"en:non-vegetarian",
+  "ca:oli-de-palma":"en:palm-oil",
+  "ca:pot-contenir-oli-de-palma":"en:may-contain-palm-oil",
+  "ca:pot-ser-vega":"en:maybe-vegan",
+  "ca:pot-ser-vegetaria":"en:maybe-vegetarian",
+  "ca:vega":"en:vegan",
+  "ca:vegetaria":"en:vegetarian",
+  "cs:možná-vegan":"en:maybe-vegan",
+  "cs:možná-vegetarián":"en:maybe-vegetarian",
+  "cs:neveganová":"en:non-vegan",
+  "cs:nevegetarián":"en:non-vegetarian",
+  "cs:palmový-olej":"en:palm-oil",
+  "cs:stav-vegetariánský-neznámý":"en:vegetarian-status-unknown",
+  "cs:vegan":"en:vegan",
+  "cs:veganský-status-neznámý":"en:vegan-status-unknown",
+  "cs:vegetariánský":"en:vegetarian",
+  "da:fri-for-palmeolie":"en:palm-oil-free",
+  "da:ikke-vegansk":"en:non-vegan",
+  "da:ikke-vegetarisk":"en:non-vegetarian",
+  "da:kan-indeholde-palmeolie":"en:may-contain-palm-oil",
+  "da:måske-vegansk":"en:maybe-vegan",
+  "da:måske-vegetarisk":"en:maybe-vegetarian",
+  "da:palmeolie":"en:palm-oil",
+  "da:palmeolieindhold-ukendt":"en:palm-oil-content-unknown",
+  "da:vegansk":"en:vegan",
+  "da:vegansk-status-ukendt":"en:vegan-status-unknown",
+  "da:vegetarisk":"en:vegetarian",
+  "da:vegetarisk-status-ukendt":"en:vegetarian-status-unknown",
+  "de:kann-palmöl-enthalten":"en:may-contain-palm-oil",
+  "de:nicht-vegan":"en:non-vegan",
+  "de:nicht-vegetarisch":"en:non-vegetarian",
+  "de:palmöl":"en:palm-oil",
+  "de:palmölfrei":"en:palm-oil-free",
+  "de:palmölgehalt-unbekannt":"en:palm-oil-content-unknown",
+  "de:vegan":"en:vegan",
+  "de:veganer-status-unbekannt":"en:vegan-status-unknown",
+  "de:vegetarisch":"en:vegetarian",
+  "de:vegetarischer-status-unbekannt":"en:vegetarian-status-unknown",
+  "de:vielleicht-vegan":"en:maybe-vegan",
+  "de:vielleicht-vegetarisch":"en:maybe-vegetarian",
+  "el:άγνωστη-κατάσταση-vegan":"en:vegan-status-unknown",
+  "el:άγνωστη-κατάσταση-ως-προς-το-αν-είναι-χορτοφάγος":"en:vegetarian-status-unknown",
+  "el:άγνωστη-περιεκτικότητα-σε-φοινικέλαιο":"en:palm-oil-content-unknown",
+  "el:ίσως-vegan":"en:maybe-vegan",
+  "el:ίσως-χορτοφάγος":"en:maybe-vegetarian",
+  "el:βιγκανικό":"en:vegan",
+  "el:μη-βέγκαν":"en:non-vegan",
+  "el:μη-χορτοφάγος":"en:non-vegetarian",
+  "el:μπορεί-να-περιέχει-φοινικέλαιο":"en:may-contain-palm-oil",
+  "el:χορτοφάγος":"en:vegetarian",
+  "el:χωρίς-φοινικέλαιο":"en:palm-oil-free",
+  "en:may-contain-palm-oil":"en:may-contain-palm-oil",
+  "en:maybe-vegan":"en:maybe-vegan",
+  "en:maybe-vegetarian":"en:maybe-vegetarian",
+  "en:non-vegan":"en:non-vegan",
+  "en:non-vegetarian":"en:non-vegetarian",
+  "en:palm-oil":"en:palm-oil",
+  "en:palm-oil-content-unknown":"en:palm-oil-content-unknown",
+  "en:palm-oil-free":"en:palm-oil-free",
+  "en:vegan":"en:vegan",
+  "en:vegan-status-unknown":"en:vegan-status-unknown",
+  "en:vegetarian":"en:vegetarian",
+  "en:vegetarian-status-unknown":"en:vegetarian-status-unknown",
+  "es:aceite-de-palma":"en:palm-oil",
+  "es:no-vegano":"en:non-vegan",
+  "es:no-vegetariano":"en:non-vegetarian",
+  "es:puede-contener-aceite-de-palma":"en:may-contain-palm-oil",
+  "es:quiza-vegano":"en:maybe-vegan",
+  "es:quiza-vegetariano":"en:maybe-vegetarian",
+  "es:se-desconoce-si-contiene-aceite-de-palma":"en:palm-oil-content-unknown",
+  "es:se-desconoce-si-es-vegano":"en:vegan-status-unknown",
+  "es:se-desconoce-si-es-vegetariano":"en:vegetarian-status-unknown",
+  "es:sin-aceite-de-palma":"en:palm-oil-free",
+  "es:vegano":"en:vegan",
+  "es:vegetariano":"en:vegetarian",
+  "et:mittesööjane":"en:non-vegan",
+  "et:mittetaimetoitlane":"en:non-vegetarian",
+  "et:palmiõli":"en:palm-oil",
+  "et:palmiõli-sisaldus-teadmata":"en:palm-oil-content-unknown",
+  "et:palmiõlivaba":"en:palm-oil-free",
+  "et:taimetoitlase-staatus-teadmata":"en:vegetarian-status-unknown",
+  "et:vegan":"en:vegan",
+  "et:vegan-staatus-teadmata":"en:vegan-status-unknown",
+  "et:võib-olla-vegan":"en:maybe-vegan",
+  "et:võib-sisaldada-palmiõli":"en:may-contain-palm-oil",
+  "fi:ei-palmuöljyä":"en:palm-oil-free",
+  "fi:ei-vegaaninen":"en:non-vegan",
+  "fi:ei-vegetaarinen":"en:non-vegetarian",
+  "fi:mahdollisesti-vegaaninen":"en:maybe-vegan",
+  "fi:mahdollisesti-vegetaarinen":"en:maybe-vegetarian",
+  "fi:palmuöljy":"en:palm-oil",
+  "fi:palmuöljysisältö-ei-ole-tiedossa":"en:palm-oil-content-unknown",
+  "fi:saattaa-sisältää-palmuöljyä":"en:may-contain-palm-oil",
+  "fi:vegaani":"en:vegan",
+  "fi:vegaaninen-tila-tuntematon":"en:vegan-status-unknown",
+  "fi:vegetaarinen":"en:vegetarian",
+  "fi:vegetaarisuus-ei-ole-tiedossa":"en:vegetarian-status-unknown",
+  "fr:caractere-vegetalien-inconnu":"en:vegan-status-unknown",
+  "fr:caractere-vegetarien-inconnu":"en:vegetarian-status-unknown",
+  "fr:huile-de-palme":"en:palm-oil",
+  "fr:la-presence-d-huile-de-palme-n-a-pas-ete-determinee":"en:palm-oil-content-unknown",
+  "fr:non-vegetalien":"en:non-vegan",
+  "fr:non-vegetarien":"en:non-vegetarian",
+  "fr:peut-etre-vegetalien":"en:maybe-vegan",
+  "fr:peut-etre-vegetarien":"en:maybe-vegetarian",
+  "fr:pourrait-contenir-de-l-huile-de-palme":"en:may-contain-palm-oil",
+  "fr:sans-huile-de-palme":"en:palm-oil-free",
+  "fr:vegetalien":"en:vegan",
+  "fr:vegetarien":"en:vegetarian",
+  "he:טבעוני":"en:vegan",
+  "he:כנראה-טבעוני":"en:maybe-vegan",
+  "he:כנראה-צמחוני":"en:maybe-vegetarian",
+  "he:לא-טבעוני":"en:non-vegan",
+  "he:לא-צמחוני":"en:non-vegetarian",
+  "he:ללא-שמן-דקלים":"en:palm-oil-free",
+  "he:מצב-טבעוני-לא-ידוע":"en:vegan-status-unknown",
+  "he:מצב-צמחוני-לא-ידוע":"en:vegetarian-status-unknown",
+  "he:עשוי-להכין-שמן-דקלים":"en:may-contain-palm-oil",
+  "he:צמחוני":"en:vegetarian",
+  "he:שמן-דקלים":"en:palm-oil",
+  "he:תכולת-שמן-דקלים-לא-ידועה":"en:palm-oil-content-unknown",
+  "hr:bez-palminog-ulja":"en:palm-oil-free",
+  "hr:možda-vegansko":"en:maybe-vegan",
+  "hr:može-sadržavati-palmino-ulje":"en:may-contain-palm-oil",
+  "hr:nepoznat-vegetarijanski-status":"en:vegetarian-status-unknown",
+  "hr:nepoznata-količina-palminog-ulja":"en:palm-oil-content-unknown",
+  "hr:nije-vegansko":"en:non-vegan",
+  "hr:nije-vegetarijansko":"en:non-vegetarian",
+  "hr:palmino-ulje":"en:palm-oil",
+  "hr:veganski-status-nepoznat":"en:vegan-status-unknown",
+  "hr:vegansko":"en:vegan",
+  "hu:nem-vegetáriánus":"en:non-vegetarian",
+  "hu:nem-vegán":"en:non-vegan",
+  "hu:pálmaolaj":"en:palm-oil",
+  "hu:pálmaolaj-tartalom-ismeretlen":"en:palm-oil-content-unknown",
+  "hu:pálmaolajat-tartalmazhat":"en:may-contain-palm-oil",
+  "hu:pálmaolajmentes":"en:palm-oil-free",
+  "hu:talán-vegetáriánus":"en:maybe-vegetarian",
+  "hu:talán-vegán":"en:maybe-vegan",
+  "hu:vegetáriánus":"en:vegetarian",
+  "hu:vegetáriánus-státusz-ismeretlen":"en:vegetarian-status-unknown",
+  "hu:vegán":"en:vegan",
+  "hu:vegán-státusz-ismeretlen":"en:vegan-status-unknown",
+  "it:la-presenza-di-olio-di-palma-non-e-stata-determinata":"en:palm-oil-content-unknown",
+  "it:non-vegano":"en:non-vegan",
+  "it:non-vegetariano":"en:non-vegetarian",
+  "it:olio-di-palma":"en:palm-oil",
+  "it:potrebbe-contenere-olio-di-palma":"en:may-contain-palm-oil",
+  "it:potrebbe-essere-vegano":"en:maybe-vegan",
+  "it:potrebbe-essere-vegetariano":"en:maybe-vegetarian",
+  "it:senza-olio-di-palma":"en:palm-oil-free",
+  "it:stato-vegano-sconosciuto":"en:vegan-status-unknown",
+  "it:stato-vegetariano-sconosciuto":"en:vegetarian-status-unknown",
+  "it:vegano":"en:vegan",
+  "it:vegetariano":"en:vegetarian",
+  "ja:パームオイルフリー":"en:palm-oil-free",
+  "ja:パーム油":"en:palm-oil",
+  "ja:パーム油を含むか不明":"en:palm-oil-content-unknown",
+  "ja:パーム油を含む可能性あり":"en:may-contain-palm-oil",
+  "ja:ビーガン":"en:vegan",
+  "ja:ビーガンか不明":"en:vegan-status-unknown",
+  "ja:ベジタリアン":"en:vegetarian",
+  "ja:ベジタリアンか不明":"en:vegetarian-status-unknown",
+  "ja:多分ビーガン":"en:maybe-vegan",
+  "ja:多分ベジタリアン":"en:maybe-vegetarian",
+  "ja:非ビーガン":"en:non-vegan",
+  "ja:非菜食主義者":"en:non-vegetarian",
+  "ko:비-채식":"en:non-vegan",
+  "ko:비-채식주의-자":"en:non-vegetarian",
+  "ko:비건-상태-알-수-없음":"en:vegan-status-unknown",
+  "ko:비건-채식":"en:vegan",
+  "ko:아마-비건-채식":"en:maybe-vegan",
+  "ko:어쩌면-채식주의-자":"en:maybe-vegetarian",
+  "ko:채식":"en:vegetarian",
+  "ko:채식주의자-상태-알-수-없음":"en:vegetarian-status-unknown",
+  "lt:be-palmių-aliejaus":"en:palm-oil-free",
+  "lt:galbūt-veganiška":"en:maybe-vegan",
+  "lt:galbūt-vegetariškas":"en:maybe-vegetarian",
+  "lt:gali-turėti-palmių-aliejaus":"en:may-contain-palm-oil",
+  "lt:neveganiškas":"en:non-vegan",
+  "lt:nevegetariškas":"en:non-vegetarian",
+  "lt:nežinoma-palmių-aliejaus-kiekis":"en:palm-oil-content-unknown",
+  "lt:nežinomas-vegetarų-statusas":"en:vegetarian-status-unknown",
+  "lt:palmių-aliejus":"en:palm-oil",
+  "lt:veganas":"en:vegan",
+  "lt:vegano-statusas-nežinomas":"en:vegan-status-unknown",
+  "lt:vegetariškas":"en:vegetarian",
+  "lv:bez-palmu-eļļas":"en:palm-oil-free",
+  "lv:nav-vegāns":"en:non-vegan",
+  "lv:nav-veģetārisks":"en:non-vegetarian",
+  "lv:nezināms-palmu-eļļas-saturs":"en:palm-oil-content-unknown",
+  "lv:palmu-eļļa":"en:palm-oil",
+  "lv:var-saturēt-palmu-eļļu":"en:may-contain-palm-oil",
+  "lv:varbūt-vegāns":"en:maybe-vegan",
+  "lv:varbūt-veģetārisks":"en:maybe-vegetarian",
+  "lv:vegāna-statuss-nav-zināms":"en:vegan-status-unknown",
+  "lv:vegāns":"en:vegan",
+  "lv:veģetānisks-status-nav-zināms":"en:vegetarian-status-unknown",
+  "lv:veģetārisks":"en:vegetarian",
+  "nl:bevat-mogelijk-palmolie":"en:may-contain-palm-oil",
+  "nl:bevat-palm-olie":"en:palm-oil",
+  "nl:mogelijk-vegan":"en:maybe-vegan",
+  "nl:mogelijk-vegetarisch":"en:maybe-vegetarian",
+  "nl:niet-veganistisch":"en:non-vegan",
+  "nl:niet-vegetarisch":"en:non-vegetarian",
+  "nl:palm-olie-status-onbekend":"en:palm-oil-content-unknown",
+  "nl:veganistisch":"en:vegan",
+  "nl:veganistische-status-onbekend":"en:vegan-status-unknown",
+  "nl:vegetarisch":"en:vegetarian",
+  "nl:vegetarische-status-onbekend":"en:vegetarian-status-unknown",
+  "nl:zonder-palm-olie":"en:palm-oil-free",
+  "pl:bez-oleju-palmowego":"en:palm-oil-free",
+  "pl:może-wegańskie":"en:maybe-vegan",
+  "pl:może-wegetariańskie":"en:maybe-vegetarian",
+  "pl:może-zawierać-olej-palmowy":"en:may-contain-palm-oil",
+  "pl:niewegańskie":"en:non-vegan",
+  "pl:niewegetariańskie":"en:non-vegetarian",
+  "pl:nieznany-status-wegetariański":"en:vegetarian-status-unknown",
+  "pl:olej-palmowy":"en:palm-oil",
+  "pl:status-wegański-nieznany":"en:vegan-status-unknown",
+  "pl:wegańskie":"en:vegan",
+  "pl:wegetariańskie":"en:vegetarian",
+  "pt:desconhece-se-se-contem-oleo-de-palma":"en:palm-oil-content-unknown",
+  "pt:desconhece-se-se-e-vegano":"en:vegan-status-unknown",
+  "pt:estado-vegetariano-desconhecido":"en:vegetarian-status-unknown",
+  "pt:nao-vegano":"en:non-vegan",
+  "pt:nao-vegetariano":"en:non-vegetarian",
+  "pt:oleo-de-palma":"en:palm-oil",
+  "pt:pode-conter-oleo-de-palma":"en:may-contain-palm-oil",
+  "pt:possivelmente-vegano":"en:maybe-vegan",
+  "pt:possivelmente-vegetariano":"en:maybe-vegetarian",
+  "pt:sem-oleo-de-palma":"en:palm-oil-free",
+  "pt:vegano":"en:vegan",
+  "pt:vegetariano":"en:vegetarian",
+  "ro:conținutul-de-ulei-de-palmier-este-necunoscut":"en:palm-oil-content-unknown",
+  "ro:fără-ulei-de-palmier":"en:palm-oil-free",
+  "ro:non-vegan":"en:non-vegan",
+  "ro:non-vegetarian":"en:non-vegetarian",
+  "ro:poate-conține-ulei-de-palmier":"en:may-contain-palm-oil",
+  "ro:poate-vegan":"en:maybe-vegan",
+  "ro:poate-vegetarian":"en:maybe-vegetarian",
+  "ro:stare-vegetariană-necunoscută":"en:vegetarian-status-unknown",
+  "ro:starea-vegană-este-necunoscută":"en:vegan-status-unknown",
+  "ro:ulei-de-palmier":"en:palm-oil",
+  "ro:vegan":"en:vegan",
+  "ro:vegetarian":"en:vegetarian",
+  "ru:веганский-статус-неизвестен":"en:vegan-status-unknown",
+  "ru:веганское":"en:vegan",
+  "ru:вегетарианский-статус-неизвестен":"en:vegetarian-status-unknown",
+  "ru:вегетарианское":"en:vegetarian",
+  "ru:возможно-веганское":"en:maybe-vegan",
+  "ru:возможно-вегетарианское":"en:maybe-vegetarian",
+  "ru:может-содержать-пальмовое-масло":"en:may-contain-palm-oil",
+  "ru:не-веганское":"en:non-vegan",
+  "ru:не-вегетарианское":"en:non-vegetarian",
+  "ru:не-содержит-пальмовое-масло":"en:palm-oil-free",
+  "ru:пальмовое-масло":"en:palm-oil",
+  "ru:содержание-пальмового-масла-неизвестно":"en:palm-oil-content-unknown",
+  "sk:bez-palmoveho-oleja":"en:palm-oil-free",
+  "sk:može-obsahovať-palmovy-olej":"en:may-contain-palm-oil",
+  "sk:možno-veganske":"en:maybe-vegan",
+  "sk:možno-vegetarianske":"en:maybe-vegetarian",
+  "sk:neveganske":"en:non-vegan",
+  "sk:nevegetarianske":"en:non-vegetarian",
+  "sk:obsah-palmoveho-oleja-neznamy":"en:palm-oil-content-unknown",
+  "sk:palmovy-olej":"en:palm-oil",
+  "sk:stav-vegetariansky-neznamy":"en:vegetarian-status-unknown",
+  "sk:veganske":"en:vegan",
+  "sk:vegansky-status-neznamy":"en:vegan-status-unknown",
+  "sk:vegetarianske":"en:vegetarian",
+  "sl:brez-palmovega-olja":"en:palm-oil-free",
+  "sl:lahko-vsebuje-palmino-olje":"en:may-contain-palm-oil",
+  "sl:morda-vegansko":"en:maybe-vegan",
+  "sl:morda-vegetarijansko":"en:maybe-vegetarian",
+  "sl:nevegansko":"en:non-vegan",
+  "sl:nevegetarijansko":"en:non-vegetarian",
+  "sl:palmino-olje":"en:palm-oil",
+  "sl:status-vegetarijanca-ni-znan":"en:vegetarian-status-unknown",
+  "sl:veganski-status-neznan":"en:vegan-status-unknown",
+  "sl:vegansko":"en:vegan",
+  "sl:vegetarijansko":"en:vegetarian",
+  "sl:vsebnost-palmovega-olja-ni-znana":"en:palm-oil-content-unknown",
+  "sr:nepoznata-količina-palminog-ulja":"en:palm-oil-content-unknown",
+  "sr:без-палмовог-уља":"en:palm-oil-free",
+  "sr:веганско":"en:vegan",
+  "sr:вегетаријанско":"en:vegetarian",
+  "sr:можда-веганско":"en:maybe-vegan",
+  "sr:можда-је-вегетаријанско":"en:maybe-vegetarian",
+  "sr:може-садржати-палмово-уље":"en:may-contain-palm-oil",
+  "sr:није-веганско":"en:non-vegan",
+  "sr:није-вегетаријанско":"en:non-vegetarian",
+  "sr:палмино-масло":"en:palm-oil",
+  "sr:статус-вегана-непознат":"en:vegan-status-unknown",
+  "sr:статус-вегетаријанца-непознат":"en:vegetarian-status-unknown",
+  "sv:icke-vegan":"en:non-vegan",
+  "sv:icke-vegetarisk":"en:non-vegetarian",
+  "sv:kan-innehålla-palmolja":"en:may-contain-palm-oil",
+  "sv:kanske-vegansk":"en:maybe-vegan",
+  "sv:kanske-vegetariskt":"en:maybe-vegetarian",
+  "sv:palmolja":"en:palm-oil",
+  "sv:palmolja-innehåll-okänt":"en:palm-oil-content-unknown",
+  "sv:palmoljefri":"en:palm-oil-free",
+  "sv:vegansk":"en:vegan",
+  "sv:vegansk-status-okänd":"en:vegan-status-unknown",
+  "sv:vegetarisk-status-okänd":"en:vegetarian-status-unknown",
+  "sv:vegetariskt":"en:vegetarian",
+  "th:มังสวิรัติ":"en:vegetarian",
+  "th:อาจจะเป็นมังสวิรัติ":"en:maybe-vegetarian",
+  "th:ไม่ใช่มังสวิรัติ":"en:non-vegan",
+  "tr:hurma-yağı":"en:palm-oil",
+  "tr:hurma-yağı-içerebilir":"en:may-contain-palm-oil",
+  "tr:hurma-yağı-içeriği-bilinmiyor":"en:palm-oil-content-unknown",
+  "tr:hurma-yağı-yok":"en:palm-oil-free",
+  "tr:vegan":"en:vegan",
+  "tr:vegan-değil":"en:non-vegan",
+  "tr:vegan-durumu-bilinmiyor":"en:vegan-status-unknown",
+  "tr:vegan-olabilir":"en:maybe-vegan",
+  "tr:vejetaryen":"en:vegetarian",
+  "tr:vejetaryen-değil":"en:non-vegetarian",
+  "tr:vejetaryen-durumu-bilinmiyor":"en:vegetarian-status-unknown",
+  "tr:vejetaryen-olabilir":"en:maybe-vegetarian",
+  "uk:без-пальмової-олії":"en:palm-oil-free",
+  "uk:веганське":"en:vegan",
+  "uk:вегетаріанське":"en:vegetarian",
+  "uk:може-містити-пальмову-олію":"en:may-contain-palm-oil",
+  "uk:можливо-вегетаріанське":"en:maybe-vegetarian",
+  "uk:не-веганське":"en:non-vegan",
+  "uk:не-вегетаріанське":"en:non-vegetarian",
+  "uk:невідоме-вміст-пальмової-олії":"en:palm-oil-content-unknown",
+  "uk:пальмова-олія":"en:palm-oil",
+  "uk:статус-вегана-невідомий":"en:vegan-status-unknown",
+  "uk:статус-вегетаріанський-невідомий":"en:vegetarian-status-unknown",
+  "vi:có-lẽ-là-thuần-chay":"en:maybe-vegan",
+  "vi:có-thể-ăn-chay":"en:maybe-vegetarian",
+  "vi:không-ăn-chay":"en:non-vegan",
+  "vi:người-không-ăn-chay":"en:non-vegetarian",
+  "vi:thuần-chay":"en:vegan",
+  "vi:tình-trạng-ăn-chay-không-rõ":"en:vegetarian-status-unknown",
+  "vi:ăn-chay":"en:vegetarian",
+  "zh:也许是素食主义者":"en:maybe-vegan",
+  "zh:可能是素食的":"en:maybe-vegetarian",
+  "zh:未知的素食主义者状态":"en:vegan-status-unknown",
+  "zh:素食状态未知":"en:vegetarian-status-unknown",
+  "zh:非素食":"en:non-vegan",
+  "zh:非素食者":"en:non-vegetarian"
+ },
+ "translations_to":{
+  "en:may-contain-palm-oil":{
+   "bg":"Може да съдържа палмово масло",
+   "ca":"Pot contenir oli de palma",
+   "da":"Kan indeholde palmeolie",
+   "de":"Kann Palmöl enthalten",
+   "el":"Μπορεί να περιέχει φοινικέλαιο",
+   "en":"May contain palm oil",
+   "es":"Puede contener aceite de palma",
+   "et":"Võib sisaldada palmiõli",
+   "fi":"Saattaa sisältää palmuöljyä",
+   "fr":"Pourrait contenir de l'huile de palme",
+   "he":"עשוי להכין שמן דקלים",
+   "hr":"Može sadržavati palmino ulje",
+   "hu":"Pálmaolajat tartalmazhat",
+   "it":"Potrebbe contenere olio di palma",
+   "ja":"パーム油を含む可能性あり",
+   "lt":"Gali turėti palmių aliejaus",
+   "lv":"Var saturēt palmu eļļu",
+   "nl":"Bevat mogelijk palmolie",
+   "pl":"Może zawierać olej palmowy",
+   "pt":"Pode conter óleo de palma",
+   "ro":"Poate conține ulei de palmier",
+   "ru":"Может содержать пальмовое масло",
+   "sk":"Môže obsahovať palmový olej",
+   "sl":"Lahko vsebuje palmino olje",
+   "sr":"Може садржати палмово уље",
+   "sv":"Kan innehålla palmolja",
+   "tr":"Hurma yağı içerebilir",
+   "uk":"Може містити пальмову олію"
+  },
+  "en:maybe-vegan":{
+   "ar":"ربما نباتي",
+   "bg":"Може да е веган",
+   "ca":"Pot ser vegà",
+   "cs":"Možná vegan",
+   "da":"Måske vegansk",
+   "de":"Vielleicht vegan",
+   "el":"Ίσως vegan",
+   "en":"Maybe vegan",
+   "es":"Quizá vegano",
+   "et":"Võib-olla vegan",
+   "fi":"Mahdollisesti vegaaninen",
+   "fr":"Peut-être végétalien",
+   "he":"כנראה טבעוני",
+   "hr":"Možda vegansko",
+   "hu":"Talán vegán",
+   "it":"Potrebbe essere vegano",
+   "ja":"多分ビーガン",
+   "ko":"아마 비건 채식",
+   "lt":"Galbūt veganiška",
+   "lv":"Varbūt vegāns",
+   "nl":"Mogelijk vegan",
+   "pl":"Może wegańskie",
+   "pt":"Possivelmente vegano",
+   "ro":"Poate vegan",
+   "ru":"Возможно веганское",
+   "sk":"Možno vegánske",
+   "sl":"Morda vegansko",
+   "sr":"Можда веганско",
+   "sv":"Kanske vegansk",
+   "tr":"Vegan olabilir",
+   "vi":"Có lẽ là thuần chay",
+   "zh":"也许是素食主义者"
+  },
+  "en:maybe-vegetarian":{
+   "bg":"Може да е вегетарианско",
+   "ca":"Pot ser vegetarià",
+   "cs":"Možná vegetarián",
+   "da":"Måske vegetarisk",
+   "de":"Vielleicht vegetarisch",
+   "el":"Ίσως χορτοφάγος",
+   "en":"Maybe vegetarian",
+   "es":"Quizá vegetariano",
+   "fi":"Mahdollisesti vegetaarinen",
+   "fr":"Peut-être végétarien",
+   "he":"כנראה צמחוני",
+   "hu":"Talán vegetáriánus",
+   "it":"Potrebbe essere vegetariano",
+   "ja":"多分ベジタリアン",
+   "ko":"어쩌면 채식주의 자",
+   "lt":"Galbūt vegetariškas",
+   "lv":"Varbūt veģetārisks",
+   "nl":"Mogelijk vegetarisch",
+   "pl":"Może wegetariańskie",
+   "pt":"Possivelmente vegetariano",
+   "ro":"Poate vegetarian",
+   "ru":"Возможно вегетарианское",
+   "sk":"Možno vegetariánske",
+   "sl":"Morda vegetarijansko",
+   "sr":"Можда је вегетаријанско",
+   "sv":"Kanske vegetariskt",
+   "th":"อาจจะเป็นมังสวิรัติ",
+   "tr":"Vejetaryen olabilir",
+   "uk":"Можливо вегетаріанське",
+   "vi":"Có thể ăn chay",
+   "zh":"可能是素食的"
+  },
+  "en:non-vegan":{
+   "ar":"غير النباتية",
+   "bg":"Не е веган",
+   "ca":"No és vegà",
+   "cs":"Neveganová",
+   "da":"Ikke-vegansk",
+   "de":"Nicht-vegan",
+   "el":"Μη βέγκαν",
+   "en":"Non-vegan",
+   "es":"No vegano",
+   "et":"Mittesööjane",
+   "fi":"Ei-vegaaninen",
+   "fr":"Non végétalien",
+   "he":"לא טבעוני",
+   "hr":"Nije vegansko",
+   "hu":"Nem vegán",
+   "it":"Non vegano",
+   "ja":"非ビーガン",
+   "ko":"비 채식",
+   "lt":"Neveganiškas",
+   "lv":"Nav vegāns",
+   "nl":"Niet veganistisch",
+   "pl":"Niewegańskie",
+   "pt":"Não vegano",
+   "ro":"Non-vegan",
+   "ru":"Не веганское",
+   "sk":"Nevegánske",
+   "sl":"Nevegansko",
+   "sr":"Није веганско",
+   "sv":"Icke-vegan",
+   "th":"ไม่ใช่มังสวิรัติ",
+   "tr":"Vegan değil",
+   "uk":"Не веганське",
+   "vi":"Không ăn chay",
+   "zh":"非素食"
+  },
+  "en:non-vegetarian":{
+   "ar":"غير نباتي",
+   "bg":"Не е вегетарианско",
+   "ca":"No és vegetarià",
+   "cs":"Nevegetarián",
+   "da":"Ikke-vegetarisk",
+   "de":"Nicht-vegetarisch",
+   "el":"Μη χορτοφάγος",
+   "en":"Non-vegetarian",
+   "es":"No vegetariano",
+   "et":"Mittetaimetoitlane",
+   "fi":"Ei-vegetaarinen",
+   "fr":"Non végétarien",
+   "he":"לא צמחוני",
+   "hr":"Nije vegetarijansko",
+   "hu":"Nem vegetáriánus",
+   "it":"Non vegetariano",
+   "ja":"非菜食主義者",
+   "ko":"비 채식주의 자",
+   "lt":"Nevegetariškas",
+   "lv":"Nav veģetārisks",
+   "nl":"Niet vegetarisch",
+   "pl":"Niewegetariańskie",
+   "pt":"Não vegetariano",
+   "ro":"Non vegetarian",
+   "ru":"Не вегетарианское",
+   "sk":"Nevegetariánske",
+   "sl":"Nevegetarijansko",
+   "sr":"Није вегетаријанско",
+   "sv":"Icke-vegetarisk",
+   "tr":"Vejetaryen değil",
+   "uk":"Не вегетаріанське",
+   "vi":"Người không ăn chay",
+   "zh":"非素食者"
+  },
+  "en:palm-oil":{
+   "bg":"Палмово масло",
+   "ca":"Oli de palma",
+   "cs":"Palmový olej",
+   "da":"Palmeolie",
+   "de":"Palmöl",
+   "en":"Palm oil",
+   "es":"Aceite de palma",
+   "et":"Palmiõli",
+   "fi":"Palmuöljy",
+   "fr":"Huile de palme",
+   "he":"שמן דקלים",
+   "hr":"Palmino ulje",
+   "hu":"Pálmaolaj",
+   "it":"Olio di palma",
+   "ja":"パーム油",
+   "lt":"Palmių aliejus",
+   "lv":"Palmu eļļa",
+   "nl":"Bevat palm olie",
+   "pl":"Olej palmowy",
+   "pt":"Óleo de palma",
+   "ro":"Ulei de palmier",
+   "ru":"Пальмовое масло",
+   "sk":"Palmový olej",
+   "sl":"Palmino olje",
+   "sr":"Палмино масло",
+   "sv":"Palmolja",
+   "tr":"Hurma yağı",
+   "uk":"Пальмова олія"
+  },
+  "en:palm-oil-content-unknown":{
+   "bg":"Неизвестно съдържание на палмово масло",
+   "ca":"Es desconeix si conté oli de palma",
+   "da":"Palmeolieindhold ukendt",
+   "de":"Palmölgehalt unbekannt",
+   "el":"Άγνωστη περιεκτικότητα σε φοινικέλαιο",
+   "en":"Palm oil content unknown",
+   "es":"Se desconoce si contiene aceite de palma",
+   "et":"Palmiõli sisaldus teadmata",
+   "fi":"Palmuöljysisältö ei ole tiedossa",
+   "fr":"La présence d'huile de palme n'a pas été déterminée",
+   "he":"תכולת שמן דקלים לא ידועה",
+   "hr":"Nepoznata količina palminog ulja",
+   "hu":"Pálmaolaj tartalom ismeretlen",
+   "it":"La presenza di olio di palma non è stata determinata",
+   "ja":"パーム油を含むか不明",
+   "lt":"Nežinoma palmių aliejaus kiekis",
+   "lv":"Nezināms palmu eļļas saturs",
+   "nl":"Palm olie status onbekend",
+   "pt":"Desconhece-se se contém óleo de palma",
+   "ro":"Conținutul de ulei de palmier este necunoscut",
+   "ru":"Содержание пальмового масла неизвестно",
+   "sk":"Obsah palmového oleja neznámy",
+   "sl":"Vsebnost palmovega olja ni znana",
+   "sr":"Nepoznata količina palminog ulja",
+   "sv":"Palmolja innehåll okänt",
+   "tr":"Hurma yağı içeriği bilinmiyor",
+   "uk":"Невідоме вміст пальмової олії"
+  },
+  "en:palm-oil-free":{
+   "bg":"Без палмово масло",
+   "ca":"No conté oli de palma",
+   "da":"Fri for palmeolie",
+   "de":"Palmölfrei",
+   "el":"Χωρίς φοινικέλαιο",
+   "en":"Palm oil free",
+   "es":"Sin aceite de palma",
+   "et":"Palmiõlivaba",
+   "fi":"Ei palmuöljyä",
+   "fr":"Sans huile de palme",
+   "he":"ללא שמן דקלים",
+   "hr":"Bez palminog ulja",
+   "hu":"Pálmaolajmentes",
+   "it":"Senza olio di palma",
+   "ja":"パームオイルフリー",
+   "lt":"Be palmių aliejaus",
+   "lv":"Bez palmu eļļas",
+   "nl":"Zonder palm olie",
+   "pl":"Bez oleju palmowego",
+   "pt":"Sem óleo de palma",
+   "ro":"Fără ulei de palmier",
+   "ru":"Не содержит пальмовое масло",
+   "sk":"Bez palmového oleja",
+   "sl":"Brez palmovega olja",
+   "sr":"Без палмовог уља",
+   "sv":"Palmoljefri",
+   "tr":"Hurma yağı yok",
+   "uk":"Без пальмової олії"
+  },
+  "en:vegan":{
+   "bg":"Веган",
+   "ca":"Vegà",
+   "cs":"Vegan",
+   "da":"Vegansk",
+   "de":"Vegan",
+   "el":"Βιγκανικό",
+   "en":"Vegan",
+   "es":"Vegano",
+   "et":"Vegan",
+   "fi":"Vegaani",
+   "fr":"Végétalien",
+   "he":"טבעוני",
+   "hr":"Vegansko",
+   "hu":"Vegán",
+   "it":"Vegano",
+   "ja":"ビーガン",
+   "ko":"비건 채식",
+   "lt":"Veganas",
+   "lv":"Vegāns",
+   "nl":"Veganistisch",
+   "pl":"Wegańskie",
+   "pt":"Vegano",
+   "ro":"Vegan",
+   "ru":"Веганское",
+   "sk":"Vegánske",
+   "sl":"Vegansko",
+   "sr":"Веганско",
+   "sv":"Vegansk",
+   "tr":"Vegan",
+   "uk":"Веганське",
+   "vi":"Thuần chay"
+  },
+  "en:vegan-status-unknown":{
+   "bg":"Неизвестен вегански статус",
+   "ca":"Es desconeix si és vegà",
+   "cs":"Veganský status neznámý",
+   "da":"Vegansk status ukendt",
+   "de":"Veganer Status unbekannt",
+   "el":"Άγνωστη κατάσταση vegan",
+   "en":"Vegan status unknown",
+   "es":"Se desconoce si es vegano",
+   "et":"Vegan staatus teadmata",
+   "fi":"Vegaaninen tila tuntematon",
+   "fr":"Caractère végétalien inconnu",
+   "he":"מצב טבעוני לא ידוע",
+   "hr":"Veganski status nepoznat",
+   "hu":"Vegán státusz ismeretlen",
+   "it":"Stato vegano sconosciuto",
+   "ja":"ビーガンか不明",
+   "ko":"비건 상태 알 수 없음",
+   "lt":"Vegano statusas nežinomas",
+   "lv":"Vegāna statuss nav zināms",
+   "nl":"Veganistische status onbekend",
+   "pl":"Status wegański nieznany",
+   "pt":"Desconhece-se se é vegano",
+   "ro":"Starea vegană este necunoscută",
+   "ru":"Веганский статус неизвестен",
+   "sk":"Vegánsky status neznámy",
+   "sl":"Veganski status neznan",
+   "sr":"Статус вегана непознат",
+   "sv":"Vegansk status okänd",
+   "tr":"Vegan durumu bilinmiyor",
+   "uk":"Статус вегана невідомий",
+   "zh":"未知的素食主义者状态"
+  },
+  "en:vegetarian":{
+   "ar":"نباتي",
+   "bg":"Вегетарианско",
+   "ca":"Vegetarià",
+   "cs":"Vegetariánský",
+   "da":"Vegetarisk",
+   "de":"Vegetarisch",
+   "el":"Χορτοφάγος",
+   "en":"Vegetarian",
+   "es":"Vegetariano",
+   "fi":"Vegetaarinen",
+   "fr":"Végétarien",
+   "he":"צמחוני",
+   "hu":"Vegetáriánus",
+   "it":"Vegetariano",
+   "ja":"ベジタリアン",
+   "ko":"채식",
+   "lt":"Vegetariškas",
+   "lv":"Veģetārisks",
+   "nl":"Vegetarisch",
+   "pl":"Wegetariańskie",
+   "pt":"Vegetariano",
+   "ro":"Vegetarian",
+   "ru":"Вегетарианское",
+   "sk":"Vegetariánske",
+   "sl":"Vegetarijansko",
+   "sr":"Вегетаријанско",
+   "sv":"Vegetariskt",
+   "th":"มังสวิรัติ",
+   "tr":"Vejetaryen",
+   "uk":"Вегетаріанське",
+   "vi":"Ăn chay"
+  },
+  "en:vegetarian-status-unknown":{
+   "bg":"Неизвестен вегетариански статус",
+   "ca":"Es desconeix si és vegetarià",
+   "cs":"Stav vegetariánský neznámý",
+   "da":"Vegetarisk status ukendt",
+   "de":"Vegetarischer Status unbekannt",
+   "el":"Άγνωστη κατάσταση ως προς το αν είναι χορτοφάγος",
+   "en":"Vegetarian status unknown",
+   "es":"Se desconoce si es vegetariano",
+   "et":"Taimetoitlase staatus teadmata",
+   "fi":"Vegetaarisuus ei ole tiedossa",
+   "fr":"Caractère végétarien inconnu",
+   "he":"מצב צמחוני לא ידוע",
+   "hr":"Nepoznat vegetarijanski status",
+   "hu":"Vegetáriánus státusz ismeretlen",
+   "it":"Stato vegetariano sconosciuto",
+   "ja":"ベジタリアンか不明",
+   "ko":"채식주의자 상태 알 수 없음",
+   "lt":"Nežinomas vegetarų statusas",
+   "lv":"Veģetānisks status nav zināms",
+   "nl":"Vegetarische status onbekend",
+   "pl":"Nieznany status wegetariański",
+   "pt":"Estado vegetariano desconhecido",
+   "ro":"Stare vegetariană necunoscută",
+   "ru":"Вегетарианский статус неизвестен",
+   "sk":"Stav vegetariánsky neznámy",
+   "sl":"Status vegetarijanca ni znan",
+   "sr":"Статус вегетаријанца непознат",
+   "sv":"Vegetarisk status okänd",
+   "tr":"Vejetaryen durumu bilinmiyor",
+   "uk":"Статус вегетаріанський невідомий",
+   "vi":"Tình trạng ăn chay không rõ",
+   "zh":"素食状态未知"
+  }
+ }
+}
