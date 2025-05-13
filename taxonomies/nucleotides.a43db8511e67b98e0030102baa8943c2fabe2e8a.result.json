@@ -1,0 +1,3482 @@
+{
+ "all_parents":{
+  "en:adenosine-monophosphate":[
+   "en:nucleotides"
+  ],
+  "en:cytidine-monophosphate":[
+   "en:nucleotides"
+  ],
+  "en:disodium-guanosine-5-monophosphate":[
+   "en:nucleotides",
+   "en:guanosine-monophosphate"
+  ],
+  "en:disodium-inosine-5-monophosphate":[
+   "en:nucleotides",
+   "en:inosine-monophosphate"
+  ],
+  "en:disodium-uridine-monophosphate":[
+   "en:nucleotides",
+   "en:uridine-monophosphate"
+  ],
+  "en:guanosine-monophosphate":[
+   "en:nucleotides"
+  ],
+  "en:inosine-monophosphate":[
+   "en:nucleotides"
+  ],
+  "en:sodium-salts-of-amp":[
+   "en:nucleotides",
+   "en:adenosine-monophosphate"
+  ],
+  "en:sodium-salts-of-cmp":[
+   "en:nucleotides",
+   "en:cytidine-monophosphate"
+  ],
+  "en:uridine-monophosphate":[
+   "en:nucleotides"
+  ]
+ },
+ "direct_children":{
+  "en:adenosine-monophosphate":{
+   "en:sodium-salts-of-amp":1
+  },
+  "en:cytidine-monophosphate":{
+   "en:sodium-salts-of-cmp":1
+  },
+  "en:guanosine-monophosphate":{
+   "en:disodium-guanosine-5-monophosphate":1
+  },
+  "en:inosine-monophosphate":{
+   "en:disodium-inosine-5-monophosphate":1
+  },
+  "en:nucleotides":{
+   "en:adenosine-monophosphate":1,
+   "en:cytidine-monophosphate":1,
+   "en:guanosine-monophosphate":1,
+   "en:inosine-monophosphate":1,
+   "en:uridine-monophosphate":1
+  },
+  "en:uridine-monophosphate":{
+   "en:disodium-uridine-monophosphate":1
+  }
+ },
+ "direct_parents":{
+  "en:adenosine-monophosphate":{
+   "en:nucleotides":1
+  },
+  "en:cytidine-monophosphate":{
+   "en:nucleotides":1
+  },
+  "en:disodium-guanosine-5-monophosphate":{
+   "en:guanosine-monophosphate":1
+  },
+  "en:disodium-inosine-5-monophosphate":{
+   "en:inosine-monophosphate":1
+  },
+  "en:disodium-uridine-monophosphate":{
+   "en:uridine-monophosphate":1
+  },
+  "en:guanosine-monophosphate":{
+   "en:nucleotides":1
+  },
+  "en:inosine-monophosphate":{
+   "en:nucleotides":1
+  },
+  "en:sodium-salts-of-amp":{
+   "en:adenosine-monophosphate":1
+  },
+  "en:sodium-salts-of-cmp":{
+   "en:cytidine-monophosphate":1
+  },
+  "en:uridine-monophosphate":{
+   "en:nucleotides":1
+  }
+ },
+ "just_synonyms":{},
+ "level":{
+  "en:adenosine-monophosphate":1,
+  "en:cytidine-monophosphate":1,
+  "en:disodium-guanosine-5-monophosphate":1,
+  "en:disodium-inosine-5-monophosphate":1,
+  "en:disodium-uridine-monophosphate":1,
+  "en:guanosine-monophosphate":2,
+  "en:inosine-monophosphate":2,
+  "en:nucleotides":3,
+  "en:sodium-salts-of-amp":1,
+  "en:sodium-salts-of-cmp":1,
+  "en:uridine-monophosphate":2
+ },
+ "properties":{
+  "en:adenosine-monophosphate":{
+   "wikidata:en":"Q318369"
+  },
+  "en:cytidine-monophosphate":{
+   "wikidata:en":"Q412622",
+   "wikipedia:en":"https://en.wikipedia.org/wiki/Cytidine_monophosphate"
+  },
+  "en:guanosine-monophosphate":{
+   "wikidata:en":"Q422473"
+  },
+  "en:inosine-monophosphate":{
+   "vegan:en":"no",
+   "vegetarian:en":"no",
+   "wikidata:en":"Q255933",
+   "wikipedia:en":"https://en.wikipedia.org/wiki/Inosinic_acid"
+  },
+  "en:nucleotides":{
+   "wikidata:en":"Q28745",
+   "wikipedia:en":"https://en.wikipedia.org/wiki/Nucleotide"
+  },
+  "en:uridine-monophosphate":{
+   "wikidata:en":"Q414932",
+   "wikipedia:en":"https://en.wikipedia.org/wiki/Uridine_monophosphate"
+  }
+ },
+ "root_entries":{
+  "en:nucleotides":1
+ },
+ "stopwords":{},
+ "synonyms":{
+  "af":{
+   "nukleotied":"nukleotied"
+  },
+  "ar":{
+   "أدينوسين-أحادي-الفوسفات":"أدينوسين-أحادي-الفوسفات",
+   "حمض-الإينوسينيك":"حمض-الإينوسينيك",
+   "سيتيدين-أحادي-الفوسفات":"سيتيدين-أحادي-الفوسفات",
+   "غوانوسين-أحادي-الفوسفات":"غوانوسين-أحادي-الفوسفات",
+   "نوكليوتيد":"نوكليوتيد",
+   "يوريدين-أحادي-الفوسفات":"يوريدين-أحادي-الفوسفات"
+  },
+  "az":{
+   "nukleotid":"nukleotid"
+  },
+  "ba":{
+   "нуклеотидтар":"нуклеотидтар"
+  },
+  "be":{
+   "нуклеатыды":"нуклеатыды"
+  },
+  "bg":{
+   "аденозинмонофосфат":"аденозинмонофосфат",
+   "натриеви-соли-на-амф":"натриеви-соли-на-амф",
+   "натриеви-соли-на-гмф":"натриеви-соли-на-гмф",
+   "натриеви-соли-на-имф":"натриеви-соли-на-имф",
+   "натриеви-соли-на-умф":"натриеви-соли-на-умф",
+   "натриеви-соли-на-цмф":"натриеви-соли-на-цмф",
+   "нуклеотид":"нуклеотиди",
+   "нуклеотиди":"нуклеотиди"
+  },
+  "bn":{
+   "এডিনোসিন-মনোফসফেট":"এডিনোসিন-মনোফসফেট",
+   "নিউক্লিওটাইড":"নিউক্লিওটাইড"
+  },
+  "bs":{
+   "adenozin-monofosfat":"adenozin-monofosfat",
+   "nukleotidi":"nukleotidi"
+  },
+  "ca":{
+   "monofosfat-d-adenosina":"monofosfat-d-adenosina",
+   "monofosfat-d-uridina":"monofosfat-d-uridina",
+   "monofosfat-de-citidina":"monofosfat-de-citidina",
+   "monofosfat-de-guanosina":"monofosfat-de-guanosina",
+   "nucleotid":"nucleotid"
+  },
+  "cs":{
+   "adenosinmonofosfát":"adenosinmonofosfát",
+   "cytidinmonofosfát":"cytidinmonofosfát",
+   "nukleotid":"nukleotidy",
+   "nukleotidy":"nukleotidy",
+   "sodné-soli-amp":"sodné-soli-amp",
+   "sodné-soli-cmp":"sodné-soli-cmp",
+   "sodné-soli-gmp":"sodné-soli-gmp",
+   "sodné-soli-imp":"sodné-soli-imp",
+   "sodné-soli-ump":"sodné-soli-ump"
+  },
+  "cy":{
+   "niwcleotid":"niwcleotid"
+  },
+  "da":{
+   "adenosin-5-monophosphat":"adenosinmonofosfat",
+   "adenosinmonofosfat":"adenosinmonofosfat",
+   "cytidinmonofosfat":"cytidinmonofosfat",
+   "guanosin-5-monofosfat":"guanosinmonofosfat",
+   "guanosinmonofosfat":"guanosinmonofosfat",
+   "nukleotid":"nukleotider",
+   "nukleotider":"nukleotider",
+   "uridinmonofosfat":"uridinmonofosfat"
+  },
+  "de":{
+   "adenosin-5-monophosphat":"adenosinmonophosphat",
+   "adenosinmonophosphat":"adenosinmonophosphat",
+   "cytidinmonophosphat":"cytidinmonophosphat",
+   "guanosinmonophosphat":"guanosinmonophosphat",
+   "inosinmonophosphat":"inosinmonophosphat",
+   "natriumsalze-der-amp":"natriumsalze-der-amp",
+   "natriumsalze-der-cmp":"natriumsalze-der-cmp",
+   "natriumsalze-der-gmp":"natriumsalze-der-gmp",
+   "natriumsalze-der-imp":"natriumsalze-der-imp",
+   "natriumsalze-der-ump":"natriumsalze-der-ump",
+   "nucleotid":"nucleotid",
+   "nukleotide":"nucleotid",
+   "uridinmonophosphat":"uridinmonophosphat"
+  },
+  "el":{
+   "5-μονοφωσφορική-αδενοσίνη":"μονοφωσφορική-αδενοσίνη",
+   "5-μονοφωσφορική-γουανοσίνη":"5-μονοφωσφορική-γουανοσίνη",
+   "άλατα-νατρίου-της-amp":"άλατα-νατρίου-της-amp",
+   "άλατα-νατρίου-της-cmp":"άλατα-νατρίου-της-cmp",
+   "άλατα-νατρίου-της-gmp":"άλατα-νατρίου-της-gmp",
+   "άλατα-νατρίου-της-ump":"άλατα-νατρίου-της-ump",
+   "άλατα-νατρίου-της-ιμρ":"άλατα-νατρίου-της-ιμρ",
+   "μονοφωσφορική-αδενοσίνη":"μονοφωσφορική-αδενοσίνη",
+   "νουκλεοτίδια":"νουκλεοτίδια",
+   "νουκλεοτίδιο":"νουκλεοτίδια"
+  },
+  "en":{
+   "adenosine-5-monophosphate":"adenosine-monophosphate",
+   "adenosine-5-phosphoric-acid":"adenosine-monophosphate",
+   "adenosine-monophosphate":"adenosine-monophosphate",
+   "amp":"adenosine-monophosphate",
+   "cmp":"cytidine-monophosphate",
+   "cytidine":"cytidine-monophosphate",
+   "cytidine-5-monophosphate":"cytidine-monophosphate",
+   "cytidine-5-monophosphoric-acid":"cytidine-monophosphate",
+   "cytidine-monophosphate":"cytidine-monophosphate",
+   "disodium-gmp":"disodium-guanosine-5-monophosphate",
+   "disodium-guanosine-5-monophosphate":"disodium-guanosine-5-monophosphate",
+   "disodium-guanosine-5-phosphoric-acid":"disodium-guanosine-5-monophosphate",
+   "disodium-guanosine-monophosphate":"disodium-guanosine-5-monophosphate",
+   "disodium-imp":"disodium-inosine-5-monophosphate",
+   "disodium-inosine-5-monophosphate":"disodium-inosine-5-monophosphate",
+   "disodium-inosine-5-phosphoric-acid":"disodium-inosine-5-monophosphate",
+   "disodium-inosine-monophosphate":"disodium-inosine-5-monophosphate",
+   "disodium-ump":"disodium-uridine-monophosphate",
+   "disodium-uridine-5-monophosphate":"disodium-uridine-monophosphate",
+   "disodium-uridine-5-phosphoric-acid":"disodium-uridine-monophosphate",
+   "disodium-uridine-monophosphate":"disodium-uridine-monophosphate",
+   "gmp":"guanosine-monophosphate",
+   "guanosine-5-monophosphate":"guanosine-monophosphate",
+   "guanosine-5-phosphoric-acid":"guanosine-monophosphate",
+   "guanosine-monophosphate":"guanosine-monophosphate",
+   "imp":"inosine-monophosphate",
+   "inosine-5-monophosphate":"inosine-monophosphate",
+   "inosine-5-phosphoric-acid":"inosine-monophosphate",
+   "inosine-monophosphate":"inosine-monophosphate",
+   "nucleotide":"nucleotides",
+   "nucleotides":"nucleotides",
+   "sodium-salt-of-adenosine-5-monophosphate":"sodium-salts-of-amp",
+   "sodium-salt-of-adenosine-5-phosphoric-acid":"sodium-salts-of-amp",
+   "sodium-salt-of-adenosine-monophosphate":"sodium-salts-of-amp",
+   "sodium-salt-of-amp":"sodium-salts-of-amp",
+   "sodium-salt-of-cmp":"sodium-salts-of-cmp",
+   "sodium-salt-of-cytidine":"sodium-salts-of-cmp",
+   "sodium-salt-of-cytidine-5-monophosphate":"sodium-salts-of-cmp",
+   "sodium-salt-of-cytidine-5-monophosphoric-acid":"sodium-salts-of-cmp",
+   "sodium-salt-of-cytidine-monophosphate":"sodium-salts-of-cmp",
+   "sodium-salt-of-gmp":"disodium-guanosine-5-monophosphate",
+   "sodium-salt-of-guanosine-5-monophosphate":"disodium-guanosine-5-monophosphate",
+   "sodium-salt-of-guanosine-5-phosphoric-acid":"disodium-guanosine-5-monophosphate",
+   "sodium-salt-of-guanosine-monophosphate":"disodium-guanosine-5-monophosphate",
+   "sodium-salt-of-imp":"disodium-inosine-5-monophosphate",
+   "sodium-salt-of-inosine-5-monophosphate":"disodium-inosine-5-monophosphate",
+   "sodium-salt-of-inosine-5-phosphoric-acid":"disodium-inosine-5-monophosphate",
+   "sodium-salt-of-inosine-monophosphate":"disodium-inosine-5-monophosphate",
+   "sodium-salt-of-ump":"disodium-uridine-monophosphate",
+   "sodium-salt-of-uridine-5-monophosphate":"disodium-uridine-monophosphate",
+   "sodium-salt-of-uridine-5-phosphoric-acid":"disodium-uridine-monophosphate",
+   "sodium-salt-of-uridine-monophosphate":"disodium-uridine-monophosphate",
+   "sodium-salts-of-adenosine-5-monophosphate":"sodium-salts-of-amp",
+   "sodium-salts-of-adenosine-5-phosphoric-acid":"sodium-salts-of-amp",
+   "sodium-salts-of-adenosine-monophosphate":"sodium-salts-of-amp",
+   "sodium-salts-of-amp":"sodium-salts-of-amp",
+   "sodium-salts-of-cmp":"sodium-salts-of-cmp",
+   "sodium-salts-of-cytidine":"sodium-salts-of-cmp",
+   "sodium-salts-of-cytidine-5-monophosphate":"sodium-salts-of-cmp",
+   "sodium-salts-of-cytidine-5-monophosphoric-acid":"sodium-salts-of-cmp",
+   "sodium-salts-of-cytidine-monophosphate":"sodium-salts-of-cmp",
+   "sodium-salts-of-gmp":"disodium-guanosine-5-monophosphate",
+   "sodium-salts-of-guanosine-5-monophosphate":"disodium-guanosine-5-monophosphate",
+   "sodium-salts-of-guanosine-5-phosphoric-acid":"disodium-guanosine-5-monophosphate",
+   "sodium-salts-of-guanosine-monophosphate":"disodium-guanosine-5-monophosphate",
+   "sodium-salts-of-imp":"disodium-inosine-5-monophosphate",
+   "sodium-salts-of-inosine-5-monophosphate":"disodium-inosine-5-monophosphate",
+   "sodium-salts-of-inosine-5-phosphoric-acid":"disodium-inosine-5-monophosphate",
+   "sodium-salts-of-inosine-monophosphate":"disodium-inosine-5-monophosphate",
+   "sodium-salts-of-ump":"disodium-uridine-monophosphate",
+   "sodium-salts-of-uridine-5-monophosphate":"disodium-uridine-monophosphate",
+   "sodium-salts-of-uridine-5-phosphoric-acid":"disodium-uridine-monophosphate",
+   "sodium-salts-of-uridine-monophosphate":"disodium-uridine-monophosphate",
+   "ump":"uridine-monophosphate",
+   "uridine-5-monophosphate":"uridine-monophosphate",
+   "uridine-5-phosphoric-acid":"uridine-monophosphate",
+   "uridine-monophosphate":"uridine-monophosphate"
+  },
+  "eo":{
+   "nukleotido":"nukleotido"
+  },
+  "es":{
+   "acido-guanilico":"acido-guanilico",
+   "acido-inosinico":"acido-inosinico",
+   "adenosin-monofosfato":"adenosin-monofosfato",
+   "adenosina-5-monofosfato":"adenosin-monofosfato",
+   "citidina-monofosfato":"citidina-monofosfato",
+   "guanosina-5-monofosfato":"acido-guanilico",
+   "nucleotido":"nucleotidos",
+   "nucleotidos":"nucleotidos",
+   "sale-sodica-del-amp":"sales-sodicas-del-amp",
+   "sale-sodica-del-cmp":"sales-sodicas-del-cmp",
+   "sale-sodica-del-gmp":"sales-sodicas-del-gmp",
+   "sale-sodica-del-imp":"sales-sodicas-del-imp",
+   "sale-sodica-del-ump":"sales-sodicas-del-ump",
+   "sales-sodicas-del-amp":"sales-sodicas-del-amp",
+   "sales-sodicas-del-cmp":"sales-sodicas-del-cmp",
+   "sales-sodicas-del-gmp":"sales-sodicas-del-gmp",
+   "sales-sodicas-del-imp":"sales-sodicas-del-imp",
+   "sales-sodicas-del-ump":"sales-sodicas-del-ump"
+  },
+  "et":{
+   "adenosiin-5-monofosfaat":"adenosiinmonofosfaat",
+   "adenosiinmonofosfaat":"adenosiinmonofosfaat",
+   "amp-naatriumisoolad":"amp-naatriumisoolad",
+   "cmp-naatriumisoolad":"cmp-naatriumisoolad",
+   "gmp-naatriumisoolad":"gmp-naatriumisoolad",
+   "imp-naatriumisoolad":"imp-naatriumisoolad",
+   "nukleotiid":"nukleotiid",
+   "nukleotiidid":"nukleotiid",
+   "ump-naatriumisoolad":"ump-naatriumisoolad"
+  },
+  "eu":{
+   "adenosina-monofosfato":"adenosina-monofosfato",
+   "nukleotido":"nukleotido"
+  },
+  "fa":{
+   "آدنوزین-مونوفسفات":"آدنوزین-مونوفسفات",
+   "اوریدین-مونوفسفات":"اوریدین-مونوفسفات",
+   "اینوسینیک-اسید":"اینوسینیک-اسید",
+   "سیتیدین-مونوفسفات":"سیتیدین-مونوفسفات",
+   "نوکلئوتید":"نوکلئوتید",
+   "گوآنوسین-مونوفسفات":"گوآنوسین-مونوفسفات"
+  },
+  "fi":{
+   "adenosiini-5-fosforihapon-natriumsuolat":"adenosiini-5-fosforihapon-natriumsuolat",
+   "adenosiini-5-monofosfaatti":"adenosiinimonofosfaatti",
+   "adenosiinimonofosfaatti":"adenosiinimonofosfaatti",
+   "guanosiini-5-fosforihapon-natriumsuolat":"guanosiini-5-fosforihapon-natriumsuolat",
+   "guanosiini-5-monofosfaatti":"guanosiinimonofosfaatti",
+   "guanosiinimonofosfaatti":"guanosiinimonofosfaatti",
+   "inosiini-5-fosforihapon-natriumsuolat":"inosiini-5-fosforihapon-natriumsuolat",
+   "inosiinimonofosfaatti":"inosiinimonofosfaatti",
+   "nukleotidi":"nukleotidit",
+   "nukleotidit":"nukleotidit",
+   "sytidiini-5-monofosforihapon-natriumsuolat":"sytidiini-5-monofosforihapon-natriumsuolat",
+   "uridiini-5-fosforihapon-natriumsuolat":"uridiini-5-fosforihapon-natriumsuolat",
+   "uridiinimonofosfaatti":"uridiinimonofosfaatti"
+  },
+  "fr":{
+   "adenosine-5-monophosphate":"adenosine-monophosphate",
+   "adenosine-monophosphate":"adenosine-monophosphate",
+   "cytidine-monophosphate":"cytidine-monophosphate",
+   "guanosine-5-monophosphate":"guanosine-monophosphate",
+   "guanosine-monophosphate":"guanosine-monophosphate",
+   "nucleotide":"nucleotides",
+   "nucleotides":"nucleotides",
+   "sel-de-sodium-de-l-amp":"sels-de-sodium-de-l-amp",
+   "sel-de-sodium-de-l-imp":"sels-de-sodium-de-l-imp",
+   "sel-de-sodium-de-l-ump":"sels-de-sodium-de-l-ump",
+   "sel-de-sodium-du-cmp":"sels-de-sodium-du-cmp",
+   "sel-de-sodium-du-gmp":"sels-de-sodium-du-gmp",
+   "sels-de-sodium-de-l-amp":"sels-de-sodium-de-l-amp",
+   "sels-de-sodium-de-l-imp":"sels-de-sodium-de-l-imp",
+   "sels-de-sodium-de-l-ump":"sels-de-sodium-de-l-ump",
+   "sels-de-sodium-du-cmp":"sels-de-sodium-du-cmp",
+   "sels-de-sodium-du-gmp":"sels-de-sodium-du-gmp",
+   "uridine-monophosphate":"uridine-monophosphate"
+  },
+  "ga":{
+   "monafosfáit-adanóisín":"monafosfáit-adanóisín",
+   "núicléitíd":"núicléitíd"
+  },
+  "gl":{
+   "adenosina-monofosfato":"adenosina-monofosfato",
+   "citidín-monofosfato":"citidín-monofosfato",
+   "guanosín-monofosfato":"guanosín-monofosfato",
+   "nucleótido":"nucleótido",
+   "uridín-monofosfato":"uridín-monofosfato"
+  },
+  "he":{
+   "נוקלאוטיד":"נוקלאוטיד"
+  },
+  "hi":{
+   "न्यूक्लियोटाइड":"न्यूक्लियोटाइड"
+  },
+  "hr":{
+   "adénosine-monophosphate":"adénosine-monophosphate",
+   "nukleotid":"nukleotid",
+   "nukleotidi":"nukleotid",
+   "uridin-monofosfat":"uridin-monofosfat"
+  },
+  "ht":{
+   "nikleyotid":"nikleyotid"
+  },
+  "hu":{
+   "5-adenilsav":"adenozin-monofoszfát",
+   "adenozin-monofoszfát":"adenozin-monofoszfát",
+   "amp-nátriumsói":"amp-nátriumsói",
+   "citidin-monofoszfát":"citidin-monofoszfát",
+   "cmp-nátriumsói":"cmp-nátriumsói",
+   "gmp-nátriumsói":"gmp-nátriumsói",
+   "guanozin-monofoszfát":"guanozin-monofoszfát",
+   "imp-nátriumsói":"imp-nátriumsói",
+   "inozin-5-monofoszforsav":"inozin-monofoszfát",
+   "inozin-monofoszfát":"inozin-monofoszfát",
+   "nukleotidok":"nukleotidok",
+   "ump-nátriumsói":"ump-nátriumsói",
+   "uridin-monofoszfát":"uridin-monofoszfát"
+  },
+  "hy":{
+   "նուկլեոտիդ":"նուկլեոտիդ"
+  },
+  "id":{
+   "nukleotida":"nukleotida"
+  },
+  "is":{
+   "núkleótíð":"núkleótíð"
+  },
+  "it":{
+   "adenosina-5-monofosfato":"adenosina-monofosfato",
+   "adenosina-monofosfato":"adenosina-monofosfato",
+   "citosina-monofosfato":"citosina-monofosfato",
+   "guanosina-5-monofosfato":"guanosina-monofosfato",
+   "guanosina-monofosfato":"guanosina-monofosfato",
+   "nucleotide":"nucleotidi",
+   "nucleotidi":"nucleotidi",
+   "sali-sodici-del-cmp":"sali-sodici-del-cmp",
+   "sali-sodici-del-gmp":"sali-sodici-del-gmp",
+   "sali-sodici-dell-amp":"sali-sodici-dell-amp",
+   "sali-sodici-dell-imp":"sali-sodici-dell-imp",
+   "sali-sodici-dell-ump":"sali-sodici-dell-ump",
+   "uridina-monofosfato":"uridina-monofosfato"
+  },
+  "ja":{
+   "アデニル酸":"アデニル酸",
+   "イノシン酸":"イノシン酸",
+   "ウリジル酸":"ウリジル酸",
+   "グアニル酸":"グアニル酸",
+   "シチジル酸":"シチジル酸",
+   "ヌクレオチド":"ヌクレオチド"
+  },
+  "jv":{
+   "nukleotida":"nukleotida"
+  },
+  "ka":{
+   "ნუკლეოტიდი":"ნუკლეოტიდი"
+  },
+  "kk":{
+   "аденозинмонофосфат":"аденозинмонофосфат",
+   "нуклеотидтер":"нуклеотидтер"
+  },
+  "km":{
+   "នុយក្លេអូទីត":"នុយក្លេអូទីត"
+  },
+  "kn":{
+   "ನ್ಯೂಕ್ಲಿಯೊಟೈಡ್":"ನ್ಯೂಕ್ಲಿಯೊಟೈಡ್"
+  },
+  "ko":{
+   "구아노신-일인산":"구아노신-일인산",
+   "뉴클레오타이드":"뉴클레오타이드",
+   "시티딘-일인산":"시티딘-일인산",
+   "아데노신-일인산":"아데노신-일인산",
+   "우리딘-일인산":"우리딘-일인산"
+  },
+  "ku":{
+   "nukleotîd":"nukleotîd"
+  },
+  "ky":{
+   "нуклеотиддер":"нуклеотиддер"
+  },
+  "la":{
+   "nucleotidum":"nucleotidum"
+  },
+  "lb":{
+   "nukleotid":"nukleotid"
+  },
+  "lt":{
+   "5-adenozinmonofosfatas":"5-adenozinmonofosfatas",
+   "amp-natrio-druskos":"amp-natrio-druskos",
+   "cmp-natrio-druskos":"cmp-natrio-druskos",
+   "gmp-natrio-druskos":"gmp-natrio-druskos",
+   "imp-natrio-druskos":"imp-natrio-druskos",
+   "nukleotidai":"nukleotidai",
+   "nukleotidas":"nukleotidai",
+   "ump-natrio-druskos":"ump-natrio-druskos"
+  },
+  "lv":{
+   "amf-nātrija-sāļi":"amf-nātrija-sāļi",
+   "cmf-nātrija-sāļi":"cmf-nātrija-sāļi",
+   "gmf-nātrija-sāļi":"gmf-nātrija-sāļi",
+   "imf-nātrija-sāļi":"imf-nātrija-sāļi",
+   "nukleotīds":"nukleotīds",
+   "umf-nātrija-sāļi":"umf-nātrija-sāļi"
+  },
+  "mk":{
+   "нуклеотид":"нуклеотид"
+  },
+  "ml":{
+   "അഡിനോസിൻ-ഫോസ്‌ഫേറ്റുകൾ":"അഡിനോസിൻ-ഫോസ്‌ഫേറ്റുകൾ"
+  },
+  "ms":{
+   "nukleotida":"nukleotida"
+  },
+  "mt":{
+   "melħ-tas-sodju-ta-amp":"melħ-tas-sodju-ta-amp",
+   "melħ-tas-sodju-ta-cmp":"melħ-tas-sodju-ta-cmp",
+   "melħ-tas-sodju-ta-gmp":"melħ-tas-sodju-ta-gmp",
+   "melħ-tas-sodju-ta-imp":"melħ-tas-sodju-ta-imp",
+   "melħ-tas-sodju-ta-ump":"melħ-tas-sodju-ta-ump",
+   "monofosfat-tal-adenożina":"monofosfat-tal-adenożina"
+  },
+  "nb":{
+   "nukleotid":"nukleotid"
+  },
+  "nl":{
+   "adenosine-5-monofosfaat":"adenosinemonofosfaat",
+   "adenosinemonofosfaat":"adenosinemonofosfaat",
+   "cytidinemonofosfaat":"cytidinemonofosfaat",
+   "guanosine-5-monofosfaat":"guanosinemonofosfaat",
+   "guanosinemonofosfaat":"guanosinemonofosfaat",
+   "natriumzouten-van-amp":"natriumzouten-van-amp",
+   "natriumzouten-van-cmp":"natriumzouten-van-cmp",
+   "natriumzouten-van-gmp":"natriumzouten-van-gmp",
+   "natriumzouten-van-imp":"natriumzouten-van-imp",
+   "natriumzouten-van-ump":"natriumzouten-van-ump",
+   "nucleotide":"nucleotiden",
+   "nucleotiden":"nucleotiden",
+   "uridinemonofosfaat":"uridinemonofosfaat"
+  },
+  "nn":{
+   "adenosinmonofosfat":"adenosinmonofosfat",
+   "cytidinmonofosfat":"cytidinmonofosfat",
+   "guanosinmonofosfat":"guanosinmonofosfat",
+   "nukleotid":"nukleotid"
+  },
+  "oc":{
+   "adenosina-monofosfat":"adenosina-monofosfat",
+   "guanosina-monofosfat":"guanosina-monofosfat",
+   "nucleotid":"nucleotid"
+  },
+  "pl":{
+   "adenozyno-5′-monofosforan":"adenozynomonofosforan",
+   "adenozynomonofosforan":"adenozynomonofosforan",
+   "guanozyno-5′-monofosforan":"guanozyno-5′-monofosforan",
+   "nukleotyd":"nukleotyd",
+   "nukleotydy":"nukleotyd",
+   "sole-sodowe-amp":"sole-sodowe-amp",
+   "sole-sodowe-cmp":"sole-sodowe-cmp",
+   "sole-sodowe-gmp":"sole-sodowe-gmp",
+   "sole-sodowe-imp":"sole-sodowe-imp",
+   "sole-sodowe-ump":"sole-sodowe-ump",
+   "urydyno-5′-monofosforan":"urydyno-5′-monofosforan"
+  },
+  "pt":{
+   "adenosina-5-monofosfato":"adenosina-monofosfato",
+   "adenosina-monofosfato":"adenosina-monofosfato",
+   "guanosina-5-monofosfato":"guanosina-monofosfato",
+   "guanosina-monofosfato":"guanosina-monofosfato",
+   "nucleotido":"nucleotidos",
+   "nucleotidos":"nucleotidos",
+   "sais-de-sodio-de-amp":"sais-de-sodio-de-amp",
+   "sais-de-sodio-de-cmp":"sais-de-sodio-de-cmp",
+   "sais-de-sodio-de-gmp":"sais-de-sodio-de-gmp",
+   "sais-de-sodio-de-imp":"sais-de-sodio-de-imp",
+   "sais-de-sodio-de-ump":"sais-de-sodio-de-ump"
+  },
+  "ro":{
+   "nucleotid":"nucleotid",
+   "nucleotidă":"nucleotid",
+   "săruri-de-sodiu-ale-amp":"săruri-de-sodiu-ale-amp",
+   "săruri-de-sodiu-ale-cmp":"săruri-de-sodiu-ale-cmp",
+   "săruri-de-sodiu-ale-gmp":"săruri-de-sodiu-ale-gmp",
+   "săruri-de-sodiu-ale-imp":"săruri-de-sodiu-ale-imp",
+   "săruri-de-sodiu-ale-ump":"săruri-de-sodiu-ale-ump"
+  },
+  "ru":{
+   "uridinmonophosphat":"uridinmonophosphat",
+   "аденозинмонофосфат":"аденозинмонофосфат",
+   "гуанозинмонофосфат":"гуанозинмонофосфат",
+   "инозиновая-кислота":"инозиновая-кислота",
+   "нуклеотиды":"нуклеотиды"
+  },
+  "sh":{
+   "adenozin-monofosfat":"adenozin-monofosfat",
+   "citidin-monofosfat":"citidin-monofosfat",
+   "guanozin-monofosfat":"guanozin-monofosfat",
+   "inozinska-kiselina":"inozinska-kiselina",
+   "nukleotidi":"nukleotidi",
+   "uridin-monofosfat":"uridin-monofosfat"
+  },
+  "sk":{
+   "adenozinmonofosfat":"adenozinmonofosfat",
+   "nukleotid":"nukleotid",
+   "sodne-soli-amp":"sodne-soli-amp",
+   "sodne-soli-cmp":"sodne-soli-cmp",
+   "sodne-soli-gmp":"sodne-soli-gmp",
+   "sodne-soli-imp":"sodne-soli-imp",
+   "sodne-soli-ump":"sodne-soli-ump"
+  },
+  "sl":{
+   "adenozin-5-monofosfat":"adenozin-5-monofosfat",
+   "natrijeve-soli-amp":"natrijeve-soli-amp",
+   "natrijeve-soli-cmp":"natrijeve-soli-cmp",
+   "natrijeve-soli-gmp":"natrijeve-soli-gmp",
+   "natrijeve-soli-imp":"natrijeve-soli-imp",
+   "natrijeve-soli-ump":"natrijeve-soli-ump",
+   "nukleotid":"nukleotid"
+  },
+  "sq":{
+   "nukleotidi":"nukleotidi"
+  },
+  "sr":{
+   "аденозин-монофосфат":"аденозин-монофосфат",
+   "гуанозин-монофосфат":"гуанозин-монофосфат",
+   "инозинска-киселина":"инозинска-киселина",
+   "нуклеотид":"нуклеотид",
+   "уридин-монофосфат":"уридин-монофосфат",
+   "цитидин-монофосфат":"цитидин-монофосфат"
+  },
+  "sv":{
+   "adenosinmonofosfat":"adenosinmonofosfat",
+   "guanosinmonofosfat":"guanosinmonofosfat",
+   "guanylsyra":"guanosinmonofosfat",
+   "natriumsalter-av-amp":"natriumsalter-av-amp",
+   "natriumsalter-av-cmp":"natriumsalter-av-cmp",
+   "natriumsalter-av-gmp":"natriumsalter-av-gmp",
+   "natriumsalter-av-imp":"natriumsalter-av-imp",
+   "natriumsalter-av-ump":"natriumsalter-av-ump",
+   "nukleotid":"nukleotider",
+   "nukleotider":"nukleotider"
+  },
+  "ta":{
+   "கருக்காடிக்கூறு":"கருக்காடிக்கூறு"
+  },
+  "th":{
+   "นิวคลีโอไทด์":"นิวคลีโอไทด์"
+  },
+  "tr":{
+   "adenozin-monofosfat":"adenozin-monofosfat",
+   "i̇nosinik-asit":"i̇nosinik-asit",
+   "nükleotit":"nükleotit"
+  },
+  "uk":{
+   "аденозинмонофосфат":"аденозинмонофосфат",
+   "нуклеотиди":"нуклеотиди"
+  },
+  "ur":{
+   "مرثالثہ":"مرثالثہ"
+  },
+  "vi":{
+   "adenosine-monophosphate":"adenosine-monophosphate",
+   "nucleotide":"nucleotide"
+  },
+  "zh":{
+   "單磷酸尿苷":"單磷酸尿苷",
+   "單磷酸胞苷":"單磷酸胞苷",
+   "單磷酸鳥苷":"單磷酸鳥苷",
+   "核苷酸":"核苷酸",
+   "肌苷酸":"肌苷酸"
+  }
+ },
+ "synonyms_for":{
+  "af":{
+   "nukleotied":[
+    "Nukleotied"
+   ]
+  },
+  "ar":{
+   "أدينوسين-أحادي-الفوسفات":[
+    "أدينوسين أحادي الفوسفات"
+   ],
+   "حمض-الإينوسينيك":[
+    "حمض الإينوسينيك"
+   ],
+   "سيتيدين-أحادي-الفوسفات":[
+    "سيتيدين أحادي الفوسفات"
+   ],
+   "غوانوسين-أحادي-الفوسفات":[
+    "غوانوسين أحادي الفوسفات"
+   ],
+   "نوكليوتيد":[
+    "نوكليوتيد"
+   ],
+   "يوريدين-أحادي-الفوسفات":[
+    "يوريدين أحادي الفوسفات"
+   ]
+  },
+  "az":{
+   "nukleotid":[
+    "Nukleotid"
+   ]
+  },
+  "ba":{
+   "нуклеотидтар":[
+    "Нуклеотидтар"
+   ]
+  },
+  "be":{
+   "нуклеатыды":[
+    "Нуклеатыды"
+   ]
+  },
+  "bg":{
+   "аденозинмонофосфат":[
+    "Аденозинмонофосфат"
+   ],
+   "натриеви-соли-на-амф":[
+    "Натриеви соли на АМФ"
+   ],
+   "натриеви-соли-на-гмф":[
+    "Натриеви соли на ГМФ"
+   ],
+   "натриеви-соли-на-имф":[
+    "Натриеви соли на ИМФ"
+   ],
+   "натриеви-соли-на-умф":[
+    "Натриеви соли на УМФ"
+   ],
+   "натриеви-соли-на-цмф":[
+    "Натриеви соли на ЦМФ"
+   ],
+   "нуклеотиди":[
+    "Нуклеотиди",
+    "Нуклеотид"
+   ]
+  },
+  "bn":{
+   "এডিনোসিন-মনোফসফেট":[
+    "এডিনোসিন মনোফসফেট"
+   ],
+   "নিউক্লিওটাইড":[
+    "নিউক্লিওটাইড"
+   ]
+  },
+  "bs":{
+   "adenozin-monofosfat":[
+    "Adenozin monofosfat"
+   ],
+   "nukleotidi":[
+    "Nukleotidi"
+   ]
+  },
+  "ca":{
+   "monofosfat-d-adenosina":[
+    "monofosfat d'adenosina"
+   ],
+   "monofosfat-d-uridina":[
+    "monofosfat d'uridina"
+   ],
+   "monofosfat-de-citidina":[
+    "monofosfat de citidina"
+   ],
+   "monofosfat-de-guanosina":[
+    "Monofosfat de guanosina"
+   ],
+   "nucleotid":[
+    "nucleòtid"
+   ]
+  },
+  "cs":{
+   "adenosinmonofosfát":[
+    "Adenosinmonofosfát"
+   ],
+   "cytidinmonofosfát":[
+    "Cytidinmonofosfát"
+   ],
+   "nukleotidy":[
+    "nukleotidy",
+    "nukleotid"
+   ],
+   "sodné-soli-amp":[
+    "sodné soli AMP"
+   ],
+   "sodné-soli-cmp":[
+    "sodné soli CMP"
+   ],
+   "sodné-soli-gmp":[
+    "sodné soli GMP"
+   ],
+   "sodné-soli-imp":[
+    "sodné soli IMP"
+   ],
+   "sodné-soli-ump":[
+    "sodné soli UMP"
+   ]
+  },
+  "cy":{
+   "niwcleotid":[
+    "Niwcleotid"
+   ]
+  },
+  "da":{
+   "adenosinmonofosfat":[
+    "Adenosinmonofosfat",
+    "adenosin-5'-monophosphat"
+   ],
+   "cytidinmonofosfat":[
+    "Cytidinmonofosfat"
+   ],
+   "guanosinmonofosfat":[
+    "Guanosinmonofosfat",
+    "guanosin-5'-monofosfat"
+   ],
+   "nukleotider":[
+    "Nukleotider",
+    "Nukleotid"
+   ],
+   "uridinmonofosfat":[
+    "Uridinmonofosfat"
+   ]
+  },
+  "de":{
+   "adenosinmonophosphat":[
+    "Adenosinmonophosphat",
+    "Adenosin-5-monophosphat"
+   ],
+   "cytidinmonophosphat":[
+    "Cytidinmonophosphat"
+   ],
+   "guanosinmonophosphat":[
+    "Guanosinmonophosphat"
+   ],
+   "inosinmonophosphat":[
+    "Inosinmonophosphat"
+   ],
+   "natriumsalze-der-amp":[
+    "Natriumsalze der AMP"
+   ],
+   "natriumsalze-der-cmp":[
+    "Natriumsalze der CMP"
+   ],
+   "natriumsalze-der-gmp":[
+    "Natriumsalze der GMP"
+   ],
+   "natriumsalze-der-imp":[
+    "Natriumsalze der IMP"
+   ],
+   "natriumsalze-der-ump":[
+    "Natriumsalze der UMP"
+   ],
+   "nucleotid":[
+    "Nucleotid",
+    "Nukleotide"
+   ],
+   "uridinmonophosphat":[
+    "Uridinmonophosphat"
+   ]
+  },
+  "el":{
+   "5-μονοφωσφορική-γουανοσίνη":[
+    "5-μονοφωσφορική γουανοσίνη"
+   ],
+   "άλατα-νατρίου-της-amp":[
+    "άλατα νατρίου της AMP"
+   ],
+   "άλατα-νατρίου-της-cmp":[
+    "άλατα νατρίου της CMP"
+   ],
+   "άλατα-νατρίου-της-gmp":[
+    "άλατα νατρίου της GMP"
+   ],
+   "άλατα-νατρίου-της-ump":[
+    "άλατα νατρίου της UMP"
+   ],
+   "άλατα-νατρίου-της-ιμρ":[
+    "άλατα νατρίου της ΙΜΡ"
+   ],
+   "μονοφωσφορική-αδενοσίνη":[
+    "μονοφωσφορική αδενοσίνη",
+    "5'-μονοφωσφορική αδενοσίνη"
+   ],
+   "νουκλεοτίδια":[
+    "Νουκλεοτίδια",
+    "Νουκλεοτίδιο"
+   ]
+  },
+  "en":{
+   "adenosine-monophosphate":[
+    "Adenosine monophosphate",
+    "adenosine 5'-monophosphate",
+    "adenosine-5'-monophosphate",
+    "adenosine 5'-phosphoric acid",
+    "AMP"
+   ],
+   "cytidine-monophosphate":[
+    "Cytidine monophosphate",
+    "cytidine 5'-monophosphate",
+    "cytidine-5'-monophosphate",
+    "cytidine 5'-monophosphoric acid",
+    "cytidine-",
+    "CMP"
+   ],
+   "disodium-guanosine-5-monophosphate":[
+    "disodium guanosine-5'-monophosphate",
+    "sodium salts of GMP"
+   ],
+   "disodium-inosine-5-monophosphate":[
+    "disodium inosine-5'-monophosphate",
+    "sodium salts of IMP"
+   ],
+   "disodium-uridine-monophosphate":[
+    "disodium uridine-monophosphate",
+    "disodium uridine-5'-monophosphate",
+    "sodium salts of UMP"
+   ],
+   "guanosine-monophosphate":[
+    "guanosine monophosphate",
+    "guanosine-5'-monophosphate",
+    "guanosine 5'-phosphoric acid",
+    "GMP"
+   ],
+   "inosine-monophosphate":[
+    "inosine monophosphate",
+    "inosine-5'-monophosphate",
+    "inosine 5'-phosphoric acid",
+    "IMP"
+   ],
+   "nucleotides":[
+    "nucleotides"
+   ],
+   "sodium-salts-of-amp":[
+    "sodium salts of AMP"
+   ],
+   "sodium-salts-of-cmp":[
+    "sodium salts of CMP"
+   ],
+   "uridine-monophosphate":[
+    "uridine monophosphate",
+    "uridine-monophosphate",
+    "uridine-5'-monophosphate",
+    "uridine 5'-phosphoric acid",
+    "UMP"
+   ]
+  },
+  "eo":{
+   "nukleotido":[
+    "Nukleotido"
+   ]
+  },
+  "es":{
+   "acido-guanilico":[
+    "Ácido guanílico",
+    "guanosina 5'-monofosfato"
+   ],
+   "acido-inosinico":[
+    "Ácido inosínico"
+   ],
+   "adenosin-monofosfato":[
+    "adenosín monofosfato",
+    "adenosina 5'monofosfato"
+   ],
+   "citidina-monofosfato":[
+    "Citidina monofosfato"
+   ],
+   "nucleotidos":[
+    "Nucleótidos",
+    "nucleótido"
+   ],
+   "sales-sodicas-del-amp":[
+    "sales sódicas del AMP"
+   ],
+   "sales-sodicas-del-cmp":[
+    "sales sódicas del CMP"
+   ],
+   "sales-sodicas-del-gmp":[
+    "sales sódicas del GMP"
+   ],
+   "sales-sodicas-del-imp":[
+    "sales sódicas del IMP"
+   ],
+   "sales-sodicas-del-ump":[
+    "sales sódicas del UMP"
+   ]
+  },
+  "et":{
+   "adenosiinmonofosfaat":[
+    "Adenosiinmonofosfaat",
+    "adenosiin-5'-monofosfaat"
+   ],
+   "amp-naatriumisoolad":[
+    "AMP naatriumisoolad"
+   ],
+   "cmp-naatriumisoolad":[
+    "CMP naatriumisoolad"
+   ],
+   "gmp-naatriumisoolad":[
+    "GMP naatriumisoolad"
+   ],
+   "imp-naatriumisoolad":[
+    "IMP naatriumisoolad"
+   ],
+   "nukleotiid":[
+    "Nukleotiid",
+    "Nukleotiidid"
+   ],
+   "ump-naatriumisoolad":[
+    "UMP naatriumisoolad"
+   ]
+  },
+  "eu":{
+   "adenosina-monofosfato":[
+    "adenosina monofosfato"
+   ],
+   "nukleotido":[
+    "nukleotido"
+   ]
+  },
+  "fa":{
+   "آدنوزین-مونوفسفات":[
+    "آدنوزین مونوفسفات"
+   ],
+   "اوریدین-مونوفسفات":[
+    "اوریدین مونوفسفات"
+   ],
+   "اینوسینیک-اسید":[
+    "اینوسینیک اسید"
+   ],
+   "سیتیدین-مونوفسفات":[
+    "سیتیدین مونوفسفات"
+   ],
+   "نوکلئوتید":[
+    "نوکلئوتید"
+   ],
+   "گوآنوسین-مونوفسفات":[
+    "گوآنوسین مونوفسفات"
+   ]
+  },
+  "fi":{
+   "adenosiini-5-fosforihapon-natriumsuolat":[
+    "adenosiini-5'-fosforihapon natriumsuolat"
+   ],
+   "adenosiinimonofosfaatti":[
+    "Adenosiinimonofosfaatti",
+    "adenosiini-5'-monofosfaatti"
+   ],
+   "guanosiini-5-fosforihapon-natriumsuolat":[
+    "guanosiini-5'-fosforihapon natriumsuolat"
+   ],
+   "guanosiinimonofosfaatti":[
+    "Guanosiinimonofosfaatti",
+    "guanosiini-5-monofosfaatti"
+   ],
+   "inosiini-5-fosforihapon-natriumsuolat":[
+    "inosiini-5'-fosforihapon natriumsuolat"
+   ],
+   "inosiinimonofosfaatti":[
+    "Inosiinimonofosfaatti"
+   ],
+   "nukleotidit":[
+    "Nukleotidit",
+    "Nukleotidi"
+   ],
+   "sytidiini-5-monofosforihapon-natriumsuolat":[
+    "sytidiini-5'-monofosforihapon natriumsuolat"
+   ],
+   "uridiini-5-fosforihapon-natriumsuolat":[
+    "uridiini-5'-fosforihapon natriumsuolat"
+   ],
+   "uridiinimonofosfaatti":[
+    "Uridiinimonofosfaatti"
+   ]
+  },
+  "fr":{
+   "adenosine-monophosphate":[
+    "adénosine monophosphate",
+    "adénosine 5'-monophosphate"
+   ],
+   "cytidine-monophosphate":[
+    "Cytidine monophosphate"
+   ],
+   "guanosine-monophosphate":[
+    "guanosine monophosphate",
+    "guanosine-5'-monophosphate"
+   ],
+   "nucleotides":[
+    "Nucléotides",
+    "nucléotide"
+   ],
+   "sels-de-sodium-de-l-amp":[
+    "sels de sodium de l'AMP"
+   ],
+   "sels-de-sodium-de-l-imp":[
+    "sels de sodium de l'IMP"
+   ],
+   "sels-de-sodium-de-l-ump":[
+    "sels de sodium de l'UMP"
+   ],
+   "sels-de-sodium-du-cmp":[
+    "sels de sodium du CMP"
+   ],
+   "sels-de-sodium-du-gmp":[
+    "sels de sodium du GMP"
+   ],
+   "uridine-monophosphate":[
+    "Uridine monophosphate"
+   ]
+  },
+  "ga":{
+   "monafosfáit-adanóisín":[
+    "monafosfáit adanóisín"
+   ],
+   "núicléitíd":[
+    "Núicléitíd"
+   ]
+  },
+  "gl":{
+   "adenosina-monofosfato":[
+    "Adenosina monofosfato"
+   ],
+   "citidín-monofosfato":[
+    "Citidín monofosfato"
+   ],
+   "guanosín-monofosfato":[
+    "Guanosín monofosfato"
+   ],
+   "nucleótido":[
+    "Nucleótido"
+   ],
+   "uridín-monofosfato":[
+    "Uridín monofosfato"
+   ]
+  },
+  "he":{
+   "נוקלאוטיד":[
+    "נוקלאוטיד"
+   ]
+  },
+  "hi":{
+   "न्यूक्लियोटाइड":[
+    "न्यूक्लियोटाइड"
+   ]
+  },
+  "hr":{
+   "adénosine-monophosphate":[
+    "adénosine monophosphate"
+   ],
+   "nukleotid":[
+    "Nukleotid",
+    "Nukleotidi"
+   ],
+   "uridin-monofosfat":[
+    "Uridin monofosfat"
+   ]
+  },
+  "ht":{
+   "nikleyotid":[
+    "Nikleyotid"
+   ]
+  },
+  "hu":{
+   "adenozin-monofoszfát":[
+    "adenozin-monofoszfát",
+    "5'-adenilsav"
+   ],
+   "amp-nátriumsói":[
+    "AMP nátriumsói"
+   ],
+   "citidin-monofoszfát":[
+    "citidin-monofoszfát"
+   ],
+   "cmp-nátriumsói":[
+    "CMP nátriumsói"
+   ],
+   "gmp-nátriumsói":[
+    "GMP nátriumsói"
+   ],
+   "guanozin-monofoszfát":[
+    "Guanozin-monofoszfát"
+   ],
+   "imp-nátriumsói":[
+    "IMP nátriumsói"
+   ],
+   "inozin-monofoszfát":[
+    "inozin-monofoszfát",
+    "inozin-5'-monofoszforsav"
+   ],
+   "nukleotidok":[
+    "nukleotidok"
+   ],
+   "ump-nátriumsói":[
+    "UMP nátriumsói"
+   ],
+   "uridin-monofoszfát":[
+    "Uridin-monofoszfát"
+   ]
+  },
+  "hy":{
+   "նուկլեոտիդ":[
+    "Նուկլեոտիդ"
+   ]
+  },
+  "id":{
+   "nukleotida":[
+    "Nukleotida"
+   ]
+  },
+  "is":{
+   "núkleótíð":[
+    "Núkleótíð"
+   ]
+  },
+  "it":{
+   "adenosina-monofosfato":[
+    "Adenosina monofosfato",
+    "adenosina 5'-monofosfato"
+   ],
+   "citosina-monofosfato":[
+    "Citosina monofosfato"
+   ],
+   "guanosina-monofosfato":[
+    "Guanosina monofosfato",
+    "guanosina-5'-monofosfato"
+   ],
+   "nucleotidi":[
+    "Nucleotidi",
+    "nucleotide"
+   ],
+   "sali-sodici-del-cmp":[
+    "sali sodici del CMP"
+   ],
+   "sali-sodici-del-gmp":[
+    "sali sodici del GMP"
+   ],
+   "sali-sodici-dell-amp":[
+    "sali sodici dell'AMP"
+   ],
+   "sali-sodici-dell-imp":[
+    "sali sodici dell'IMP"
+   ],
+   "sali-sodici-dell-ump":[
+    "sali sodici dell'UMP"
+   ],
+   "uridina-monofosfato":[
+    "Uridina monofosfato"
+   ]
+  },
+  "ja":{
+   "アデニル酸":[
+    "アデニル酸"
+   ],
+   "イノシン酸":[
+    "イノシン酸"
+   ],
+   "ウリジル酸":[
+    "ウリジル酸"
+   ],
+   "グアニル酸":[
+    "グアニル酸"
+   ],
+   "シチジル酸":[
+    "シチジル酸"
+   ],
+   "ヌクレオチド":[
+    "ヌクレオチド"
+   ]
+  },
+  "jv":{
+   "nukleotida":[
+    "Nukleotida"
+   ]
+  },
+  "ka":{
+   "ნუკლეოტიდი":[
+    "ნუკლეოტიდი"
+   ]
+  },
+  "kk":{
+   "аденозинмонофосфат":[
+    "Аденозинмонофосфат"
+   ],
+   "нуклеотидтер":[
+    "Нуклеотидтер"
+   ]
+  },
+  "km":{
+   "នុយក្លេអូទីត":[
+    "នុយក្លេអូទីត"
+   ]
+  },
+  "kn":{
+   "ನ್ಯೂಕ್ಲಿಯೊಟೈಡ್":[
+    "ನ್ಯೂಕ್ಲಿಯೊಟೈಡ್"
+   ]
+  },
+  "ko":{
+   "구아노신-일인산":[
+    "구아노신 일인산"
+   ],
+   "뉴클레오타이드":[
+    "뉴클레오타이드"
+   ],
+   "시티딘-일인산":[
+    "시티딘 일인산"
+   ],
+   "아데노신-일인산":[
+    "아데노신 일인산"
+   ],
+   "우리딘-일인산":[
+    "우리딘 일인산"
+   ]
+  },
+  "ku":{
+   "nukleotîd":[
+    "Nukleotîd"
+   ]
+  },
+  "ky":{
+   "нуклеотиддер":[
+    "Нуклеотиддер"
+   ]
+  },
+  "la":{
+   "nucleotidum":[
+    "Nucleotidum"
+   ]
+  },
+  "lb":{
+   "nukleotid":[
+    "Nukleotid"
+   ]
+  },
+  "lt":{
+   "5-adenozinmonofosfatas":[
+    "5'-adenozinmonofosfatas"
+   ],
+   "amp-natrio-druskos":[
+    "AMP natrio druskos"
+   ],
+   "cmp-natrio-druskos":[
+    "CMP natrio druskos"
+   ],
+   "gmp-natrio-druskos":[
+    "GMP natrio druskos"
+   ],
+   "imp-natrio-druskos":[
+    "IMP natrio druskos"
+   ],
+   "nukleotidai":[
+    "Nukleotidai",
+    "Nukleotidas"
+   ],
+   "ump-natrio-druskos":[
+    "UMP natrio druskos"
+   ]
+  },
+  "lv":{
+   "amf-nātrija-sāļi":[
+    "AMF nātrija sāļi"
+   ],
+   "cmf-nātrija-sāļi":[
+    "CMF nātrija sāļi"
+   ],
+   "gmf-nātrija-sāļi":[
+    "GMF nātrija sāļi"
+   ],
+   "imf-nātrija-sāļi":[
+    "IMF nātrija sāļi"
+   ],
+   "nukleotīds":[
+    "nukleotīds"
+   ],
+   "umf-nātrija-sāļi":[
+    "UMF nātrija sāļi"
+   ]
+  },
+  "mk":{
+   "нуклеотид":[
+    "Нуклеотид"
+   ]
+  },
+  "ml":{
+   "അഡിനോസിൻ-ഫോസ്‌ഫേറ്റുകൾ":[
+    "അഡിനോസിൻ ഫോസ്‌ഫേറ്റുകൾ"
+   ]
+  },
+  "ms":{
+   "nukleotida":[
+    "Nukleotida"
+   ]
+  },
+  "mt":{
+   "melħ-tas-sodju-ta-amp":[
+    "melħ tas-sodju ta' AMP"
+   ],
+   "melħ-tas-sodju-ta-cmp":[
+    "melħ tas-sodju ta' CMP"
+   ],
+   "melħ-tas-sodju-ta-gmp":[
+    "melħ tas-sodju ta' GMP"
+   ],
+   "melħ-tas-sodju-ta-imp":[
+    "melħ tas-sodju ta' IMP"
+   ],
+   "melħ-tas-sodju-ta-ump":[
+    "melħ tas-sodju ta' UMP"
+   ],
+   "monofosfat-tal-adenożina":[
+    "monofosfat tal-adenożina"
+   ]
+  },
+  "nb":{
+   "nukleotid":[
+    "nukleotid"
+   ]
+  },
+  "nl":{
+   "adenosinemonofosfaat":[
+    "Adenosinemonofosfaat",
+    "adenosine 5'-monofosfaat"
+   ],
+   "cytidinemonofosfaat":[
+    "Cytidinemonofosfaat"
+   ],
+   "guanosinemonofosfaat":[
+    "guanosinemonofosfaat",
+    "guanosine-5'-monofosfaat"
+   ],
+   "natriumzouten-van-amp":[
+    "natriumzouten van AMP"
+   ],
+   "natriumzouten-van-cmp":[
+    "natriumzouten van CMP"
+   ],
+   "natriumzouten-van-gmp":[
+    "natriumzouten van GMP"
+   ],
+   "natriumzouten-van-imp":[
+    "natriumzouten van IMP"
+   ],
+   "natriumzouten-van-ump":[
+    "natriumzouten van UMP"
+   ],
+   "nucleotiden":[
+    "nucleotiden",
+    "nucleotide"
+   ],
+   "uridinemonofosfaat":[
+    "Uridinemonofosfaat"
+   ]
+  },
+  "nn":{
+   "adenosinmonofosfat":[
+    "adenosinmonofosfat"
+   ],
+   "cytidinmonofosfat":[
+    "cytidinmonofosfat"
+   ],
+   "guanosinmonofosfat":[
+    "guanosinmonofosfat"
+   ],
+   "nukleotid":[
+    "nukleotid"
+   ]
+  },
+  "oc":{
+   "adenosina-monofosfat":[
+    "Adenosina monofosfat"
+   ],
+   "guanosina-monofosfat":[
+    "Guanosina monofosfat"
+   ],
+   "nucleotid":[
+    "nucleotid"
+   ]
+  },
+  "pl":{
+   "adenozynomonofosforan":[
+    "adenozynomonofosforan",
+    "adenozyno-5′-monofosforan"
+   ],
+   "guanozyno-5′-monofosforan":[
+    "guanozyno-5′-monofosforan"
+   ],
+   "nukleotyd":[
+    "nukleotyd",
+    "nukleotydy"
+   ],
+   "sole-sodowe-amp":[
+    "sole sodowe AMP"
+   ],
+   "sole-sodowe-cmp":[
+    "sole sodowe CMP"
+   ],
+   "sole-sodowe-gmp":[
+    "sole sodowe GMP"
+   ],
+   "sole-sodowe-imp":[
+    "sole sodowe IMP"
+   ],
+   "sole-sodowe-ump":[
+    "sole sodowe UMP"
+   ],
+   "urydyno-5′-monofosforan":[
+    "urydyno-5′-monofosforan"
+   ]
+  },
+  "pt":{
+   "adenosina-monofosfato":[
+    "adenosina monofosfato",
+    "adenosina-5'-monofosfato"
+   ],
+   "guanosina-monofosfato":[
+    "Guanosina monofosfato",
+    "guanosina-5'-monofosfato"
+   ],
+   "nucleotidos":[
+    "Nucleótidos",
+    "nucleótido"
+   ],
+   "sais-de-sodio-de-amp":[
+    "sais de sódio de AMP"
+   ],
+   "sais-de-sodio-de-cmp":[
+    "sais de sódio de CMP"
+   ],
+   "sais-de-sodio-de-gmp":[
+    "sais de sódio de GMP"
+   ],
+   "sais-de-sodio-de-imp":[
+    "sais de sódio de IMP"
+   ],
+   "sais-de-sodio-de-ump":[
+    "sais de sódio de UMP"
+   ]
+  },
+  "ro":{
+   "nucleotid":[
+    "Nucleotid",
+    "Nucleotidă"
+   ],
+   "săruri-de-sodiu-ale-amp":[
+    "săruri de sodiu ale AMP"
+   ],
+   "săruri-de-sodiu-ale-cmp":[
+    "săruri de sodiu ale CMP"
+   ],
+   "săruri-de-sodiu-ale-gmp":[
+    "săruri de sodiu ale GMP"
+   ],
+   "săruri-de-sodiu-ale-imp":[
+    "săruri de sodiu ale IMP"
+   ],
+   "săruri-de-sodiu-ale-ump":[
+    "săruri de sodiu ale UMP"
+   ]
+  },
+  "ru":{
+   "uridinmonophosphat":[
+    "Uridinmonophosphat"
+   ],
+   "аденозинмонофосфат":[
+    "аденозинмонофосфат"
+   ],
+   "гуанозинмонофосфат":[
+    "Гуанозинмонофосфат"
+   ],
+   "инозиновая-кислота":[
+    "Инозиновая кислота"
+   ],
+   "нуклеотиды":[
+    "Нуклеотиды"
+   ]
+  },
+  "sh":{
+   "adenozin-monofosfat":[
+    "Adenozin-monofosfat"
+   ],
+   "citidin-monofosfat":[
+    "Citidin-monofosfat"
+   ],
+   "guanozin-monofosfat":[
+    "Guanozin-monofosfat"
+   ],
+   "inozinska-kiselina":[
+    "Inozinska kiselina"
+   ],
+   "nukleotidi":[
+    "Nukleotidi"
+   ],
+   "uridin-monofosfat":[
+    "Uridin-monofosfat"
+   ]
+  },
+  "sk":{
+   "adenozinmonofosfat":[
+    "Adenozínmonofosfát"
+   ],
+   "nukleotid":[
+    "Nukleotid"
+   ],
+   "sodne-soli-amp":[
+    "sodné soli AMP"
+   ],
+   "sodne-soli-cmp":[
+    "sodné soli CMP"
+   ],
+   "sodne-soli-gmp":[
+    "sodné soli GMP"
+   ],
+   "sodne-soli-imp":[
+    "sodné soli IMP"
+   ],
+   "sodne-soli-ump":[
+    "sodné soli UMP"
+   ]
+  },
+  "sl":{
+   "adenozin-5-monofosfat":[
+    "adenozin 5'-monofosfat"
+   ],
+   "natrijeve-soli-amp":[
+    "natrijeve soli AMP"
+   ],
+   "natrijeve-soli-cmp":[
+    "natrijeve soli CMP"
+   ],
+   "natrijeve-soli-gmp":[
+    "natrijeve soli GMP"
+   ],
+   "natrijeve-soli-imp":[
+    "natrijeve soli IMP"
+   ],
+   "natrijeve-soli-ump":[
+    "natrijeve soli UMP"
+   ],
+   "nukleotid":[
+    "Nukleotid"
+   ]
+  },
+  "sq":{
+   "nukleotidi":[
+    "Nukleotidi"
+   ]
+  },
+  "sr":{
+   "аденозин-монофосфат":[
+    "аденозин-монофосфат"
+   ],
+   "гуанозин-монофосфат":[
+    "Гуанозин-монофосфат"
+   ],
+   "инозинска-киселина":[
+    "инозинска киселина"
+   ],
+   "нуклеотид":[
+    "нуклеотид"
+   ],
+   "уридин-монофосфат":[
+    "уридин-монофосфат"
+   ],
+   "цитидин-монофосфат":[
+    "цитидин-монофосфат"
+   ]
+  },
+  "sv":{
+   "adenosinmonofosfat":[
+    "Adenosinmonofosfat"
+   ],
+   "guanosinmonofosfat":[
+    "guanosinmonofosfat",
+    "Guanylsyra"
+   ],
+   "natriumsalter-av-amp":[
+    "natriumsalter av AMP"
+   ],
+   "natriumsalter-av-cmp":[
+    "natriumsalter av CMP"
+   ],
+   "natriumsalter-av-gmp":[
+    "natriumsalter av GMP"
+   ],
+   "natriumsalter-av-imp":[
+    "natriumsalter av IMP"
+   ],
+   "natriumsalter-av-ump":[
+    "natriumsalter av UMP"
+   ],
+   "nukleotider":[
+    "nukleotider",
+    "nukleotid"
+   ]
+  },
+  "ta":{
+   "கருக்காடிக்கூறு":[
+    "கருக்காடிக்கூறு"
+   ]
+  },
+  "th":{
+   "นิวคลีโอไทด์":[
+    "นิวคลีโอไทด์"
+   ]
+  },
+  "tr":{
+   "adenozin-monofosfat":[
+    "Adenozin monofosfat"
+   ],
+   "i̇nosinik-asit":[
+    "İnosinik asit"
+   ],
+   "nükleotit":[
+    "Nükleotit"
+   ]
+  },
+  "uk":{
+   "аденозинмонофосфат":[
+    "Аденозинмонофосфат"
+   ],
+   "нуклеотиди":[
+    "нуклеотиди"
+   ]
+  },
+  "ur":{
+   "مرثالثہ":[
+    "مرثالثہ"
+   ]
+  },
+  "vi":{
+   "adenosine-monophosphate":[
+    "Adenosine monophosphate"
+   ],
+   "nucleotide":[
+    "Nucleotide"
+   ]
+  },
+  "zh":{
+   "單磷酸尿苷":[
+    "單磷酸尿苷"
+   ],
+   "單磷酸胞苷":[
+    "單磷酸胞苷"
+   ],
+   "單磷酸鳥苷":[
+    "單磷酸鳥苷"
+   ],
+   "核苷酸":[
+    "核苷酸"
+   ],
+   "肌苷酸":[
+    "肌苷酸"
+   ]
+  }
+ },
+ "synonyms_for_extended":{
+  "af":{
+   "nukleotied":{
+    "nukleotied":1
+   }
+  },
+  "ar":{
+   "أدينوسين-أحادي-الفوسفات":{
+    "أدينوسين-أحادي-الفوسفات":1
+   },
+   "حمض-الإينوسينيك":{
+    "حمض-الإينوسينيك":1
+   },
+   "سيتيدين-أحادي-الفوسفات":{
+    "سيتيدين-أحادي-الفوسفات":1
+   },
+   "غوانوسين-أحادي-الفوسفات":{
+    "غوانوسين-أحادي-الفوسفات":1
+   },
+   "نوكليوتيد":{
+    "نوكليوتيد":1
+   },
+   "يوريدين-أحادي-الفوسفات":{
+    "يوريدين-أحادي-الفوسفات":1
+   }
+  },
+  "az":{
+   "nukleotid":{
+    "nukleotid":1
+   }
+  },
+  "ba":{
+   "нуклеотидтар":{
+    "нуклеотидтар":1
+   }
+  },
+  "be":{
+   "нуклеатыды":{
+    "нуклеатыды":1
+   }
+  },
+  "bg":{
+   "аденозинмонофосфат":{
+    "аденозинмонофосфат":1
+   },
+   "натриеви-соли-на-амф":{
+    "натриеви-соли-на-амф":1
+   },
+   "натриеви-соли-на-гмф":{
+    "натриеви-соли-на-гмф":1
+   },
+   "натриеви-соли-на-имф":{
+    "натриеви-соли-на-имф":1
+   },
+   "натриеви-соли-на-умф":{
+    "натриеви-соли-на-умф":1
+   },
+   "натриеви-соли-на-цмф":{
+    "натриеви-соли-на-цмф":1
+   },
+   "нуклеотиди":{
+    "нуклеотид":1,
+    "нуклеотиди":1
+   }
+  },
+  "bn":{
+   "এডিনোসিন-মনোফসফেট":{
+    "এডিনোসিন-মনোফসফেট":1
+   },
+   "নিউক্লিওটাইড":{
+    "নিউক্লিওটাইড":1
+   }
+  },
+  "bs":{
+   "adenozin-monofosfat":{
+    "adenozin-monofosfat":1
+   },
+   "nukleotidi":{
+    "nukleotidi":1
+   }
+  },
+  "ca":{
+   "monofosfat-d-adenosina":{
+    "monofosfat-d-adenosina":1
+   },
+   "monofosfat-d-uridina":{
+    "monofosfat-d-uridina":1
+   },
+   "monofosfat-de-citidina":{
+    "monofosfat-de-citidina":1
+   },
+   "monofosfat-de-guanosina":{
+    "monofosfat-de-guanosina":1
+   },
+   "nucleotid":{
+    "nucleotid":1
+   }
+  },
+  "cs":{
+   "adenosinmonofosfát":{
+    "adenosinmonofosfát":1
+   },
+   "cytidinmonofosfát":{
+    "cytidinmonofosfát":1
+   },
+   "nukleotidy":{
+    "nukleotid":1,
+    "nukleotidy":1
+   },
+   "sodné-soli-amp":{
+    "sodné-soli-amp":1
+   },
+   "sodné-soli-cmp":{
+    "sodné-soli-cmp":1
+   },
+   "sodné-soli-gmp":{
+    "sodné-soli-gmp":1
+   },
+   "sodné-soli-imp":{
+    "sodné-soli-imp":1
+   },
+   "sodné-soli-ump":{
+    "sodné-soli-ump":1
+   }
+  },
+  "cy":{
+   "niwcleotid":{
+    "niwcleotid":1
+   }
+  },
+  "da":{
+   "adenosinmonofosfat":{
+    "adenosin-5-monophosphat":1,
+    "adenosinmonofosfat":1
+   },
+   "cytidinmonofosfat":{
+    "cytidinmonofosfat":1
+   },
+   "guanosinmonofosfat":{
+    "guanosin-5-monofosfat":1,
+    "guanosinmonofosfat":1
+   },
+   "nukleotider":{
+    "nukleotid":1,
+    "nukleotider":1
+   },
+   "uridinmonofosfat":{
+    "uridinmonofosfat":1
+   }
+  },
+  "de":{
+   "adenosinmonophosphat":{
+    "adenosin-5-monophosphat":1,
+    "adenosinmonophosphat":1
+   },
+   "cytidinmonophosphat":{
+    "cytidinmonophosphat":1
+   },
+   "guanosinmonophosphat":{
+    "guanosinmonophosphat":1
+   },
+   "inosinmonophosphat":{
+    "inosinmonophosphat":1
+   },
+   "natriumsalze-der-amp":{
+    "natriumsalze-der-amp":1
+   },
+   "natriumsalze-der-cmp":{
+    "natriumsalze-der-cmp":1
+   },
+   "natriumsalze-der-gmp":{
+    "natriumsalze-der-gmp":1
+   },
+   "natriumsalze-der-imp":{
+    "natriumsalze-der-imp":1
+   },
+   "natriumsalze-der-ump":{
+    "natriumsalze-der-ump":1
+   },
+   "nucleotid":{
+    "nucleotid":1,
+    "nukleotide":1
+   },
+   "uridinmonophosphat":{
+    "uridinmonophosphat":1
+   }
+  },
+  "el":{
+   "5-μονοφωσφορική-γουανοσίνη":{
+    "5-μονοφωσφορική-γουανοσίνη":1
+   },
+   "άλατα-νατρίου-της-amp":{
+    "άλατα-νατρίου-της-amp":1
+   },
+   "άλατα-νατρίου-της-cmp":{
+    "άλατα-νατρίου-της-cmp":1
+   },
+   "άλατα-νατρίου-της-gmp":{
+    "άλατα-νατρίου-της-gmp":1
+   },
+   "άλατα-νατρίου-της-ump":{
+    "άλατα-νατρίου-της-ump":1
+   },
+   "άλατα-νατρίου-της-ιμρ":{
+    "άλατα-νατρίου-της-ιμρ":1
+   },
+   "μονοφωσφορική-αδενοσίνη":{
+    "5-μονοφωσφορική-αδενοσίνη":1,
+    "μονοφωσφορική-αδενοσίνη":1
+   },
+   "νουκλεοτίδια":{
+    "νουκλεοτίδια":1,
+    "νουκλεοτίδιο":1
+   }
+  },
+  "en":{
+   "adenosine-monophosphate":{
+    "adenosine-5-monophosphate":1,
+    "adenosine-5-phosphoric-acid":1,
+    "adenosine-monophosphate":1,
+    "amp":1
+   },
+   "cytidine-monophosphate":{
+    "cmp":1,
+    "cytidine":1,
+    "cytidine-5-monophosphate":1,
+    "cytidine-5-monophosphoric-acid":1,
+    "cytidine-monophosphate":1
+   },
+   "disodium-guanosine-5-monophosphate":{
+    "disodium-gmp":1,
+    "disodium-guanosine-5-monophosphate":1,
+    "disodium-guanosine-5-phosphoric-acid":1,
+    "disodium-guanosine-monophosphate":1,
+    "sodium-salts-of-gmp":1,
+    "sodium-salts-of-guanosine-5-monophosphate":1,
+    "sodium-salts-of-guanosine-5-phosphoric-acid":1,
+    "sodium-salts-of-guanosine-monophosphate":1
+   },
+   "disodium-inosine-5-monophosphate":{
+    "disodium-imp":1,
+    "disodium-inosine-5-monophosphate":1,
+    "disodium-inosine-5-phosphoric-acid":1,
+    "disodium-inosine-monophosphate":1,
+    "sodium-salts-of-imp":1,
+    "sodium-salts-of-inosine-5-monophosphate":1,
+    "sodium-salts-of-inosine-5-phosphoric-acid":1,
+    "sodium-salts-of-inosine-monophosphate":1
+   },
+   "disodium-uridine-monophosphate":{
+    "disodium-ump":1,
+    "disodium-uridine-5-monophosphate":1,
+    "disodium-uridine-5-phosphoric-acid":1,
+    "disodium-uridine-monophosphate":1,
+    "sodium-salts-of-ump":1,
+    "sodium-salts-of-uridine-5-monophosphate":1,
+    "sodium-salts-of-uridine-5-phosphoric-acid":1,
+    "sodium-salts-of-uridine-monophosphate":1
+   },
+   "guanosine-monophosphate":{
+    "gmp":1,
+    "guanosine-5-monophosphate":1,
+    "guanosine-5-phosphoric-acid":1,
+    "guanosine-monophosphate":1
+   },
+   "inosine-monophosphate":{
+    "imp":1,
+    "inosine-5-monophosphate":1,
+    "inosine-5-phosphoric-acid":1,
+    "inosine-monophosphate":1
+   },
+   "nucleotides":{
+    "nucleotides":1
+   },
+   "sodium-salts-of-amp":{
+    "sodium-salts-of-adenosine-5-monophosphate":1,
+    "sodium-salts-of-adenosine-5-phosphoric-acid":1,
+    "sodium-salts-of-adenosine-monophosphate":1,
+    "sodium-salts-of-amp":1
+   },
+   "sodium-salts-of-cmp":{
+    "sodium-salts-of-cmp":1,
+    "sodium-salts-of-cytidine":1,
+    "sodium-salts-of-cytidine-5-monophosphate":1,
+    "sodium-salts-of-cytidine-5-monophosphoric-acid":1,
+    "sodium-salts-of-cytidine-monophosphate":1
+   },
+   "uridine-monophosphate":{
+    "ump":1,
+    "uridine-5-monophosphate":1,
+    "uridine-5-phosphoric-acid":1,
+    "uridine-monophosphate":1
+   }
+  },
+  "eo":{
+   "nukleotido":{
+    "nukleotido":1
+   }
+  },
+  "es":{
+   "acido-guanilico":{
+    "acido-guanilico":1,
+    "guanosina-5-monofosfato":1
+   },
+   "acido-inosinico":{
+    "acido-inosinico":1
+   },
+   "adenosin-monofosfato":{
+    "adenosin-monofosfato":1,
+    "adenosina-5-monofosfato":1
+   },
+   "citidina-monofosfato":{
+    "citidina-monofosfato":1
+   },
+   "nucleotidos":{
+    "nucleotido":1,
+    "nucleotidos":1
+   },
+   "sales-sodicas-del-amp":{
+    "sales-sodicas-del-amp":1
+   },
+   "sales-sodicas-del-cmp":{
+    "sales-sodicas-del-cmp":1
+   },
+   "sales-sodicas-del-gmp":{
+    "sales-sodicas-del-gmp":1
+   },
+   "sales-sodicas-del-imp":{
+    "sales-sodicas-del-imp":1
+   },
+   "sales-sodicas-del-ump":{
+    "sales-sodicas-del-ump":1
+   }
+  },
+  "et":{
+   "adenosiinmonofosfaat":{
+    "adenosiin-5-monofosfaat":1,
+    "adenosiinmonofosfaat":1
+   },
+   "amp-naatriumisoolad":{
+    "amp-naatriumisoolad":1
+   },
+   "cmp-naatriumisoolad":{
+    "cmp-naatriumisoolad":1
+   },
+   "gmp-naatriumisoolad":{
+    "gmp-naatriumisoolad":1
+   },
+   "imp-naatriumisoolad":{
+    "imp-naatriumisoolad":1
+   },
+   "nukleotiid":{
+    "nukleotiid":1,
+    "nukleotiidid":1
+   },
+   "ump-naatriumisoolad":{
+    "ump-naatriumisoolad":1
+   }
+  },
+  "eu":{
+   "adenosina-monofosfato":{
+    "adenosina-monofosfato":1
+   },
+   "nukleotido":{
+    "nukleotido":1
+   }
+  },
+  "fa":{
+   "آدنوزین-مونوفسفات":{
+    "آدنوزین-مونوفسفات":1
+   },
+   "اوریدین-مونوفسفات":{
+    "اوریدین-مونوفسفات":1
+   },
+   "اینوسینیک-اسید":{
+    "اینوسینیک-اسید":1
+   },
+   "سیتیدین-مونوفسفات":{
+    "سیتیدین-مونوفسفات":1
+   },
+   "نوکلئوتید":{
+    "نوکلئوتید":1
+   },
+   "گوآنوسین-مونوفسفات":{
+    "گوآنوسین-مونوفسفات":1
+   }
+  },
+  "fi":{
+   "adenosiini-5-fosforihapon-natriumsuolat":{
+    "adenosiini-5-fosforihapon-natriumsuolat":1
+   },
+   "adenosiinimonofosfaatti":{
+    "adenosiini-5-monofosfaatti":1,
+    "adenosiinimonofosfaatti":1
+   },
+   "guanosiini-5-fosforihapon-natriumsuolat":{
+    "guanosiini-5-fosforihapon-natriumsuolat":1
+   },
+   "guanosiinimonofosfaatti":{
+    "guanosiini-5-monofosfaatti":1,
+    "guanosiinimonofosfaatti":1
+   },
+   "inosiini-5-fosforihapon-natriumsuolat":{
+    "inosiini-5-fosforihapon-natriumsuolat":1
+   },
+   "inosiinimonofosfaatti":{
+    "inosiinimonofosfaatti":1
+   },
+   "nukleotidit":{
+    "nukleotidi":1,
+    "nukleotidit":1
+   },
+   "sytidiini-5-monofosforihapon-natriumsuolat":{
+    "sytidiini-5-monofosforihapon-natriumsuolat":1
+   },
+   "uridiini-5-fosforihapon-natriumsuolat":{
+    "uridiini-5-fosforihapon-natriumsuolat":1
+   },
+   "uridiinimonofosfaatti":{
+    "uridiinimonofosfaatti":1
+   }
+  },
+  "fr":{
+   "adenosine-monophosphate":{
+    "adenosine-5-monophosphate":1,
+    "adenosine-monophosphate":1
+   },
+   "cytidine-monophosphate":{
+    "cytidine-monophosphate":1
+   },
+   "guanosine-monophosphate":{
+    "guanosine-5-monophosphate":1,
+    "guanosine-monophosphate":1
+   },
+   "nucleotides":{
+    "nucleotide":1,
+    "nucleotides":1
+   },
+   "sels-de-sodium-de-l-amp":{
+    "sels-de-sodium-de-l-amp":1
+   },
+   "sels-de-sodium-de-l-imp":{
+    "sels-de-sodium-de-l-imp":1
+   },
+   "sels-de-sodium-de-l-ump":{
+    "sels-de-sodium-de-l-ump":1
+   },
+   "sels-de-sodium-du-cmp":{
+    "sels-de-sodium-du-cmp":1
+   },
+   "sels-de-sodium-du-gmp":{
+    "sels-de-sodium-du-gmp":1
+   },
+   "uridine-monophosphate":{
+    "uridine-monophosphate":1
+   }
+  },
+  "ga":{
+   "monafosfáit-adanóisín":{
+    "monafosfáit-adanóisín":1
+   },
+   "núicléitíd":{
+    "núicléitíd":1
+   }
+  },
+  "gl":{
+   "adenosina-monofosfato":{
+    "adenosina-monofosfato":1
+   },
+   "citidín-monofosfato":{
+    "citidín-monofosfato":1
+   },
+   "guanosín-monofosfato":{
+    "guanosín-monofosfato":1
+   },
+   "nucleótido":{
+    "nucleótido":1
+   },
+   "uridín-monofosfato":{
+    "uridín-monofosfato":1
+   }
+  },
+  "he":{
+   "נוקלאוטיד":{
+    "נוקלאוטיד":1
+   }
+  },
+  "hi":{
+   "न्यूक्लियोटाइड":{
+    "न्यूक्लियोटाइड":1
+   }
+  },
+  "hr":{
+   "adénosine-monophosphate":{
+    "adénosine-monophosphate":1
+   },
+   "nukleotid":{
+    "nukleotid":1,
+    "nukleotidi":1
+   },
+   "uridin-monofosfat":{
+    "uridin-monofosfat":1
+   }
+  },
+  "ht":{
+   "nikleyotid":{
+    "nikleyotid":1
+   }
+  },
+  "hu":{
+   "adenozin-monofoszfát":{
+    "5-adenilsav":1,
+    "adenozin-monofoszfát":1
+   },
+   "amp-nátriumsói":{
+    "amp-nátriumsói":1
+   },
+   "citidin-monofoszfát":{
+    "citidin-monofoszfát":1
+   },
+   "cmp-nátriumsói":{
+    "cmp-nátriumsói":1
+   },
+   "gmp-nátriumsói":{
+    "gmp-nátriumsói":1
+   },
+   "guanozin-monofoszfát":{
+    "guanozin-monofoszfát":1
+   },
+   "imp-nátriumsói":{
+    "imp-nátriumsói":1
+   },
+   "inozin-monofoszfát":{
+    "inozin-5-monofoszforsav":1,
+    "inozin-monofoszfát":1
+   },
+   "nukleotidok":{
+    "nukleotidok":1
+   },
+   "ump-nátriumsói":{
+    "ump-nátriumsói":1
+   },
+   "uridin-monofoszfát":{
+    "uridin-monofoszfát":1
+   }
+  },
+  "hy":{
+   "նուկլեոտիդ":{
+    "նուկլեոտիդ":1
+   }
+  },
+  "id":{
+   "nukleotida":{
+    "nukleotida":1
+   }
+  },
+  "is":{
+   "núkleótíð":{
+    "núkleótíð":1
+   }
+  },
+  "it":{
+   "adenosina-monofosfato":{
+    "adenosina-5-monofosfato":1,
+    "adenosina-monofosfato":1
+   },
+   "citosina-monofosfato":{
+    "citosina-monofosfato":1
+   },
+   "guanosina-monofosfato":{
+    "guanosina-5-monofosfato":1,
+    "guanosina-monofosfato":1
+   },
+   "nucleotidi":{
+    "nucleotide":1,
+    "nucleotidi":1
+   },
+   "sali-sodici-del-cmp":{
+    "sali-sodici-del-cmp":1
+   },
+   "sali-sodici-del-gmp":{
+    "sali-sodici-del-gmp":1
+   },
+   "sali-sodici-dell-amp":{
+    "sali-sodici-dell-amp":1
+   },
+   "sali-sodici-dell-imp":{
+    "sali-sodici-dell-imp":1
+   },
+   "sali-sodici-dell-ump":{
+    "sali-sodici-dell-ump":1
+   },
+   "uridina-monofosfato":{
+    "uridina-monofosfato":1
+   }
+  },
+  "ja":{
+   "アデニル酸":{
+    "アデニル酸":1
+   },
+   "イノシン酸":{
+    "イノシン酸":1
+   },
+   "ウリジル酸":{
+    "ウリジル酸":1
+   },
+   "グアニル酸":{
+    "グアニル酸":1
+   },
+   "シチジル酸":{
+    "シチジル酸":1
+   },
+   "ヌクレオチド":{
+    "ヌクレオチド":1
+   }
+  },
+  "jv":{
+   "nukleotida":{
+    "nukleotida":1
+   }
+  },
+  "ka":{
+   "ნუკლეოტიდი":{
+    "ნუკლეოტიდი":1
+   }
+  },
+  "kk":{
+   "аденозинмонофосфат":{
+    "аденозинмонофосфат":1
+   },
+   "нуклеотидтер":{
+    "нуклеотидтер":1
+   }
+  },
+  "km":{
+   "នុយក្លេអូទីត":{
+    "នុយក្លេអូទីត":1
+   }
+  },
+  "kn":{
+   "ನ್ಯೂಕ್ಲಿಯೊಟೈಡ್":{
+    "ನ್ಯೂಕ್ಲಿಯೊಟೈಡ್":1
+   }
+  },
+  "ko":{
+   "구아노신-일인산":{
+    "구아노신-일인산":1
+   },
+   "뉴클레오타이드":{
+    "뉴클레오타이드":1
+   },
+   "시티딘-일인산":{
+    "시티딘-일인산":1
+   },
+   "아데노신-일인산":{
+    "아데노신-일인산":1
+   },
+   "우리딘-일인산":{
+    "우리딘-일인산":1
+   }
+  },
+  "ku":{
+   "nukleotîd":{
+    "nukleotîd":1
+   }
+  },
+  "ky":{
+   "нуклеотиддер":{
+    "нуклеотиддер":1
+   }
+  },
+  "la":{
+   "nucleotidum":{
+    "nucleotidum":1
+   }
+  },
+  "lb":{
+   "nukleotid":{
+    "nukleotid":1
+   }
+  },
+  "lt":{
+   "5-adenozinmonofosfatas":{
+    "5-adenozinmonofosfatas":1
+   },
+   "amp-natrio-druskos":{
+    "amp-natrio-druskos":1
+   },
+   "cmp-natrio-druskos":{
+    "cmp-natrio-druskos":1
+   },
+   "gmp-natrio-druskos":{
+    "gmp-natrio-druskos":1
+   },
+   "imp-natrio-druskos":{
+    "imp-natrio-druskos":1
+   },
+   "nukleotidai":{
+    "nukleotidai":1,
+    "nukleotidas":1
+   },
+   "ump-natrio-druskos":{
+    "ump-natrio-druskos":1
+   }
+  },
+  "lv":{
+   "amf-nātrija-sāļi":{
+    "amf-nātrija-sāļi":1
+   },
+   "cmf-nātrija-sāļi":{
+    "cmf-nātrija-sāļi":1
+   },
+   "gmf-nātrija-sāļi":{
+    "gmf-nātrija-sāļi":1
+   },
+   "imf-nātrija-sāļi":{
+    "imf-nātrija-sāļi":1
+   },
+   "nukleotīds":{
+    "nukleotīds":1
+   },
+   "umf-nātrija-sāļi":{
+    "umf-nātrija-sāļi":1
+   }
+  },
+  "mk":{
+   "нуклеотид":{
+    "нуклеотид":1
+   }
+  },
+  "ml":{
+   "അഡിനോസിൻ-ഫോസ്‌ഫേറ്റുകൾ":{
+    "അഡിനോസിൻ-ഫോസ്‌ഫേറ്റുകൾ":1
+   }
+  },
+  "ms":{
+   "nukleotida":{
+    "nukleotida":1
+   }
+  },
+  "mt":{
+   "melħ-tas-sodju-ta-amp":{
+    "melħ-tas-sodju-ta-amp":1
+   },
+   "melħ-tas-sodju-ta-cmp":{
+    "melħ-tas-sodju-ta-cmp":1
+   },
+   "melħ-tas-sodju-ta-gmp":{
+    "melħ-tas-sodju-ta-gmp":1
+   },
+   "melħ-tas-sodju-ta-imp":{
+    "melħ-tas-sodju-ta-imp":1
+   },
+   "melħ-tas-sodju-ta-ump":{
+    "melħ-tas-sodju-ta-ump":1
+   },
+   "monofosfat-tal-adenożina":{
+    "monofosfat-tal-adenożina":1
+   }
+  },
+  "nb":{
+   "nukleotid":{
+    "nukleotid":1
+   }
+  },
+  "nl":{
+   "adenosinemonofosfaat":{
+    "adenosine-5-monofosfaat":1,
+    "adenosinemonofosfaat":1
+   },
+   "cytidinemonofosfaat":{
+    "cytidinemonofosfaat":1
+   },
+   "guanosinemonofosfaat":{
+    "guanosine-5-monofosfaat":1,
+    "guanosinemonofosfaat":1
+   },
+   "natriumzouten-van-amp":{
+    "natriumzouten-van-amp":1
+   },
+   "natriumzouten-van-cmp":{
+    "natriumzouten-van-cmp":1
+   },
+   "natriumzouten-van-gmp":{
+    "natriumzouten-van-gmp":1
+   },
+   "natriumzouten-van-imp":{
+    "natriumzouten-van-imp":1
+   },
+   "natriumzouten-van-ump":{
+    "natriumzouten-van-ump":1
+   },
+   "nucleotiden":{
+    "nucleotide":1,
+    "nucleotiden":1
+   },
+   "uridinemonofosfaat":{
+    "uridinemonofosfaat":1
+   }
+  },
+  "nn":{
+   "adenosinmonofosfat":{
+    "adenosinmonofosfat":1
+   },
+   "cytidinmonofosfat":{
+    "cytidinmonofosfat":1
+   },
+   "guanosinmonofosfat":{
+    "guanosinmonofosfat":1
+   },
+   "nukleotid":{
+    "nukleotid":1
+   }
+  },
+  "oc":{
+   "adenosina-monofosfat":{
+    "adenosina-monofosfat":1
+   },
+   "guanosina-monofosfat":{
+    "guanosina-monofosfat":1
+   },
+   "nucleotid":{
+    "nucleotid":1
+   }
+  },
+  "pl":{
+   "adenozynomonofosforan":{
+    "adenozyno-5′-monofosforan":1,
+    "adenozynomonofosforan":1
+   },
+   "guanozyno-5′-monofosforan":{
+    "guanozyno-5′-monofosforan":1
+   },
+   "nukleotyd":{
+    "nukleotyd":1,
+    "nukleotydy":1
+   },
+   "sole-sodowe-amp":{
+    "sole-sodowe-amp":1
+   },
+   "sole-sodowe-cmp":{
+    "sole-sodowe-cmp":1
+   },
+   "sole-sodowe-gmp":{
+    "sole-sodowe-gmp":1
+   },
+   "sole-sodowe-imp":{
+    "sole-sodowe-imp":1
+   },
+   "sole-sodowe-ump":{
+    "sole-sodowe-ump":1
+   },
+   "urydyno-5′-monofosforan":{
+    "urydyno-5′-monofosforan":1
+   }
+  },
+  "pt":{
+   "adenosina-monofosfato":{
+    "adenosina-5-monofosfato":1,
+    "adenosina-monofosfato":1
+   },
+   "guanosina-monofosfato":{
+    "guanosina-5-monofosfato":1,
+    "guanosina-monofosfato":1
+   },
+   "nucleotidos":{
+    "nucleotido":1,
+    "nucleotidos":1
+   },
+   "sais-de-sodio-de-amp":{
+    "sais-de-sodio-de-amp":1
+   },
+   "sais-de-sodio-de-cmp":{
+    "sais-de-sodio-de-cmp":1
+   },
+   "sais-de-sodio-de-gmp":{
+    "sais-de-sodio-de-gmp":1
+   },
+   "sais-de-sodio-de-imp":{
+    "sais-de-sodio-de-imp":1
+   },
+   "sais-de-sodio-de-ump":{
+    "sais-de-sodio-de-ump":1
+   }
+  },
+  "ro":{
+   "nucleotid":{
+    "nucleotid":1,
+    "nucleotidă":1
+   },
+   "săruri-de-sodiu-ale-amp":{
+    "săruri-de-sodiu-ale-amp":1
+   },
+   "săruri-de-sodiu-ale-cmp":{
+    "săruri-de-sodiu-ale-cmp":1
+   },
+   "săruri-de-sodiu-ale-gmp":{
+    "săruri-de-sodiu-ale-gmp":1
+   },
+   "săruri-de-sodiu-ale-imp":{
+    "săruri-de-sodiu-ale-imp":1
+   },
+   "săruri-de-sodiu-ale-ump":{
+    "săruri-de-sodiu-ale-ump":1
+   }
+  },
+  "ru":{
+   "uridinmonophosphat":{
+    "uridinmonophosphat":1
+   },
+   "аденозинмонофосфат":{
+    "аденозинмонофосфат":1
+   },
+   "гуанозинмонофосфат":{
+    "гуанозинмонофосфат":1
+   },
+   "инозиновая-кислота":{
+    "инозиновая-кислота":1
+   },
+   "нуклеотиды":{
+    "нуклеотиды":1
+   }
+  },
+  "sh":{
+   "adenozin-monofosfat":{
+    "adenozin-monofosfat":1
+   },
+   "citidin-monofosfat":{
+    "citidin-monofosfat":1
+   },
+   "guanozin-monofosfat":{
+    "guanozin-monofosfat":1
+   },
+   "inozinska-kiselina":{
+    "inozinska-kiselina":1
+   },
+   "nukleotidi":{
+    "nukleotidi":1
+   },
+   "uridin-monofosfat":{
+    "uridin-monofosfat":1
+   }
+  },
+  "sk":{
+   "adenozinmonofosfat":{
+    "adenozinmonofosfat":1
+   },
+   "nukleotid":{
+    "nukleotid":1
+   },
+   "sodne-soli-amp":{
+    "sodne-soli-amp":1
+   },
+   "sodne-soli-cmp":{
+    "sodne-soli-cmp":1
+   },
+   "sodne-soli-gmp":{
+    "sodne-soli-gmp":1
+   },
+   "sodne-soli-imp":{
+    "sodne-soli-imp":1
+   },
+   "sodne-soli-ump":{
+    "sodne-soli-ump":1
+   }
+  },
+  "sl":{
+   "adenozin-5-monofosfat":{
+    "adenozin-5-monofosfat":1
+   },
+   "natrijeve-soli-amp":{
+    "natrijeve-soli-amp":1
+   },
+   "natrijeve-soli-cmp":{
+    "natrijeve-soli-cmp":1
+   },
+   "natrijeve-soli-gmp":{
+    "natrijeve-soli-gmp":1
+   },
+   "natrijeve-soli-imp":{
+    "natrijeve-soli-imp":1
+   },
+   "natrijeve-soli-ump":{
+    "natrijeve-soli-ump":1
+   },
+   "nukleotid":{
+    "nukleotid":1
+   }
+  },
+  "sq":{
+   "nukleotidi":{
+    "nukleotidi":1
+   }
+  },
+  "sr":{
+   "аденозин-монофосфат":{
+    "аденозин-монофосфат":1
+   },
+   "гуанозин-монофосфат":{
+    "гуанозин-монофосфат":1
+   },
+   "инозинска-киселина":{
+    "инозинска-киселина":1
+   },
+   "нуклеотид":{
+    "нуклеотид":1
+   },
+   "уридин-монофосфат":{
+    "уридин-монофосфат":1
+   },
+   "цитидин-монофосфат":{
+    "цитидин-монофосфат":1
+   }
+  },
+  "sv":{
+   "adenosinmonofosfat":{
+    "adenosinmonofosfat":1
+   },
+   "guanosinmonofosfat":{
+    "guanosinmonofosfat":1,
+    "guanylsyra":1
+   },
+   "natriumsalter-av-amp":{
+    "natriumsalter-av-amp":1
+   },
+   "natriumsalter-av-cmp":{
+    "natriumsalter-av-cmp":1
+   },
+   "natriumsalter-av-gmp":{
+    "natriumsalter-av-gmp":1
+   },
+   "natriumsalter-av-imp":{
+    "natriumsalter-av-imp":1
+   },
+   "natriumsalter-av-ump":{
+    "natriumsalter-av-ump":1
+   },
+   "nukleotider":{
+    "nukleotid":1,
+    "nukleotider":1
+   }
+  },
+  "ta":{
+   "கருக்காடிக்கூறு":{
+    "கருக்காடிக்கூறு":1
+   }
+  },
+  "th":{
+   "นิวคลีโอไทด์":{
+    "นิวคลีโอไทด์":1
+   }
+  },
+  "tr":{
+   "adenozin-monofosfat":{
+    "adenozin-monofosfat":1
+   },
+   "i̇nosinik-asit":{
+    "i̇nosinik-asit":1
+   },
+   "nükleotit":{
+    "nükleotit":1
+   }
+  },
+  "uk":{
+   "аденозинмонофосфат":{
+    "аденозинмонофосфат":1
+   },
+   "нуклеотиди":{
+    "нуклеотиди":1
+   }
+  },
+  "ur":{
+   "مرثالثہ":{
+    "مرثالثہ":1
+   }
+  },
+  "vi":{
+   "adenosine-monophosphate":{
+    "adenosine-monophosphate":1
+   },
+   "nucleotide":{
+    "nucleotide":1
+   }
+  },
+  "zh":{
+   "單磷酸尿苷":{
+    "單磷酸尿苷":1
+   },
+   "單磷酸胞苷":{
+    "單磷酸胞苷":1
+   },
+   "單磷酸鳥苷":{
+    "單磷酸鳥苷":1
+   },
+   "核苷酸":{
+    "核苷酸":1
+   },
+   "肌苷酸":{
+    "肌苷酸":1
+   }
+  }
+ },
+ "translations_from":{
+  "af:nukleotied":"en:nucleotides",
+  "ar:أدينوسين-أحادي-الفوسفات":"en:adenosine-monophosphate",
+  "ar:حمض-الإينوسينيك":"en:inosine-monophosphate",
+  "ar:سيتيدين-أحادي-الفوسفات":"en:cytidine-monophosphate",
+  "ar:غوانوسين-أحادي-الفوسفات":"en:guanosine-monophosphate",
+  "ar:نوكليوتيد":"en:nucleotides",
+  "ar:يوريدين-أحادي-الفوسفات":"en:uridine-monophosphate",
+  "az:nukleotid":"en:nucleotides",
+  "ba:нуклеотидтар":"en:nucleotides",
+  "be:нуклеатыды":"en:nucleotides",
+  "bg:аденозинмонофосфат":"en:adenosine-monophosphate",
+  "bg:натриеви-соли-на-амф":"en:sodium-salts-of-amp",
+  "bg:натриеви-соли-на-гмф":"en:disodium-guanosine-5-monophosphate",
+  "bg:натриеви-соли-на-имф":"en:disodium-inosine-5-monophosphate",
+  "bg:натриеви-соли-на-умф":"en:disodium-uridine-monophosphate",
+  "bg:натриеви-соли-на-цмф":"en:sodium-salts-of-cmp",
+  "bg:нуклеотиди":"en:nucleotides",
+  "bn:এডিনোসিন-মনোফসফেট":"en:adenosine-monophosphate",
+  "bn:নিউক্লিওটাইড":"en:nucleotides",
+  "bs:adenozin-monofosfat":"en:adenosine-monophosphate",
+  "bs:nukleotidi":"en:nucleotides",
+  "ca:monofosfat-d-adenosina":"en:adenosine-monophosphate",
+  "ca:monofosfat-d-uridina":"en:uridine-monophosphate",
+  "ca:monofosfat-de-citidina":"en:cytidine-monophosphate",
+  "ca:monofosfat-de-guanosina":"en:guanosine-monophosphate",
+  "ca:nucleotid":"en:nucleotides",
+  "cs:adenosinmonofosfát":"en:adenosine-monophosphate",
+  "cs:cytidinmonofosfát":"en:cytidine-monophosphate",
+  "cs:nukleotidy":"en:nucleotides",
+  "cs:sodné-soli-amp":"en:sodium-salts-of-amp",
+  "cs:sodné-soli-cmp":"en:sodium-salts-of-cmp",
+  "cs:sodné-soli-gmp":"en:disodium-guanosine-5-monophosphate",
+  "cs:sodné-soli-imp":"en:disodium-inosine-5-monophosphate",
+  "cs:sodné-soli-ump":"en:disodium-uridine-monophosphate",
+  "cy:niwcleotid":"en:nucleotides",
+  "da:adenosinmonofosfat":"en:adenosine-monophosphate",
+  "da:cytidinmonofosfat":"en:cytidine-monophosphate",
+  "da:guanosinmonofosfat":"en:guanosine-monophosphate",
+  "da:nukleotider":"en:nucleotides",
+  "da:uridinmonofosfat":"en:uridine-monophosphate",
+  "de:adenosinmonophosphat":"en:adenosine-monophosphate",
+  "de:cytidinmonophosphat":"en:cytidine-monophosphate",
+  "de:guanosinmonophosphat":"en:guanosine-monophosphate",
+  "de:inosinmonophosphat":"en:inosine-monophosphate",
+  "de:natriumsalze-der-amp":"en:sodium-salts-of-amp",
+  "de:natriumsalze-der-cmp":"en:sodium-salts-of-cmp",
+  "de:natriumsalze-der-gmp":"en:disodium-guanosine-5-monophosphate",
+  "de:natriumsalze-der-imp":"en:disodium-inosine-5-monophosphate",
+  "de:natriumsalze-der-ump":"en:disodium-uridine-monophosphate",
+  "de:nucleotid":"en:nucleotides",
+  "de:uridinmonophosphat":"en:uridine-monophosphate",
+  "el:5-μονοφωσφορική-γουανοσίνη":"en:guanosine-monophosphate",
+  "el:άλατα-νατρίου-της-amp":"en:sodium-salts-of-amp",
+  "el:άλατα-νατρίου-της-cmp":"en:sodium-salts-of-cmp",
+  "el:άλατα-νατρίου-της-gmp":"en:disodium-guanosine-5-monophosphate",
+  "el:άλατα-νατρίου-της-ump":"en:disodium-uridine-monophosphate",
+  "el:άλατα-νατρίου-της-ιμρ":"en:disodium-inosine-5-monophosphate",
+  "el:μονοφωσφορική-αδενοσίνη":"en:adenosine-monophosphate",
+  "el:νουκλεοτίδια":"en:nucleotides",
+  "en:adenosine-monophosphate":"en:adenosine-monophosphate",
+  "en:cytidine-monophosphate":"en:cytidine-monophosphate",
+  "en:disodium-guanosine-5-monophosphate":"en:disodium-guanosine-5-monophosphate",
+  "en:disodium-inosine-5-monophosphate":"en:disodium-inosine-5-monophosphate",
+  "en:disodium-uridine-monophosphate":"en:disodium-uridine-monophosphate",
+  "en:guanosine-monophosphate":"en:guanosine-monophosphate",
+  "en:inosine-monophosphate":"en:inosine-monophosphate",
+  "en:nucleotides":"en:nucleotides",
+  "en:sodium-salts-of-amp":"en:sodium-salts-of-amp",
+  "en:sodium-salts-of-cmp":"en:sodium-salts-of-cmp",
+  "en:uridine-monophosphate":"en:uridine-monophosphate",
+  "eo:nukleotido":"en:nucleotides",
+  "es:acido-guanilico":"en:guanosine-monophosphate",
+  "es:acido-inosinico":"en:inosine-monophosphate",
+  "es:adenosin-monofosfato":"en:adenosine-monophosphate",
+  "es:citidina-monofosfato":"en:cytidine-monophosphate",
+  "es:nucleotidos":"en:nucleotides",
+  "es:sales-sodicas-del-amp":"en:sodium-salts-of-amp",
+  "es:sales-sodicas-del-cmp":"en:sodium-salts-of-cmp",
+  "es:sales-sodicas-del-gmp":"en:disodium-guanosine-5-monophosphate",
+  "es:sales-sodicas-del-imp":"en:disodium-inosine-5-monophosphate",
+  "es:sales-sodicas-del-ump":"en:disodium-uridine-monophosphate",
+  "et:adenosiinmonofosfaat":"en:adenosine-monophosphate",
+  "et:amp-naatriumisoolad":"en:sodium-salts-of-amp",
+  "et:cmp-naatriumisoolad":"en:sodium-salts-of-cmp",
+  "et:gmp-naatriumisoolad":"en:disodium-guanosine-5-monophosphate",
+  "et:imp-naatriumisoolad":"en:disodium-inosine-5-monophosphate",
+  "et:nukleotiid":"en:nucleotides",
+  "et:ump-naatriumisoolad":"en:disodium-uridine-monophosphate",
+  "eu:adenosina-monofosfato":"en:adenosine-monophosphate",
+  "eu:nukleotido":"en:nucleotides",
+  "fa:آدنوزین-مونوفسفات":"en:adenosine-monophosphate",
+  "fa:اوریدین-مونوفسفات":"en:uridine-monophosphate",
+  "fa:اینوسینیک-اسید":"en:inosine-monophosphate",
+  "fa:سیتیدین-مونوفسفات":"en:cytidine-monophosphate",
+  "fa:نوکلئوتید":"en:nucleotides",
+  "fa:گوآنوسین-مونوفسفات":"en:guanosine-monophosphate",
+  "fi:adenosiini-5-fosforihapon-natriumsuolat":"en:sodium-salts-of-amp",
+  "fi:adenosiinimonofosfaatti":"en:adenosine-monophosphate",
+  "fi:guanosiini-5-fosforihapon-natriumsuolat":"en:disodium-guanosine-5-monophosphate",
+  "fi:guanosiinimonofosfaatti":"en:guanosine-monophosphate",
+  "fi:inosiini-5-fosforihapon-natriumsuolat":"en:disodium-inosine-5-monophosphate",
+  "fi:inosiinimonofosfaatti":"en:inosine-monophosphate",
+  "fi:nukleotidit":"en:nucleotides",
+  "fi:sytidiini-5-monofosforihapon-natriumsuolat":"en:sodium-salts-of-cmp",
+  "fi:uridiini-5-fosforihapon-natriumsuolat":"en:disodium-uridine-monophosphate",
+  "fi:uridiinimonofosfaatti":"en:uridine-monophosphate",
+  "fr:adenosine-monophosphate":"en:adenosine-monophosphate",
+  "fr:cytidine-monophosphate":"en:cytidine-monophosphate",
+  "fr:guanosine-monophosphate":"en:guanosine-monophosphate",
+  "fr:nucleotides":"en:nucleotides",
+  "fr:sels-de-sodium-de-l-amp":"en:sodium-salts-of-amp",
+  "fr:sels-de-sodium-de-l-imp":"en:disodium-inosine-5-monophosphate",
+  "fr:sels-de-sodium-de-l-ump":"en:disodium-uridine-monophosphate",
+  "fr:sels-de-sodium-du-cmp":"en:sodium-salts-of-cmp",
+  "fr:sels-de-sodium-du-gmp":"en:disodium-guanosine-5-monophosphate",
+  "fr:uridine-monophosphate":"en:uridine-monophosphate",
+  "ga:monafosfáit-adanóisín":"en:adenosine-monophosphate",
+  "ga:núicléitíd":"en:nucleotides",
+  "gl:adenosina-monofosfato":"en:adenosine-monophosphate",
+  "gl:citidín-monofosfato":"en:cytidine-monophosphate",
+  "gl:guanosín-monofosfato":"en:guanosine-monophosphate",
+  "gl:nucleótido":"en:nucleotides",
+  "gl:uridín-monofosfato":"en:uridine-monophosphate",
+  "he:נוקלאוטיד":"en:nucleotides",
+  "hi:न्यूक्लियोटाइड":"en:nucleotides",
+  "hr:adénosine-monophosphate":"en:adenosine-monophosphate",
+  "hr:nukleotid":"en:nucleotides",
+  "hr:uridin-monofosfat":"en:uridine-monophosphate",
+  "ht:nikleyotid":"en:nucleotides",
+  "hu:adenozin-monofoszfát":"en:adenosine-monophosphate",
+  "hu:amp-nátriumsói":"en:sodium-salts-of-amp",
+  "hu:citidin-monofoszfát":"en:cytidine-monophosphate",
+  "hu:cmp-nátriumsói":"en:sodium-salts-of-cmp",
+  "hu:gmp-nátriumsói":"en:disodium-guanosine-5-monophosphate",
+  "hu:guanozin-monofoszfát":"en:guanosine-monophosphate",
+  "hu:imp-nátriumsói":"en:disodium-inosine-5-monophosphate",
+  "hu:inozin-monofoszfát":"en:inosine-monophosphate",
+  "hu:nukleotidok":"en:nucleotides",
+  "hu:ump-nátriumsói":"en:disodium-uridine-monophosphate",
+  "hu:uridin-monofoszfát":"en:uridine-monophosphate",
+  "hy:նուկլեոտիդ":"en:nucleotides",
+  "id:nukleotida":"en:nucleotides",
+  "is:núkleótíð":"en:nucleotides",
+  "it:adenosina-monofosfato":"en:adenosine-monophosphate",
+  "it:citosina-monofosfato":"en:cytidine-monophosphate",
+  "it:guanosina-monofosfato":"en:guanosine-monophosphate",
+  "it:nucleotidi":"en:nucleotides",
+  "it:sali-sodici-del-cmp":"en:sodium-salts-of-cmp",
+  "it:sali-sodici-del-gmp":"en:disodium-guanosine-5-monophosphate",
+  "it:sali-sodici-dell-amp":"en:sodium-salts-of-amp",
+  "it:sali-sodici-dell-imp":"en:disodium-inosine-5-monophosphate",
+  "it:sali-sodici-dell-ump":"en:disodium-uridine-monophosphate",
+  "it:uridina-monofosfato":"en:uridine-monophosphate",
+  "ja:アデニル酸":"en:adenosine-monophosphate",
+  "ja:イノシン酸":"en:inosine-monophosphate",
+  "ja:ウリジル酸":"en:uridine-monophosphate",
+  "ja:グアニル酸":"en:guanosine-monophosphate",
+  "ja:シチジル酸":"en:cytidine-monophosphate",
+  "ja:ヌクレオチド":"en:nucleotides",
+  "jv:nukleotida":"en:nucleotides",
+  "ka:ნუკლეოტიდი":"en:nucleotides",
+  "kk:аденозинмонофосфат":"en:adenosine-monophosphate",
+  "kk:нуклеотидтер":"en:nucleotides",
+  "km:នុយក្លេអូទីត":"en:nucleotides",
+  "kn:ನ್ಯೂಕ್ಲಿಯೊಟೈಡ್":"en:nucleotides",
+  "ko:구아노신-일인산":"en:guanosine-monophosphate",
+  "ko:뉴클레오타이드":"en:nucleotides",
+  "ko:시티딘-일인산":"en:cytidine-monophosphate",
+  "ko:아데노신-일인산":"en:adenosine-monophosphate",
+  "ko:우리딘-일인산":"en:uridine-monophosphate",
+  "ku:nukleotîd":"en:nucleotides",
+  "ky:нуклеотиддер":"en:nucleotides",
+  "la:nucleotidum":"en:nucleotides",
+  "lb:nukleotid":"en:nucleotides",
+  "lt:5-adenozinmonofosfatas":"en:adenosine-monophosphate",
+  "lt:amp-natrio-druskos":"en:sodium-salts-of-amp",
+  "lt:cmp-natrio-druskos":"en:sodium-salts-of-cmp",
+  "lt:gmp-natrio-druskos":"en:disodium-guanosine-5-monophosphate",
+  "lt:imp-natrio-druskos":"en:disodium-inosine-5-monophosphate",
+  "lt:nukleotidai":"en:nucleotides",
+  "lt:ump-natrio-druskos":"en:disodium-uridine-monophosphate",
+  "lv:amf-nātrija-sāļi":"en:sodium-salts-of-amp",
+  "lv:cmf-nātrija-sāļi":"en:sodium-salts-of-cmp",
+  "lv:gmf-nātrija-sāļi":"en:disodium-guanosine-5-monophosphate",
+  "lv:imf-nātrija-sāļi":"en:disodium-inosine-5-monophosphate",
+  "lv:nukleotīds":"en:nucleotides",
+  "lv:umf-nātrija-sāļi":"en:disodium-uridine-monophosphate",
+  "mk:нуклеотид":"en:nucleotides",
+  "ml:അഡിനോസിൻ-ഫോസ്‌ഫേറ്റുകൾ":"en:adenosine-monophosphate",
+  "ms:nukleotida":"en:nucleotides",
+  "mt:melħ-tas-sodju-ta-amp":"en:sodium-salts-of-amp",
+  "mt:melħ-tas-sodju-ta-cmp":"en:sodium-salts-of-cmp",
+  "mt:melħ-tas-sodju-ta-gmp":"en:disodium-guanosine-5-monophosphate",
+  "mt:melħ-tas-sodju-ta-imp":"en:disodium-inosine-5-monophosphate",
+  "mt:melħ-tas-sodju-ta-ump":"en:disodium-uridine-monophosphate",
+  "mt:monofosfat-tal-adenożina":"en:adenosine-monophosphate",
+  "nb:nukleotid":"en:nucleotides",
+  "nl:adenosinemonofosfaat":"en:adenosine-monophosphate",
+  "nl:cytidinemonofosfaat":"en:cytidine-monophosphate",
+  "nl:guanosinemonofosfaat":"en:guanosine-monophosphate",
+  "nl:natriumzouten-van-amp":"en:sodium-salts-of-amp",
+  "nl:natriumzouten-van-cmp":"en:sodium-salts-of-cmp",
+  "nl:natriumzouten-van-gmp":"en:disodium-guanosine-5-monophosphate",
+  "nl:natriumzouten-van-imp":"en:disodium-inosine-5-monophosphate",
+  "nl:natriumzouten-van-ump":"en:disodium-uridine-monophosphate",
+  "nl:nucleotiden":"en:nucleotides",
+  "nl:uridinemonofosfaat":"en:uridine-monophosphate",
+  "nn:adenosinmonofosfat":"en:adenosine-monophosphate",
+  "nn:cytidinmonofosfat":"en:cytidine-monophosphate",
+  "nn:guanosinmonofosfat":"en:guanosine-monophosphate",
+  "nn:nukleotid":"en:nucleotides",
+  "oc:adenosina-monofosfat":"en:adenosine-monophosphate",
+  "oc:guanosina-monofosfat":"en:guanosine-monophosphate",
+  "oc:nucleotid":"en:nucleotides",
+  "pl:adenozynomonofosforan":"en:adenosine-monophosphate",
+  "pl:guanozyno-5′-monofosforan":"en:guanosine-monophosphate",
+  "pl:nukleotyd":"en:nucleotides",
+  "pl:sole-sodowe-amp":"en:sodium-salts-of-amp",
+  "pl:sole-sodowe-cmp":"en:sodium-salts-of-cmp",
+  "pl:sole-sodowe-gmp":"en:disodium-guanosine-5-monophosphate",
+  "pl:sole-sodowe-imp":"en:disodium-inosine-5-monophosphate",
+  "pl:sole-sodowe-ump":"en:disodium-uridine-monophosphate",
+  "pl:urydyno-5′-monofosforan":"en:uridine-monophosphate",
+  "pt:adenosina-monofosfato":"en:adenosine-monophosphate",
+  "pt:guanosina-monofosfato":"en:guanosine-monophosphate",
+  "pt:nucleotidos":"en:nucleotides",
+  "pt:sais-de-sodio-de-amp":"en:sodium-salts-of-amp",
+  "pt:sais-de-sodio-de-cmp":"en:sodium-salts-of-cmp",
+  "pt:sais-de-sodio-de-gmp":"en:disodium-guanosine-5-monophosphate",
+  "pt:sais-de-sodio-de-imp":"en:disodium-inosine-5-monophosphate",
+  "pt:sais-de-sodio-de-ump":"en:disodium-uridine-monophosphate",
+  "ro:nucleotid":"en:nucleotides",
+  "ro:săruri-de-sodiu-ale-amp":"en:sodium-salts-of-amp",
+  "ro:săruri-de-sodiu-ale-cmp":"en:sodium-salts-of-cmp",
+  "ro:săruri-de-sodiu-ale-gmp":"en:disodium-guanosine-5-monophosphate",
+  "ro:săruri-de-sodiu-ale-imp":"en:disodium-inosine-5-monophosphate",
+  "ro:săruri-de-sodiu-ale-ump":"en:disodium-uridine-monophosphate",
+  "ru:uridinmonophosphat":"en:uridine-monophosphate",
+  "ru:аденозинмонофосфат":"en:adenosine-monophosphate",
+  "ru:гуанозинмонофосфат":"en:guanosine-monophosphate",
+  "ru:инозиновая-кислота":"en:inosine-monophosphate",
+  "ru:нуклеотиды":"en:nucleotides",
+  "sh:adenozin-monofosfat":"en:adenosine-monophosphate",
+  "sh:citidin-monofosfat":"en:cytidine-monophosphate",
+  "sh:guanozin-monofosfat":"en:guanosine-monophosphate",
+  "sh:inozinska-kiselina":"en:inosine-monophosphate",
+  "sh:nukleotidi":"en:nucleotides",
+  "sh:uridin-monofosfat":"en:uridine-monophosphate",
+  "sk:adenozinmonofosfat":"en:adenosine-monophosphate",
+  "sk:nukleotid":"en:nucleotides",
+  "sk:sodne-soli-amp":"en:sodium-salts-of-amp",
+  "sk:sodne-soli-cmp":"en:sodium-salts-of-cmp",
+  "sk:sodne-soli-gmp":"en:disodium-guanosine-5-monophosphate",
+  "sk:sodne-soli-imp":"en:disodium-inosine-5-monophosphate",
+  "sk:sodne-soli-ump":"en:disodium-uridine-monophosphate",
+  "sl:adenozin-5-monofosfat":"en:adenosine-monophosphate",
+  "sl:natrijeve-soli-amp":"en:sodium-salts-of-amp",
+  "sl:natrijeve-soli-cmp":"en:sodium-salts-of-cmp",
+  "sl:natrijeve-soli-gmp":"en:disodium-guanosine-5-monophosphate",
+  "sl:natrijeve-soli-imp":"en:disodium-inosine-5-monophosphate",
+  "sl:natrijeve-soli-ump":"en:disodium-uridine-monophosphate",
+  "sl:nukleotid":"en:nucleotides",
+  "sq:nukleotidi":"en:nucleotides",
+  "sr:аденозин-монофосфат":"en:adenosine-monophosphate",
+  "sr:гуанозин-монофосфат":"en:guanosine-monophosphate",
+  "sr:инозинска-киселина":"en:inosine-monophosphate",
+  "sr:нуклеотид":"en:nucleotides",
+  "sr:уридин-монофосфат":"en:uridine-monophosphate",
+  "sr:цитидин-монофосфат":"en:cytidine-monophosphate",
+  "sv:adenosinmonofosfat":"en:adenosine-monophosphate",
+  "sv:guanosinmonofosfat":"en:guanosine-monophosphate",
+  "sv:natriumsalter-av-amp":"en:sodium-salts-of-amp",
+  "sv:natriumsalter-av-cmp":"en:sodium-salts-of-cmp",
+  "sv:natriumsalter-av-gmp":"en:disodium-guanosine-5-monophosphate",
+  "sv:natriumsalter-av-imp":"en:disodium-inosine-5-monophosphate",
+  "sv:natriumsalter-av-ump":"en:disodium-uridine-monophosphate",
+  "sv:nukleotider":"en:nucleotides",
+  "ta:கருக்காடிக்கூறு":"en:nucleotides",
+  "th:นิวคลีโอไทด์":"en:nucleotides",
+  "tr:adenozin-monofosfat":"en:adenosine-monophosphate",
+  "tr:i̇nosinik-asit":"en:inosine-monophosphate",
+  "tr:nükleotit":"en:nucleotides",
+  "uk:аденозинмонофосфат":"en:adenosine-monophosphate",
+  "uk:нуклеотиди":"en:nucleotides",
+  "ur:مرثالثہ":"en:nucleotides",
+  "vi:adenosine-monophosphate":"en:adenosine-monophosphate",
+  "vi:nucleotide":"en:nucleotides",
+  "zh:單磷酸尿苷":"en:uridine-monophosphate",
+  "zh:單磷酸胞苷":"en:cytidine-monophosphate",
+  "zh:單磷酸鳥苷":"en:guanosine-monophosphate",
+  "zh:核苷酸":"en:nucleotides",
+  "zh:肌苷酸":"en:inosine-monophosphate"
+ },
+ "translations_to":{
+  "en:adenosine-monophosphate":{
+   "ar":"أدينوسين أحادي الفوسفات",
+   "bg":"Аденозинмонофосфат",
+   "bn":"এডিনোসিন মনোফসফেট",
+   "bs":"Adenozin monofosfat",
+   "ca":"Monofosfat d'adenosina",
+   "cs":"Adenosinmonofosfát",
+   "da":"Adenosinmonofosfat",
+   "de":"Adenosinmonophosphat",
+   "el":"Μονοφωσφορική αδενοσίνη",
+   "en":"Adenosine monophosphate",
+   "es":"Adenosín monofosfato",
+   "et":"Adenosiinmonofosfaat",
+   "eu":"Adenosina monofosfato",
+   "fa":"آدنوزین مونوفسفات",
+   "fi":"Adenosiinimonofosfaatti",
+   "fr":"Adénosine monophosphate",
+   "ga":"Monafosfáit adanóisín",
+   "gl":"Adenosina monofosfato",
+   "hr":"Adénosine monophosphate",
+   "hu":"Adenozin-monofoszfát",
+   "it":"Adenosina monofosfato",
+   "ja":"アデニル酸",
+   "kk":"Аденозинмонофосфат",
+   "ko":"아데노신 일인산",
+   "lt":"5'-adenozinmonofosfatas",
+   "ml":"അഡിനോസിൻ ഫോസ്‌ഫേറ്റുകൾ",
+   "mt":"Monofosfat tal-adenożina",
+   "nl":"Adenosinemonofosfaat",
+   "nn":"Adenosinmonofosfat",
+   "oc":"Adenosina monofosfat",
+   "pl":"Adenozynomonofosforan",
+   "pt":"Adenosina monofosfato",
+   "ru":"Аденозинмонофосфат",
+   "sh":"Adenozin-monofosfat",
+   "sk":"Adenozínmonofosfát",
+   "sl":"Adenozin 5'-monofosfat",
+   "sr":"Аденозин-монофосфат",
+   "sv":"Adenosinmonofosfat",
+   "tr":"Adenozin monofosfat",
+   "uk":"Аденозинмонофосфат",
+   "vi":"Adenosine monophosphate"
+  },
+  "en:cytidine-monophosphate":{
+   "ar":"سيتيدين أحادي الفوسفات",
+   "ca":"Monofosfat de citidina",
+   "cs":"Cytidinmonofosfát",
+   "da":"Cytidinmonofosfat",
+   "de":"Cytidinmonophosphat",
+   "en":"Cytidine monophosphate",
+   "es":"Citidina monofosfato",
+   "fa":"سیتیدین مونوفسفات",
+   "fr":"Cytidine monophosphate",
+   "gl":"Citidín monofosfato",
+   "hu":"Citidin-monofoszfát",
+   "it":"Citosina monofosfato",
+   "ja":"シチジル酸",
+   "ko":"시티딘 일인산",
+   "nl":"Cytidinemonofosfaat",
+   "nn":"Cytidinmonofosfat",
+   "sh":"Citidin-monofosfat",
+   "sr":"Цитидин-монофосфат",
+   "zh":"單磷酸胞苷"
+  },
+  "en:disodium-guanosine-5-monophosphate":{
+   "bg":"Натриеви соли на ГМФ",
+   "cs":"Sodné soli GMP",
+   "de":"Natriumsalze der GMP",
+   "el":"Άλατα νατρίου της GMP",
+   "en":"Disodium guanosine-5'-monophosphate",
+   "es":"Sales sódicas del GMP",
+   "et":"GMP naatriumisoolad",
+   "fi":"Guanosiini-5'-fosforihapon natriumsuolat",
+   "fr":"Sels de sodium du GMP",
+   "hu":"GMP nátriumsói",
+   "it":"Sali sodici del GMP",
+   "lt":"GMP natrio druskos",
+   "lv":"GMF nātrija sāļi",
+   "mt":"Melħ tas-sodju ta' GMP",
+   "nl":"Natriumzouten van GMP",
+   "pl":"Sole sodowe GMP",
+   "pt":"Sais de sódio de GMP",
+   "ro":"Săruri de sodiu ale GMP",
+   "sk":"Sodné soli GMP",
+   "sl":"Natrijeve soli GMP",
+   "sv":"Natriumsalter av GMP"
+  },
+  "en:disodium-inosine-5-monophosphate":{
+   "bg":"Натриеви соли на ИМФ",
+   "cs":"Sodné soli IMP",
+   "de":"Natriumsalze der IMP",
+   "el":"Άλατα νατρίου της ΙΜΡ",
+   "en":"Disodium inosine-5'-monophosphate",
+   "es":"Sales sódicas del IMP",
+   "et":"IMP naatriumisoolad",
+   "fi":"Inosiini-5'-fosforihapon natriumsuolat",
+   "fr":"Sels de sodium de l'IMP",
+   "hu":"IMP nátriumsói",
+   "it":"Sali sodici dell'IMP",
+   "lt":"IMP natrio druskos",
+   "lv":"IMF nātrija sāļi",
+   "mt":"Melħ tas-sodju ta' IMP",
+   "nl":"Natriumzouten van IMP",
+   "pl":"Sole sodowe IMP",
+   "pt":"Sais de sódio de IMP",
+   "ro":"Săruri de sodiu ale IMP",
+   "sk":"Sodné soli IMP",
+   "sl":"Natrijeve soli IMP",
+   "sv":"Natriumsalter av IMP"
+  },
+  "en:disodium-uridine-monophosphate":{
+   "bg":"Натриеви соли на УМФ",
+   "cs":"Sodné soli UMP",
+   "de":"Natriumsalze der UMP",
+   "el":"Άλατα νατρίου της UMP",
+   "en":"Disodium uridine-monophosphate",
+   "es":"Sales sódicas del UMP",
+   "et":"UMP naatriumisoolad",
+   "fi":"Uridiini-5'-fosforihapon natriumsuolat",
+   "fr":"Sels de sodium de l'UMP",
+   "hu":"UMP nátriumsói",
+   "it":"Sali sodici dell'UMP",
+   "lt":"UMP natrio druskos",
+   "lv":"UMF nātrija sāļi",
+   "mt":"Melħ tas-sodju ta' UMP",
+   "nl":"Natriumzouten van UMP",
+   "pl":"Sole sodowe UMP",
+   "pt":"Sais de sódio de UMP",
+   "ro":"Săruri de sodiu ale UMP",
+   "sk":"Sodné soli UMP",
+   "sl":"Natrijeve soli UMP",
+   "sv":"Natriumsalter av UMP"
+  },
+  "en:guanosine-monophosphate":{
+   "ar":"غوانوسين أحادي الفوسفات",
+   "ca":"Monofosfat de guanosina",
+   "da":"Guanosinmonofosfat",
+   "de":"Guanosinmonophosphat",
+   "el":"5-μονοφωσφορική γουανοσίνη",
+   "en":"Guanosine monophosphate",
+   "es":"Ácido guanílico",
+   "fa":"گوآنوسین مونوفسفات",
+   "fi":"Guanosiinimonofosfaatti",
+   "fr":"Guanosine monophosphate",
+   "gl":"Guanosín monofosfato",
+   "hu":"Guanozin-monofoszfát",
+   "it":"Guanosina monofosfato",
+   "ja":"グアニル酸",
+   "ko":"구아노신 일인산",
+   "nl":"Guanosinemonofosfaat",
+   "nn":"Guanosinmonofosfat",
+   "oc":"Guanosina monofosfat",
+   "pl":"Guanozyno-5′-monofosforan",
+   "pt":"Guanosina monofosfato",
+   "ru":"Гуанозинмонофосфат",
+   "sh":"Guanozin-monofosfat",
+   "sr":"Гуанозин-монофосфат",
+   "sv":"Guanosinmonofosfat",
+   "zh":"單磷酸鳥苷"
+  },
+  "en:inosine-monophosphate":{
+   "ar":"حمض الإينوسينيك",
+   "de":"Inosinmonophosphat",
+   "en":"Inosine monophosphate",
+   "es":"Ácido inosínico",
+   "fa":"اینوسینیک اسید",
+   "fi":"Inosiinimonofosfaatti",
+   "hu":"Inozin-monofoszfát",
+   "ja":"イノシン酸",
+   "ru":"Инозиновая кислота",
+   "sh":"Inozinska kiselina",
+   "sr":"Инозинска киселина",
+   "tr":"İnosinik asit",
+   "zh":"肌苷酸"
+  },
+  "en:nucleotides":{
+   "af":"Nukleotied",
+   "ar":"نوكليوتيد",
+   "az":"Nukleotid",
+   "ba":"Нуклеотидтар",
+   "be":"Нуклеатыды",
+   "bg":"Нуклеотиди",
+   "bn":"নিউক্লিওটাইড",
+   "bs":"Nukleotidi",
+   "ca":"Nucleòtid",
+   "cs":"Nukleotidy",
+   "cy":"Niwcleotid",
+   "da":"Nukleotider",
+   "de":"Nucleotid",
+   "el":"Νουκλεοτίδια",
+   "en":"Nucleotides",
+   "eo":"Nukleotido",
+   "es":"Nucleótidos",
+   "et":"Nukleotiid",
+   "eu":"Nukleotido",
+   "fa":"نوکلئوتید",
+   "fi":"Nukleotidit",
+   "fr":"Nucléotides",
+   "ga":"Núicléitíd",
+   "gl":"Nucleótido",
+   "he":"נוקלאוטיד",
+   "hi":"न्यूक्लियोटाइड",
+   "hr":"Nukleotid",
+   "ht":"Nikleyotid",
+   "hu":"Nukleotidok",
+   "hy":"Նուկլեոտիդ",
+   "id":"Nukleotida",
+   "is":"Núkleótíð",
+   "it":"Nucleotidi",
+   "ja":"ヌクレオチド",
+   "jv":"Nukleotida",
+   "ka":"ნუკლეოტიდი",
+   "kk":"Нуклеотидтер",
+   "km":"នុយក្លេអូទីត",
+   "kn":"ನ್ಯೂಕ್ಲಿಯೊಟೈಡ್",
+   "ko":"뉴클레오타이드",
+   "ku":"Nukleotîd",
+   "ky":"Нуклеотиддер",
+   "la":"Nucleotidum",
+   "lb":"Nukleotid",
+   "lt":"Nukleotidai",
+   "lv":"Nukleotīds",
+   "mk":"Нуклеотид",
+   "ms":"Nukleotida",
+   "nb":"Nukleotid",
+   "nl":"Nucleotiden",
+   "nn":"Nukleotid",
+   "oc":"Nucleotid",
+   "pl":"Nukleotyd",
+   "pt":"Nucleótidos",
+   "ro":"Nucleotid",
+   "ru":"Нуклеотиды",
+   "sh":"Nukleotidi",
+   "sk":"Nukleotid",
+   "sl":"Nukleotid",
+   "sq":"Nukleotidi",
+   "sr":"Нуклеотид",
+   "sv":"Nukleotider",
+   "ta":"கருக்காடிக்கூறு",
+   "th":"นิวคลีโอไทด์",
+   "tr":"Nükleotit",
+   "uk":"Нуклеотиди",
+   "ur":"مرثالثہ",
+   "vi":"Nucleotide",
+   "zh":"核苷酸"
+  },
+  "en:sodium-salts-of-amp":{
+   "bg":"Натриеви соли на АМФ",
+   "cs":"Sodné soli AMP",
+   "de":"Natriumsalze der AMP",
+   "el":"Άλατα νατρίου της AMP",
+   "en":"Sodium salts of AMP",
+   "es":"Sales sódicas del AMP",
+   "et":"AMP naatriumisoolad",
+   "fi":"Adenosiini-5'-fosforihapon natriumsuolat",
+   "fr":"Sels de sodium de l'AMP",
+   "hu":"AMP nátriumsói",
+   "it":"Sali sodici dell'AMP",
+   "lt":"AMP natrio druskos",
+   "lv":"AMF nātrija sāļi",
+   "mt":"Melħ tas-sodju ta' AMP",
+   "nl":"Natriumzouten van AMP",
+   "pl":"Sole sodowe AMP",
+   "pt":"Sais de sódio de AMP",
+   "ro":"Săruri de sodiu ale AMP",
+   "sk":"Sodné soli AMP",
+   "sl":"Natrijeve soli AMP",
+   "sv":"Natriumsalter av AMP"
+  },
+  "en:sodium-salts-of-cmp":{
+   "bg":"Натриеви соли на ЦМФ",
+   "cs":"Sodné soli CMP",
+   "de":"Natriumsalze der CMP",
+   "el":"Άλατα νατρίου της CMP",
+   "en":"Sodium salts of CMP",
+   "es":"Sales sódicas del CMP",
+   "et":"CMP naatriumisoolad",
+   "fi":"Sytidiini-5'-monofosforihapon natriumsuolat",
+   "fr":"Sels de sodium du CMP",
+   "hu":"CMP nátriumsói",
+   "it":"Sali sodici del CMP",
+   "lt":"CMP natrio druskos",
+   "lv":"CMF nātrija sāļi",
+   "mt":"Melħ tas-sodju ta' CMP",
+   "nl":"Natriumzouten van CMP",
+   "pl":"Sole sodowe CMP",
+   "pt":"Sais de sódio de CMP",
+   "ro":"Săruri de sodiu ale CMP",
+   "sk":"Sodné soli CMP",
+   "sl":"Natrijeve soli CMP",
+   "sv":"Natriumsalter av CMP"
+  },
+  "en:uridine-monophosphate":{
+   "ar":"يوريدين أحادي الفوسفات",
+   "ca":"Monofosfat d'uridina",
+   "da":"Uridinmonofosfat",
+   "de":"Uridinmonophosphat",
+   "en":"Uridine monophosphate",
+   "fa":"اوریدین مونوفسفات",
+   "fi":"Uridiinimonofosfaatti",
+   "fr":"Uridine monophosphate",
+   "gl":"Uridín monofosfato",
+   "hr":"Uridin monofosfat",
+   "hu":"Uridin-monofoszfát",
+   "it":"Uridina monofosfato",
+   "ja":"ウリジル酸",
+   "ko":"우리딘 일인산",
+   "nl":"Uridinemonofosfaat",
+   "pl":"Urydyno-5′-monofosforan",
+   "ru":"Uridinmonophosphat",
+   "sh":"Uridin-monofosfat",
+   "sr":"Уридин-монофосфат",
+   "zh":"單磷酸尿苷"
+  }
+ }
+}
