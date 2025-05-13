@@ -1,0 +1,1623 @@
+{
+ "all_parents":{},
+ "direct_children":{},
+ "direct_parents":{},
+ "just_synonyms":{},
+ "level":{
+  "en:1-unprocessed-or-minimally-processed-foods":1,
+  "en:2-processed-culinary-ingredients":1,
+  "en:3-processed-foods":1,
+  "en:4-ultra-processed-food-and-drink-products":1
+ },
+ "properties":{},
+ "root_entries":{
+  "en:1-unprocessed-or-minimally-processed-foods":1,
+  "en:2-processed-culinary-ingredients":1,
+  "en:3-processed-foods":1,
+  "en:4-ultra-processed-food-and-drink-products":1
+ },
+ "stopwords":{},
+ "synonyms":{
+  "bg":{
+   "1-непреработени-или-минимално-преработени-храни":"1-непреработени-или-минимално-преработени-храни",
+   "2-преработени-кулинарни-съставки":"2-преработени-кулинарни-съставки",
+   "3-преработени-храни":"3-преработени-храни",
+   "4-свръхпреработени-храни-и-напитки":"4-свръхпреработени-храни-и-напитки"
+  },
+  "ca":{
+   "1-aliments-sense-processar-o-minimament-processats":"1-aliments-sense-processar-o-minimament-processats",
+   "2-ingredients-culinaris-processats":"2-ingredients-culinaris-processats",
+   "3-aliments-processats":"3-aliments-processats",
+   "4-aliments-i-begudes-ultraprocessats":"4-aliments-i-begudes-ultraprocessats",
+   "aliments-i-begudes-ultraprocessats":"4-aliments-i-begudes-ultraprocessats",
+   "aliments-no-processats-o-minimament-processats":"1-aliments-sense-processar-o-minimament-processats",
+   "aliments-processats":"3-aliments-processats",
+   "ingredients-culinaris-processats":"2-ingredients-culinaris-processats"
+  },
+  "cs":{
+   "1-nezpracované-nebo-minimálně-zpracované-potraviny":"1-nezpracované-nebo-minimálně-zpracované-potraviny",
+   "2-zpracované-kulinářské-přísady":"2-zpracované-kulinářské-přísady",
+   "3-zpracované-potraviny":"3-zpracované-potraviny",
+   "4-silně-zpracované-potraviny-a-nápoje":"4-silně-zpracované-potraviny-a-nápoje"
+  },
+  "de":{
+   "1-unverarbeitete-oder-minimal-3-verarbeitete-lebensmittel":"1-unverarbeitete-oder-minimal-verarbeitete-lebensmittel",
+   "1-unverarbeitete-oder-minimal-verarbeitete-lebensmittel":"1-unverarbeitete-oder-minimal-verarbeitete-lebensmittel",
+   "2-verarbeitete-kulinarische-zutaten":"2-verarbeitete-kulinarische-zutaten",
+   "3-verarbeitete-lebensmittel":"3-verarbeitete-lebensmittel",
+   "4-hochveredelte-nahrungsmittel-und-getränke":"4-hochveredelte-nahrungsmittel-und-getränke",
+   "hochveredelte-nahrungsmittel-und-getränke":"4-hochveredelte-nahrungsmittel-und-getränke",
+   "unverarbeitete-oder-minimal-3-verarbeitete-lebensmittel":"1-unverarbeitete-oder-minimal-verarbeitete-lebensmittel",
+   "unverarbeitete-oder-minimal-verarbeitete-lebensmittel":"1-unverarbeitete-oder-minimal-verarbeitete-lebensmittel",
+   "verarbeitete-kulinarische-zutaten":"2-verarbeitete-kulinarische-zutaten",
+   "verarbeitete-lebensmittel":"3-verarbeitete-lebensmittel"
+  },
+  "en":{
+   "1":"1-unprocessed-or-minimally-processed-foods",
+   "1-unprocessed-or-minimally-3":"1-unprocessed-or-minimally-processed-foods",
+   "1-unprocessed-or-minimally-3-processed-food":"1-unprocessed-or-minimally-processed-foods",
+   "1-unprocessed-or-minimally-3-processed-foods":"1-unprocessed-or-minimally-processed-foods",
+   "1-unprocessed-or-minimally-processed-food":"1-unprocessed-or-minimally-processed-foods",
+   "1-unprocessed-or-minimally-processed-foods":"1-unprocessed-or-minimally-processed-foods",
+   "2":"2-processed-culinary-ingredients",
+   "2-processed-culinary-ingredient":"2-processed-culinary-ingredients",
+   "2-processed-culinary-ingredients":"2-processed-culinary-ingredients",
+   "3":"3-processed-foods",
+   "3-processed-food":"3-processed-foods",
+   "3-processed-foods":"3-processed-foods",
+   "4":"4-ultra-processed-food-and-drink-products",
+   "4-ultra-processed-food-and-drink-product":"4-ultra-processed-food-and-drink-products",
+   "4-ultra-processed-food-and-drink-products":"4-ultra-processed-food-and-drink-products",
+   "processed-culinary-ingredient":"2-processed-culinary-ingredients",
+   "processed-culinary-ingredients":"2-processed-culinary-ingredients",
+   "processed-food":"3-processed-foods",
+   "processed-foods":"3-processed-foods",
+   "ultra-processed-food-and-drink-product":"4-ultra-processed-food-and-drink-products",
+   "ultra-processed-food-and-drink-products":"4-ultra-processed-food-and-drink-products",
+   "unprocessed-or-minimally-3":"1-unprocessed-or-minimally-processed-foods",
+   "unprocessed-or-minimally-3-processed-food":"1-unprocessed-or-minimally-processed-foods",
+   "unprocessed-or-minimally-3-processed-foods":"1-unprocessed-or-minimally-processed-foods",
+   "unprocessed-or-minimally-processed-food":"1-unprocessed-or-minimally-processed-foods",
+   "unprocessed-or-minimally-processed-foods":"1-unprocessed-or-minimally-processed-foods"
+  },
+  "es":{
+   "1-alimento-sin-procesar-o-minimamente-procesado":"1-alimentos-sin-procesar-o-minimamente-procesados",
+   "1-alimentos-sin-procesar-o-minimamente-procesados":"1-alimentos-sin-procesar-o-minimamente-procesados",
+   "2-ingrediente-culinario-procesado":"2-ingredientes-culinarios-procesados",
+   "2-ingredientes-culinarios-procesados":"2-ingredientes-culinarios-procesados",
+   "3-alimento-procesado":"3-alimentos-procesados",
+   "3-alimentos-procesados":"3-alimentos-procesados",
+   "4-ultraprocesado":"4-ultraprocesados",
+   "4-ultraprocesados":"4-ultraprocesados",
+   "alimento-procesado":"3-alimentos-procesados",
+   "alimento-sin-procesar-o-minimamente-procesado":"1-alimentos-sin-procesar-o-minimamente-procesados",
+   "alimentos-procesados":"3-alimentos-procesados",
+   "alimentos-sin-procesar-o-minimamente-procesados":"1-alimentos-sin-procesar-o-minimamente-procesados",
+   "ingrediente-culinario-procesado":"2-ingredientes-culinarios-procesados",
+   "ingredientes-culinarios-procesados":"2-ingredientes-culinarios-procesados",
+   "ultraprocesado":"4-ultraprocesados",
+   "ultraprocesados":"4-ultraprocesados"
+  },
+  "eu":{
+   "1":"1-ez-prozesatu-gabeko-edo-gutxi-prozesatutako-elikagaiak",
+   "1-ez-prozesatu-gabeko-edo-gutxi-3":"1-ez-prozesatu-gabeko-edo-gutxi-prozesatutako-elikagaiak",
+   "1-ez-prozesatu-gabeko-edo-gutxi-3-prozesatutako-elikagaiak":"1-ez-prozesatu-gabeko-edo-gutxi-prozesatutako-elikagaiak",
+   "1-ez-prozesatu-gabeko-edo-gutxi-prozesatutako-elikagaiak":"1-ez-prozesatu-gabeko-edo-gutxi-prozesatutako-elikagaiak",
+   "2":"2-prozesatutako-sukaldaritza-osagaiak",
+   "2-prozesatutako-sukaldaritza-osagaiak":"2-prozesatutako-sukaldaritza-osagaiak",
+   "3":"3-prozesatutako-elikagaiak",
+   "3-prozesatutako-elikagaiak":"3-prozesatutako-elikagaiak",
+   "4":"4-ultra-prozesatutako-elikagaiak-eta-edariak",
+   "4-ultra-3-eta-edariak":"4-ultra-prozesatutako-elikagaiak-eta-edariak",
+   "4-ultra-3-prozesatutako-elikagaiak-eta-edariak":"4-ultra-prozesatutako-elikagaiak-eta-edariak",
+   "4-ultra-prozesatutako-elikagaiak-eta-edariak":"4-ultra-prozesatutako-elikagaiak-eta-edariak",
+   "ez-prozesatu-gabeko-edo-gutxi-3":"1-ez-prozesatu-gabeko-edo-gutxi-prozesatutako-elikagaiak",
+   "ez-prozesatu-gabeko-edo-gutxi-3-prozesatutako-elikagaiak":"1-ez-prozesatu-gabeko-edo-gutxi-prozesatutako-elikagaiak",
+   "ez-prozesatu-gabeko-edo-gutxi-prozesatutako-elikagaiak":"1-ez-prozesatu-gabeko-edo-gutxi-prozesatutako-elikagaiak",
+   "prozesatutako-elikagaiak":"3-prozesatutako-elikagaiak",
+   "prozesatutako-sukaldaritza-osagaiak":"2-prozesatutako-sukaldaritza-osagaiak",
+   "ultra-3-eta-edariak":"4-ultra-prozesatutako-elikagaiak-eta-edariak",
+   "ultra-3-prozesatutako-elikagaiak-eta-edariak":"4-ultra-prozesatutako-elikagaiak-eta-edariak",
+   "ultra-prozesatutako-elikagaiak-eta-edariak":"4-ultra-prozesatutako-elikagaiak-eta-edariak"
+  },
+  "fi":{
+   "1-jalostamattomat-tai-vähän-3-jalostetut-ruoat":"1-jalostamattomat-tai-vähän-jalostetut-ruoat",
+   "1-jalostamattomat-tai-vähän-jalostetut-ruoat":"1-jalostamattomat-tai-vähän-jalostetut-ruoat",
+   "2-jalostetut-ruoanvalmistusaineet":"2-jalostetut-ruoanvalmistusaineet",
+   "3-jalostetut-ruoat":"3-jalostetut-ruoat",
+   "4-ultrajalostetut-ruoka-ja-juomatuotteet":"4-ultrajalostetut-ruoka-ja-juomatuotteet",
+   "jalostamattomat-tai-vähän-3-jalostetut-ruoat":"1-jalostamattomat-tai-vähän-jalostetut-ruoat",
+   "jalostamattomat-tai-vähän-jalostetut-ruoat":"1-jalostamattomat-tai-vähän-jalostetut-ruoat",
+   "jalostetut-ruoanvalmistusaineet":"2-jalostetut-ruoanvalmistusaineet",
+   "jalostetut-ruoat":"3-jalostetut-ruoat",
+   "ultrajalostetut-ruoka-ja-juomatuotteet":"4-ultrajalostetut-ruoka-ja-juomatuotteet"
+  },
+  "fr":{
+   "1-aliment-non-transforme-ou-transforme-minimalement":"1-aliments-non-transformes-ou-transformes-minimalement",
+   "1-aliments-non-transformes-ou-transformes-minimalement":"1-aliments-non-transformes-ou-transformes-minimalement",
+   "2-ingredient-culinaire-transforme":"2-ingredients-culinaires-transformes",
+   "2-ingredients-culinaires-transformes":"2-ingredients-culinaires-transformes",
+   "3-aliment-transforme":"3-aliments-transformes",
+   "3-aliments-transformes":"3-aliments-transformes",
+   "4-produit-alimentaire-et-boisson-ultra-transforme":"4-produits-alimentaires-et-boissons-ultra-transformes",
+   "4-produits-alimentaires-et-boissons-ultra-transformes":"4-produits-alimentaires-et-boissons-ultra-transformes",
+   "aliment-non-transforme-ou-transforme-minimalement":"1-aliments-non-transformes-ou-transformes-minimalement",
+   "aliment-transforme":"3-aliments-transformes",
+   "aliments-non-transformes-ou-transformes-minimalement":"1-aliments-non-transformes-ou-transformes-minimalement",
+   "aliments-transformes":"3-aliments-transformes",
+   "produit-alimentaire-et-boisson-ultra-transforme":"4-produits-alimentaires-et-boissons-ultra-transformes",
+   "produits-alimentaires-et-boissons-ultra-transformes":"4-produits-alimentaires-et-boissons-ultra-transformes"
+  },
+  "he":{
+   "1-מזון-בעיבוד-מזערי-אם-בכלל":"1-מזון-בעיבוד-מזערי-אם-בכלל",
+   "2-רכיבים-שעברו-עיבוד-תזונתי":"2-רכיבים-שעברו-עיבוד-תזונתי",
+   "3-מזון-מעובד":"3-מזון-מעובד",
+   "4-מזון-ומשקאות-מתועשים-לחלוטין":"4-מזון-ומשקאות-מתועשים-לחלוטין"
+  },
+  "hr":{
+   "1":"1-neprocesirana-ili-minimalno-obrađena-hrana",
+   "1-neprocesirana-ili-minimalno-3":"1-neprocesirana-ili-minimalno-obrađena-hrana",
+   "1-neprocesirana-ili-minimalno-3-obrađena-hrana":"1-neprocesirana-ili-minimalno-obrađena-hrana",
+   "1-neprocesirana-ili-minimalno-obrađena-hrana":"1-neprocesirana-ili-minimalno-obrađena-hrana",
+   "2":"2-obrađeni-kulinarski-sastojci",
+   "2-obrađeni-kulinarski-sastojci":"2-obrađeni-kulinarski-sastojci",
+   "3":"3-obrađena-hrana",
+   "3-obrađena-hrana":"3-obrađena-hrana",
+   "4":"4-ultraobrađeni-prehrambeni-i-pića-proizvodi",
+   "4-ultraobrađeni-prehrambeni-i-pića-proizvodi":"4-ultraobrađeni-prehrambeni-i-pića-proizvodi",
+   "neprocesirana-ili-minimalno-3":"1-neprocesirana-ili-minimalno-obrađena-hrana",
+   "neprocesirana-ili-minimalno-3-obrađena-hrana":"1-neprocesirana-ili-minimalno-obrađena-hrana",
+   "neprocesirana-ili-minimalno-obrađena-hrana":"1-neprocesirana-ili-minimalno-obrađena-hrana",
+   "obrađena-hrana":"3-obrađena-hrana",
+   "obrađeni-kulinarski-sastojci":"2-obrađeni-kulinarski-sastojci",
+   "ultraobrađeni-prehrambeni-i-pića-proizvodi":"4-ultraobrađeni-prehrambeni-i-pića-proizvodi"
+  },
+  "hu":{
+   "1-feldolgozatlan-vagy-minimálisan-feldolgozott-élelmiszerek":"1-feldolgozatlan-vagy-minimálisan-feldolgozott-élelmiszerek",
+   "2-feldolgozott-összetevők":"2-feldolgozott-összetevők",
+   "3-feldolgozott-élelmiszerek":"3-feldolgozott-élelmiszerek",
+   "4-többszörösen-feldolgozott-élelmiszer-és-italtermékek":"4-többszörösen-feldolgozott-élelmiszer-és-italtermékek"
+  },
+  "is":{
+   "1":"1-óverðað-eða-takmörkuð-meðhöndlun-matvörur",
+   "1-óverðað-eða-takmörkuð-meðhöndlun-matvörur":"1-óverðað-eða-takmörkuð-meðhöndlun-matvörur",
+   "2":"2-meðhöndlun-matvæla",
+   "2-meðhöndlun-matvæla":"2-meðhöndlun-matvæla",
+   "3":"3-unnin-matvæli",
+   "3-unnin-matvæli":"3-unnin-matvæli",
+   "4":"4-óþarfar-matvörur-og-drykkir",
+   "4-óþarfar-matvörur-og-drykkir":"4-óþarfar-matvörur-og-drykkir",
+   "meðhöndlun-matvæla":"2-meðhöndlun-matvæla",
+   "unnin-matvæli":"3-unnin-matvæli",
+   "óverðað-eða-takmörkuð-meðhöndlun-matvörur":"1-óverðað-eða-takmörkuð-meðhöndlun-matvörur",
+   "óþarfar-matvörur-og-drykkir":"4-óþarfar-matvörur-og-drykkir"
+  },
+  "it":{
+   "1-alimenti-non-lavorati-o-minimamente-lavorati":"1-alimenti-non-lavorati-o-minimamente-lavorati",
+   "2-ingredienti-culinari-lavorati":"2-ingredienti-culinari-lavorati",
+   "3-alimenti-lavorati":"3-alimenti-lavorati",
+   "4-alimenti-e-bevande-ultra-lavorati":"4-alimenti-e-bevande-ultra-lavorati"
+  },
+  "lt":{
+   "1":"1-neapdoroti-ar-minimaliu-apdorojimu-maisto-produktai",
+   "1-neapdoroti-ar-minimaliu-apdorojimu-maisto-produktai":"1-neapdoroti-ar-minimaliu-apdorojimu-maisto-produktai",
+   "2":"2-apdorotos-kulinarinės-sudedamosios-dalys",
+   "2-apdorotos-kulinarinės-sudedamosios-dalys":"2-apdorotos-kulinarinės-sudedamosios-dalys",
+   "3":"3-apdoroti-maisto-produktai",
+   "3-apdoroti-maisto-produktai":"3-apdoroti-maisto-produktai",
+   "4":"4-labai-apdoroti-maisto-produktai-ir-gėrimai",
+   "4-labai-3-apdoroti-maisto-produktai-ir-gėrimai":"4-labai-apdoroti-maisto-produktai-ir-gėrimai",
+   "4-labai-3-ir-gėrimai":"4-labai-apdoroti-maisto-produktai-ir-gėrimai",
+   "4-labai-apdoroti-maisto-produktai-ir-gėrimai":"4-labai-apdoroti-maisto-produktai-ir-gėrimai",
+   "apdoroti-maisto-produktai":"3-apdoroti-maisto-produktai",
+   "apdorotos-kulinarinės-sudedamosios-dalys":"2-apdorotos-kulinarinės-sudedamosios-dalys",
+   "labai-3-apdoroti-maisto-produktai-ir-gėrimai":"4-labai-apdoroti-maisto-produktai-ir-gėrimai",
+   "labai-3-ir-gėrimai":"4-labai-apdoroti-maisto-produktai-ir-gėrimai",
+   "labai-apdoroti-maisto-produktai-ir-gėrimai":"4-labai-apdoroti-maisto-produktai-ir-gėrimai",
+   "neapdoroti-ar-minimaliu-apdorojimu-maisto-produktai":"1-neapdoroti-ar-minimaliu-apdorojimu-maisto-produktai"
+  },
+  "lv":{
+   "1":"1-neapstrādāti-vai-minimāli-apstrādāti-pārtikas-produkti",
+   "1-neapstrādāti-vai-minimāli-3":"1-neapstrādāti-vai-minimāli-apstrādāti-pārtikas-produkti",
+   "1-neapstrādāti-vai-minimāli-3-apstrādāti-pārtikas-produkti":"1-neapstrādāti-vai-minimāli-apstrādāti-pārtikas-produkti",
+   "1-neapstrādāti-vai-minimāli-apstrādāti-pārtikas-produkti":"1-neapstrādāti-vai-minimāli-apstrādāti-pārtikas-produkti",
+   "2":"2-apstrādāti-kulinarās-sastāvdaļas",
+   "2-apstrādāti-kulinarās-sastāvdaļas":"2-apstrādāti-kulinarās-sastāvdaļas",
+   "3":"3-apstrādāti-pārtikas-produkti",
+   "3-apstrādāti-pārtikas-produkti":"3-apstrādāti-pārtikas-produkti",
+   "4":"4-ļoti-apstrādāti-pārtikas-produkti-un-dzērieni",
+   "4-ļoti-3-apstrādāti-pārtikas-produkti-un-dzērieni":"4-ļoti-apstrādāti-pārtikas-produkti-un-dzērieni",
+   "4-ļoti-3-un-dzērieni":"4-ļoti-apstrādāti-pārtikas-produkti-un-dzērieni",
+   "4-ļoti-apstrādāti-pārtikas-produkti-un-dzērieni":"4-ļoti-apstrādāti-pārtikas-produkti-un-dzērieni",
+   "apstrādāti-kulinarās-sastāvdaļas":"2-apstrādāti-kulinarās-sastāvdaļas",
+   "apstrādāti-pārtikas-produkti":"3-apstrādāti-pārtikas-produkti",
+   "neapstrādāti-vai-minimāli-3":"1-neapstrādāti-vai-minimāli-apstrādāti-pārtikas-produkti",
+   "neapstrādāti-vai-minimāli-3-apstrādāti-pārtikas-produkti":"1-neapstrādāti-vai-minimāli-apstrādāti-pārtikas-produkti",
+   "neapstrādāti-vai-minimāli-apstrādāti-pārtikas-produkti":"1-neapstrādāti-vai-minimāli-apstrādāti-pārtikas-produkti",
+   "ļoti-3-apstrādāti-pārtikas-produkti-un-dzērieni":"4-ļoti-apstrādāti-pārtikas-produkti-un-dzērieni",
+   "ļoti-3-un-dzērieni":"4-ļoti-apstrādāti-pārtikas-produkti-un-dzērieni",
+   "ļoti-apstrādāti-pārtikas-produkti-un-dzērieni":"4-ļoti-apstrādāti-pārtikas-produkti-un-dzērieni"
+  },
+  "mt":{
+   "1":"1-ikel-imxerrda-jew-minimament-imxerrda",
+   "1-ikel-imxerrda-jew-minimament-imxerrda":"1-ikel-imxerrda-jew-minimament-imxerrda",
+   "2":"2-ingredjenti-kulinarji-imxerrda",
+   "2-ingredjenti-kulinarji-imxerrda":"2-ingredjenti-kulinarji-imxerrda",
+   "4":"4-prodotti-tal-ikel-u-xorb-ultra-imxerrda",
+   "4-prodotti-tal-ikel-u-xorb-ultra-imxerrda":"4-prodotti-tal-ikel-u-xorb-ultra-imxerrda",
+   "ikel-imxerrda-jew-minimament-imxerrda":"1-ikel-imxerrda-jew-minimament-imxerrda",
+   "ingredjenti-kulinarji-imxerrda":"2-ingredjenti-kulinarji-imxerrda",
+   "prodotti-tal-ikel-u-xorb-ultra-imxerrda":"4-prodotti-tal-ikel-u-xorb-ultra-imxerrda"
+  },
+  "nl":{
+   "1-onbewerkte-of-beperkt-bewerkt-voedsel":"1-onbewerkte-of-beperkt-bewerkt-voedsel",
+   "2-bewerkte-ingredienten":"2-bewerkte-ingredienten",
+   "3-bewerkt-voedsel":"3-bewerkt-voedsel",
+   "4-ultrabewerkte-dranken-en-levensmiddelen":"4-ultrabewerkte-dranken-en-levensmiddelen"
+  },
+  "no":{
+   "1":"1-ubehandlet-eller-minimalt-bearbeidet-mat",
+   "1-ubehandlet-eller-minimalt-bearbeidet-mat":"1-ubehandlet-eller-minimalt-bearbeidet-mat",
+   "2":"2-bearbeidede-kulinariske-ingredienser",
+   "2-bearbeidede-kulinariske-ingredienser":"2-bearbeidede-kulinariske-ingredienser",
+   "3":"3-bearbeidede-matvarer",
+   "3-bearbeidede-matvarer":"3-bearbeidede-matvarer",
+   "4":"4-ultra-bearbeidede-mat-og-drikkevarer",
+   "4-ultra-bearbeidede-mat-og-drikkevarer":"4-ultra-bearbeidede-mat-og-drikkevarer",
+   "bearbeidede-kulinariske-ingredienser":"2-bearbeidede-kulinariske-ingredienser",
+   "bearbeidede-matvarer":"3-bearbeidede-matvarer",
+   "ubehandlet-eller-minimalt-bearbeidet-mat":"1-ubehandlet-eller-minimalt-bearbeidet-mat",
+   "ultra-bearbeidede-mat-og-drikkevarer":"4-ultra-bearbeidede-mat-og-drikkevarer"
+  },
+  "pl":{
+   "1-żywność-nieprzetworzona-lub-przetworzona-w-niewielkim-stopniu":"1-żywność-nieprzetworzona-lub-przetworzona-w-niewielkim-stopniu",
+   "2-przetworzone-składniki-kulinarne":"2-przetworzone-składniki-kulinarne",
+   "3-żywność-przetworzona":"3-żywność-przetworzona",
+   "4-żywność-wysoko-przetworzona":"4-żywność-wysoko-przetworzona"
+  },
+  "pt":{
+   "1-alimentos-nao-processados-ou-minimamente-processados":"1-alimentos-nao-processados-ou-minimamente-processados",
+   "2-ingredientes-culinarios-processados":"2-ingredientes-culinarios-processados",
+   "3-alimentos-processados":"3-alimentos-processados",
+   "4-produtos-alimentares-e-bebidas-ultra-processados":"4-produtos-alimentares-e-bebidas-ultra-processados",
+   "alimentos-nao-processados-ou-minimamente-processados":"1-alimentos-nao-processados-ou-minimamente-processados",
+   "alimentos-processados":"3-alimentos-processados",
+   "ingredientes-culinarios-processados":"2-ingredientes-culinarios-processados",
+   "produtos-alimentares-e-bebidas-ultra-processados":"4-produtos-alimentares-e-bebidas-ultra-processados"
+  },
+  "ro":{
+   "1-alimente-neprocesate-sau-minim-procesate":"1-alimente-neprocesate-sau-minim-procesate",
+   "2-ingrediente-culinare-procesate":"2-ingrediente-culinare-procesate",
+   "3-alimente-procesate":"3-alimente-procesate",
+   "4-produse-alimentare-și-băuturi-ultraprocesate":"4-produse-alimentare-și-băuturi-ultraprocesate"
+  },
+  "sk":{
+   "1":"1-neupravene-alebo-minimalne-spracovane-potraviny",
+   "1-neupravene-alebo-minimalne-3":"1-neupravene-alebo-minimalne-spracovane-potraviny",
+   "1-neupravene-alebo-minimalne-3-spracovane-potraviny":"1-neupravene-alebo-minimalne-spracovane-potraviny",
+   "1-neupravene-alebo-minimalne-spracovane-potraviny":"1-neupravene-alebo-minimalne-spracovane-potraviny",
+   "2":"2-spracovane-kulinarske-prisady",
+   "2-spracovane-kulinarske-prisady":"2-spracovane-kulinarske-prisady",
+   "3":"3-spracovane-potraviny",
+   "3-spracovane-potraviny":"3-spracovane-potraviny",
+   "4":"4-ultrazpracovane-potraviny-a-napoje",
+   "4-ultrazpracovane-potraviny-a-napoje":"4-ultrazpracovane-potraviny-a-napoje",
+   "neupravene-alebo-minimalne-3":"1-neupravene-alebo-minimalne-spracovane-potraviny",
+   "neupravene-alebo-minimalne-3-spracovane-potraviny":"1-neupravene-alebo-minimalne-spracovane-potraviny",
+   "neupravene-alebo-minimalne-spracovane-potraviny":"1-neupravene-alebo-minimalne-spracovane-potraviny",
+   "spracovane-kulinarske-prisady":"2-spracovane-kulinarske-prisady",
+   "spracovane-potraviny":"3-spracovane-potraviny",
+   "ultrazpracovane-potraviny-a-napoje":"4-ultrazpracovane-potraviny-a-napoje"
+  },
+  "sl":{
+   "1":"1-nerazvrščena-ali-minimalno-obdelana-hrana",
+   "1-nerazvrščena-ali-minimalno-3":"1-nerazvrščena-ali-minimalno-obdelana-hrana",
+   "1-nerazvrščena-ali-minimalno-3-obdelana-hrana":"1-nerazvrščena-ali-minimalno-obdelana-hrana",
+   "1-nerazvrščena-ali-minimalno-obdelana-hrana":"1-nerazvrščena-ali-minimalno-obdelana-hrana",
+   "2":"2-obdelane-kulinarične-sestavine",
+   "2-obdelane-kulinarične-sestavine":"2-obdelane-kulinarične-sestavine",
+   "3":"3-obdelana-hrana",
+   "3-obdelana-hrana":"3-obdelana-hrana",
+   "4":"4-ultra-obdelana-hrana-in-pijače",
+   "4-ultra-3-in-pijače":"4-ultra-obdelana-hrana-in-pijače",
+   "4-ultra-3-obdelana-hrana-in-pijače":"4-ultra-obdelana-hrana-in-pijače",
+   "4-ultra-obdelana-hrana-in-pijače":"4-ultra-obdelana-hrana-in-pijače",
+   "nerazvrščena-ali-minimalno-3":"1-nerazvrščena-ali-minimalno-obdelana-hrana",
+   "nerazvrščena-ali-minimalno-3-obdelana-hrana":"1-nerazvrščena-ali-minimalno-obdelana-hrana",
+   "nerazvrščena-ali-minimalno-obdelana-hrana":"1-nerazvrščena-ali-minimalno-obdelana-hrana",
+   "obdelana-hrana":"3-obdelana-hrana",
+   "obdelane-kulinarične-sestavine":"2-obdelane-kulinarične-sestavine",
+   "ultra-3-in-pijače":"4-ultra-obdelana-hrana-in-pijače",
+   "ultra-3-obdelana-hrana-in-pijače":"4-ultra-obdelana-hrana-in-pijače",
+   "ultra-obdelana-hrana-in-pijače":"4-ultra-obdelana-hrana-in-pijače"
+  },
+  "sv":{
+   "1":"1-obehandlad-eller-minimalt-bearbetad-mat",
+   "1-obehandlad-eller-minimalt-bearbetad-mat":"1-obehandlad-eller-minimalt-bearbetad-mat",
+   "2":"2-bearbetade-kulinariska-ingredienser",
+   "2-bearbetade-kulinariska-ingredienser":"2-bearbetade-kulinariska-ingredienser",
+   "3":"3-bearbetade-livsmedel",
+   "3-bearbetade-livsmedel":"3-bearbetade-livsmedel",
+   "4":"4-ultra-bearbetade-livsmedel-och-drycker",
+   "4-ultra-3-bearbetade-livsmedel-och-drycker":"4-ultra-bearbetade-livsmedel-och-drycker",
+   "4-ultra-3-och-drycker":"4-ultra-bearbetade-livsmedel-och-drycker",
+   "4-ultra-bearbetade-livsmedel-och-drycker":"4-ultra-bearbetade-livsmedel-och-drycker",
+   "bearbetade-kulinariska-ingredienser":"2-bearbetade-kulinariska-ingredienser",
+   "bearbetade-livsmedel":"3-bearbetade-livsmedel",
+   "obehandlad-eller-minimalt-bearbetad-mat":"1-obehandlad-eller-minimalt-bearbetad-mat",
+   "ultra-3-bearbetade-livsmedel-och-drycker":"4-ultra-bearbetade-livsmedel-och-drycker",
+   "ultra-3-och-drycker":"4-ultra-bearbetade-livsmedel-och-drycker",
+   "ultra-bearbetade-livsmedel-och-drycker":"4-ultra-bearbetade-livsmedel-och-drycker"
+  },
+  "tr":{
+   "1":"i̇şlenmemiş-ya-da-az-izlenmiş-gıdalar",
+   "2":"i̇şlenmiş-yemek-malzemeleri",
+   "3":"i̇şlenmiş-gıdalar",
+   "4":"çok-işlenmiş-gıdalar",
+   "i̇şlenmemiş-ya-da-az-izlenmiş-gıdalar":"i̇şlenmemiş-ya-da-az-izlenmiş-gıdalar",
+   "i̇şlenmiş-gıdalar":"i̇şlenmiş-gıdalar",
+   "i̇şlenmiş-yemek-malzemeleri":"i̇şlenmiş-yemek-malzemeleri",
+   "çok-işlenmiş-gıdalar":"çok-işlenmiş-gıdalar"
+  },
+  "zh":{
+   "3-加工食品":"3-加工食品",
+   "4-超加工食品和饮料产品":"4-超加工食品和饮料产品",
+   "加工烹饪原料":"加工烹饪原料",
+   "未加工或最低限度加工食品":"未加工或最低限度加工食品"
+  }
+ },
+ "synonyms_for":{
+  "bg":{
+   "1-непреработени-или-минимално-преработени-храни":[
+    "1 - Непреработени или минимално преработени храни"
+   ],
+   "2-преработени-кулинарни-съставки":[
+    "2 - Преработени кулинарни съставки"
+   ],
+   "3-преработени-храни":[
+    "3 - Преработени храни"
+   ],
+   "4-свръхпреработени-храни-и-напитки":[
+    "4 - Свръхпреработени храни и напитки"
+   ]
+  },
+  "ca":{
+   "1-aliments-sense-processar-o-minimament-processats":[
+    "1 - Aliments sense processar o mínimament processats",
+    "Aliments no processats o mínimament processats"
+   ],
+   "2-ingredients-culinaris-processats":[
+    "2 - Ingredients culinaris processats",
+    "Ingredients culinaris processats"
+   ],
+   "3-aliments-processats":[
+    "3 - Aliments processats",
+    "Aliments processats"
+   ],
+   "4-aliments-i-begudes-ultraprocessats":[
+    "4 - Aliments i begudes ultraprocessats",
+    "Aliments i begudes ultraprocessats"
+   ]
+  },
+  "cs":{
+   "1-nezpracované-nebo-minimálně-zpracované-potraviny":[
+    "1 - Nezpracované nebo minimálně zpracované potraviny"
+   ],
+   "2-zpracované-kulinářské-přísady":[
+    "2 - Zpracované kulinářské přísady"
+   ],
+   "3-zpracované-potraviny":[
+    "3 - Zpracované potraviny"
+   ],
+   "4-silně-zpracované-potraviny-a-nápoje":[
+    "4 - Silně zpracované potraviny a nápoje"
+   ]
+  },
+  "de":{
+   "1-unverarbeitete-oder-minimal-verarbeitete-lebensmittel":[
+    "1 - Unverarbeitete oder minimal verarbeitete Lebensmittel",
+    "Unverarbeitete oder minimal verarbeitete Lebensmittel"
+   ],
+   "2-verarbeitete-kulinarische-zutaten":[
+    "2 - Verarbeitete kulinarische Zutaten",
+    "Verarbeitete kulinarische Zutaten"
+   ],
+   "3-verarbeitete-lebensmittel":[
+    "3 - Verarbeitete Lebensmittel",
+    "Verarbeitete Lebensmittel"
+   ],
+   "4-hochveredelte-nahrungsmittel-und-getränke":[
+    "4 - Hochveredelte Nahrungsmittel und Getränke",
+    "Hochveredelte Nahrungsmittel und Getränke"
+   ]
+  },
+  "en":{
+   "1-unprocessed-or-minimally-processed-foods":[
+    "1 - Unprocessed or minimally processed foods",
+    "Unprocessed or minimally processed foods",
+    "1"
+   ],
+   "2-processed-culinary-ingredients":[
+    "2 - Processed culinary ingredients",
+    "Processed culinary ingredients",
+    "2"
+   ],
+   "3-processed-foods":[
+    "3 - Processed foods",
+    "Processed foods",
+    "3"
+   ],
+   "4-ultra-processed-food-and-drink-products":[
+    "4 - Ultra processed food and drink products",
+    "Ultra processed food and drink products",
+    "4"
+   ]
+  },
+  "es":{
+   "1-alimentos-sin-procesar-o-minimamente-procesados":[
+    "1 - Alimentos sin procesar o mínimamente procesados",
+    "Alimentos sin procesar o mínimamente procesados"
+   ],
+   "2-ingredientes-culinarios-procesados":[
+    "2 - Ingredientes culinarios procesados",
+    "Ingredientes culinarios procesados"
+   ],
+   "3-alimentos-procesados":[
+    "3 - Alimentos procesados",
+    "Alimentos procesados"
+   ],
+   "4-ultraprocesados":[
+    "4 - Ultraprocesados",
+    "Ultraprocesados"
+   ]
+  },
+  "eu":{
+   "1-ez-prozesatu-gabeko-edo-gutxi-prozesatutako-elikagaiak":[
+    "1 - Ez prozesatu gabeko edo gutxi prozesatutako elikagaiak",
+    "Ez prozesatu gabeko edo gutxi prozesatutako elikagaiak",
+    "1"
+   ],
+   "2-prozesatutako-sukaldaritza-osagaiak":[
+    "2 - Prozesatutako sukaldaritza osagaiak",
+    "Prozesatutako sukaldaritza osagaiak",
+    "2"
+   ],
+   "3-prozesatutako-elikagaiak":[
+    "3 - Prozesatutako elikagaiak",
+    "Prozesatutako elikagaiak",
+    "3"
+   ],
+   "4-ultra-prozesatutako-elikagaiak-eta-edariak":[
+    "4 - Ultra prozesatutako elikagaiak eta edariak",
+    "Ultra prozesatutako elikagaiak eta edariak",
+    "4"
+   ]
+  },
+  "fi":{
+   "1-jalostamattomat-tai-vähän-jalostetut-ruoat":[
+    "1 - Jalostamattomat tai vähän jalostetut ruoat",
+    "Jalostamattomat tai vähän jalostetut ruoat"
+   ],
+   "2-jalostetut-ruoanvalmistusaineet":[
+    "2 - Jalostetut ruoanvalmistusaineet",
+    "Jalostetut ruoanvalmistusaineet"
+   ],
+   "3-jalostetut-ruoat":[
+    "3 - Jalostetut ruoat",
+    "Jalostetut ruoat"
+   ],
+   "4-ultrajalostetut-ruoka-ja-juomatuotteet":[
+    "4 - Ultrajalostetut ruoka- ja juomatuotteet",
+    "Ultrajalostetut ruoka- ja juomatuotteet"
+   ]
+  },
+  "fr":{
+   "1-aliments-non-transformes-ou-transformes-minimalement":[
+    "1 - Aliments non transformés ou transformés minimalement",
+    "Aliments non transformés ou transformés minimalement"
+   ],
+   "2-ingredients-culinaires-transformes":[
+    "2 - Ingrédients culinaires transformés"
+   ],
+   "3-aliments-transformes":[
+    "3 - Aliments transformés",
+    "Aliments transformés"
+   ],
+   "4-produits-alimentaires-et-boissons-ultra-transformes":[
+    "4 - Produits alimentaires et boissons ultra-transformés",
+    "Produits alimentaires et boissons ultra-transformés"
+   ]
+  },
+  "he":{
+   "1-מזון-בעיבוד-מזערי-אם-בכלל":[
+    "1 - מזון בעיבוד מזערי אם בכלל"
+   ],
+   "2-רכיבים-שעברו-עיבוד-תזונתי":[
+    "2 - רכיבים שעברו עיבוד תזונתי"
+   ],
+   "3-מזון-מעובד":[
+    "3 - מזון מעובד"
+   ],
+   "4-מזון-ומשקאות-מתועשים-לחלוטין":[
+    "4 - מזון ומשקאות מתועשים לחלוטין"
+   ]
+  },
+  "hr":{
+   "1-neprocesirana-ili-minimalno-obrađena-hrana":[
+    "1 - Neprocesirana ili minimalno obrađena hrana",
+    "Neprocesirana ili minimalno obrađena hrana",
+    "1"
+   ],
+   "2-obrađeni-kulinarski-sastojci":[
+    "2 - Obrađeni kulinarski sastojci",
+    "Obrađeni kulinarski sastojci",
+    "2"
+   ],
+   "3-obrađena-hrana":[
+    "3 - Obrađena hrana",
+    "Obrađena hrana",
+    "3"
+   ],
+   "4-ultraobrađeni-prehrambeni-i-pića-proizvodi":[
+    "4 - Ultraobrađeni prehrambeni i pića proizvodi",
+    "Ultraobrađeni prehrambeni i pića proizvodi",
+    "4"
+   ]
+  },
+  "hu":{
+   "1-feldolgozatlan-vagy-minimálisan-feldolgozott-élelmiszerek":[
+    "1 - Feldolgozatlan vagy minimálisan feldolgozott élelmiszerek"
+   ],
+   "2-feldolgozott-összetevők":[
+    "2 - Feldolgozott összetevők"
+   ],
+   "3-feldolgozott-élelmiszerek":[
+    "3 - Feldolgozott élelmiszerek"
+   ],
+   "4-többszörösen-feldolgozott-élelmiszer-és-italtermékek":[
+    "4 - Többszörösen feldolgozott élelmiszer- és italtermékek"
+   ]
+  },
+  "is":{
+   "1-óverðað-eða-takmörkuð-meðhöndlun-matvörur":[
+    "1 - Óverðað eða takmörkuð meðhöndlun matvörur",
+    "Óverðað eða takmörkuð meðhöndlun matvörur",
+    "1"
+   ],
+   "2-meðhöndlun-matvæla":[
+    "2 - Meðhöndlun matvæla",
+    "Meðhöndlun matvæla",
+    "2"
+   ],
+   "3-unnin-matvæli":[
+    "3 - Unnin matvæli",
+    "Unnin matvæli",
+    "3"
+   ],
+   "4-óþarfar-matvörur-og-drykkir":[
+    "4 - Óþarfar matvörur og drykkir",
+    "Óþarfar matvörur og drykkir",
+    "4"
+   ]
+  },
+  "it":{
+   "1-alimenti-non-lavorati-o-minimamente-lavorati":[
+    "1 - Alimenti non lavorati o minimamente lavorati"
+   ],
+   "2-ingredienti-culinari-lavorati":[
+    "2 - Ingredienti culinari lavorati"
+   ],
+   "3-alimenti-lavorati":[
+    "3 - Alimenti lavorati"
+   ],
+   "4-alimenti-e-bevande-ultra-lavorati":[
+    "4 - Alimenti e bevande ultra lavorati"
+   ]
+  },
+  "lt":{
+   "1-neapdoroti-ar-minimaliu-apdorojimu-maisto-produktai":[
+    "1 - Neapdoroti ar minimaliu apdorojimu maisto produktai",
+    "Neapdoroti ar minimaliu apdorojimu maisto produktai",
+    "1"
+   ],
+   "2-apdorotos-kulinarinės-sudedamosios-dalys":[
+    "2 - Apdorotos kulinarinės sudedamosios dalys",
+    "Apdorotos kulinarinės sudedamosios dalys",
+    "2"
+   ],
+   "3-apdoroti-maisto-produktai":[
+    "3 - Apdoroti maisto produktai",
+    "Apdoroti maisto produktai",
+    "3"
+   ],
+   "4-labai-apdoroti-maisto-produktai-ir-gėrimai":[
+    "4 - Labai apdoroti maisto produktai ir gėrimai",
+    "Labai apdoroti maisto produktai ir gėrimai",
+    "4"
+   ]
+  },
+  "lv":{
+   "1-neapstrādāti-vai-minimāli-apstrādāti-pārtikas-produkti":[
+    "1 - Neapstrādāti vai minimāli apstrādāti pārtikas produkti",
+    "Neapstrādāti vai minimāli apstrādāti pārtikas produkti",
+    "1"
+   ],
+   "2-apstrādāti-kulinarās-sastāvdaļas":[
+    "2 - Apstrādāti kulinarās sastāvdaļas",
+    "Apstrādāti kulinarās sastāvdaļas",
+    "2"
+   ],
+   "3-apstrādāti-pārtikas-produkti":[
+    "3 - Apstrādāti pārtikas produkti",
+    "Apstrādāti pārtikas produkti",
+    "3"
+   ],
+   "4-ļoti-apstrādāti-pārtikas-produkti-un-dzērieni":[
+    "4 - Ļoti apstrādāti pārtikas produkti un dzērieni",
+    "Ļoti apstrādāti pārtikas produkti un dzērieni",
+    "4"
+   ]
+  },
+  "mt":{
+   "1-ikel-imxerrda-jew-minimament-imxerrda":[
+    "1 - Ikel imxerrda jew minimament imxerrda",
+    "Ikel imxerrda jew minimament imxerrda",
+    "1"
+   ],
+   "2-ingredjenti-kulinarji-imxerrda":[
+    "2 - Ingredjenti kulinarji imxerrda",
+    "Ingredjenti kulinarji imxerrda",
+    "2"
+   ],
+   "4-prodotti-tal-ikel-u-xorb-ultra-imxerrda":[
+    "4 - Prodotti tal-ikel u xorb ultra imxerrda",
+    "Prodotti tal-ikel u xorb ultra imxerrda",
+    "4"
+   ]
+  },
+  "nl":{
+   "1-onbewerkte-of-beperkt-bewerkt-voedsel":[
+    "1 - Onbewerkte of beperkt bewerkt voedsel"
+   ],
+   "2-bewerkte-ingredienten":[
+    "2 - Bewerkte ingredienten"
+   ],
+   "3-bewerkt-voedsel":[
+    "3 - Bewerkt voedsel"
+   ],
+   "4-ultrabewerkte-dranken-en-levensmiddelen":[
+    "4 - Ultrabewerkte dranken en levensmiddelen"
+   ]
+  },
+  "no":{
+   "1-ubehandlet-eller-minimalt-bearbeidet-mat":[
+    "1 - Ubehandlet eller minimalt bearbeidet mat",
+    "Ubehandlet eller minimalt bearbeidet mat",
+    "1"
+   ],
+   "2-bearbeidede-kulinariske-ingredienser":[
+    "2 - Bearbeidede kulinariske ingredienser",
+    "Bearbeidede kulinariske ingredienser",
+    "2"
+   ],
+   "3-bearbeidede-matvarer":[
+    "3 - Bearbeidede matvarer",
+    "Bearbeidede matvarer",
+    "3"
+   ],
+   "4-ultra-bearbeidede-mat-og-drikkevarer":[
+    "4 - Ultra bearbeidede mat- og drikkevarer",
+    "Ultra bearbeidede mat- og drikkevarer",
+    "4"
+   ]
+  },
+  "pl":{
+   "1-żywność-nieprzetworzona-lub-przetworzona-w-niewielkim-stopniu":[
+    "1 - Żywność nieprzetworzona lub przetworzona w niewielkim stopniu."
+   ],
+   "2-przetworzone-składniki-kulinarne":[
+    "2 - Przetworzone składniki kulinarne"
+   ],
+   "3-żywność-przetworzona":[
+    "3 - Żywność przetworzona"
+   ],
+   "4-żywność-wysoko-przetworzona":[
+    "4 - Żywność wysoko przetworzona"
+   ]
+  },
+  "pt":{
+   "1-alimentos-nao-processados-ou-minimamente-processados":[
+    "1 - Alimentos não processados ou minimamente processados",
+    "Alimentos não processados ou minimamente processados"
+   ],
+   "2-ingredientes-culinarios-processados":[
+    "2 - Ingredientes culinários processados",
+    "Ingredientes culinários processados"
+   ],
+   "3-alimentos-processados":[
+    "3 - Alimentos processados",
+    "Alimentos processados"
+   ],
+   "4-produtos-alimentares-e-bebidas-ultra-processados":[
+    "4 - Produtos alimentares e bebidas ultra-processados",
+    "Produtos alimentares e bebidas ultra-processados"
+   ]
+  },
+  "ro":{
+   "1-alimente-neprocesate-sau-minim-procesate":[
+    "1 - Alimente neprocesate sau minim procesate"
+   ],
+   "2-ingrediente-culinare-procesate":[
+    "2 - Ingrediente culinare procesate"
+   ],
+   "3-alimente-procesate":[
+    "3 - Alimente procesate"
+   ],
+   "4-produse-alimentare-și-băuturi-ultraprocesate":[
+    "4 - Produse alimentare și băuturi ultraprocesate"
+   ]
+  },
+  "sk":{
+   "1-neupravene-alebo-minimalne-spracovane-potraviny":[
+    "1 - Neupravené alebo minimálne spracované potraviny",
+    "Neupravené alebo minimálne spracované potraviny",
+    "1"
+   ],
+   "2-spracovane-kulinarske-prisady":[
+    "2 - Spracované kulinárske prísady",
+    "Spracované kulinárske prísady",
+    "2"
+   ],
+   "3-spracovane-potraviny":[
+    "3 - Spracované potraviny",
+    "Spracované potraviny",
+    "3"
+   ],
+   "4-ultrazpracovane-potraviny-a-napoje":[
+    "4 - Ultrazpracované potraviny a nápoje",
+    "Ultrazpracované potraviny a nápoje",
+    "4"
+   ]
+  },
+  "sl":{
+   "1-nerazvrščena-ali-minimalno-obdelana-hrana":[
+    "1 - Nerazvrščena ali minimalno obdelana hrana",
+    "Nerazvrščena ali minimalno obdelana hrana",
+    "1"
+   ],
+   "2-obdelane-kulinarične-sestavine":[
+    "2 - Obdelane kulinarične sestavine",
+    "Obdelane kulinarične sestavine",
+    "2"
+   ],
+   "3-obdelana-hrana":[
+    "3 - Obdelana hrana",
+    "Obdelana hrana",
+    "3"
+   ],
+   "4-ultra-obdelana-hrana-in-pijače":[
+    "4 - Ultra obdelana hrana in pijače",
+    "Ultra obdelana hrana in pijače",
+    "4"
+   ]
+  },
+  "sv":{
+   "1-obehandlad-eller-minimalt-bearbetad-mat":[
+    "1 - Obehandlad eller minimalt bearbetad mat",
+    "Obehandlad eller minimalt bearbetad mat",
+    "1"
+   ],
+   "2-bearbetade-kulinariska-ingredienser":[
+    "2 - Bearbetade kulinariska ingredienser",
+    "Bearbetade kulinariska ingredienser",
+    "2"
+   ],
+   "3-bearbetade-livsmedel":[
+    "3 - Bearbetade livsmedel",
+    "Bearbetade livsmedel",
+    "3"
+   ],
+   "4-ultra-bearbetade-livsmedel-och-drycker":[
+    "4 - Ultra bearbetade livsmedel och drycker",
+    "Ultra bearbetade livsmedel och drycker",
+    "4"
+   ]
+  },
+  "tr":{
+   "i̇şlenmemiş-ya-da-az-izlenmiş-gıdalar":[
+    "İşlenmemiş ya da az izlenmiş gıdalar",
+    "1"
+   ],
+   "i̇şlenmiş-gıdalar":[
+    "İşlenmiş gıdalar",
+    "3"
+   ],
+   "i̇şlenmiş-yemek-malzemeleri":[
+    "İşlenmiş yemek malzemeleri",
+    "2"
+   ],
+   "çok-işlenmiş-gıdalar":[
+    "Çok işlenmiş gıdalar",
+    "4"
+   ]
+  },
+  "zh":{
+   "3-加工食品":[
+    "3 - 加工食品"
+   ],
+   "4-超加工食品和饮料产品":[
+    "4 - 超加工食品和饮料产品"
+   ],
+   "加工烹饪原料":[
+    "加工烹饪原料"
+   ],
+   "未加工或最低限度加工食品":[
+    "未加工或最低限度加工食品"
+   ]
+  }
+ },
+ "synonyms_for_extended":{
+  "bg":{
+   "1-непреработени-или-минимално-преработени-храни":{
+    "1-непреработени-или-минимално-преработени-храни":1
+   },
+   "2-преработени-кулинарни-съставки":{
+    "2-преработени-кулинарни-съставки":1
+   },
+   "3-преработени-храни":{
+    "3-преработени-храни":1
+   },
+   "4-свръхпреработени-храни-и-напитки":{
+    "4-свръхпреработени-храни-и-напитки":1
+   }
+  },
+  "ca":{
+   "1-aliments-sense-processar-o-minimament-processats":{
+    "1-aliments-sense-processar-o-minimament-processats":1,
+    "aliments-no-processats-o-minimament-processats":1
+   },
+   "2-ingredients-culinaris-processats":{
+    "2-ingredients-culinaris-processats":1,
+    "ingredients-culinaris-processats":1
+   },
+   "3-aliments-processats":{
+    "3-aliments-processats":1,
+    "aliments-processats":1
+   },
+   "4-aliments-i-begudes-ultraprocessats":{
+    "4-aliments-i-begudes-ultraprocessats":1,
+    "aliments-i-begudes-ultraprocessats":1
+   }
+  },
+  "cs":{
+   "1-nezpracované-nebo-minimálně-zpracované-potraviny":{
+    "1-nezpracované-nebo-minimálně-zpracované-potraviny":1
+   },
+   "2-zpracované-kulinářské-přísady":{
+    "2-zpracované-kulinářské-přísady":1
+   },
+   "3-zpracované-potraviny":{
+    "3-zpracované-potraviny":1
+   },
+   "4-silně-zpracované-potraviny-a-nápoje":{
+    "4-silně-zpracované-potraviny-a-nápoje":1
+   }
+  },
+  "de":{
+   "1-unverarbeitete-oder-minimal-verarbeitete-lebensmittel":{
+    "1-unverarbeitete-oder-minimal-3-verarbeitete-lebensmittel":1,
+    "1-unverarbeitete-oder-minimal-verarbeitete-lebensmittel":1,
+    "unverarbeitete-oder-minimal-3-verarbeitete-lebensmittel":1,
+    "unverarbeitete-oder-minimal-verarbeitete-lebensmittel":1
+   },
+   "2-verarbeitete-kulinarische-zutaten":{
+    "2-verarbeitete-kulinarische-zutaten":1,
+    "verarbeitete-kulinarische-zutaten":1
+   },
+   "3-verarbeitete-lebensmittel":{
+    "3-verarbeitete-lebensmittel":1,
+    "verarbeitete-lebensmittel":1
+   },
+   "4-hochveredelte-nahrungsmittel-und-getränke":{
+    "4-hochveredelte-nahrungsmittel-und-getränke":1,
+    "hochveredelte-nahrungsmittel-und-getränke":1
+   }
+  },
+  "en":{
+   "1-unprocessed-or-minimally-processed-foods":{
+    "1":1,
+    "1-unprocessed-or-minimally-3":1,
+    "1-unprocessed-or-minimally-3-processed-foods":1,
+    "1-unprocessed-or-minimally-processed-foods":1,
+    "unprocessed-or-minimally-3":1,
+    "unprocessed-or-minimally-3-processed-foods":1,
+    "unprocessed-or-minimally-processed-foods":1
+   },
+   "2-processed-culinary-ingredients":{
+    "2":1,
+    "2-processed-culinary-ingredients":1,
+    "processed-culinary-ingredients":1
+   },
+   "3-processed-foods":{
+    "3":1,
+    "3-processed-foods":1,
+    "processed-foods":1
+   },
+   "4-ultra-processed-food-and-drink-products":{
+    "4":1,
+    "4-ultra-processed-food-and-drink-products":1,
+    "ultra-processed-food-and-drink-products":1
+   }
+  },
+  "es":{
+   "1-alimentos-sin-procesar-o-minimamente-procesados":{
+    "1-alimentos-sin-procesar-o-minimamente-procesados":1,
+    "alimentos-sin-procesar-o-minimamente-procesados":1
+   },
+   "2-ingredientes-culinarios-procesados":{
+    "2-ingredientes-culinarios-procesados":1,
+    "ingredientes-culinarios-procesados":1
+   },
+   "3-alimentos-procesados":{
+    "3-alimentos-procesados":1,
+    "alimentos-procesados":1
+   },
+   "4-ultraprocesados":{
+    "4-ultraprocesados":1,
+    "ultraprocesados":1
+   }
+  },
+  "eu":{
+   "1-ez-prozesatu-gabeko-edo-gutxi-prozesatutako-elikagaiak":{
+    "1":1,
+    "1-ez-prozesatu-gabeko-edo-gutxi-3":1,
+    "1-ez-prozesatu-gabeko-edo-gutxi-3-prozesatutako-elikagaiak":1,
+    "1-ez-prozesatu-gabeko-edo-gutxi-prozesatutako-elikagaiak":1,
+    "ez-prozesatu-gabeko-edo-gutxi-3":1,
+    "ez-prozesatu-gabeko-edo-gutxi-3-prozesatutako-elikagaiak":1,
+    "ez-prozesatu-gabeko-edo-gutxi-prozesatutako-elikagaiak":1
+   },
+   "2-prozesatutako-sukaldaritza-osagaiak":{
+    "2":1,
+    "2-prozesatutako-sukaldaritza-osagaiak":1,
+    "prozesatutako-sukaldaritza-osagaiak":1
+   },
+   "3-prozesatutako-elikagaiak":{
+    "3":1,
+    "3-prozesatutako-elikagaiak":1,
+    "prozesatutako-elikagaiak":1
+   },
+   "4-ultra-prozesatutako-elikagaiak-eta-edariak":{
+    "4":1,
+    "4-ultra-3-eta-edariak":1,
+    "4-ultra-3-prozesatutako-elikagaiak-eta-edariak":1,
+    "4-ultra-prozesatutako-elikagaiak-eta-edariak":1,
+    "ultra-3-eta-edariak":1,
+    "ultra-3-prozesatutako-elikagaiak-eta-edariak":1,
+    "ultra-prozesatutako-elikagaiak-eta-edariak":1
+   }
+  },
+  "fi":{
+   "1-jalostamattomat-tai-vähän-jalostetut-ruoat":{
+    "1-jalostamattomat-tai-vähän-3-jalostetut-ruoat":1,
+    "1-jalostamattomat-tai-vähän-jalostetut-ruoat":1,
+    "jalostamattomat-tai-vähän-3-jalostetut-ruoat":1,
+    "jalostamattomat-tai-vähän-jalostetut-ruoat":1
+   },
+   "2-jalostetut-ruoanvalmistusaineet":{
+    "2-jalostetut-ruoanvalmistusaineet":1,
+    "jalostetut-ruoanvalmistusaineet":1
+   },
+   "3-jalostetut-ruoat":{
+    "3-jalostetut-ruoat":1,
+    "jalostetut-ruoat":1
+   },
+   "4-ultrajalostetut-ruoka-ja-juomatuotteet":{
+    "4-ultrajalostetut-ruoka-ja-juomatuotteet":1,
+    "ultrajalostetut-ruoka-ja-juomatuotteet":1
+   }
+  },
+  "fr":{
+   "1-aliments-non-transformes-ou-transformes-minimalement":{
+    "1-aliments-non-transformes-ou-transformes-minimalement":1,
+    "aliments-non-transformes-ou-transformes-minimalement":1
+   },
+   "2-ingredients-culinaires-transformes":{
+    "2-ingredients-culinaires-transformes":1
+   },
+   "3-aliments-transformes":{
+    "3-aliments-transformes":1,
+    "aliments-transformes":1
+   },
+   "4-produits-alimentaires-et-boissons-ultra-transformes":{
+    "4-produits-alimentaires-et-boissons-ultra-transformes":1,
+    "produits-alimentaires-et-boissons-ultra-transformes":1
+   }
+  },
+  "he":{
+   "1-מזון-בעיבוד-מזערי-אם-בכלל":{
+    "1-מזון-בעיבוד-מזערי-אם-בכלל":1
+   },
+   "2-רכיבים-שעברו-עיבוד-תזונתי":{
+    "2-רכיבים-שעברו-עיבוד-תזונתי":1
+   },
+   "3-מזון-מעובד":{
+    "3-מזון-מעובד":1
+   },
+   "4-מזון-ומשקאות-מתועשים-לחלוטין":{
+    "4-מזון-ומשקאות-מתועשים-לחלוטין":1
+   }
+  },
+  "hr":{
+   "1-neprocesirana-ili-minimalno-obrađena-hrana":{
+    "1":1,
+    "1-neprocesirana-ili-minimalno-3":1,
+    "1-neprocesirana-ili-minimalno-3-obrađena-hrana":1,
+    "1-neprocesirana-ili-minimalno-obrađena-hrana":1,
+    "neprocesirana-ili-minimalno-3":1,
+    "neprocesirana-ili-minimalno-3-obrađena-hrana":1,
+    "neprocesirana-ili-minimalno-obrađena-hrana":1
+   },
+   "2-obrađeni-kulinarski-sastojci":{
+    "2":1,
+    "2-obrađeni-kulinarski-sastojci":1,
+    "obrađeni-kulinarski-sastojci":1
+   },
+   "3-obrađena-hrana":{
+    "3":1,
+    "3-obrađena-hrana":1,
+    "obrađena-hrana":1
+   },
+   "4-ultraobrađeni-prehrambeni-i-pića-proizvodi":{
+    "4":1,
+    "4-ultraobrađeni-prehrambeni-i-pića-proizvodi":1,
+    "ultraobrađeni-prehrambeni-i-pića-proizvodi":1
+   }
+  },
+  "hu":{
+   "1-feldolgozatlan-vagy-minimálisan-feldolgozott-élelmiszerek":{
+    "1-feldolgozatlan-vagy-minimálisan-feldolgozott-élelmiszerek":1
+   },
+   "2-feldolgozott-összetevők":{
+    "2-feldolgozott-összetevők":1
+   },
+   "3-feldolgozott-élelmiszerek":{
+    "3-feldolgozott-élelmiszerek":1
+   },
+   "4-többszörösen-feldolgozott-élelmiszer-és-italtermékek":{
+    "4-többszörösen-feldolgozott-élelmiszer-és-italtermékek":1
+   }
+  },
+  "is":{
+   "1-óverðað-eða-takmörkuð-meðhöndlun-matvörur":{
+    "1":1,
+    "1-óverðað-eða-takmörkuð-meðhöndlun-matvörur":1,
+    "óverðað-eða-takmörkuð-meðhöndlun-matvörur":1
+   },
+   "2-meðhöndlun-matvæla":{
+    "2":1,
+    "2-meðhöndlun-matvæla":1,
+    "meðhöndlun-matvæla":1
+   },
+   "3-unnin-matvæli":{
+    "3":1,
+    "3-unnin-matvæli":1,
+    "unnin-matvæli":1
+   },
+   "4-óþarfar-matvörur-og-drykkir":{
+    "4":1,
+    "4-óþarfar-matvörur-og-drykkir":1,
+    "óþarfar-matvörur-og-drykkir":1
+   }
+  },
+  "it":{
+   "1-alimenti-non-lavorati-o-minimamente-lavorati":{
+    "1-alimenti-non-lavorati-o-minimamente-lavorati":1
+   },
+   "2-ingredienti-culinari-lavorati":{
+    "2-ingredienti-culinari-lavorati":1
+   },
+   "3-alimenti-lavorati":{
+    "3-alimenti-lavorati":1
+   },
+   "4-alimenti-e-bevande-ultra-lavorati":{
+    "4-alimenti-e-bevande-ultra-lavorati":1
+   }
+  },
+  "lt":{
+   "1-neapdoroti-ar-minimaliu-apdorojimu-maisto-produktai":{
+    "1":1,
+    "1-neapdoroti-ar-minimaliu-apdorojimu-maisto-produktai":1,
+    "neapdoroti-ar-minimaliu-apdorojimu-maisto-produktai":1
+   },
+   "2-apdorotos-kulinarinės-sudedamosios-dalys":{
+    "2":1,
+    "2-apdorotos-kulinarinės-sudedamosios-dalys":1,
+    "apdorotos-kulinarinės-sudedamosios-dalys":1
+   },
+   "3-apdoroti-maisto-produktai":{
+    "3":1,
+    "3-apdoroti-maisto-produktai":1,
+    "apdoroti-maisto-produktai":1
+   },
+   "4-labai-apdoroti-maisto-produktai-ir-gėrimai":{
+    "4":1,
+    "4-labai-3-apdoroti-maisto-produktai-ir-gėrimai":1,
+    "4-labai-3-ir-gėrimai":1,
+    "4-labai-apdoroti-maisto-produktai-ir-gėrimai":1,
+    "labai-3-apdoroti-maisto-produktai-ir-gėrimai":1,
+    "labai-3-ir-gėrimai":1,
+    "labai-apdoroti-maisto-produktai-ir-gėrimai":1
+   }
+  },
+  "lv":{
+   "1-neapstrādāti-vai-minimāli-apstrādāti-pārtikas-produkti":{
+    "1":1,
+    "1-neapstrādāti-vai-minimāli-3":1,
+    "1-neapstrādāti-vai-minimāli-3-apstrādāti-pārtikas-produkti":1,
+    "1-neapstrādāti-vai-minimāli-apstrādāti-pārtikas-produkti":1,
+    "neapstrādāti-vai-minimāli-3":1,
+    "neapstrādāti-vai-minimāli-3-apstrādāti-pārtikas-produkti":1,
+    "neapstrādāti-vai-minimāli-apstrādāti-pārtikas-produkti":1
+   },
+   "2-apstrādāti-kulinarās-sastāvdaļas":{
+    "2":1,
+    "2-apstrādāti-kulinarās-sastāvdaļas":1,
+    "apstrādāti-kulinarās-sastāvdaļas":1
+   },
+   "3-apstrādāti-pārtikas-produkti":{
+    "3":1,
+    "3-apstrādāti-pārtikas-produkti":1,
+    "apstrādāti-pārtikas-produkti":1
+   },
+   "4-ļoti-apstrādāti-pārtikas-produkti-un-dzērieni":{
+    "4":1,
+    "4-ļoti-3-apstrādāti-pārtikas-produkti-un-dzērieni":1,
+    "4-ļoti-3-un-dzērieni":1,
+    "4-ļoti-apstrādāti-pārtikas-produkti-un-dzērieni":1,
+    "ļoti-3-apstrādāti-pārtikas-produkti-un-dzērieni":1,
+    "ļoti-3-un-dzērieni":1,
+    "ļoti-apstrādāti-pārtikas-produkti-un-dzērieni":1
+   }
+  },
+  "mt":{
+   "1-ikel-imxerrda-jew-minimament-imxerrda":{
+    "1":1,
+    "1-ikel-imxerrda-jew-minimament-imxerrda":1,
+    "ikel-imxerrda-jew-minimament-imxerrda":1
+   },
+   "2-ingredjenti-kulinarji-imxerrda":{
+    "2":1,
+    "2-ingredjenti-kulinarji-imxerrda":1,
+    "ingredjenti-kulinarji-imxerrda":1
+   },
+   "4-prodotti-tal-ikel-u-xorb-ultra-imxerrda":{
+    "4":1,
+    "4-prodotti-tal-ikel-u-xorb-ultra-imxerrda":1,
+    "prodotti-tal-ikel-u-xorb-ultra-imxerrda":1
+   }
+  },
+  "nl":{
+   "1-onbewerkte-of-beperkt-bewerkt-voedsel":{
+    "1-onbewerkte-of-beperkt-bewerkt-voedsel":1
+   },
+   "2-bewerkte-ingredienten":{
+    "2-bewerkte-ingredienten":1
+   },
+   "3-bewerkt-voedsel":{
+    "3-bewerkt-voedsel":1
+   },
+   "4-ultrabewerkte-dranken-en-levensmiddelen":{
+    "4-ultrabewerkte-dranken-en-levensmiddelen":1
+   }
+  },
+  "no":{
+   "1-ubehandlet-eller-minimalt-bearbeidet-mat":{
+    "1":1,
+    "1-ubehandlet-eller-minimalt-bearbeidet-mat":1,
+    "ubehandlet-eller-minimalt-bearbeidet-mat":1
+   },
+   "2-bearbeidede-kulinariske-ingredienser":{
+    "2":1,
+    "2-bearbeidede-kulinariske-ingredienser":1,
+    "bearbeidede-kulinariske-ingredienser":1
+   },
+   "3-bearbeidede-matvarer":{
+    "3":1,
+    "3-bearbeidede-matvarer":1,
+    "bearbeidede-matvarer":1
+   },
+   "4-ultra-bearbeidede-mat-og-drikkevarer":{
+    "4":1,
+    "4-ultra-bearbeidede-mat-og-drikkevarer":1,
+    "ultra-bearbeidede-mat-og-drikkevarer":1
+   }
+  },
+  "pl":{
+   "1-żywność-nieprzetworzona-lub-przetworzona-w-niewielkim-stopniu":{
+    "1-żywność-nieprzetworzona-lub-przetworzona-w-niewielkim-stopniu":1
+   },
+   "2-przetworzone-składniki-kulinarne":{
+    "2-przetworzone-składniki-kulinarne":1
+   },
+   "3-żywność-przetworzona":{
+    "3-żywność-przetworzona":1
+   },
+   "4-żywność-wysoko-przetworzona":{
+    "4-żywność-wysoko-przetworzona":1
+   }
+  },
+  "pt":{
+   "1-alimentos-nao-processados-ou-minimamente-processados":{
+    "1-alimentos-nao-processados-ou-minimamente-processados":1,
+    "alimentos-nao-processados-ou-minimamente-processados":1
+   },
+   "2-ingredientes-culinarios-processados":{
+    "2-ingredientes-culinarios-processados":1,
+    "ingredientes-culinarios-processados":1
+   },
+   "3-alimentos-processados":{
+    "3-alimentos-processados":1,
+    "alimentos-processados":1
+   },
+   "4-produtos-alimentares-e-bebidas-ultra-processados":{
+    "4-produtos-alimentares-e-bebidas-ultra-processados":1,
+    "produtos-alimentares-e-bebidas-ultra-processados":1
+   }
+  },
+  "ro":{
+   "1-alimente-neprocesate-sau-minim-procesate":{
+    "1-alimente-neprocesate-sau-minim-procesate":1
+   },
+   "2-ingrediente-culinare-procesate":{
+    "2-ingrediente-culinare-procesate":1
+   },
+   "3-alimente-procesate":{
+    "3-alimente-procesate":1
+   },
+   "4-produse-alimentare-și-băuturi-ultraprocesate":{
+    "4-produse-alimentare-și-băuturi-ultraprocesate":1
+   }
+  },
+  "sk":{
+   "1-neupravene-alebo-minimalne-spracovane-potraviny":{
+    "1":1,
+    "1-neupravene-alebo-minimalne-3":1,
+    "1-neupravene-alebo-minimalne-3-spracovane-potraviny":1,
+    "1-neupravene-alebo-minimalne-spracovane-potraviny":1,
+    "neupravene-alebo-minimalne-3":1,
+    "neupravene-alebo-minimalne-3-spracovane-potraviny":1,
+    "neupravene-alebo-minimalne-spracovane-potraviny":1
+   },
+   "2-spracovane-kulinarske-prisady":{
+    "2":1,
+    "2-spracovane-kulinarske-prisady":1,
+    "spracovane-kulinarske-prisady":1
+   },
+   "3-spracovane-potraviny":{
+    "3":1,
+    "3-spracovane-potraviny":1,
+    "spracovane-potraviny":1
+   },
+   "4-ultrazpracovane-potraviny-a-napoje":{
+    "4":1,
+    "4-ultrazpracovane-potraviny-a-napoje":1,
+    "ultrazpracovane-potraviny-a-napoje":1
+   }
+  },
+  "sl":{
+   "1-nerazvrščena-ali-minimalno-obdelana-hrana":{
+    "1":1,
+    "1-nerazvrščena-ali-minimalno-3":1,
+    "1-nerazvrščena-ali-minimalno-3-obdelana-hrana":1,
+    "1-nerazvrščena-ali-minimalno-obdelana-hrana":1,
+    "nerazvrščena-ali-minimalno-3":1,
+    "nerazvrščena-ali-minimalno-3-obdelana-hrana":1,
+    "nerazvrščena-ali-minimalno-obdelana-hrana":1
+   },
+   "2-obdelane-kulinarične-sestavine":{
+    "2":1,
+    "2-obdelane-kulinarične-sestavine":1,
+    "obdelane-kulinarične-sestavine":1
+   },
+   "3-obdelana-hrana":{
+    "3":1,
+    "3-obdelana-hrana":1,
+    "obdelana-hrana":1
+   },
+   "4-ultra-obdelana-hrana-in-pijače":{
+    "4":1,
+    "4-ultra-3-in-pijače":1,
+    "4-ultra-3-obdelana-hrana-in-pijače":1,
+    "4-ultra-obdelana-hrana-in-pijače":1,
+    "ultra-3-in-pijače":1,
+    "ultra-3-obdelana-hrana-in-pijače":1,
+    "ultra-obdelana-hrana-in-pijače":1
+   }
+  },
+  "sv":{
+   "1-obehandlad-eller-minimalt-bearbetad-mat":{
+    "1":1,
+    "1-obehandlad-eller-minimalt-bearbetad-mat":1,
+    "obehandlad-eller-minimalt-bearbetad-mat":1
+   },
+   "2-bearbetade-kulinariska-ingredienser":{
+    "2":1,
+    "2-bearbetade-kulinariska-ingredienser":1,
+    "bearbetade-kulinariska-ingredienser":1
+   },
+   "3-bearbetade-livsmedel":{
+    "3":1,
+    "3-bearbetade-livsmedel":1,
+    "bearbetade-livsmedel":1
+   },
+   "4-ultra-bearbetade-livsmedel-och-drycker":{
+    "4":1,
+    "4-ultra-3-bearbetade-livsmedel-och-drycker":1,
+    "4-ultra-3-och-drycker":1,
+    "4-ultra-bearbetade-livsmedel-och-drycker":1,
+    "ultra-3-bearbetade-livsmedel-och-drycker":1,
+    "ultra-3-och-drycker":1,
+    "ultra-bearbetade-livsmedel-och-drycker":1
+   }
+  },
+  "tr":{
+   "i̇şlenmemiş-ya-da-az-izlenmiş-gıdalar":{
+    "1":1,
+    "i̇şlenmemiş-ya-da-az-izlenmiş-gıdalar":1
+   },
+   "i̇şlenmiş-gıdalar":{
+    "3":1,
+    "i̇şlenmiş-gıdalar":1
+   },
+   "i̇şlenmiş-yemek-malzemeleri":{
+    "2":1,
+    "i̇şlenmiş-yemek-malzemeleri":1
+   },
+   "çok-işlenmiş-gıdalar":{
+    "4":1,
+    "çok-işlenmiş-gıdalar":1
+   }
+  },
+  "zh":{
+   "3-加工食品":{
+    "3-加工食品":1
+   },
+   "4-超加工食品和饮料产品":{
+    "4-超加工食品和饮料产品":1
+   },
+   "加工烹饪原料":{
+    "加工烹饪原料":1
+   },
+   "未加工或最低限度加工食品":{
+    "未加工或最低限度加工食品":1
+   }
+  }
+ },
+ "translations_from":{
+  "bg:1-непреработени-или-минимално-преработени-храни":"en:1-unprocessed-or-minimally-processed-foods",
+  "bg:2-преработени-кулинарни-съставки":"en:2-processed-culinary-ingredients",
+  "bg:3-преработени-храни":"en:3-processed-foods",
+  "bg:4-свръхпреработени-храни-и-напитки":"en:4-ultra-processed-food-and-drink-products",
+  "ca:1-aliments-sense-processar-o-minimament-processats":"en:1-unprocessed-or-minimally-processed-foods",
+  "ca:2-ingredients-culinaris-processats":"en:2-processed-culinary-ingredients",
+  "ca:3-aliments-processats":"en:3-processed-foods",
+  "ca:4-aliments-i-begudes-ultraprocessats":"en:4-ultra-processed-food-and-drink-products",
+  "cs:1-nezpracované-nebo-minimálně-zpracované-potraviny":"en:1-unprocessed-or-minimally-processed-foods",
+  "cs:2-zpracované-kulinářské-přísady":"en:2-processed-culinary-ingredients",
+  "cs:3-zpracované-potraviny":"en:3-processed-foods",
+  "cs:4-silně-zpracované-potraviny-a-nápoje":"en:4-ultra-processed-food-and-drink-products",
+  "de:1-unverarbeitete-oder-minimal-verarbeitete-lebensmittel":"en:1-unprocessed-or-minimally-processed-foods",
+  "de:2-verarbeitete-kulinarische-zutaten":"en:2-processed-culinary-ingredients",
+  "de:3-verarbeitete-lebensmittel":"en:3-processed-foods",
+  "de:4-hochveredelte-nahrungsmittel-und-getränke":"en:4-ultra-processed-food-and-drink-products",
+  "en:1-unprocessed-or-minimally-processed-foods":"en:1-unprocessed-or-minimally-processed-foods",
+  "en:2-processed-culinary-ingredients":"en:2-processed-culinary-ingredients",
+  "en:3-processed-foods":"en:3-processed-foods",
+  "en:4-ultra-processed-food-and-drink-products":"en:4-ultra-processed-food-and-drink-products",
+  "es:1-alimentos-sin-procesar-o-minimamente-procesados":"en:1-unprocessed-or-minimally-processed-foods",
+  "es:2-ingredientes-culinarios-procesados":"en:2-processed-culinary-ingredients",
+  "es:3-alimentos-procesados":"en:3-processed-foods",
+  "es:4-ultraprocesados":"en:4-ultra-processed-food-and-drink-products",
+  "eu:1-ez-prozesatu-gabeko-edo-gutxi-prozesatutako-elikagaiak":"en:1-unprocessed-or-minimally-processed-foods",
+  "eu:2-prozesatutako-sukaldaritza-osagaiak":"en:2-processed-culinary-ingredients",
+  "eu:3-prozesatutako-elikagaiak":"en:3-processed-foods",
+  "eu:4-ultra-prozesatutako-elikagaiak-eta-edariak":"en:4-ultra-processed-food-and-drink-products",
+  "fi:1-jalostamattomat-tai-vähän-jalostetut-ruoat":"en:1-unprocessed-or-minimally-processed-foods",
+  "fi:2-jalostetut-ruoanvalmistusaineet":"en:2-processed-culinary-ingredients",
+  "fi:3-jalostetut-ruoat":"en:3-processed-foods",
+  "fi:4-ultrajalostetut-ruoka-ja-juomatuotteet":"en:4-ultra-processed-food-and-drink-products",
+  "fr:1-aliments-non-transformes-ou-transformes-minimalement":"en:1-unprocessed-or-minimally-processed-foods",
+  "fr:2-ingredients-culinaires-transformes":"en:2-processed-culinary-ingredients",
+  "fr:3-aliments-transformes":"en:3-processed-foods",
+  "fr:4-produits-alimentaires-et-boissons-ultra-transformes":"en:4-ultra-processed-food-and-drink-products",
+  "he:1-מזון-בעיבוד-מזערי-אם-בכלל":"en:1-unprocessed-or-minimally-processed-foods",
+  "he:2-רכיבים-שעברו-עיבוד-תזונתי":"en:2-processed-culinary-ingredients",
+  "he:3-מזון-מעובד":"en:3-processed-foods",
+  "he:4-מזון-ומשקאות-מתועשים-לחלוטין":"en:4-ultra-processed-food-and-drink-products",
+  "hr:1-neprocesirana-ili-minimalno-obrađena-hrana":"en:1-unprocessed-or-minimally-processed-foods",
+  "hr:2-obrađeni-kulinarski-sastojci":"en:2-processed-culinary-ingredients",
+  "hr:3-obrađena-hrana":"en:3-processed-foods",
+  "hr:4-ultraobrađeni-prehrambeni-i-pića-proizvodi":"en:4-ultra-processed-food-and-drink-products",
+  "hu:1-feldolgozatlan-vagy-minimálisan-feldolgozott-élelmiszerek":"en:1-unprocessed-or-minimally-processed-foods",
+  "hu:2-feldolgozott-összetevők":"en:2-processed-culinary-ingredients",
+  "hu:3-feldolgozott-élelmiszerek":"en:3-processed-foods",
+  "hu:4-többszörösen-feldolgozott-élelmiszer-és-italtermékek":"en:4-ultra-processed-food-and-drink-products",
+  "is:1-óverðað-eða-takmörkuð-meðhöndlun-matvörur":"en:1-unprocessed-or-minimally-processed-foods",
+  "is:2-meðhöndlun-matvæla":"en:2-processed-culinary-ingredients",
+  "is:3-unnin-matvæli":"en:3-processed-foods",
+  "is:4-óþarfar-matvörur-og-drykkir":"en:4-ultra-processed-food-and-drink-products",
+  "it:1-alimenti-non-lavorati-o-minimamente-lavorati":"en:1-unprocessed-or-minimally-processed-foods",
+  "it:2-ingredienti-culinari-lavorati":"en:2-processed-culinary-ingredients",
+  "it:3-alimenti-lavorati":"en:3-processed-foods",
+  "it:4-alimenti-e-bevande-ultra-lavorati":"en:4-ultra-processed-food-and-drink-products",
+  "lt:1-neapdoroti-ar-minimaliu-apdorojimu-maisto-produktai":"en:1-unprocessed-or-minimally-processed-foods",
+  "lt:2-apdorotos-kulinarinės-sudedamosios-dalys":"en:2-processed-culinary-ingredients",
+  "lt:3-apdoroti-maisto-produktai":"en:3-processed-foods",
+  "lt:4-labai-apdoroti-maisto-produktai-ir-gėrimai":"en:4-ultra-processed-food-and-drink-products",
+  "lv:1-neapstrādāti-vai-minimāli-apstrādāti-pārtikas-produkti":"en:1-unprocessed-or-minimally-processed-foods",
+  "lv:2-apstrādāti-kulinarās-sastāvdaļas":"en:2-processed-culinary-ingredients",
+  "lv:3-apstrādāti-pārtikas-produkti":"en:3-processed-foods",
+  "lv:4-ļoti-apstrādāti-pārtikas-produkti-un-dzērieni":"en:4-ultra-processed-food-and-drink-products",
+  "mt:1-ikel-imxerrda-jew-minimament-imxerrda":"en:1-unprocessed-or-minimally-processed-foods",
+  "mt:2-ingredjenti-kulinarji-imxerrda":"en:2-processed-culinary-ingredients",
+  "mt:4-prodotti-tal-ikel-u-xorb-ultra-imxerrda":"en:4-ultra-processed-food-and-drink-products",
+  "nl:1-onbewerkte-of-beperkt-bewerkt-voedsel":"en:1-unprocessed-or-minimally-processed-foods",
+  "nl:2-bewerkte-ingredienten":"en:2-processed-culinary-ingredients",
+  "nl:3-bewerkt-voedsel":"en:3-processed-foods",
+  "nl:4-ultrabewerkte-dranken-en-levensmiddelen":"en:4-ultra-processed-food-and-drink-products",
+  "no:1-ubehandlet-eller-minimalt-bearbeidet-mat":"en:1-unprocessed-or-minimally-processed-foods",
+  "no:2-bearbeidede-kulinariske-ingredienser":"en:2-processed-culinary-ingredients",
+  "no:3-bearbeidede-matvarer":"en:3-processed-foods",
+  "no:4-ultra-bearbeidede-mat-og-drikkevarer":"en:4-ultra-processed-food-and-drink-products",
+  "pl:1-żywność-nieprzetworzona-lub-przetworzona-w-niewielkim-stopniu":"en:1-unprocessed-or-minimally-processed-foods",
+  "pl:2-przetworzone-składniki-kulinarne":"en:2-processed-culinary-ingredients",
+  "pl:3-żywność-przetworzona":"en:3-processed-foods",
+  "pl:4-żywność-wysoko-przetworzona":"en:4-ultra-processed-food-and-drink-products",
+  "pt:1-alimentos-nao-processados-ou-minimamente-processados":"en:1-unprocessed-or-minimally-processed-foods",
+  "pt:2-ingredientes-culinarios-processados":"en:2-processed-culinary-ingredients",
+  "pt:3-alimentos-processados":"en:3-processed-foods",
+  "pt:4-produtos-alimentares-e-bebidas-ultra-processados":"en:4-ultra-processed-food-and-drink-products",
+  "ro:1-alimente-neprocesate-sau-minim-procesate":"en:1-unprocessed-or-minimally-processed-foods",
+  "ro:2-ingrediente-culinare-procesate":"en:2-processed-culinary-ingredients",
+  "ro:3-alimente-procesate":"en:3-processed-foods",
+  "ro:4-produse-alimentare-și-băuturi-ultraprocesate":"en:4-ultra-processed-food-and-drink-products",
+  "sk:1-neupravene-alebo-minimalne-spracovane-potraviny":"en:1-unprocessed-or-minimally-processed-foods",
+  "sk:2-spracovane-kulinarske-prisady":"en:2-processed-culinary-ingredients",
+  "sk:3-spracovane-potraviny":"en:3-processed-foods",
+  "sk:4-ultrazpracovane-potraviny-a-napoje":"en:4-ultra-processed-food-and-drink-products",
+  "sl:1-nerazvrščena-ali-minimalno-obdelana-hrana":"en:1-unprocessed-or-minimally-processed-foods",
+  "sl:2-obdelane-kulinarične-sestavine":"en:2-processed-culinary-ingredients",
+  "sl:3-obdelana-hrana":"en:3-processed-foods",
+  "sl:4-ultra-obdelana-hrana-in-pijače":"en:4-ultra-processed-food-and-drink-products",
+  "sv:1-obehandlad-eller-minimalt-bearbetad-mat":"en:1-unprocessed-or-minimally-processed-foods",
+  "sv:2-bearbetade-kulinariska-ingredienser":"en:2-processed-culinary-ingredients",
+  "sv:3-bearbetade-livsmedel":"en:3-processed-foods",
+  "sv:4-ultra-bearbetade-livsmedel-och-drycker":"en:4-ultra-processed-food-and-drink-products",
+  "tr:i̇şlenmemiş-ya-da-az-izlenmiş-gıdalar":"en:1-unprocessed-or-minimally-processed-foods",
+  "tr:i̇şlenmiş-gıdalar":"en:3-processed-foods",
+  "tr:i̇şlenmiş-yemek-malzemeleri":"en:2-processed-culinary-ingredients",
+  "tr:çok-işlenmiş-gıdalar":"en:4-ultra-processed-food-and-drink-products",
+  "zh:3-加工食品":"en:3-processed-foods",
+  "zh:4-超加工食品和饮料产品":"en:4-ultra-processed-food-and-drink-products",
+  "zh:加工烹饪原料":"en:2-processed-culinary-ingredients",
+  "zh:未加工或最低限度加工食品":"en:1-unprocessed-or-minimally-processed-foods"
+ },
+ "translations_to":{
+  "en:1-unprocessed-or-minimally-processed-foods":{
+   "bg":"1 - Непреработени или минимално преработени храни",
+   "ca":"1 - Aliments sense processar o mínimament processats",
+   "cs":"1 - Nezpracované nebo minimálně zpracované potraviny",
+   "de":"1 - Unverarbeitete oder minimal verarbeitete Lebensmittel",
+   "en":"1 - Unprocessed or minimally processed foods",
+   "es":"1 - Alimentos sin procesar o mínimamente procesados",
+   "eu":"1 - Ez prozesatu gabeko edo gutxi prozesatutako elikagaiak",
+   "fi":"1 - Jalostamattomat tai vähän jalostetut ruoat",
+   "fr":"1 - Aliments non transformés ou transformés minimalement",
+   "he":"1 - מזון בעיבוד מזערי אם בכלל",
+   "hr":"1 - Neprocesirana ili minimalno obrađena hrana",
+   "hu":"1 - Feldolgozatlan vagy minimálisan feldolgozott élelmiszerek",
+   "is":"1 - Óverðað eða takmörkuð meðhöndlun matvörur",
+   "it":"1 - Alimenti non lavorati o minimamente lavorati",
+   "lt":"1 - Neapdoroti ar minimaliu apdorojimu maisto produktai",
+   "lv":"1 - Neapstrādāti vai minimāli apstrādāti pārtikas produkti",
+   "mt":"1 - Ikel imxerrda jew minimament imxerrda",
+   "nl":"1 - Onbewerkte of beperkt bewerkt voedsel",
+   "no":"1 - Ubehandlet eller minimalt bearbeidet mat",
+   "pl":"1 - Żywność nieprzetworzona lub przetworzona w niewielkim stopniu.",
+   "pt":"1 - Alimentos não processados ou minimamente processados",
+   "ro":"1 - Alimente neprocesate sau minim procesate",
+   "sk":"1 - Neupravené alebo minimálne spracované potraviny",
+   "sl":"1 - Nerazvrščena ali minimalno obdelana hrana",
+   "sv":"1 - Obehandlad eller minimalt bearbetad mat",
+   "tr":"İşlenmemiş ya da az izlenmiş gıdalar",
+   "zh":"未加工或最低限度加工食品"
+  },
+  "en:2-processed-culinary-ingredients":{
+   "bg":"2 - Преработени кулинарни съставки",
+   "ca":"2 - Ingredients culinaris processats",
+   "cs":"2 - Zpracované kulinářské přísady",
+   "de":"2 - Verarbeitete kulinarische Zutaten",
+   "en":"2 - Processed culinary ingredients",
+   "es":"2 - Ingredientes culinarios procesados",
+   "eu":"2 - Prozesatutako sukaldaritza osagaiak",
+   "fi":"2 - Jalostetut ruoanvalmistusaineet",
+   "fr":"2 - Ingrédients culinaires transformés",
+   "he":"2 - רכיבים שעברו עיבוד תזונתי",
+   "hr":"2 - Obrađeni kulinarski sastojci",
+   "hu":"2 - Feldolgozott összetevők",
+   "is":"2 - Meðhöndlun matvæla",
+   "it":"2 - Ingredienti culinari lavorati",
+   "lt":"2 - Apdorotos kulinarinės sudedamosios dalys",
+   "lv":"2 - Apstrādāti kulinarās sastāvdaļas",
+   "mt":"2 - Ingredjenti kulinarji imxerrda",
+   "nl":"2 - Bewerkte ingredienten",
+   "no":"2 - Bearbeidede kulinariske ingredienser",
+   "pl":"2 - Przetworzone składniki kulinarne",
+   "pt":"2 - Ingredientes culinários processados",
+   "ro":"2 - Ingrediente culinare procesate",
+   "sk":"2 - Spracované kulinárske prísady",
+   "sl":"2 - Obdelane kulinarične sestavine",
+   "sv":"2 - Bearbetade kulinariska ingredienser",
+   "tr":"İşlenmiş yemek malzemeleri",
+   "zh":"加工烹饪原料"
+  },
+  "en:3-processed-foods":{
+   "bg":"3 - Преработени храни",
+   "ca":"3 - Aliments processats",
+   "cs":"3 - Zpracované potraviny",
+   "de":"3 - Verarbeitete Lebensmittel",
+   "en":"3 - Processed foods",
+   "es":"3 - Alimentos procesados",
+   "eu":"3 - Prozesatutako elikagaiak",
+   "fi":"3 - Jalostetut ruoat",
+   "fr":"3 - Aliments transformés",
+   "he":"3 - מזון מעובד",
+   "hr":"3 - Obrađena hrana",
+   "hu":"3 - Feldolgozott élelmiszerek",
+   "is":"3 - Unnin matvæli",
+   "it":"3 - Alimenti lavorati",
+   "lt":"3 - Apdoroti maisto produktai",
+   "lv":"3 - Apstrādāti pārtikas produkti",
+   "nl":"3 - Bewerkt voedsel",
+   "no":"3 - Bearbeidede matvarer",
+   "pl":"3 - Żywność przetworzona",
+   "pt":"3 - Alimentos processados",
+   "ro":"3 - Alimente procesate",
+   "sk":"3 - Spracované potraviny",
+   "sl":"3 - Obdelana hrana",
+   "sv":"3 - Bearbetade livsmedel",
+   "tr":"İşlenmiş gıdalar",
+   "zh":"3 - 加工食品"
+  },
+  "en:4-ultra-processed-food-and-drink-products":{
+   "bg":"4 - Свръхпреработени храни и напитки",
+   "ca":"4 - Aliments i begudes ultraprocessats",
+   "cs":"4 - Silně zpracované potraviny a nápoje",
+   "de":"4 - Hochveredelte Nahrungsmittel und Getränke",
+   "en":"4 - Ultra processed food and drink products",
+   "es":"4 - Ultraprocesados",
+   "eu":"4 - Ultra prozesatutako elikagaiak eta edariak",
+   "fi":"4 - Ultrajalostetut ruoka- ja juomatuotteet",
+   "fr":"4 - Produits alimentaires et boissons ultra-transformés",
+   "he":"4 - מזון ומשקאות מתועשים לחלוטין",
+   "hr":"4 - Ultraobrađeni prehrambeni i pića proizvodi",
+   "hu":"4 - Többszörösen feldolgozott élelmiszer- és italtermékek",
+   "is":"4 - Óþarfar matvörur og drykkir",
+   "it":"4 - Alimenti e bevande ultra lavorati",
+   "lt":"4 - Labai apdoroti maisto produktai ir gėrimai",
+   "lv":"4 - Ļoti apstrādāti pārtikas produkti un dzērieni",
+   "mt":"4 - Prodotti tal-ikel u xorb ultra imxerrda",
+   "nl":"4 - Ultrabewerkte dranken en levensmiddelen",
+   "no":"4 - Ultra bearbeidede mat- og drikkevarer",
+   "pl":"4 - Żywność wysoko przetworzona",
+   "pt":"4 - Produtos alimentares e bebidas ultra-processados",
+   "ro":"4 - Produse alimentare și băuturi ultraprocesate",
+   "sk":"4 - Ultrazpracované potraviny a nápoje",
+   "sl":"4 - Ultra obdelana hrana in pijače",
+   "sv":"4 - Ultra bearbetade livsmedel och drycker",
+   "tr":"Çok işlenmiş gıdalar",
+   "zh":"4 - 超加工食品和饮料产品"
+  }
+ }
+}
