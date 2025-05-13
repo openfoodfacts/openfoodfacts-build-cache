@@ -1,0 +1,10755 @@
+{
+ "all_parents":{},
+ "direct_children":{},
+ "direct_parents":{},
+ "just_synonyms":{},
+ "level":{
+  "en:1-day":1,
+  "en:1-month":1,
+  "en:10-days":1,
+  "en:10-months":1,
+  "en:11-days":1,
+  "en:11-months":1,
+  "en:12-days":1,
+  "en:12-months":1,
+  "en:13-days":1,
+  "en:13-months":1,
+  "en:14-days":1,
+  "en:14-months":1,
+  "en:15-days":1,
+  "en:15-months":1,
+  "en:16-days":1,
+  "en:16-months":1,
+  "en:17-days":1,
+  "en:17-months":1,
+  "en:18-days":1,
+  "en:18-months":1,
+  "en:19-days":1,
+  "en:19-months":1,
+  "en:2-days":1,
+  "en:2-months":1,
+  "en:20-days":1,
+  "en:20-months":1,
+  "en:21-days":1,
+  "en:21-months":1,
+  "en:22-days":1,
+  "en:22-months":1,
+  "en:23-days":1,
+  "en:23-months":1,
+  "en:24-days":1,
+  "en:24-months":1,
+  "en:25-days":1,
+  "en:25-months":1,
+  "en:26-days":1,
+  "en:26-months":1,
+  "en:27-days":1,
+  "en:27-months":1,
+  "en:28-days":1,
+  "en:28-months":1,
+  "en:29-days":1,
+  "en:29-months":1,
+  "en:3-days":1,
+  "en:3-months":1,
+  "en:30-days":1,
+  "en:30-months":1,
+  "en:31-days":1,
+  "en:31-months":1,
+  "en:32-days":1,
+  "en:32-months":1,
+  "en:33-days":1,
+  "en:33-months":1,
+  "en:34-days":1,
+  "en:34-months":1,
+  "en:35-days":1,
+  "en:35-months":1,
+  "en:36-days":1,
+  "en:36-months":1,
+  "en:37-days":1,
+  "en:37-months":1,
+  "en:38-days":1,
+  "en:38-months":1,
+  "en:39-days":1,
+  "en:39-months":1,
+  "en:4-days":1,
+  "en:4-months":1,
+  "en:40-days":1,
+  "en:40-months":1,
+  "en:41-days":1,
+  "en:41-months":1,
+  "en:42-days":1,
+  "en:42-months":1,
+  "en:43-days":1,
+  "en:43-months":1,
+  "en:44-days":1,
+  "en:44-months":1,
+  "en:45-days":1,
+  "en:45-months":1,
+  "en:46-days":1,
+  "en:46-months":1,
+  "en:47-days":1,
+  "en:47-months":1,
+  "en:48-days":1,
+  "en:48-months":1,
+  "en:49-days":1,
+  "en:5-days":1,
+  "en:5-months":1,
+  "en:50-days":1,
+  "en:51-days":1,
+  "en:52-days":1,
+  "en:53-days":1,
+  "en:54-days":1,
+  "en:55-days":1,
+  "en:56-days":1,
+  "en:57-days":1,
+  "en:58-days":1,
+  "en:59-days":1,
+  "en:6-days":1,
+  "en:6-months":1,
+  "en:60-days":1,
+  "en:7-days":1,
+  "en:7-months":1,
+  "en:8-days":1,
+  "en:8-months":1,
+  "en:9-days":1,
+  "en:9-months":1
+ },
+ "properties":{
+  "en:1-day":{
+   "numeric_number_of_days_after_opening:en":"1"
+  },
+  "en:1-month":{
+   "numeric_number_of_months_after_opening:en":"1"
+  },
+  "en:10-days":{
+   "numeric_number_of_days_after_opening:en":"10"
+  },
+  "en:10-months":{
+   "numeric_number_of_months_after_opening:en":"10"
+  },
+  "en:11-days":{
+   "numeric_number_of_days_after_opening:en":"11"
+  },
+  "en:11-months":{
+   "numeric_number_of_months_after_opening:en":"11"
+  },
+  "en:12-days":{
+   "numeric_number_of_days_after_opening:en":"12"
+  },
+  "en:12-months":{
+   "numeric_number_of_months_after_opening:en":"12"
+  },
+  "en:13-days":{
+   "numeric_number_of_days_after_opening:en":"13"
+  },
+  "en:13-months":{
+   "numeric_number_of_months_after_opening:en":"13"
+  },
+  "en:14-days":{
+   "numeric_number_of_days_after_opening:en":"14"
+  },
+  "en:14-months":{
+   "numeric_number_of_months_after_opening:en":"14"
+  },
+  "en:15-days":{
+   "numeric_number_of_days_after_opening:en":"15"
+  },
+  "en:15-months":{
+   "numeric_number_of_months_after_opening:en":"15"
+  },
+  "en:16-days":{
+   "numeric_number_of_days_after_opening:en":"16"
+  },
+  "en:16-months":{
+   "numeric_number_of_months_after_opening:en":"16"
+  },
+  "en:17-days":{
+   "numeric_number_of_days_after_opening:en":"17"
+  },
+  "en:17-months":{
+   "numeric_number_of_months_after_opening:en":"17"
+  },
+  "en:18-days":{
+   "numeric_number_of_days_after_opening:en":"18"
+  },
+  "en:18-months":{
+   "numeric_number_of_months_after_opening:en":"18"
+  },
+  "en:19-days":{
+   "numeric_number_of_days_after_opening:en":"19"
+  },
+  "en:19-months":{
+   "numeric_number_of_months_after_opening:en":"19"
+  },
+  "en:2-days":{
+   "numeric_number_of_days_after_opening:en":"2"
+  },
+  "en:2-months":{
+   "numeric_number_of_months_after_opening:en":"2"
+  },
+  "en:20-days":{
+   "numeric_number_of_days_after_opening:en":"20"
+  },
+  "en:20-months":{
+   "numeric_number_of_months_after_opening:en":"20"
+  },
+  "en:21-days":{
+   "numeric_number_of_days_after_opening:en":"21"
+  },
+  "en:21-months":{
+   "numeric_number_of_months_after_opening:en":"21"
+  },
+  "en:22-days":{
+   "numeric_number_of_days_after_opening:en":"22"
+  },
+  "en:22-months":{
+   "numeric_number_of_months_after_opening:en":"22"
+  },
+  "en:23-days":{
+   "numeric_number_of_days_after_opening:en":"23"
+  },
+  "en:23-months":{
+   "numeric_number_of_months_after_opening:en":"23"
+  },
+  "en:24-days":{
+   "numeric_number_of_days_after_opening:en":"24"
+  },
+  "en:24-months":{
+   "numeric_number_of_months_after_opening:en":"24"
+  },
+  "en:25-days":{
+   "numeric_number_of_days_after_opening:en":"25"
+  },
+  "en:25-months":{
+   "numeric_number_of_months_after_opening:en":"25"
+  },
+  "en:26-days":{
+   "numeric_number_of_days_after_opening:en":"26"
+  },
+  "en:26-months":{
+   "numeric_number_of_months_after_opening:en":"26"
+  },
+  "en:27-days":{
+   "numeric_number_of_days_after_opening:en":"27"
+  },
+  "en:27-months":{
+   "numeric_number_of_months_after_opening:en":"27"
+  },
+  "en:28-days":{
+   "numeric_number_of_days_after_opening:en":"28"
+  },
+  "en:28-months":{
+   "numeric_number_of_months_after_opening:en":"28"
+  },
+  "en:29-days":{
+   "numeric_number_of_days_after_opening:en":"29"
+  },
+  "en:29-months":{
+   "numeric_number_of_months_after_opening:en":"29"
+  },
+  "en:3-days":{
+   "numeric_number_of_days_after_opening:en":"3"
+  },
+  "en:3-months":{
+   "numeric_number_of_months_after_opening:en":"3"
+  },
+  "en:30-days":{
+   "numeric_number_of_days_after_opening:en":"30"
+  },
+  "en:30-months":{
+   "numeric_number_of_months_after_opening:en":"30"
+  },
+  "en:31-days":{
+   "numeric_number_of_days_after_opening:en":"31"
+  },
+  "en:31-months":{
+   "numeric_number_of_months_after_opening:en":"31"
+  },
+  "en:32-days":{
+   "numeric_number_of_days_after_opening:en":"32"
+  },
+  "en:32-months":{
+   "numeric_number_of_months_after_opening:en":"32"
+  },
+  "en:33-days":{
+   "numeric_number_of_days_after_opening:en":"33"
+  },
+  "en:33-months":{
+   "numeric_number_of_months_after_opening:en":"33"
+  },
+  "en:34-days":{
+   "numeric_number_of_days_after_opening:en":"34"
+  },
+  "en:34-months":{
+   "numeric_number_of_months_after_opening:en":"34"
+  },
+  "en:35-days":{
+   "numeric_number_of_days_after_opening:en":"35"
+  },
+  "en:35-months":{
+   "numeric_number_of_months_after_opening:en":"35"
+  },
+  "en:36-days":{
+   "numeric_number_of_days_after_opening:en":"36"
+  },
+  "en:36-months":{
+   "numeric_number_of_months_after_opening:en":"36"
+  },
+  "en:37-days":{
+   "numeric_number_of_days_after_opening:en":"37"
+  },
+  "en:37-months":{
+   "numeric_number_of_months_after_opening:en":"37"
+  },
+  "en:38-days":{
+   "numeric_number_of_days_after_opening:en":"38"
+  },
+  "en:38-months":{
+   "numeric_number_of_months_after_opening:en":"38"
+  },
+  "en:39-days":{
+   "numeric_number_of_days_after_opening:en":"39"
+  },
+  "en:39-months":{
+   "numeric_number_of_months_after_opening:en":"39"
+  },
+  "en:4-days":{
+   "numeric_number_of_days_after_opening:en":"4"
+  },
+  "en:4-months":{
+   "numeric_number_of_months_after_opening:en":"4"
+  },
+  "en:40-days":{
+   "numeric_number_of_days_after_opening:en":"40"
+  },
+  "en:40-months":{
+   "numeric_number_of_months_after_opening:en":"40"
+  },
+  "en:41-days":{
+   "numeric_number_of_days_after_opening:en":"41"
+  },
+  "en:41-months":{
+   "numeric_number_of_months_after_opening:en":"41"
+  },
+  "en:42-days":{
+   "numeric_number_of_days_after_opening:en":"42"
+  },
+  "en:42-months":{
+   "numeric_number_of_months_after_opening:en":"42"
+  },
+  "en:43-days":{
+   "numeric_number_of_days_after_opening:en":"43"
+  },
+  "en:43-months":{
+   "numeric_number_of_months_after_opening:en":"43"
+  },
+  "en:44-days":{
+   "numeric_number_of_days_after_opening:en":"44"
+  },
+  "en:44-months":{
+   "numeric_number_of_months_after_opening:en":"44"
+  },
+  "en:45-days":{
+   "numeric_number_of_days_after_opening:en":"45"
+  },
+  "en:45-months":{
+   "numeric_number_of_months_after_opening:en":"45"
+  },
+  "en:46-days":{
+   "numeric_number_of_days_after_opening:en":"46"
+  },
+  "en:46-months":{
+   "numeric_number_of_months_after_opening:en":"46"
+  },
+  "en:47-days":{
+   "numeric_number_of_days_after_opening:en":"47"
+  },
+  "en:47-months":{
+   "numeric_number_of_months_after_opening:en":"47"
+  },
+  "en:48-days":{
+   "numeric_number_of_days_after_opening:en":"48"
+  },
+  "en:48-months":{
+   "numeric_number_of_months_after_opening:en":"48"
+  },
+  "en:49-days":{
+   "numeric_number_of_days_after_opening:en":"49"
+  },
+  "en:5-days":{
+   "numeric_number_of_days_after_opening:en":"5"
+  },
+  "en:5-months":{
+   "numeric_number_of_months_after_opening:en":"5"
+  },
+  "en:50-days":{
+   "numeric_number_of_days_after_opening:en":"50"
+  },
+  "en:51-days":{
+   "numeric_number_of_days_after_opening:en":"51"
+  },
+  "en:52-days":{
+   "numeric_number_of_days_after_opening:en":"52"
+  },
+  "en:53-days":{
+   "numeric_number_of_days_after_opening:en":"53"
+  },
+  "en:54-days":{
+   "numeric_number_of_days_after_opening:en":"54"
+  },
+  "en:55-days":{
+   "numeric_number_of_days_after_opening:en":"55"
+  },
+  "en:56-days":{
+   "numeric_number_of_days_after_opening:en":"56"
+  },
+  "en:57-days":{
+   "numeric_number_of_days_after_opening:en":"57"
+  },
+  "en:58-days":{
+   "numeric_number_of_days_after_opening:en":"58"
+  },
+  "en:59-days":{
+   "numeric_number_of_days_after_opening:en":"59"
+  },
+  "en:6-days":{
+   "numeric_number_of_days_after_opening:en":"6"
+  },
+  "en:6-months":{
+   "numeric_number_of_months_after_opening:en":"6"
+  },
+  "en:60-days":{
+   "numeric_number_of_days_after_opening:en":"60"
+  },
+  "en:7-days":{
+   "numeric_number_of_days_after_opening:en":"7"
+  },
+  "en:7-months":{
+   "numeric_number_of_months_after_opening:en":"7"
+  },
+  "en:8-days":{
+   "numeric_number_of_days_after_opening:en":"8"
+  },
+  "en:8-months":{
+   "numeric_number_of_months_after_opening:en":"8"
+  },
+  "en:9-days":{
+   "numeric_number_of_days_after_opening:en":"9"
+  },
+  "en:9-months":{
+   "numeric_number_of_months_after_opening:en":"9"
+  }
+ },
+ "root_entries":{
+  "en:1-day":1,
+  "en:1-month":1,
+  "en:10-days":1,
+  "en:10-months":1,
+  "en:11-days":1,
+  "en:11-months":1,
+  "en:12-days":1,
+  "en:12-months":1,
+  "en:13-days":1,
+  "en:13-months":1,
+  "en:14-days":1,
+  "en:14-months":1,
+  "en:15-days":1,
+  "en:15-months":1,
+  "en:16-days":1,
+  "en:16-months":1,
+  "en:17-days":1,
+  "en:17-months":1,
+  "en:18-days":1,
+  "en:18-months":1,
+  "en:19-days":1,
+  "en:19-months":1,
+  "en:2-days":1,
+  "en:2-months":1,
+  "en:20-days":1,
+  "en:20-months":1,
+  "en:21-days":1,
+  "en:21-months":1,
+  "en:22-days":1,
+  "en:22-months":1,
+  "en:23-days":1,
+  "en:23-months":1,
+  "en:24-days":1,
+  "en:24-months":1,
+  "en:25-days":1,
+  "en:25-months":1,
+  "en:26-days":1,
+  "en:26-months":1,
+  "en:27-days":1,
+  "en:27-months":1,
+  "en:28-days":1,
+  "en:28-months":1,
+  "en:29-days":1,
+  "en:29-months":1,
+  "en:3-days":1,
+  "en:3-months":1,
+  "en:30-days":1,
+  "en:30-months":1,
+  "en:31-days":1,
+  "en:31-months":1,
+  "en:32-days":1,
+  "en:32-months":1,
+  "en:33-days":1,
+  "en:33-months":1,
+  "en:34-days":1,
+  "en:34-months":1,
+  "en:35-days":1,
+  "en:35-months":1,
+  "en:36-days":1,
+  "en:36-months":1,
+  "en:37-days":1,
+  "en:37-months":1,
+  "en:38-days":1,
+  "en:38-months":1,
+  "en:39-days":1,
+  "en:39-months":1,
+  "en:4-days":1,
+  "en:4-months":1,
+  "en:40-days":1,
+  "en:40-months":1,
+  "en:41-days":1,
+  "en:41-months":1,
+  "en:42-days":1,
+  "en:42-months":1,
+  "en:43-days":1,
+  "en:43-months":1,
+  "en:44-days":1,
+  "en:44-months":1,
+  "en:45-days":1,
+  "en:45-months":1,
+  "en:46-days":1,
+  "en:46-months":1,
+  "en:47-days":1,
+  "en:47-months":1,
+  "en:48-days":1,
+  "en:48-months":1,
+  "en:49-days":1,
+  "en:5-days":1,
+  "en:5-months":1,
+  "en:50-days":1,
+  "en:51-days":1,
+  "en:52-days":1,
+  "en:53-days":1,
+  "en:54-days":1,
+  "en:55-days":1,
+  "en:56-days":1,
+  "en:57-days":1,
+  "en:58-days":1,
+  "en:59-days":1,
+  "en:6-days":1,
+  "en:6-months":1,
+  "en:60-days":1,
+  "en:7-days":1,
+  "en:7-months":1,
+  "en:8-days":1,
+  "en:8-months":1,
+  "en:9-days":1,
+  "en:9-months":1
+ },
+ "stopwords":{},
+ "synonyms":{
+  "bg":{
+   "1-ден":"1-ден",
+   "1-месец":"1-месец",
+   "10-дена":"10-дена",
+   "10-месеца":"10-месеца",
+   "10дена":"10-дена",
+   "10месеца":"10-месеца",
+   "11-дена":"11-дена",
+   "11-месеца":"11-месеца",
+   "11дена":"11-дена",
+   "11месеца":"11-месеца",
+   "12-дена":"12-дена",
+   "12-месеца":"12-месеца",
+   "12дена":"12-дена",
+   "12месеца":"12-месеца",
+   "13-дена":"13-дена",
+   "13-месеца":"13-месеца",
+   "13дена":"13-дена",
+   "13месеца":"13-месеца",
+   "14-дена":"14-дена",
+   "14-месеца":"14-месеца",
+   "14дена":"14-дена",
+   "14месеца":"14-месеца",
+   "15-дена":"15-дена",
+   "15-месеца":"15-месеца",
+   "15дена":"15-дена",
+   "15месеца":"15-месеца",
+   "16-дена":"16-дена",
+   "16-месеца":"16-месеца",
+   "16дена":"16-дена",
+   "16месеца":"16-месеца",
+   "17-дена":"17-дена",
+   "17-месеца":"17-месеца",
+   "17дена":"17-дена",
+   "17месеца":"17-месеца",
+   "18-дена":"18-дена",
+   "18-месеца":"18-месеца",
+   "18дена":"18-дена",
+   "18месеца":"18-месеца",
+   "19-дена":"19-дена",
+   "19-месеца":"19-месеца",
+   "19дена":"19-дена",
+   "19месеца":"19-месеца",
+   "1ден":"1-ден",
+   "1месец":"1-месец",
+   "2-дена":"2-дена",
+   "2-месеца":"2-месеца",
+   "20-дена":"20-дена",
+   "20-месеца":"20-месеца",
+   "20дена":"20-дена",
+   "20месеца":"20-месеца",
+   "21-дена":"21-дена",
+   "21-месеца":"21-месеца",
+   "21дена":"21-дена",
+   "21месеца":"21-месеца",
+   "22-дена":"22-дена",
+   "22-месеца":"22-месеца",
+   "22дена":"22-дена",
+   "22месеца":"22-месеца",
+   "23-дена":"23-дена",
+   "23-месеца":"23-месеца",
+   "23дена":"23-дена",
+   "23месеца":"23-месеца",
+   "24-дена":"24-дена",
+   "24-месеца":"24-месеца",
+   "24дена":"24-дена",
+   "24месеца":"24-месеца",
+   "25-дена":"25-дена",
+   "25-месеца":"25-месеца",
+   "25дена":"25-дена",
+   "25месеца":"25-месеца",
+   "26-дена":"26-дена",
+   "26-месеца":"26-месеца",
+   "26дена":"26-дена",
+   "26месеца":"26-месеца",
+   "27-дена":"27-дена",
+   "27-месеца":"27-месеца",
+   "27дена":"27-дена",
+   "27месеца":"27-месеца",
+   "28-дена":"28-дена",
+   "28-месеца":"28-месеца",
+   "28дена":"28-дена",
+   "28месеца":"28-месеца",
+   "29-дена":"29-дена",
+   "29-месеца":"29-месеца",
+   "29дена":"29-дена",
+   "29месеца":"29-месеца",
+   "2дена":"2-дена",
+   "2месеца":"2-месеца",
+   "3-дена":"3-дена",
+   "3-месеца":"3-месеца",
+   "30-дена":"30-дена",
+   "30-месеца":"30-месеца",
+   "30дена":"30-дена",
+   "30месеца":"30-месеца",
+   "31-дена":"31-дена",
+   "31-месеца":"31-месеца",
+   "31дена":"31-дена",
+   "31месеца":"31-месеца",
+   "32-дена":"32-дена",
+   "32-месеца":"32-месеца",
+   "32дена":"32-дена",
+   "32месеца":"32-месеца",
+   "33-дена":"33-дена",
+   "33-месеца":"33-месеца",
+   "33дена":"33-дена",
+   "33месеца":"33-месеца",
+   "34-дена":"34-дена",
+   "34-месеца":"34-месеца",
+   "34дена":"34-дена",
+   "34месеца":"34-месеца",
+   "35-дена":"35-дена",
+   "35-месеца":"35-месеца",
+   "35дена":"35-дена",
+   "35месеца":"35-месеца",
+   "36-дена":"36-дена",
+   "36-месеца":"36-месеца",
+   "36дена":"36-дена",
+   "36месеца":"36-месеца",
+   "37-дена":"37-дена",
+   "37-месеца":"37-месеца",
+   "37дена":"37-дена",
+   "37месеца":"37-месеца",
+   "38-дена":"38-дена",
+   "38-месеца":"38-месеца",
+   "38дена":"38-дена",
+   "38месеца":"38-месеца",
+   "39-дена":"39-дена",
+   "39-месеца":"39-месеца",
+   "39дена":"39-дена",
+   "39месеца":"39-месеца",
+   "3дена":"3-дена",
+   "3месеца":"3-месеца",
+   "4-дена":"4-дена",
+   "4-месеца":"4-месеца",
+   "40-дена":"40-дена",
+   "40-месеца":"40-месеца",
+   "40дена":"40-дена",
+   "40месеца":"40-месеца",
+   "41-дена":"41-дена",
+   "41-месеца":"41-месеца",
+   "41дена":"41-дена",
+   "41месеца":"41-месеца",
+   "42-дена":"42-дена",
+   "42-месеца":"42-месеца",
+   "42дена":"42-дена",
+   "42месеца":"42-месеца",
+   "43-дена":"43-дена",
+   "43-месеца":"43-месеца",
+   "43дена":"43-дена",
+   "43месеца":"43-месеца",
+   "44-дена":"44-дена",
+   "44-месеца":"44-месеца",
+   "44дена":"44-дена",
+   "44месеца":"44-месеца",
+   "45-дена":"45-дена",
+   "45-месеца":"45-месеца",
+   "45дена":"45-дена",
+   "45месеца":"45-месеца",
+   "46-дена":"46-дена",
+   "46-месеца":"46-месеца",
+   "46дена":"46-дена",
+   "46месеца":"46-месеца",
+   "47-дена":"47-дена",
+   "47-месеца":"47-месеца",
+   "47дена":"47-дена",
+   "47месеца":"47-месеца",
+   "48-дена":"48-дена",
+   "48-месеца":"48-месеца",
+   "48дена":"48-дена",
+   "48месеца":"48-месеца",
+   "49-дена":"49-дена",
+   "49дена":"49-дена",
+   "4дена":"4-дена",
+   "4месеца":"4-месеца",
+   "5-дена":"5-дена",
+   "5-месеца":"5-месеца",
+   "50-дена":"50-дена",
+   "50дена":"50-дена",
+   "51-дена":"51-дена",
+   "51дена":"51-дена",
+   "52-дена":"52-дена",
+   "52дена":"52-дена",
+   "53-дена":"53-дена",
+   "53дена":"53-дена",
+   "54-дена":"54-дена",
+   "54дена":"54-дена",
+   "55-дена":"55-дена",
+   "55дена":"55-дена",
+   "56-дена":"56-дена",
+   "56дена":"56-дена",
+   "57-дена":"57-дена",
+   "57дена":"57-дена",
+   "58-дена":"58-дена",
+   "58дена":"58-дена",
+   "59-дена":"59-дена",
+   "59дена":"59-дена",
+   "5дена":"5-дена",
+   "5месеца":"5-месеца",
+   "6-дена":"6-дена",
+   "6-месеца":"6-месеца",
+   "60-дена":"60-дена",
+   "60дена":"60-дена",
+   "6дена":"6-дена",
+   "6месеца":"6-месеца",
+   "7-дена":"7-дена",
+   "7-месеца":"7-месеца",
+   "7дена":"7-дена",
+   "7месеца":"7-месеца",
+   "8-дена":"8-дена",
+   "8-месеца":"8-месеца",
+   "8дена":"8-дена",
+   "8месеца":"8-месеца",
+   "9-дена":"9-дена",
+   "9-месеца":"9-месеца",
+   "9дена":"9-дена",
+   "9месеца":"9-месеца"
+  },
+  "en":{
+   "1-day":"1-day",
+   "1-month":"1-month",
+   "10-day":"10-days",
+   "10-days":"10-days",
+   "10-month":"10-months",
+   "10-months":"10-months",
+   "10day":"10-days",
+   "10days":"10-days",
+   "10month":"10-months",
+   "10months":"10-months",
+   "11-day":"11-days",
+   "11-days":"11-days",
+   "11-month":"11-months",
+   "11-months":"11-months",
+   "11day":"11-days",
+   "11days":"11-days",
+   "11month":"11-months",
+   "11months":"11-months",
+   "12-day":"12-days",
+   "12-days":"12-days",
+   "12-month":"12-months",
+   "12-months":"12-months",
+   "12day":"12-days",
+   "12days":"12-days",
+   "12month":"12-months",
+   "12months":"12-months",
+   "13-day":"13-days",
+   "13-days":"13-days",
+   "13-month":"13-months",
+   "13-months":"13-months",
+   "13day":"13-days",
+   "13days":"13-days",
+   "13month":"13-months",
+   "13months":"13-months",
+   "14-day":"14-days",
+   "14-days":"14-days",
+   "14-month":"14-months",
+   "14-months":"14-months",
+   "14day":"14-days",
+   "14days":"14-days",
+   "14month":"14-months",
+   "14months":"14-months",
+   "15-day":"15-days",
+   "15-days":"15-days",
+   "15-month":"15-months",
+   "15-months":"15-months",
+   "15day":"15-days",
+   "15days":"15-days",
+   "15month":"15-months",
+   "15months":"15-months",
+   "16-day":"16-days",
+   "16-days":"16-days",
+   "16-month":"16-months",
+   "16-months":"16-months",
+   "16day":"16-days",
+   "16days":"16-days",
+   "16month":"16-months",
+   "16months":"16-months",
+   "17-day":"17-days",
+   "17-days":"17-days",
+   "17-month":"17-months",
+   "17-months":"17-months",
+   "17day":"17-days",
+   "17days":"17-days",
+   "17month":"17-months",
+   "17months":"17-months",
+   "18-day":"18-days",
+   "18-days":"18-days",
+   "18-month":"18-months",
+   "18-months":"18-months",
+   "18day":"18-days",
+   "18days":"18-days",
+   "18month":"18-months",
+   "18months":"18-months",
+   "19-day":"19-days",
+   "19-days":"19-days",
+   "19-month":"19-months",
+   "19-months":"19-months",
+   "19day":"19-days",
+   "19days":"19-days",
+   "19month":"19-months",
+   "19months":"19-months",
+   "1day":"1-day",
+   "1month":"1-month",
+   "2-day":"2-days",
+   "2-days":"2-days",
+   "2-month":"2-months",
+   "2-months":"2-months",
+   "20-day":"20-days",
+   "20-days":"20-days",
+   "20-month":"20-months",
+   "20-months":"20-months",
+   "20day":"20-days",
+   "20days":"20-days",
+   "20month":"20-months",
+   "20months":"20-months",
+   "21-day":"21-days",
+   "21-days":"21-days",
+   "21-month":"21-months",
+   "21-months":"21-months",
+   "21day":"21-days",
+   "21days":"21-days",
+   "21month":"21-months",
+   "21months":"21-months",
+   "22-day":"22-days",
+   "22-days":"22-days",
+   "22-month":"22-months",
+   "22-months":"22-months",
+   "22day":"22-days",
+   "22days":"22-days",
+   "22month":"22-months",
+   "22months":"22-months",
+   "23-day":"23-days",
+   "23-days":"23-days",
+   "23-month":"23-months",
+   "23-months":"23-months",
+   "23day":"23-days",
+   "23days":"23-days",
+   "23month":"23-months",
+   "23months":"23-months",
+   "24-day":"24-days",
+   "24-days":"24-days",
+   "24-month":"24-months",
+   "24-months":"24-months",
+   "24day":"24-days",
+   "24days":"24-days",
+   "24month":"24-months",
+   "24months":"24-months",
+   "25-day":"25-days",
+   "25-days":"25-days",
+   "25-month":"25-months",
+   "25-months":"25-months",
+   "25day":"25-days",
+   "25days":"25-days",
+   "25month":"25-months",
+   "25months":"25-months",
+   "26-day":"26-days",
+   "26-days":"26-days",
+   "26-month":"26-months",
+   "26-months":"26-months",
+   "26day":"26-days",
+   "26days":"26-days",
+   "26month":"26-months",
+   "26months":"26-months",
+   "27-day":"27-days",
+   "27-days":"27-days",
+   "27-month":"27-months",
+   "27-months":"27-months",
+   "27day":"27-days",
+   "27days":"27-days",
+   "27month":"27-months",
+   "27months":"27-months",
+   "28-day":"28-days",
+   "28-days":"28-days",
+   "28-month":"28-months",
+   "28-months":"28-months",
+   "28day":"28-days",
+   "28days":"28-days",
+   "28month":"28-months",
+   "28months":"28-months",
+   "29-day":"29-days",
+   "29-days":"29-days",
+   "29-month":"29-months",
+   "29-months":"29-months",
+   "29day":"29-days",
+   "29days":"29-days",
+   "29month":"29-months",
+   "29months":"29-months",
+   "2day":"2-days",
+   "2days":"2-days",
+   "2month":"2-months",
+   "2months":"2-months",
+   "3-day":"3-days",
+   "3-days":"3-days",
+   "3-month":"3-months",
+   "3-months":"3-months",
+   "30-day":"30-days",
+   "30-days":"30-days",
+   "30-month":"30-months",
+   "30-months":"30-months",
+   "30day":"30-days",
+   "30days":"30-days",
+   "30month":"30-months",
+   "30months":"30-months",
+   "31-day":"31-days",
+   "31-days":"31-days",
+   "31-month":"31-months",
+   "31-months":"31-months",
+   "31day":"31-days",
+   "31days":"31-days",
+   "31month":"31-months",
+   "31months":"31-months",
+   "32-day":"32-days",
+   "32-days":"32-days",
+   "32-month":"32-months",
+   "32-months":"32-months",
+   "32day":"32-days",
+   "32days":"32-days",
+   "32month":"32-months",
+   "32months":"32-months",
+   "33-day":"33-days",
+   "33-days":"33-days",
+   "33-month":"33-months",
+   "33-months":"33-months",
+   "33day":"33-days",
+   "33days":"33-days",
+   "33month":"33-months",
+   "33months":"33-months",
+   "34-day":"34-days",
+   "34-days":"34-days",
+   "34-month":"34-months",
+   "34-months":"34-months",
+   "34day":"34-days",
+   "34days":"34-days",
+   "34month":"34-months",
+   "34months":"34-months",
+   "35-day":"35-days",
+   "35-days":"35-days",
+   "35-month":"35-months",
+   "35-months":"35-months",
+   "35day":"35-days",
+   "35days":"35-days",
+   "35month":"35-months",
+   "35months":"35-months",
+   "36-day":"36-days",
+   "36-days":"36-days",
+   "36-month":"36-months",
+   "36-months":"36-months",
+   "36day":"36-days",
+   "36days":"36-days",
+   "36month":"36-months",
+   "36months":"36-months",
+   "37-day":"37-days",
+   "37-days":"37-days",
+   "37-month":"37-months",
+   "37-months":"37-months",
+   "37day":"37-days",
+   "37days":"37-days",
+   "37month":"37-months",
+   "37months":"37-months",
+   "38-day":"38-days",
+   "38-days":"38-days",
+   "38-month":"38-months",
+   "38-months":"38-months",
+   "38day":"38-days",
+   "38days":"38-days",
+   "38month":"38-months",
+   "38months":"38-months",
+   "39-day":"39-days",
+   "39-days":"39-days",
+   "39-month":"39-months",
+   "39-months":"39-months",
+   "39day":"39-days",
+   "39days":"39-days",
+   "39month":"39-months",
+   "39months":"39-months",
+   "3day":"3-days",
+   "3days":"3-days",
+   "3month":"3-months",
+   "3months":"3-months",
+   "4-day":"4-days",
+   "4-days":"4-days",
+   "4-month":"4-months",
+   "4-months":"4-months",
+   "40-day":"40-days",
+   "40-days":"40-days",
+   "40-month":"40-months",
+   "40-months":"40-months",
+   "40day":"40-days",
+   "40days":"40-days",
+   "40month":"40-months",
+   "40months":"40-months",
+   "41-day":"41-days",
+   "41-days":"41-days",
+   "41-month":"41-months",
+   "41-months":"41-months",
+   "41day":"41-days",
+   "41days":"41-days",
+   "41month":"41-months",
+   "41months":"41-months",
+   "42-day":"42-days",
+   "42-days":"42-days",
+   "42-month":"42-months",
+   "42-months":"42-months",
+   "42day":"42-days",
+   "42days":"42-days",
+   "42month":"42-months",
+   "42months":"42-months",
+   "43-day":"43-days",
+   "43-days":"43-days",
+   "43-month":"43-months",
+   "43-months":"43-months",
+   "43day":"43-days",
+   "43days":"43-days",
+   "43month":"43-months",
+   "43months":"43-months",
+   "44-day":"44-days",
+   "44-days":"44-days",
+   "44-month":"44-months",
+   "44-months":"44-months",
+   "44day":"44-days",
+   "44days":"44-days",
+   "44month":"44-months",
+   "44months":"44-months",
+   "45-day":"45-days",
+   "45-days":"45-days",
+   "45-month":"45-months",
+   "45-months":"45-months",
+   "45day":"45-days",
+   "45days":"45-days",
+   "45month":"45-months",
+   "45months":"45-months",
+   "46-day":"46-days",
+   "46-days":"46-days",
+   "46-month":"46-months",
+   "46-months":"46-months",
+   "46day":"46-days",
+   "46days":"46-days",
+   "46month":"46-months",
+   "46months":"46-months",
+   "47-day":"47-days",
+   "47-days":"47-days",
+   "47-month":"47-months",
+   "47-months":"47-months",
+   "47day":"47-days",
+   "47days":"47-days",
+   "47month":"47-months",
+   "47months":"47-months",
+   "48-day":"48-days",
+   "48-days":"48-days",
+   "48-month":"48-months",
+   "48-months":"48-months",
+   "48day":"48-days",
+   "48days":"48-days",
+   "48month":"48-months",
+   "48months":"48-months",
+   "49-day":"49-days",
+   "49-days":"49-days",
+   "49day":"49-days",
+   "49days":"49-days",
+   "4day":"4-days",
+   "4days":"4-days",
+   "4month":"4-months",
+   "4months":"4-months",
+   "5-day":"5-days",
+   "5-days":"5-days",
+   "5-month":"5-months",
+   "5-months":"5-months",
+   "50-day":"50-days",
+   "50-days":"50-days",
+   "50day":"50-days",
+   "50days":"50-days",
+   "51-day":"51-days",
+   "51-days":"51-days",
+   "51day":"51-days",
+   "51days":"51-days",
+   "52-day":"52-days",
+   "52-days":"52-days",
+   "52day":"52-days",
+   "52days":"52-days",
+   "53-day":"53-days",
+   "53-days":"53-days",
+   "53day":"53-days",
+   "53days":"53-days",
+   "54-day":"54-days",
+   "54-days":"54-days",
+   "54day":"54-days",
+   "54days":"54-days",
+   "55-day":"55-days",
+   "55-days":"55-days",
+   "55day":"55-days",
+   "55days":"55-days",
+   "56-day":"56-days",
+   "56-days":"56-days",
+   "56day":"56-days",
+   "56days":"56-days",
+   "57-day":"57-days",
+   "57-days":"57-days",
+   "57day":"57-days",
+   "57days":"57-days",
+   "58-day":"58-days",
+   "58-days":"58-days",
+   "58day":"58-days",
+   "58days":"58-days",
+   "59-day":"59-days",
+   "59-days":"59-days",
+   "59day":"59-days",
+   "59days":"59-days",
+   "5day":"5-days",
+   "5days":"5-days",
+   "5month":"5-months",
+   "5months":"5-months",
+   "6-day":"6-days",
+   "6-days":"6-days",
+   "6-month":"6-months",
+   "6-months":"6-months",
+   "60-day":"60-days",
+   "60-days":"60-days",
+   "60day":"60-days",
+   "60days":"60-days",
+   "6day":"6-days",
+   "6days":"6-days",
+   "6month":"6-months",
+   "6months":"6-months",
+   "7-day":"7-days",
+   "7-days":"7-days",
+   "7-month":"7-months",
+   "7-months":"7-months",
+   "7day":"7-days",
+   "7days":"7-days",
+   "7month":"7-months",
+   "7months":"7-months",
+   "8-day":"8-days",
+   "8-days":"8-days",
+   "8-month":"8-months",
+   "8-months":"8-months",
+   "8day":"8-days",
+   "8days":"8-days",
+   "8month":"8-months",
+   "8months":"8-months",
+   "9-day":"9-days",
+   "9-days":"9-days",
+   "9-month":"9-months",
+   "9-months":"9-months",
+   "9day":"9-days",
+   "9days":"9-days",
+   "9month":"9-months",
+   "9months":"9-months"
+  },
+  "fr":{
+   "1-jour":"1-jour",
+   "1-moi":"1-mois",
+   "1-mois":"1-mois",
+   "10-jour":"10-jours",
+   "10-jours":"10-jours",
+   "10-moi":"10-mois",
+   "10-mois":"10-mois",
+   "10jour":"10-jours",
+   "10jours":"10-jours",
+   "10moi":"10-mois",
+   "10mois":"10-mois",
+   "11-jour":"11-jours",
+   "11-jours":"11-jours",
+   "11-moi":"11-mois",
+   "11-mois":"11-mois",
+   "11jour":"11-jours",
+   "11jours":"11-jours",
+   "11moi":"11-mois",
+   "11mois":"11-mois",
+   "12-jour":"12-jours",
+   "12-jours":"12-jours",
+   "12-moi":"12-mois",
+   "12-mois":"12-mois",
+   "12jour":"12-jours",
+   "12jours":"12-jours",
+   "12moi":"12-mois",
+   "12mois":"12-mois",
+   "13-jour":"13-jours",
+   "13-jours":"13-jours",
+   "13-moi":"13-mois",
+   "13-mois":"13-mois",
+   "13jour":"13-jours",
+   "13jours":"13-jours",
+   "13moi":"13-mois",
+   "13mois":"13-mois",
+   "14-jour":"14-jours",
+   "14-jours":"14-jours",
+   "14-moi":"14-mois",
+   "14-mois":"14-mois",
+   "14jour":"14-jours",
+   "14jours":"14-jours",
+   "14moi":"14-mois",
+   "14mois":"14-mois",
+   "15-jour":"15-jours",
+   "15-jours":"15-jours",
+   "15-moi":"15-mois",
+   "15-mois":"15-mois",
+   "15jour":"15-jours",
+   "15jours":"15-jours",
+   "15moi":"15-mois",
+   "15mois":"15-mois",
+   "16-jour":"16-jours",
+   "16-jours":"16-jours",
+   "16-moi":"16-mois",
+   "16-mois":"16-mois",
+   "16jour":"16-jours",
+   "16jours":"16-jours",
+   "16moi":"16-mois",
+   "16mois":"16-mois",
+   "17-jour":"17-jours",
+   "17-jours":"17-jours",
+   "17-moi":"17-mois",
+   "17-mois":"17-mois",
+   "17jour":"17-jours",
+   "17jours":"17-jours",
+   "17moi":"17-mois",
+   "17mois":"17-mois",
+   "18-jour":"18-jours",
+   "18-jours":"18-jours",
+   "18-moi":"18-mois",
+   "18-mois":"18-mois",
+   "18jour":"18-jours",
+   "18jours":"18-jours",
+   "18moi":"18-mois",
+   "18mois":"18-mois",
+   "19-jour":"19-jours",
+   "19-jours":"19-jours",
+   "19-moi":"19-mois",
+   "19-mois":"19-mois",
+   "19jour":"19-jours",
+   "19jours":"19-jours",
+   "19moi":"19-mois",
+   "19mois":"19-mois",
+   "1jour":"1-jour",
+   "1moi":"1-mois",
+   "1mois":"1-mois",
+   "2-jour":"2-jours",
+   "2-jours":"2-jours",
+   "2-moi":"2-mois",
+   "2-mois":"2-mois",
+   "20-jour":"20-jours",
+   "20-jours":"20-jours",
+   "20-moi":"20-mois",
+   "20-mois":"20-mois",
+   "20jour":"20-jours",
+   "20jours":"20-jours",
+   "20moi":"20-mois",
+   "20mois":"20-mois",
+   "21-jour":"21-jours",
+   "21-jours":"21-jours",
+   "21-moi":"21-mois",
+   "21-mois":"21-mois",
+   "21jour":"21-jours",
+   "21jours":"21-jours",
+   "21moi":"21-mois",
+   "21mois":"21-mois",
+   "22-jour":"22-jours",
+   "22-jours":"22-jours",
+   "22-moi":"22-mois",
+   "22-mois":"22-mois",
+   "22jour":"22-jours",
+   "22jours":"22-jours",
+   "22moi":"22-mois",
+   "22mois":"22-mois",
+   "23-jour":"23-jours",
+   "23-jours":"23-jours",
+   "23-moi":"23-mois",
+   "23-mois":"23-mois",
+   "23jour":"23-jours",
+   "23jours":"23-jours",
+   "23moi":"23-mois",
+   "23mois":"23-mois",
+   "24-jour":"24-jours",
+   "24-jours":"24-jours",
+   "24-moi":"24-mois",
+   "24-mois":"24-mois",
+   "24jour":"24-jours",
+   "24jours":"24-jours",
+   "24moi":"24-mois",
+   "24mois":"24-mois",
+   "25-jour":"25-jours",
+   "25-jours":"25-jours",
+   "25-moi":"25-mois",
+   "25-mois":"25-mois",
+   "25jour":"25-jours",
+   "25jours":"25-jours",
+   "25moi":"25-mois",
+   "25mois":"25-mois",
+   "26-jour":"26-jours",
+   "26-jours":"26-jours",
+   "26-moi":"26-mois",
+   "26-mois":"26-mois",
+   "26jour":"26-jours",
+   "26jours":"26-jours",
+   "26moi":"26-mois",
+   "26mois":"26-mois",
+   "27-jour":"27-jours",
+   "27-jours":"27-jours",
+   "27-moi":"27-mois",
+   "27-mois":"27-mois",
+   "27jour":"27-jours",
+   "27jours":"27-jours",
+   "27moi":"27-mois",
+   "27mois":"27-mois",
+   "28-jour":"28-jours",
+   "28-jours":"28-jours",
+   "28-moi":"28-mois",
+   "28-mois":"28-mois",
+   "28jour":"28-jours",
+   "28jours":"28-jours",
+   "28moi":"28-mois",
+   "28mois":"28-mois",
+   "29-jour":"29-jours",
+   "29-jours":"29-jours",
+   "29-moi":"29-mois",
+   "29-mois":"29-mois",
+   "29jour":"29-jours",
+   "29jours":"29-jours",
+   "29moi":"29-mois",
+   "29mois":"29-mois",
+   "2jour":"2-jours",
+   "2jours":"2-jours",
+   "2moi":"2-mois",
+   "2mois":"2-mois",
+   "3-jour":"3-jours",
+   "3-jours":"3-jours",
+   "3-moi":"3-mois",
+   "3-mois":"3-mois",
+   "30-jour":"30-jours",
+   "30-jours":"30-jours",
+   "30-moi":"30-mois",
+   "30-mois":"30-mois",
+   "30jour":"30-jours",
+   "30jours":"30-jours",
+   "30moi":"30-mois",
+   "30mois":"30-mois",
+   "31-jour":"31-jours",
+   "31-jours":"31-jours",
+   "31-moi":"31-mois",
+   "31-mois":"31-mois",
+   "31jour":"31-jours",
+   "31jours":"31-jours",
+   "31moi":"31-mois",
+   "31mois":"31-mois",
+   "32-jour":"32-jours",
+   "32-jours":"32-jours",
+   "32-moi":"32-mois",
+   "32-mois":"32-mois",
+   "32jour":"32-jours",
+   "32jours":"32-jours",
+   "32moi":"32-mois",
+   "32mois":"32-mois",
+   "33-jour":"33-jours",
+   "33-jours":"33-jours",
+   "33-moi":"33-mois",
+   "33-mois":"33-mois",
+   "33jour":"33-jours",
+   "33jours":"33-jours",
+   "33moi":"33-mois",
+   "33mois":"33-mois",
+   "34-jour":"34-jours",
+   "34-jours":"34-jours",
+   "34-moi":"34-mois",
+   "34-mois":"34-mois",
+   "34jour":"34-jours",
+   "34jours":"34-jours",
+   "34moi":"34-mois",
+   "34mois":"34-mois",
+   "35-jour":"35-jours",
+   "35-jours":"35-jours",
+   "35-moi":"35-mois",
+   "35-mois":"35-mois",
+   "35jour":"35-jours",
+   "35jours":"35-jours",
+   "35moi":"35-mois",
+   "35mois":"35-mois",
+   "36-jour":"36-jours",
+   "36-jours":"36-jours",
+   "36-moi":"36-mois",
+   "36-mois":"36-mois",
+   "36jour":"36-jours",
+   "36jours":"36-jours",
+   "36moi":"36-mois",
+   "36mois":"36-mois",
+   "37-jour":"37-jours",
+   "37-jours":"37-jours",
+   "37-moi":"37-mois",
+   "37-mois":"37-mois",
+   "37jour":"37-jours",
+   "37jours":"37-jours",
+   "37moi":"37-mois",
+   "37mois":"37-mois",
+   "38-jour":"38-jours",
+   "38-jours":"38-jours",
+   "38-moi":"38-mois",
+   "38-mois":"38-mois",
+   "38jour":"38-jours",
+   "38jours":"38-jours",
+   "38moi":"38-mois",
+   "38mois":"38-mois",
+   "39-jour":"39-jours",
+   "39-jours":"39-jours",
+   "39-moi":"39-mois",
+   "39-mois":"39-mois",
+   "39jour":"39-jours",
+   "39jours":"39-jours",
+   "39moi":"39-mois",
+   "39mois":"39-mois",
+   "3jour":"3-jours",
+   "3jours":"3-jours",
+   "3moi":"3-mois",
+   "3mois":"3-mois",
+   "4-jour":"4-jours",
+   "4-jours":"4-jours",
+   "4-moi":"4-mois",
+   "4-mois":"4-mois",
+   "40-jour":"40-jours",
+   "40-jours":"40-jours",
+   "40-moi":"40-mois",
+   "40-mois":"40-mois",
+   "40jour":"40-jours",
+   "40jours":"40-jours",
+   "40moi":"40-mois",
+   "40mois":"40-mois",
+   "41-jour":"41-jours",
+   "41-jours":"41-jours",
+   "41-moi":"41-mois",
+   "41-mois":"41-mois",
+   "41jour":"41-jours",
+   "41jours":"41-jours",
+   "41moi":"41-mois",
+   "41mois":"41-mois",
+   "42-jour":"42-jours",
+   "42-jours":"42-jours",
+   "42-moi":"42-mois",
+   "42-mois":"42-mois",
+   "42jour":"42-jours",
+   "42jours":"42-jours",
+   "42moi":"42-mois",
+   "42mois":"42-mois",
+   "43-jour":"43-jours",
+   "43-jours":"43-jours",
+   "43-moi":"43-mois",
+   "43-mois":"43-mois",
+   "43jour":"43-jours",
+   "43jours":"43-jours",
+   "43moi":"43-mois",
+   "43mois":"43-mois",
+   "44-jour":"44-jours",
+   "44-jours":"44-jours",
+   "44-moi":"44-mois",
+   "44-mois":"44-mois",
+   "44jour":"44-jours",
+   "44jours":"44-jours",
+   "44moi":"44-mois",
+   "44mois":"44-mois",
+   "45-jour":"45-jours",
+   "45-jours":"45-jours",
+   "45-moi":"45-mois",
+   "45-mois":"45-mois",
+   "45jour":"45-jours",
+   "45jours":"45-jours",
+   "45moi":"45-mois",
+   "45mois":"45-mois",
+   "46-jour":"46-jours",
+   "46-jours":"46-jours",
+   "46-moi":"46-mois",
+   "46-mois":"46-mois",
+   "46jour":"46-jours",
+   "46jours":"46-jours",
+   "46moi":"46-mois",
+   "46mois":"46-mois",
+   "47-jour":"47-jours",
+   "47-jours":"47-jours",
+   "47-moi":"47-mois",
+   "47-mois":"47-mois",
+   "47jour":"47-jours",
+   "47jours":"47-jours",
+   "47moi":"47-mois",
+   "47mois":"47-mois",
+   "48-jour":"48-jours",
+   "48-jours":"48-jours",
+   "48-moi":"48-mois",
+   "48-mois":"48-mois",
+   "48jour":"48-jours",
+   "48jours":"48-jours",
+   "48moi":"48-mois",
+   "48mois":"48-mois",
+   "49-jour":"49-jours",
+   "49-jours":"49-jours",
+   "49jour":"49-jours",
+   "49jours":"49-jours",
+   "4jour":"4-jours",
+   "4jours":"4-jours",
+   "4moi":"4-mois",
+   "4mois":"4-mois",
+   "5-jour":"5-jours",
+   "5-jours":"5-jours",
+   "5-moi":"5-mois",
+   "5-mois":"5-mois",
+   "50-jour":"50-jours",
+   "50-jours":"50-jours",
+   "50jour":"50-jours",
+   "50jours":"50-jours",
+   "51-jour":"51-jours",
+   "51-jours":"51-jours",
+   "51jour":"51-jours",
+   "51jours":"51-jours",
+   "52-jour":"52-jours",
+   "52-jours":"52-jours",
+   "52jour":"52-jours",
+   "52jours":"52-jours",
+   "53-jour":"53-jours",
+   "53-jours":"53-jours",
+   "53jour":"53-jours",
+   "53jours":"53-jours",
+   "54-jour":"54-jours",
+   "54-jours":"54-jours",
+   "54jour":"54-jours",
+   "54jours":"54-jours",
+   "55-jour":"55-jours",
+   "55-jours":"55-jours",
+   "55jour":"55-jours",
+   "55jours":"55-jours",
+   "56-jour":"56-jours",
+   "56-jours":"56-jours",
+   "56jour":"56-jours",
+   "56jours":"56-jours",
+   "57-jour":"57-jours",
+   "57-jours":"57-jours",
+   "57jour":"57-jours",
+   "57jours":"57-jours",
+   "58-jour":"58-jours",
+   "58-jours":"58-jours",
+   "58jour":"58-jours",
+   "58jours":"58-jours",
+   "59-jour":"59-jours",
+   "59-jours":"59-jours",
+   "59jour":"59-jours",
+   "59jours":"59-jours",
+   "5jour":"5-jours",
+   "5jours":"5-jours",
+   "5moi":"5-mois",
+   "5mois":"5-mois",
+   "6-jour":"6-jours",
+   "6-jours":"6-jours",
+   "6-moi":"6-mois",
+   "6-mois":"6-mois",
+   "60-jour":"60-jours",
+   "60-jours":"60-jours",
+   "60jour":"60-jours",
+   "60jours":"60-jours",
+   "6jour":"6-jours",
+   "6jours":"6-jours",
+   "6moi":"6-mois",
+   "6mois":"6-mois",
+   "7-jour":"7-jours",
+   "7-jours":"7-jours",
+   "7-moi":"7-mois",
+   "7-mois":"7-mois",
+   "7jour":"7-jours",
+   "7jours":"7-jours",
+   "7moi":"7-mois",
+   "7mois":"7-mois",
+   "8-jour":"8-jours",
+   "8-jours":"8-jours",
+   "8-moi":"8-mois",
+   "8-mois":"8-mois",
+   "8jour":"8-jours",
+   "8jours":"8-jours",
+   "8moi":"8-mois",
+   "8mois":"8-mois",
+   "9-jour":"9-jours",
+   "9-jours":"9-jours",
+   "9-moi":"9-mois",
+   "9-mois":"9-mois",
+   "9jour":"9-jours",
+   "9jours":"9-jours",
+   "9moi":"9-mois",
+   "9mois":"9-mois"
+  },
+  "nl":{
+   "1-maand":"1-maand",
+   "10-maanden":"10-maanden",
+   "10maanden":"10-maanden",
+   "11-maanden":"11-maanden",
+   "11maanden":"11-maanden",
+   "12-maanden":"12-maanden",
+   "12maanden":"12-maanden",
+   "13-maanden":"13-maanden",
+   "13maanden":"13-maanden",
+   "14-maanden":"14-maanden",
+   "14maanden":"14-maanden",
+   "15-maanden":"15-maanden",
+   "15maanden":"15-maanden",
+   "16-maanden":"16-maanden",
+   "16maanden":"16-maanden",
+   "17-maanden":"17-maanden",
+   "17maanden":"17-maanden",
+   "1maand":"1-maand",
+   "2-maanden":"2-maanden",
+   "2maanden":"2-maanden",
+   "3-maanden":"3-maanden",
+   "3maanden":"3-maanden",
+   "4-maanden":"4-maanden",
+   "4maanden":"4-maanden",
+   "5-maanden":"5-maanden",
+   "5maanden":"5-maanden",
+   "6-maanden":"6-maanden",
+   "6maanden":"6-maanden",
+   "7-maanden":"7-maanden",
+   "7maanden":"7-maanden",
+   "8-maanden":"8-maanden",
+   "8maanden":"8-maanden",
+   "9-maanden":"9-maanden",
+   "9maanden":"9-maanden"
+  },
+  "pt":{
+   "1-9dias":"1-9dias",
+   "1-dia":"1-dia",
+   "1-mes":"1-mes",
+   "10-dias":"10-dias",
+   "10-meses":"10-meses",
+   "10dias":"10-dias",
+   "10meses":"10-meses",
+   "11-dias":"11-dias",
+   "11-meses":"11-meses",
+   "11dias":"11-dias",
+   "11meses":"11-meses",
+   "12-dias":"12-dias",
+   "12-meses":"12-meses",
+   "12dias":"12-dias",
+   "12meses":"12-meses",
+   "13-dias":"13-dias",
+   "13-meses":"13-meses",
+   "13dias":"13-dias",
+   "13meses":"13-meses",
+   "14-dias":"14-dias",
+   "14-meses":"14-meses",
+   "14dias":"14-dias",
+   "14meses":"14-meses",
+   "15-dias":"15-dias",
+   "15-meses":"15-meses",
+   "15dias":"15-dias",
+   "15meses":"15-meses",
+   "16-dias":"16-dias",
+   "16-meses":"16-meses",
+   "16dias":"16-dias",
+   "16meses":"16-meses",
+   "17-dias":"17-dias",
+   "17-meses":"17-meses",
+   "17dias":"17-dias",
+   "17meses":"17-meses",
+   "18-dias":"18-dias",
+   "18-meses":"18-meses",
+   "18dias":"18-dias",
+   "18meses":"18-meses",
+   "19-meses":"19-meses",
+   "19dias":"1-9dias",
+   "19meses":"19-meses",
+   "1dia":"1-dia",
+   "1mes":"1-mes",
+   "2-dias":"2-dias",
+   "2-meses":"2-meses",
+   "20-dias":"20-dias",
+   "20-meses":"20-meses",
+   "20dias":"20-dias",
+   "20meses":"20-meses",
+   "21-dias":"21-dias",
+   "21-meses":"21-meses",
+   "21dias":"21-dias",
+   "21meses":"21-meses",
+   "22-dias":"22-dias",
+   "22-meses":"22-meses",
+   "22dias":"22-dias",
+   "22meses":"22-meses",
+   "23-dias":"23-dias",
+   "23-meses":"23-meses",
+   "23dias":"23-dias",
+   "23meses":"23-meses",
+   "24-dias":"24-dias",
+   "24-meses":"24-meses",
+   "24dias":"24-dias",
+   "24meses":"24-meses",
+   "25-dias":"25-dias",
+   "25-meses":"25-meses",
+   "25dias":"25-dias",
+   "25meses":"25-meses",
+   "26-dias":"26-dias",
+   "26-meses":"26-meses",
+   "26dias":"26-dias",
+   "26meses":"26-meses",
+   "27-dias":"27-dias",
+   "27-meses":"27-meses",
+   "27dias":"27-dias",
+   "27meses":"27-meses",
+   "28-dias":"28-dias",
+   "28-meses":"28-meses",
+   "28dias":"28-dias",
+   "28meses":"28-meses",
+   "29-dias":"29-dias",
+   "29-meses":"29-meses",
+   "29dias":"29-dias",
+   "29meses":"29-meses",
+   "2dias":"2-dias",
+   "2meses":"2-meses",
+   "3-dias":"3-dias",
+   "3-meses":"3-meses",
+   "30-dias":"30-dias",
+   "30-meses":"30-meses",
+   "30dias":"30-dias",
+   "30meses":"30-meses",
+   "31-dias":"31-dias",
+   "31-meses":"31-meses",
+   "31dias":"31-dias",
+   "31meses":"31-meses",
+   "32-dias":"32-dias",
+   "32-meses":"32-meses",
+   "32dias":"32-dias",
+   "32meses":"32-meses",
+   "33-dias":"33-dias",
+   "33-meses":"33-meses",
+   "33dias":"33-dias",
+   "33meses":"33-meses",
+   "34-dias":"34-dias",
+   "34-meses":"34-meses",
+   "34dias":"34-dias",
+   "34meses":"34-meses",
+   "35-dias":"35-dias",
+   "35-meses":"35-meses",
+   "35dias":"35-dias",
+   "35meses":"35-meses",
+   "36-dias":"36-dias",
+   "36-meses":"36-meses",
+   "36dias":"36-dias",
+   "36meses":"36-meses",
+   "37-dias":"37-dias",
+   "37-meses":"37-meses",
+   "37dias":"37-dias",
+   "37meses":"37-meses",
+   "38-dias":"38-dias",
+   "38-meses":"38-meses",
+   "38dias":"38-dias",
+   "38meses":"38-meses",
+   "39-dias":"39-dias",
+   "39-meses":"39-meses",
+   "39dias":"39-dias",
+   "39meses":"39-meses",
+   "3dias":"3-dias",
+   "3meses":"3-meses",
+   "4-dias":"4-dias",
+   "4-meses":"4-meses",
+   "40-dias":"40-dias",
+   "40-meses":"40-meses",
+   "40dias":"40-dias",
+   "40meses":"40-meses",
+   "41-dias":"41-dias",
+   "41-meses":"41-meses",
+   "41dias":"41-dias",
+   "41meses":"41-meses",
+   "42-dias":"42-dias",
+   "42-meses":"42-meses",
+   "42dias":"42-dias",
+   "42meses":"42-meses",
+   "43-dias":"43-dias",
+   "43-meses":"43-meses",
+   "43dias":"43-dias",
+   "43meses":"43-meses",
+   "44-dias":"44-dias",
+   "44-meses":"44-meses",
+   "44dias":"44-dias",
+   "44meses":"44-meses",
+   "45-dias":"45-dias",
+   "45-meses":"45-meses",
+   "45dias":"45-dias",
+   "45meses":"45-meses",
+   "46-dias":"46-dias",
+   "46-meses":"46-meses",
+   "46dias":"46-dias",
+   "46meses":"46-meses",
+   "47-dias":"47-dias",
+   "47-meses":"47-meses",
+   "47dias":"47-dias",
+   "47meses":"47-meses",
+   "48-dias":"48-dias",
+   "48-meses":"48-meses",
+   "48dias":"48-dias",
+   "48meses":"48-meses",
+   "49-dias":"49-dias",
+   "49dias":"49-dias",
+   "4dias":"4-dias",
+   "4meses":"4-meses",
+   "5-dias":"5-dias",
+   "5-meses":"5-meses",
+   "50-dias":"50-dias",
+   "50dias":"50-dias",
+   "51-dias":"51-dias",
+   "51dias":"51-dias",
+   "52-dias":"52-dias",
+   "52dias":"52-dias",
+   "53-dias":"53-dias",
+   "53dias":"53-dias",
+   "54-dias":"54-dias",
+   "54dias":"54-dias",
+   "55-dias":"55-dias",
+   "55dias":"55-dias",
+   "56-dias":"56-dias",
+   "56dias":"56-dias",
+   "57-dias":"57-dias",
+   "57dias":"57-dias",
+   "58-dias":"58-dias",
+   "58dias":"58-dias",
+   "59-dias":"59-dias",
+   "59dias":"59-dias",
+   "5dias":"5-dias",
+   "5meses":"5-meses",
+   "6-dias":"6-dias",
+   "6-meses":"6-meses",
+   "60-dias":"60-dias",
+   "60dias":"60-dias",
+   "6dias":"6-dias",
+   "6meses":"6-meses",
+   "7-dias":"7-dias",
+   "7-meses":"7-meses",
+   "7dias":"7-dias",
+   "7meses":"7-meses",
+   "8-dias":"8-dias",
+   "8-meses":"8-meses",
+   "8dias":"8-dias",
+   "8meses":"8-meses",
+   "9-dias":"9-dias",
+   "9-meses":"9-meses",
+   "9dias":"9-dias",
+   "9meses":"9-meses"
+  },
+  "xx":{
+   "1":"1-m",
+   "1-d":"1-d",
+   "1-day":"1-d",
+   "1-days":"1-d",
+   "1-m":"1-m",
+   "1-m-day":"1-d",
+   "1-m-days":"1-d",
+   "1-month":"1-m",
+   "1-month-day":"1-d",
+   "1-month-days":"1-d",
+   "1-months":"1-m",
+   "1-months-day":"1-d",
+   "1-months-days":"1-d",
+   "10":"10-m",
+   "10-d":"10-d",
+   "10-day":"10-d",
+   "10-days":"10-d",
+   "10-m":"10-m",
+   "10-m-day":"10-d",
+   "10-m-days":"10-d",
+   "10-month":"10-m",
+   "10-month-day":"10-d",
+   "10-month-days":"10-d",
+   "10-months":"10-m",
+   "10-months-day":"10-d",
+   "10-months-days":"10-d",
+   "10d":"10-d",
+   "10day":"10-d",
+   "10days":"10-d",
+   "10m":"10-m",
+   "10m-day":"10-d",
+   "10m-days":"10-d",
+   "10month":"10-m",
+   "10month-day":"10-d",
+   "10month-days":"10-d",
+   "10months":"10-m",
+   "10months-day":"10-d",
+   "10months-days":"10-d",
+   "11":"11-m",
+   "11-d":"11-d",
+   "11-day":"11-d",
+   "11-days":"11-d",
+   "11-m":"11-m",
+   "11-m-day":"11-d",
+   "11-m-days":"11-d",
+   "11-month":"11-m",
+   "11-month-day":"11-d",
+   "11-month-days":"11-d",
+   "11-months":"11-m",
+   "11-months-day":"11-d",
+   "11-months-days":"11-d",
+   "11d":"11-d",
+   "11day":"11-d",
+   "11days":"11-d",
+   "11m":"11-m",
+   "11m-day":"11-d",
+   "11m-days":"11-d",
+   "11month":"11-m",
+   "11month-day":"11-d",
+   "11month-days":"11-d",
+   "11months":"11-m",
+   "11months-day":"11-d",
+   "11months-days":"11-d",
+   "12":"12-m",
+   "12-d":"12-d",
+   "12-day":"12-d",
+   "12-days":"12-d",
+   "12-m":"12-m",
+   "12-m-day":"12-d",
+   "12-m-days":"12-d",
+   "12-month":"12-m",
+   "12-month-day":"12-d",
+   "12-month-days":"12-d",
+   "12-months":"12-m",
+   "12-months-day":"12-d",
+   "12-months-days":"12-d",
+   "12d":"12-d",
+   "12day":"12-d",
+   "12days":"12-d",
+   "12m":"12-m",
+   "12m-day":"12-d",
+   "12m-days":"12-d",
+   "12month":"12-m",
+   "12month-day":"12-d",
+   "12month-days":"12-d",
+   "12months":"12-m",
+   "12months-day":"12-d",
+   "12months-days":"12-d",
+   "13":"13-m",
+   "13-d":"13-d",
+   "13-day":"13-d",
+   "13-days":"13-d",
+   "13-m":"13-m",
+   "13-m-day":"13-d",
+   "13-m-days":"13-d",
+   "13-month":"13-m",
+   "13-month-day":"13-d",
+   "13-month-days":"13-d",
+   "13-months":"13-m",
+   "13-months-day":"13-d",
+   "13-months-days":"13-d",
+   "13d":"13-d",
+   "13day":"13-d",
+   "13days":"13-d",
+   "13m":"13-m",
+   "13m-day":"13-d",
+   "13m-days":"13-d",
+   "13month":"13-m",
+   "13month-day":"13-d",
+   "13month-days":"13-d",
+   "13months":"13-m",
+   "13months-day":"13-d",
+   "13months-days":"13-d",
+   "14":"14-m",
+   "14-d":"14-d",
+   "14-day":"14-d",
+   "14-days":"14-d",
+   "14-m":"14-m",
+   "14-m-day":"14-d",
+   "14-m-days":"14-d",
+   "14-month":"14-m",
+   "14-month-day":"14-d",
+   "14-month-days":"14-d",
+   "14-months":"14-m",
+   "14-months-day":"14-d",
+   "14-months-days":"14-d",
+   "14d":"14-d",
+   "14day":"14-d",
+   "14days":"14-d",
+   "14m":"14-m",
+   "14m-day":"14-d",
+   "14m-days":"14-d",
+   "14month":"14-m",
+   "14month-day":"14-d",
+   "14month-days":"14-d",
+   "14months":"14-m",
+   "14months-day":"14-d",
+   "14months-days":"14-d",
+   "15":"15-m",
+   "15-d":"15-d",
+   "15-day":"15-d",
+   "15-days":"15-d",
+   "15-m":"15-m",
+   "15-m-day":"15-d",
+   "15-m-days":"15-d",
+   "15-month":"15-m",
+   "15-month-day":"15-d",
+   "15-month-days":"15-d",
+   "15-months":"15-m",
+   "15-months-day":"15-d",
+   "15-months-days":"15-d",
+   "15d":"15-d",
+   "15day":"15-d",
+   "15days":"15-d",
+   "15m":"15-m",
+   "15m-day":"15-d",
+   "15m-days":"15-d",
+   "15month":"15-m",
+   "15month-day":"15-d",
+   "15month-days":"15-d",
+   "15months":"15-m",
+   "15months-day":"15-d",
+   "15months-days":"15-d",
+   "16":"16-m",
+   "16-d":"16-d",
+   "16-day":"16-d",
+   "16-days":"16-d",
+   "16-m":"16-m",
+   "16-m-day":"16-d",
+   "16-m-days":"16-d",
+   "16-month":"16-m",
+   "16-month-day":"16-d",
+   "16-month-days":"16-d",
+   "16-months":"16-m",
+   "16-months-day":"16-d",
+   "16-months-days":"16-d",
+   "16d":"16-d",
+   "16day":"16-d",
+   "16days":"16-d",
+   "16m":"16-m",
+   "16m-day":"16-d",
+   "16m-days":"16-d",
+   "16month":"16-m",
+   "16month-day":"16-d",
+   "16month-days":"16-d",
+   "16months":"16-m",
+   "16months-day":"16-d",
+   "16months-days":"16-d",
+   "17":"17-m",
+   "17-d":"17-d",
+   "17-day":"17-d",
+   "17-days":"17-d",
+   "17-m":"17-m",
+   "17-m-day":"17-d",
+   "17-m-days":"17-d",
+   "17-month":"17-m",
+   "17-month-day":"17-d",
+   "17-month-days":"17-d",
+   "17-months":"17-m",
+   "17-months-day":"17-d",
+   "17-months-days":"17-d",
+   "17d":"17-d",
+   "17day":"17-d",
+   "17days":"17-d",
+   "17m":"17-m",
+   "17m-day":"17-d",
+   "17m-days":"17-d",
+   "17month":"17-m",
+   "17month-day":"17-d",
+   "17month-days":"17-d",
+   "17months":"17-m",
+   "17months-day":"17-d",
+   "17months-days":"17-d",
+   "18":"18-m",
+   "18-d":"18-d",
+   "18-day":"18-d",
+   "18-days":"18-d",
+   "18-m":"18-m",
+   "18-m-day":"18-d",
+   "18-m-days":"18-d",
+   "18-month":"18-m",
+   "18-month-day":"18-d",
+   "18-month-days":"18-d",
+   "18-months":"18-m",
+   "18-months-day":"18-d",
+   "18-months-days":"18-d",
+   "18d":"18-d",
+   "18day":"18-d",
+   "18days":"18-d",
+   "18m":"18-m",
+   "18m-day":"18-d",
+   "18m-days":"18-d",
+   "18month":"18-m",
+   "18month-day":"18-d",
+   "18month-days":"18-d",
+   "18months":"18-m",
+   "18months-day":"18-d",
+   "18months-days":"18-d",
+   "19":"19-m",
+   "19-d":"19-d",
+   "19-day":"19-d",
+   "19-days":"19-d",
+   "19-m":"19-m",
+   "19-m-day":"19-d",
+   "19-m-days":"19-d",
+   "19-month":"19-m",
+   "19-month-day":"19-d",
+   "19-month-days":"19-d",
+   "19-months":"19-m",
+   "19-months-day":"19-d",
+   "19-months-days":"19-d",
+   "19d":"19-d",
+   "19day":"19-d",
+   "19days":"19-d",
+   "19m":"19-m",
+   "19m-day":"19-d",
+   "19m-days":"19-d",
+   "19month":"19-m",
+   "19month-day":"19-d",
+   "19month-days":"19-d",
+   "19months":"19-m",
+   "19months-day":"19-d",
+   "19months-days":"19-d",
+   "1d":"1-d",
+   "1day":"1-d",
+   "1days":"1-d",
+   "1m":"1-m",
+   "1m-day":"1-d",
+   "1m-days":"1-d",
+   "1month":"1-m",
+   "1month-day":"1-d",
+   "1month-days":"1-d",
+   "1months":"1-m",
+   "1months-day":"1-d",
+   "1months-days":"1-d",
+   "2":"2-m",
+   "2-d":"2-d",
+   "2-day":"2-d",
+   "2-days":"2-d",
+   "2-m":"2-m",
+   "2-m-day":"2-d",
+   "2-m-days":"2-d",
+   "2-month":"2-m",
+   "2-month-day":"2-d",
+   "2-month-days":"2-d",
+   "2-months":"2-m",
+   "2-months-day":"2-d",
+   "2-months-days":"2-d",
+   "20":"20-m",
+   "20-d":"20-d",
+   "20-day":"20-d",
+   "20-days":"20-d",
+   "20-m":"20-m",
+   "20-m-day":"20-d",
+   "20-m-days":"20-d",
+   "20-month":"20-m",
+   "20-month-day":"20-d",
+   "20-month-days":"20-d",
+   "20-months":"20-m",
+   "20-months-day":"20-d",
+   "20-months-days":"20-d",
+   "20d":"20-d",
+   "20day":"20-d",
+   "20days":"20-d",
+   "20m":"20-m",
+   "20m-day":"20-d",
+   "20m-days":"20-d",
+   "20month":"20-m",
+   "20month-day":"20-d",
+   "20month-days":"20-d",
+   "20months":"20-m",
+   "20months-day":"20-d",
+   "20months-days":"20-d",
+   "21":"21-m",
+   "21-d":"21-d",
+   "21-day":"21-d",
+   "21-days":"21-d",
+   "21-m":"21-m",
+   "21-m-day":"21-d",
+   "21-m-days":"21-d",
+   "21-month":"21-m",
+   "21-month-day":"21-d",
+   "21-month-days":"21-d",
+   "21-months":"21-m",
+   "21-months-day":"21-d",
+   "21-months-days":"21-d",
+   "21d":"21-d",
+   "21day":"21-d",
+   "21days":"21-d",
+   "21m":"21-m",
+   "21m-day":"21-d",
+   "21m-days":"21-d",
+   "21month":"21-m",
+   "21month-day":"21-d",
+   "21month-days":"21-d",
+   "21months":"21-m",
+   "21months-day":"21-d",
+   "21months-days":"21-d",
+   "22":"22-m",
+   "22-d":"22-d",
+   "22-day":"22-d",
+   "22-days":"22-d",
+   "22-m":"22-m",
+   "22-m-day":"22-d",
+   "22-m-days":"22-d",
+   "22-month":"22-m",
+   "22-month-day":"22-d",
+   "22-month-days":"22-d",
+   "22-months":"22-m",
+   "22-months-day":"22-d",
+   "22-months-days":"22-d",
+   "22d":"22-d",
+   "22day":"22-d",
+   "22days":"22-d",
+   "22m":"22-m",
+   "22m-day":"22-d",
+   "22m-days":"22-d",
+   "22month":"22-m",
+   "22month-day":"22-d",
+   "22month-days":"22-d",
+   "22months":"22-m",
+   "22months-day":"22-d",
+   "22months-days":"22-d",
+   "23":"23-m",
+   "23-d":"23-d",
+   "23-day":"23-d",
+   "23-days":"23-d",
+   "23-m":"23-m",
+   "23-m-day":"23-d",
+   "23-m-days":"23-d",
+   "23-month":"23-m",
+   "23-month-day":"23-d",
+   "23-month-days":"23-d",
+   "23-months":"23-m",
+   "23-months-day":"23-d",
+   "23-months-days":"23-d",
+   "23d":"23-d",
+   "23day":"23-d",
+   "23days":"23-d",
+   "23m":"23-m",
+   "23m-day":"23-d",
+   "23m-days":"23-d",
+   "23month":"23-m",
+   "23month-day":"23-d",
+   "23month-days":"23-d",
+   "23months":"23-m",
+   "23months-day":"23-d",
+   "23months-days":"23-d",
+   "24":"24-m",
+   "24-d":"24-d",
+   "24-day":"24-d",
+   "24-days":"24-d",
+   "24-m":"24-m",
+   "24-m-day":"24-d",
+   "24-m-days":"24-d",
+   "24-month":"24-m",
+   "24-month-day":"24-d",
+   "24-month-days":"24-d",
+   "24-months":"24-m",
+   "24-months-day":"24-d",
+   "24-months-days":"24-d",
+   "24d":"24-d",
+   "24day":"24-d",
+   "24days":"24-d",
+   "24m":"24-m",
+   "24m-day":"24-d",
+   "24m-days":"24-d",
+   "24month":"24-m",
+   "24month-day":"24-d",
+   "24month-days":"24-d",
+   "24months":"24-m",
+   "24months-day":"24-d",
+   "24months-days":"24-d",
+   "25":"25-m",
+   "25-d":"25-d",
+   "25-day":"25-d",
+   "25-days":"25-d",
+   "25-m":"25-m",
+   "25-m-day":"25-d",
+   "25-m-days":"25-d",
+   "25-month":"25-m",
+   "25-month-day":"25-d",
+   "25-month-days":"25-d",
+   "25-months":"25-m",
+   "25-months-day":"25-d",
+   "25-months-days":"25-d",
+   "25d":"25-d",
+   "25day":"25-d",
+   "25days":"25-d",
+   "25m":"25-m",
+   "25m-day":"25-d",
+   "25m-days":"25-d",
+   "25month":"25-m",
+   "25month-day":"25-d",
+   "25month-days":"25-d",
+   "25months":"25-m",
+   "25months-day":"25-d",
+   "25months-days":"25-d",
+   "26":"26-m",
+   "26-d":"26-d",
+   "26-day":"26-d",
+   "26-days":"26-d",
+   "26-m":"26-m",
+   "26-m-day":"26-d",
+   "26-m-days":"26-d",
+   "26-month":"26-m",
+   "26-month-day":"26-d",
+   "26-month-days":"26-d",
+   "26-months":"26-m",
+   "26-months-day":"26-d",
+   "26-months-days":"26-d",
+   "26d":"26-d",
+   "26day":"26-d",
+   "26days":"26-d",
+   "26m":"26-m",
+   "26m-day":"26-d",
+   "26m-days":"26-d",
+   "26month":"26-m",
+   "26month-day":"26-d",
+   "26month-days":"26-d",
+   "26months":"26-m",
+   "26months-day":"26-d",
+   "26months-days":"26-d",
+   "27":"27-m",
+   "27-d":"27-d",
+   "27-day":"27-d",
+   "27-days":"27-d",
+   "27-m":"27-m",
+   "27-m-day":"27-d",
+   "27-m-days":"27-d",
+   "27-month":"27-m",
+   "27-month-day":"27-d",
+   "27-month-days":"27-d",
+   "27-months":"27-m",
+   "27-months-day":"27-d",
+   "27-months-days":"27-d",
+   "27d":"27-d",
+   "27day":"27-d",
+   "27days":"27-d",
+   "27m":"27-m",
+   "27m-day":"27-d",
+   "27m-days":"27-d",
+   "27month":"27-m",
+   "27month-day":"27-d",
+   "27month-days":"27-d",
+   "27months":"27-m",
+   "27months-day":"27-d",
+   "27months-days":"27-d",
+   "28":"28-m",
+   "28-d":"28-d",
+   "28-day":"28-d",
+   "28-days":"28-d",
+   "28-m":"28-m",
+   "28-m-day":"28-d",
+   "28-m-days":"28-d",
+   "28-month":"28-m",
+   "28-month-day":"28-d",
+   "28-month-days":"28-d",
+   "28-months":"28-m",
+   "28-months-day":"28-d",
+   "28-months-days":"28-d",
+   "28d":"28-d",
+   "28day":"28-d",
+   "28days":"28-d",
+   "28m":"28-m",
+   "28m-day":"28-d",
+   "28m-days":"28-d",
+   "28month":"28-m",
+   "28month-day":"28-d",
+   "28month-days":"28-d",
+   "28months":"28-m",
+   "28months-day":"28-d",
+   "28months-days":"28-d",
+   "29":"29-m",
+   "29-d":"29-d",
+   "29-day":"29-d",
+   "29-days":"29-d",
+   "29-m":"29-m",
+   "29-m-day":"29-d",
+   "29-m-days":"29-d",
+   "29-month":"29-m",
+   "29-month-day":"29-d",
+   "29-month-days":"29-d",
+   "29-months":"29-m",
+   "29-months-day":"29-d",
+   "29-months-days":"29-d",
+   "29d":"29-d",
+   "29day":"29-d",
+   "29days":"29-d",
+   "29m":"29-m",
+   "29m-day":"29-d",
+   "29m-days":"29-d",
+   "29month":"29-m",
+   "29month-day":"29-d",
+   "29month-days":"29-d",
+   "29months":"29-m",
+   "29months-day":"29-d",
+   "29months-days":"29-d",
+   "2d":"2-d",
+   "2day":"2-d",
+   "2days":"2-d",
+   "2m":"2-m",
+   "2m-day":"2-d",
+   "2m-days":"2-d",
+   "2month":"2-m",
+   "2month-day":"2-d",
+   "2month-days":"2-d",
+   "2months":"2-m",
+   "2months-day":"2-d",
+   "2months-days":"2-d",
+   "3":"3-m",
+   "3-d":"3-d",
+   "3-day":"3-d",
+   "3-days":"3-d",
+   "3-m":"3-m",
+   "3-m-day":"3-d",
+   "3-m-days":"3-d",
+   "3-month":"3-m",
+   "3-month-day":"3-d",
+   "3-month-days":"3-d",
+   "3-months":"3-m",
+   "3-months-day":"3-d",
+   "3-months-days":"3-d",
+   "30":"30-m",
+   "30-d":"30-d",
+   "30-day":"30-d",
+   "30-days":"30-d",
+   "30-m":"30-m",
+   "30-m-day":"30-d",
+   "30-m-days":"30-d",
+   "30-month":"30-m",
+   "30-month-day":"30-d",
+   "30-month-days":"30-d",
+   "30-months":"30-m",
+   "30-months-day":"30-d",
+   "30-months-days":"30-d",
+   "30d":"30-d",
+   "30day":"30-d",
+   "30days":"30-d",
+   "30m":"30-m",
+   "30m-day":"30-d",
+   "30m-days":"30-d",
+   "30month":"30-m",
+   "30month-day":"30-d",
+   "30month-days":"30-d",
+   "30months":"30-m",
+   "30months-day":"30-d",
+   "30months-days":"30-d",
+   "31":"31-m",
+   "31-d":"31-d",
+   "31-day":"31-d",
+   "31-days":"31-d",
+   "31-m":"31-m",
+   "31-m-day":"31-d",
+   "31-m-days":"31-d",
+   "31-month":"31-m",
+   "31-month-day":"31-d",
+   "31-month-days":"31-d",
+   "31-months":"31-m",
+   "31-months-day":"31-d",
+   "31-months-days":"31-d",
+   "31d":"31-d",
+   "31day":"31-d",
+   "31days":"31-d",
+   "31m":"31-m",
+   "31m-day":"31-d",
+   "31m-days":"31-d",
+   "31month":"31-m",
+   "31month-day":"31-d",
+   "31month-days":"31-d",
+   "31months":"31-m",
+   "31months-day":"31-d",
+   "31months-days":"31-d",
+   "32":"32-m",
+   "32-d":"32-d",
+   "32-day":"32-d",
+   "32-days":"32-d",
+   "32-m":"32-m",
+   "32-m-day":"32-d",
+   "32-m-days":"32-d",
+   "32-month":"32-m",
+   "32-month-day":"32-d",
+   "32-month-days":"32-d",
+   "32-months":"32-m",
+   "32-months-day":"32-d",
+   "32-months-days":"32-d",
+   "32d":"32-d",
+   "32day":"32-d",
+   "32days":"32-d",
+   "32m":"32-m",
+   "32m-day":"32-d",
+   "32m-days":"32-d",
+   "32month":"32-m",
+   "32month-day":"32-d",
+   "32month-days":"32-d",
+   "32months":"32-m",
+   "32months-day":"32-d",
+   "32months-days":"32-d",
+   "33":"33-m",
+   "33-d":"33-d",
+   "33-day":"33-d",
+   "33-days":"33-d",
+   "33-m":"33-m",
+   "33-m-day":"33-d",
+   "33-m-days":"33-d",
+   "33-month":"33-m",
+   "33-month-day":"33-d",
+   "33-month-days":"33-d",
+   "33-months":"33-m",
+   "33-months-day":"33-d",
+   "33-months-days":"33-d",
+   "33d":"33-d",
+   "33day":"33-d",
+   "33days":"33-d",
+   "33m":"33-m",
+   "33m-day":"33-d",
+   "33m-days":"33-d",
+   "33month":"33-m",
+   "33month-day":"33-d",
+   "33month-days":"33-d",
+   "33months":"33-m",
+   "33months-day":"33-d",
+   "33months-days":"33-d",
+   "34":"34-m",
+   "34-d":"34-d",
+   "34-day":"34-d",
+   "34-days":"34-d",
+   "34-m":"34-m",
+   "34-m-day":"34-d",
+   "34-m-days":"34-d",
+   "34-month":"34-m",
+   "34-month-day":"34-d",
+   "34-month-days":"34-d",
+   "34-months":"34-m",
+   "34-months-day":"34-d",
+   "34-months-days":"34-d",
+   "34d":"34-d",
+   "34day":"34-d",
+   "34days":"34-d",
+   "34m":"34-m",
+   "34m-day":"34-d",
+   "34m-days":"34-d",
+   "34month":"34-m",
+   "34month-day":"34-d",
+   "34month-days":"34-d",
+   "34months":"34-m",
+   "34months-day":"34-d",
+   "34months-days":"34-d",
+   "35":"35-m",
+   "35-d":"35-d",
+   "35-day":"35-d",
+   "35-days":"35-d",
+   "35-m":"35-m",
+   "35-m-day":"35-d",
+   "35-m-days":"35-d",
+   "35-month":"35-m",
+   "35-month-day":"35-d",
+   "35-month-days":"35-d",
+   "35-months":"35-m",
+   "35-months-day":"35-d",
+   "35-months-days":"35-d",
+   "35d":"35-d",
+   "35day":"35-d",
+   "35days":"35-d",
+   "35m":"35-m",
+   "35m-day":"35-d",
+   "35m-days":"35-d",
+   "35month":"35-m",
+   "35month-day":"35-d",
+   "35month-days":"35-d",
+   "35months":"35-m",
+   "35months-day":"35-d",
+   "35months-days":"35-d",
+   "36":"36-m",
+   "36-d":"36-d",
+   "36-day":"36-d",
+   "36-days":"36-d",
+   "36-m":"36-m",
+   "36-m-day":"36-d",
+   "36-m-days":"36-d",
+   "36-month":"36-m",
+   "36-month-day":"36-d",
+   "36-month-days":"36-d",
+   "36-months":"36-m",
+   "36-months-day":"36-d",
+   "36-months-days":"36-d",
+   "36d":"36-d",
+   "36day":"36-d",
+   "36days":"36-d",
+   "36m":"36-m",
+   "36m-day":"36-d",
+   "36m-days":"36-d",
+   "36month":"36-m",
+   "36month-day":"36-d",
+   "36month-days":"36-d",
+   "36months":"36-m",
+   "36months-day":"36-d",
+   "36months-days":"36-d",
+   "37":"37-m",
+   "37-d":"37-d",
+   "37-day":"37-d",
+   "37-days":"37-d",
+   "37-m":"37-m",
+   "37-m-day":"37-d",
+   "37-m-days":"37-d",
+   "37-month":"37-m",
+   "37-month-day":"37-d",
+   "37-month-days":"37-d",
+   "37-months":"37-m",
+   "37-months-day":"37-d",
+   "37-months-days":"37-d",
+   "37d":"37-d",
+   "37day":"37-d",
+   "37days":"37-d",
+   "37m":"37-m",
+   "37m-day":"37-d",
+   "37m-days":"37-d",
+   "37month":"37-m",
+   "37month-day":"37-d",
+   "37month-days":"37-d",
+   "37months":"37-m",
+   "37months-day":"37-d",
+   "37months-days":"37-d",
+   "38":"38-m",
+   "38-d":"38-d",
+   "38-day":"38-d",
+   "38-days":"38-d",
+   "38-m":"38-m",
+   "38-m-day":"38-d",
+   "38-m-days":"38-d",
+   "38-month":"38-m",
+   "38-month-day":"38-d",
+   "38-month-days":"38-d",
+   "38-months":"38-m",
+   "38-months-day":"38-d",
+   "38-months-days":"38-d",
+   "38d":"38-d",
+   "38day":"38-d",
+   "38days":"38-d",
+   "38m":"38-m",
+   "38m-day":"38-d",
+   "38m-days":"38-d",
+   "38month":"38-m",
+   "38month-day":"38-d",
+   "38month-days":"38-d",
+   "38months":"38-m",
+   "38months-day":"38-d",
+   "38months-days":"38-d",
+   "39":"39-m",
+   "39-d":"39-d",
+   "39-day":"39-d",
+   "39-days":"39-d",
+   "39-m":"39-m",
+   "39-m-day":"39-d",
+   "39-m-days":"39-d",
+   "39-month":"39-m",
+   "39-month-day":"39-d",
+   "39-month-days":"39-d",
+   "39-months":"39-m",
+   "39-months-day":"39-d",
+   "39-months-days":"39-d",
+   "39d":"39-d",
+   "39day":"39-d",
+   "39days":"39-d",
+   "39m":"39-m",
+   "39m-day":"39-d",
+   "39m-days":"39-d",
+   "39month":"39-m",
+   "39month-day":"39-d",
+   "39month-days":"39-d",
+   "39months":"39-m",
+   "39months-day":"39-d",
+   "39months-days":"39-d",
+   "3d":"3-d",
+   "3day":"3-d",
+   "3days":"3-d",
+   "3m":"3-m",
+   "3m-day":"3-d",
+   "3m-days":"3-d",
+   "3month":"3-m",
+   "3month-day":"3-d",
+   "3month-days":"3-d",
+   "3months":"3-m",
+   "3months-day":"3-d",
+   "3months-days":"3-d",
+   "4":"4-m",
+   "4-d":"4-d",
+   "4-day":"4-d",
+   "4-days":"4-d",
+   "4-m":"4-m",
+   "4-m-day":"4-d",
+   "4-m-days":"4-d",
+   "4-month":"4-m",
+   "4-month-day":"4-d",
+   "4-month-days":"4-d",
+   "4-months":"4-m",
+   "4-months-day":"4-d",
+   "4-months-days":"4-d",
+   "40":"40-m",
+   "40-d":"40-d",
+   "40-day":"40-d",
+   "40-days":"40-d",
+   "40-m":"40-m",
+   "40-m-day":"40-d",
+   "40-m-days":"40-d",
+   "40-month":"40-m",
+   "40-month-day":"40-d",
+   "40-month-days":"40-d",
+   "40-months":"40-m",
+   "40-months-day":"40-d",
+   "40-months-days":"40-d",
+   "40d":"40-d",
+   "40day":"40-d",
+   "40days":"40-d",
+   "40m":"40-m",
+   "40m-day":"40-d",
+   "40m-days":"40-d",
+   "40month":"40-m",
+   "40month-day":"40-d",
+   "40month-days":"40-d",
+   "40months":"40-m",
+   "40months-day":"40-d",
+   "40months-days":"40-d",
+   "41":"41-m",
+   "41-d":"41-d",
+   "41-day":"41-d",
+   "41-days":"41-d",
+   "41-m":"41-m",
+   "41-m-day":"41-d",
+   "41-m-days":"41-d",
+   "41-month":"41-m",
+   "41-month-day":"41-d",
+   "41-month-days":"41-d",
+   "41-months":"41-m",
+   "41-months-day":"41-d",
+   "41-months-days":"41-d",
+   "41d":"41-d",
+   "41day":"41-d",
+   "41days":"41-d",
+   "41m":"41-m",
+   "41m-day":"41-d",
+   "41m-days":"41-d",
+   "41month":"41-m",
+   "41month-day":"41-d",
+   "41month-days":"41-d",
+   "41months":"41-m",
+   "41months-day":"41-d",
+   "41months-days":"41-d",
+   "42":"42-m",
+   "42-d":"42-d",
+   "42-day":"42-d",
+   "42-days":"42-d",
+   "42-m":"42-m",
+   "42-m-day":"42-d",
+   "42-m-days":"42-d",
+   "42-month":"42-m",
+   "42-month-day":"42-d",
+   "42-month-days":"42-d",
+   "42-months":"42-m",
+   "42-months-day":"42-d",
+   "42-months-days":"42-d",
+   "42d":"42-d",
+   "42day":"42-d",
+   "42days":"42-d",
+   "42m":"42-m",
+   "42m-day":"42-d",
+   "42m-days":"42-d",
+   "42month":"42-m",
+   "42month-day":"42-d",
+   "42month-days":"42-d",
+   "42months":"42-m",
+   "42months-day":"42-d",
+   "42months-days":"42-d",
+   "43":"43-m",
+   "43-d":"43-d",
+   "43-day":"43-d",
+   "43-days":"43-d",
+   "43-m":"43-m",
+   "43-m-day":"43-d",
+   "43-m-days":"43-d",
+   "43-month":"43-m",
+   "43-month-day":"43-d",
+   "43-month-days":"43-d",
+   "43-months":"43-m",
+   "43-months-day":"43-d",
+   "43-months-days":"43-d",
+   "43d":"43-d",
+   "43day":"43-d",
+   "43days":"43-d",
+   "43m":"43-m",
+   "43m-day":"43-d",
+   "43m-days":"43-d",
+   "43month":"43-m",
+   "43month-day":"43-d",
+   "43month-days":"43-d",
+   "43months":"43-m",
+   "43months-day":"43-d",
+   "43months-days":"43-d",
+   "44":"44-m",
+   "44-d":"44-d",
+   "44-day":"44-d",
+   "44-days":"44-d",
+   "44-m":"44-m",
+   "44-m-day":"44-d",
+   "44-m-days":"44-d",
+   "44-month":"44-m",
+   "44-month-day":"44-d",
+   "44-month-days":"44-d",
+   "44-months":"44-m",
+   "44-months-day":"44-d",
+   "44-months-days":"44-d",
+   "44d":"44-d",
+   "44day":"44-d",
+   "44days":"44-d",
+   "44m":"44-m",
+   "44m-day":"44-d",
+   "44m-days":"44-d",
+   "44month":"44-m",
+   "44month-day":"44-d",
+   "44month-days":"44-d",
+   "44months":"44-m",
+   "44months-day":"44-d",
+   "44months-days":"44-d",
+   "45":"45-m",
+   "45-d":"45-d",
+   "45-day":"45-d",
+   "45-days":"45-d",
+   "45-m":"45-m",
+   "45-m-day":"45-d",
+   "45-m-days":"45-d",
+   "45-month":"45-m",
+   "45-month-day":"45-d",
+   "45-month-days":"45-d",
+   "45-months":"45-m",
+   "45-months-day":"45-d",
+   "45-months-days":"45-d",
+   "45d":"45-d",
+   "45day":"45-d",
+   "45days":"45-d",
+   "45m":"45-m",
+   "45m-day":"45-d",
+   "45m-days":"45-d",
+   "45month":"45-m",
+   "45month-day":"45-d",
+   "45month-days":"45-d",
+   "45months":"45-m",
+   "45months-day":"45-d",
+   "45months-days":"45-d",
+   "46":"46-m",
+   "46-d":"46-d",
+   "46-day":"46-d",
+   "46-days":"46-d",
+   "46-m":"46-m",
+   "46-m-day":"46-d",
+   "46-m-days":"46-d",
+   "46-month":"46-m",
+   "46-month-day":"46-d",
+   "46-month-days":"46-d",
+   "46-months":"46-m",
+   "46-months-day":"46-d",
+   "46-months-days":"46-d",
+   "46d":"46-d",
+   "46day":"46-d",
+   "46days":"46-d",
+   "46m":"46-m",
+   "46m-day":"46-d",
+   "46m-days":"46-d",
+   "46month":"46-m",
+   "46month-day":"46-d",
+   "46month-days":"46-d",
+   "46months":"46-m",
+   "46months-day":"46-d",
+   "46months-days":"46-d",
+   "47":"47-m",
+   "47-d":"47-d",
+   "47-day":"47-d",
+   "47-days":"47-d",
+   "47-m":"47-m",
+   "47-m-day":"47-d",
+   "47-m-days":"47-d",
+   "47-month":"47-m",
+   "47-month-day":"47-d",
+   "47-month-days":"47-d",
+   "47-months":"47-m",
+   "47-months-day":"47-d",
+   "47-months-days":"47-d",
+   "47d":"47-d",
+   "47day":"47-d",
+   "47days":"47-d",
+   "47m":"47-m",
+   "47m-day":"47-d",
+   "47m-days":"47-d",
+   "47month":"47-m",
+   "47month-day":"47-d",
+   "47month-days":"47-d",
+   "47months":"47-m",
+   "47months-day":"47-d",
+   "47months-days":"47-d",
+   "48":"48-m",
+   "48-d":"48-d",
+   "48-day":"48-d",
+   "48-days":"48-d",
+   "48-m":"48-m",
+   "48-m-day":"48-d",
+   "48-m-days":"48-d",
+   "48-month":"48-m",
+   "48-month-day":"48-d",
+   "48-month-days":"48-d",
+   "48-months":"48-m",
+   "48-months-day":"48-d",
+   "48-months-days":"48-d",
+   "48d":"48-d",
+   "48day":"48-d",
+   "48days":"48-d",
+   "48m":"48-m",
+   "48m-day":"48-d",
+   "48m-days":"48-d",
+   "48month":"48-m",
+   "48month-day":"48-d",
+   "48month-days":"48-d",
+   "48months":"48-m",
+   "48months-day":"48-d",
+   "48months-days":"48-d",
+   "49-d":"49-d",
+   "49-day":"49-d",
+   "49-days":"49-d",
+   "49d":"49-d",
+   "49day":"49-d",
+   "49days":"49-d",
+   "4d":"4-d",
+   "4day":"4-d",
+   "4days":"4-d",
+   "4m":"4-m",
+   "4m-day":"4-d",
+   "4m-days":"4-d",
+   "4month":"4-m",
+   "4month-day":"4-d",
+   "4month-days":"4-d",
+   "4months":"4-m",
+   "4months-day":"4-d",
+   "4months-days":"4-d",
+   "5":"5-m",
+   "5-d":"5-d",
+   "5-day":"5-d",
+   "5-days":"5-d",
+   "5-m":"5-m",
+   "5-m-day":"5-d",
+   "5-m-days":"5-d",
+   "5-month":"5-m",
+   "5-month-day":"5-d",
+   "5-month-days":"5-d",
+   "5-months":"5-m",
+   "5-months-day":"5-d",
+   "5-months-days":"5-d",
+   "50-d":"50-d",
+   "50-day":"50-d",
+   "50-days":"50-d",
+   "50d":"50-d",
+   "50day":"50-d",
+   "50days":"50-d",
+   "51-d":"51-d",
+   "51-day":"51-d",
+   "51-days":"51-d",
+   "51d":"51-d",
+   "51day":"51-d",
+   "51days":"51-d",
+   "52-d":"52-d",
+   "52-day":"52-d",
+   "52-days":"52-d",
+   "52d":"52-d",
+   "52day":"52-d",
+   "52days":"52-d",
+   "53-d":"53-d",
+   "53-day":"53-d",
+   "53-days":"53-d",
+   "53d":"53-d",
+   "53day":"53-d",
+   "53days":"53-d",
+   "54-d":"54-d",
+   "54-day":"54-d",
+   "54-days":"54-d",
+   "54d":"54-d",
+   "54day":"54-d",
+   "54days":"54-d",
+   "55-d":"55-d",
+   "55-day":"55-d",
+   "55-days":"55-d",
+   "55d":"55-d",
+   "55day":"55-d",
+   "55days":"55-d",
+   "56-d":"56-d",
+   "56-day":"56-d",
+   "56-days":"56-d",
+   "56d":"56-d",
+   "56day":"56-d",
+   "56days":"56-d",
+   "57-d":"57-d",
+   "57-day":"57-d",
+   "57-days":"57-d",
+   "57d":"57-d",
+   "57day":"57-d",
+   "57days":"57-d",
+   "58-d":"58-d",
+   "58-day":"58-d",
+   "58-days":"58-d",
+   "58d":"58-d",
+   "58day":"58-d",
+   "58days":"58-d",
+   "59-d":"59-d",
+   "59-day":"59-d",
+   "59-days":"59-d",
+   "59d":"59-d",
+   "59day":"59-d",
+   "59days":"59-d",
+   "5d":"5-d",
+   "5day":"5-d",
+   "5days":"5-d",
+   "5m":"5-m",
+   "5m-day":"5-d",
+   "5m-days":"5-d",
+   "5month":"5-m",
+   "5month-day":"5-d",
+   "5month-days":"5-d",
+   "5months":"5-m",
+   "5months-day":"5-d",
+   "5months-days":"5-d",
+   "6":"6-m",
+   "6-d":"6-d",
+   "6-day":"6-d",
+   "6-days":"6-d",
+   "6-m":"6-m",
+   "6-m-day":"6-d",
+   "6-m-days":"6-d",
+   "6-month":"6-m",
+   "6-month-day":"6-d",
+   "6-month-days":"6-d",
+   "6-months":"6-m",
+   "6-months-day":"6-d",
+   "6-months-days":"6-d",
+   "60-d":"60-d",
+   "60-day":"60-d",
+   "60-days":"60-d",
+   "60d":"60-d",
+   "60day":"60-d",
+   "60days":"60-d",
+   "6d":"6-d",
+   "6day":"6-d",
+   "6days":"6-d",
+   "6m":"6-m",
+   "6m-day":"6-d",
+   "6m-days":"6-d",
+   "6month":"6-m",
+   "6month-day":"6-d",
+   "6month-days":"6-d",
+   "6months":"6-m",
+   "6months-day":"6-d",
+   "6months-days":"6-d",
+   "7":"7-m",
+   "7-d":"7-d",
+   "7-day":"7-d",
+   "7-days":"7-d",
+   "7-m":"7-m",
+   "7-m-day":"7-d",
+   "7-m-days":"7-d",
+   "7-month":"7-m",
+   "7-month-day":"7-d",
+   "7-month-days":"7-d",
+   "7-months":"7-m",
+   "7-months-day":"7-d",
+   "7-months-days":"7-d",
+   "7d":"7-d",
+   "7day":"7-d",
+   "7days":"7-d",
+   "7m":"7-m",
+   "7m-day":"7-d",
+   "7m-days":"7-d",
+   "7month":"7-m",
+   "7month-day":"7-d",
+   "7month-days":"7-d",
+   "7months":"7-m",
+   "7months-day":"7-d",
+   "7months-days":"7-d",
+   "8":"8-m",
+   "8-d":"8-d",
+   "8-day":"8-d",
+   "8-days":"8-d",
+   "8-m":"8-m",
+   "8-m-day":"8-d",
+   "8-m-days":"8-d",
+   "8-month":"8-m",
+   "8-month-day":"8-d",
+   "8-month-days":"8-d",
+   "8-months":"8-m",
+   "8-months-day":"8-d",
+   "8-months-days":"8-d",
+   "8d":"8-d",
+   "8day":"8-d",
+   "8days":"8-d",
+   "8m":"8-m",
+   "8m-day":"8-d",
+   "8m-days":"8-d",
+   "8month":"8-m",
+   "8month-day":"8-d",
+   "8month-days":"8-d",
+   "8months":"8-m",
+   "8months-day":"8-d",
+   "8months-days":"8-d",
+   "9":"9-m",
+   "9-d":"9-d",
+   "9-day":"9-d",
+   "9-days":"9-d",
+   "9-m":"9-m",
+   "9-m-day":"9-d",
+   "9-m-days":"9-d",
+   "9-month":"9-m",
+   "9-month-day":"9-d",
+   "9-month-days":"9-d",
+   "9-months":"9-m",
+   "9-months-day":"9-d",
+   "9-months-days":"9-d",
+   "9d":"9-d",
+   "9day":"9-d",
+   "9days":"9-d",
+   "9m":"9-m",
+   "9m-day":"9-d",
+   "9m-days":"9-d",
+   "9month":"9-m",
+   "9month-day":"9-d",
+   "9month-days":"9-d",
+   "9months":"9-m",
+   "9months-day":"9-d",
+   "9months-days":"9-d"
+  }
+ },
+ "synonyms_for":{
+  "bg":{
+   "1-ден":[
+    "1 ден",
+    "1ден"
+   ],
+   "1-месец":[
+    "1 месец",
+    "1месец"
+   ],
+   "10-дена":[
+    "10 дена",
+    "10дена"
+   ],
+   "10-месеца":[
+    "10 месеца",
+    "10месеца"
+   ],
+   "11-дена":[
+    "11 дена",
+    "11дена"
+   ],
+   "11-месеца":[
+    "11 месеца",
+    "11месеца"
+   ],
+   "12-дена":[
+    "12 дена",
+    "12дена"
+   ],
+   "12-месеца":[
+    "12 месеца",
+    "12месеца"
+   ],
+   "13-дена":[
+    "13 дена",
+    "13дена"
+   ],
+   "13-месеца":[
+    "13 месеца",
+    "13месеца"
+   ],
+   "14-дена":[
+    "14 дена",
+    "14дена"
+   ],
+   "14-месеца":[
+    "14 месеца",
+    "14месеца"
+   ],
+   "15-дена":[
+    "15 дена",
+    "15дена"
+   ],
+   "15-месеца":[
+    "15 месеца",
+    "15месеца"
+   ],
+   "16-дена":[
+    "16 дена",
+    "16дена"
+   ],
+   "16-месеца":[
+    "16 месеца",
+    "16месеца"
+   ],
+   "17-дена":[
+    "17 дена",
+    "17дена"
+   ],
+   "17-месеца":[
+    "17 месеца",
+    "17месеца"
+   ],
+   "18-дена":[
+    "18 дена",
+    "18дена"
+   ],
+   "18-месеца":[
+    "18 месеца",
+    "18месеца"
+   ],
+   "19-дена":[
+    "19 дена",
+    "19дена"
+   ],
+   "19-месеца":[
+    "19 месеца",
+    "19месеца"
+   ],
+   "2-дена":[
+    "2 дена",
+    "2дена"
+   ],
+   "2-месеца":[
+    "2 месеца",
+    "2месеца"
+   ],
+   "20-дена":[
+    "20 дена",
+    "20дена"
+   ],
+   "20-месеца":[
+    "20 месеца",
+    "20месеца"
+   ],
+   "21-дена":[
+    "21 дена",
+    "21дена"
+   ],
+   "21-месеца":[
+    "21 месеца",
+    "21месеца"
+   ],
+   "22-дена":[
+    "22 дена",
+    "22дена"
+   ],
+   "22-месеца":[
+    "22 месеца",
+    "22месеца"
+   ],
+   "23-дена":[
+    "23 дена",
+    "23дена"
+   ],
+   "23-месеца":[
+    "23 месеца",
+    "23месеца"
+   ],
+   "24-дена":[
+    "24 дена",
+    "24дена"
+   ],
+   "24-месеца":[
+    "24 месеца",
+    "24месеца"
+   ],
+   "25-дена":[
+    "25 дена",
+    "25дена"
+   ],
+   "25-месеца":[
+    "25 месеца",
+    "25месеца"
+   ],
+   "26-дена":[
+    "26 дена",
+    "26дена"
+   ],
+   "26-месеца":[
+    "26 месеца",
+    "26месеца"
+   ],
+   "27-дена":[
+    "27 дена",
+    "27дена"
+   ],
+   "27-месеца":[
+    "27 месеца",
+    "27месеца"
+   ],
+   "28-дена":[
+    "28 дена",
+    "28дена"
+   ],
+   "28-месеца":[
+    "28 месеца",
+    "28месеца"
+   ],
+   "29-дена":[
+    "29 дена",
+    "29дена"
+   ],
+   "29-месеца":[
+    "29 месеца",
+    "29месеца"
+   ],
+   "3-дена":[
+    "3 дена",
+    "3дена"
+   ],
+   "3-месеца":[
+    "3 месеца",
+    "3месеца"
+   ],
+   "30-дена":[
+    "30 дена",
+    "30дена"
+   ],
+   "30-месеца":[
+    "30 месеца",
+    "30месеца"
+   ],
+   "31-дена":[
+    "31 дена",
+    "31дена"
+   ],
+   "31-месеца":[
+    "31 месеца",
+    "31месеца"
+   ],
+   "32-дена":[
+    "32 дена",
+    "32дена"
+   ],
+   "32-месеца":[
+    "32 месеца",
+    "32месеца"
+   ],
+   "33-дена":[
+    "33 дена",
+    "33дена"
+   ],
+   "33-месеца":[
+    "33 месеца",
+    "33месеца"
+   ],
+   "34-дена":[
+    "34 дена",
+    "34дена"
+   ],
+   "34-месеца":[
+    "34 месеца",
+    "34месеца"
+   ],
+   "35-дена":[
+    "35 дена",
+    "35дена"
+   ],
+   "35-месеца":[
+    "35 месеца",
+    "35месеца"
+   ],
+   "36-дена":[
+    "36 дена",
+    "36дена"
+   ],
+   "36-месеца":[
+    "36 месеца",
+    "36месеца"
+   ],
+   "37-дена":[
+    "37 дена",
+    "37дена"
+   ],
+   "37-месеца":[
+    "37 месеца",
+    "37месеца"
+   ],
+   "38-дена":[
+    "38 дена",
+    "38дена"
+   ],
+   "38-месеца":[
+    "38 месеца",
+    "38месеца"
+   ],
+   "39-дена":[
+    "39 дена",
+    "39дена"
+   ],
+   "39-месеца":[
+    "39 месеца",
+    "39месеца"
+   ],
+   "4-дена":[
+    "4 дена",
+    "4дена"
+   ],
+   "4-месеца":[
+    "4 месеца",
+    "4месеца"
+   ],
+   "40-дена":[
+    "40 дена",
+    "40дена"
+   ],
+   "40-месеца":[
+    "40 месеца",
+    "40месеца"
+   ],
+   "41-дена":[
+    "41 дена",
+    "41дена"
+   ],
+   "41-месеца":[
+    "41 месеца",
+    "41месеца"
+   ],
+   "42-дена":[
+    "42 дена",
+    "42дена"
+   ],
+   "42-месеца":[
+    "42 месеца",
+    "42месеца"
+   ],
+   "43-дена":[
+    "43 дена",
+    "43дена"
+   ],
+   "43-месеца":[
+    "43 месеца",
+    "43месеца"
+   ],
+   "44-дена":[
+    "44 дена",
+    "44дена"
+   ],
+   "44-месеца":[
+    "44 месеца",
+    "44месеца"
+   ],
+   "45-дена":[
+    "45 дена",
+    "45дена"
+   ],
+   "45-месеца":[
+    "45 месеца",
+    "45месеца"
+   ],
+   "46-дена":[
+    "46 дена",
+    "46дена"
+   ],
+   "46-месеца":[
+    "46 месеца",
+    "46месеца"
+   ],
+   "47-дена":[
+    "47 дена",
+    "47дена"
+   ],
+   "47-месеца":[
+    "47 месеца",
+    "47месеца"
+   ],
+   "48-дена":[
+    "48 дена",
+    "48дена"
+   ],
+   "48-месеца":[
+    "48 месеца",
+    "48месеца"
+   ],
+   "49-дена":[
+    "49 дена",
+    "49дена"
+   ],
+   "5-дена":[
+    "5 дена",
+    "5дена"
+   ],
+   "5-месеца":[
+    "5 месеца",
+    "5месеца"
+   ],
+   "50-дена":[
+    "50 дена",
+    "50дена"
+   ],
+   "51-дена":[
+    "51 дена",
+    "51дена"
+   ],
+   "52-дена":[
+    "52 дена",
+    "52дена"
+   ],
+   "53-дена":[
+    "53 дена",
+    "53дена"
+   ],
+   "54-дена":[
+    "54 дена",
+    "54дена"
+   ],
+   "55-дена":[
+    "55 дена",
+    "55дена"
+   ],
+   "56-дена":[
+    "56 дена",
+    "56дена"
+   ],
+   "57-дена":[
+    "57 дена",
+    "57дена"
+   ],
+   "58-дена":[
+    "58 дена",
+    "58дена"
+   ],
+   "59-дена":[
+    "59 дена",
+    "59дена"
+   ],
+   "6-дена":[
+    "6 дена",
+    "6дена"
+   ],
+   "6-месеца":[
+    "6 месеца",
+    "6месеца"
+   ],
+   "60-дена":[
+    "60 дена",
+    "60дена"
+   ],
+   "7-дена":[
+    "7 дена",
+    "7дена"
+   ],
+   "7-месеца":[
+    "7 месеца",
+    "7месеца"
+   ],
+   "8-дена":[
+    "8 дена",
+    "8дена"
+   ],
+   "8-месеца":[
+    "8 месеца",
+    "8месеца"
+   ],
+   "9-дена":[
+    "9 дена",
+    "9дена"
+   ],
+   "9-месеца":[
+    "9 месеца",
+    "9месеца"
+   ]
+  },
+  "en":{
+   "1-day":[
+    "1 day",
+    "1day"
+   ],
+   "1-month":[
+    "1 month",
+    "1month"
+   ],
+   "10-days":[
+    "10 days",
+    "10days"
+   ],
+   "10-months":[
+    "10 months",
+    "10months"
+   ],
+   "11-days":[
+    "11 days",
+    "11days"
+   ],
+   "11-months":[
+    "11 months",
+    "11months"
+   ],
+   "12-days":[
+    "12 days",
+    "12days"
+   ],
+   "12-months":[
+    "12 months",
+    "12months"
+   ],
+   "13-days":[
+    "13 days",
+    "13days"
+   ],
+   "13-months":[
+    "13 months",
+    "13months"
+   ],
+   "14-days":[
+    "14 days",
+    "14days"
+   ],
+   "14-months":[
+    "14 months",
+    "14months"
+   ],
+   "15-days":[
+    "15 days",
+    "15days"
+   ],
+   "15-months":[
+    "15 months",
+    "15months"
+   ],
+   "16-days":[
+    "16 days",
+    "16days"
+   ],
+   "16-months":[
+    "16 months",
+    "16months"
+   ],
+   "17-days":[
+    "17 days",
+    "17days"
+   ],
+   "17-months":[
+    "17 months",
+    "17months"
+   ],
+   "18-days":[
+    "18 days",
+    "18days"
+   ],
+   "18-months":[
+    "18 months",
+    "18months"
+   ],
+   "19-days":[
+    "19 days",
+    "19days"
+   ],
+   "19-months":[
+    "19 months",
+    "19months"
+   ],
+   "2-days":[
+    "2 days",
+    "2days"
+   ],
+   "2-months":[
+    "2 months",
+    "2months"
+   ],
+   "20-days":[
+    "20 days",
+    "20days"
+   ],
+   "20-months":[
+    "20 months",
+    "20months"
+   ],
+   "21-days":[
+    "21 days",
+    "21days"
+   ],
+   "21-months":[
+    "21 months",
+    "21months"
+   ],
+   "22-days":[
+    "22 days",
+    "22days"
+   ],
+   "22-months":[
+    "22 months",
+    "22months"
+   ],
+   "23-days":[
+    "23 days",
+    "23days"
+   ],
+   "23-months":[
+    "23 months",
+    "23months"
+   ],
+   "24-days":[
+    "24 days",
+    "24days"
+   ],
+   "24-months":[
+    "24 months",
+    "24months"
+   ],
+   "25-days":[
+    "25 days",
+    "25days"
+   ],
+   "25-months":[
+    "25 months",
+    "25months"
+   ],
+   "26-days":[
+    "26 days",
+    "26days"
+   ],
+   "26-months":[
+    "26 months",
+    "26months"
+   ],
+   "27-days":[
+    "27 days",
+    "27days"
+   ],
+   "27-months":[
+    "27 months",
+    "27months"
+   ],
+   "28-days":[
+    "28 days",
+    "28days"
+   ],
+   "28-months":[
+    "28 months",
+    "28months"
+   ],
+   "29-days":[
+    "29 days",
+    "29days"
+   ],
+   "29-months":[
+    "29 months",
+    "29months"
+   ],
+   "3-days":[
+    "3 days",
+    "3days"
+   ],
+   "3-months":[
+    "3 months",
+    "3months"
+   ],
+   "30-days":[
+    "30 days",
+    "30days"
+   ],
+   "30-months":[
+    "30 months",
+    "30months"
+   ],
+   "31-days":[
+    "31 days",
+    "31days"
+   ],
+   "31-months":[
+    "31 months",
+    "31months"
+   ],
+   "32-days":[
+    "32 days",
+    "32days"
+   ],
+   "32-months":[
+    "32 months",
+    "32months"
+   ],
+   "33-days":[
+    "33 days",
+    "33days"
+   ],
+   "33-months":[
+    "33 months",
+    "33months"
+   ],
+   "34-days":[
+    "34 days",
+    "34days"
+   ],
+   "34-months":[
+    "34 months",
+    "34months"
+   ],
+   "35-days":[
+    "35 days",
+    "35days"
+   ],
+   "35-months":[
+    "35 months",
+    "35months"
+   ],
+   "36-days":[
+    "36 days",
+    "36days"
+   ],
+   "36-months":[
+    "36 months",
+    "36months"
+   ],
+   "37-days":[
+    "37 days",
+    "37days"
+   ],
+   "37-months":[
+    "37 months",
+    "37months"
+   ],
+   "38-days":[
+    "38 days",
+    "38days"
+   ],
+   "38-months":[
+    "38 months",
+    "38months"
+   ],
+   "39-days":[
+    "39 days",
+    "39days"
+   ],
+   "39-months":[
+    "39 months",
+    "39months"
+   ],
+   "4-days":[
+    "4 days",
+    "4days"
+   ],
+   "4-months":[
+    "4 months",
+    "4months"
+   ],
+   "40-days":[
+    "40 days",
+    "40days"
+   ],
+   "40-months":[
+    "40 months",
+    "40months"
+   ],
+   "41-days":[
+    "41 days",
+    "41days"
+   ],
+   "41-months":[
+    "41 months",
+    "41months"
+   ],
+   "42-days":[
+    "42 days",
+    "42days"
+   ],
+   "42-months":[
+    "42 months",
+    "42months"
+   ],
+   "43-days":[
+    "43 days",
+    "43days"
+   ],
+   "43-months":[
+    "43 months",
+    "43months"
+   ],
+   "44-days":[
+    "44 days",
+    "44days"
+   ],
+   "44-months":[
+    "44 months",
+    "44months"
+   ],
+   "45-days":[
+    "45 days",
+    "45days"
+   ],
+   "45-months":[
+    "45 months",
+    "45months"
+   ],
+   "46-days":[
+    "46 days",
+    "46days"
+   ],
+   "46-months":[
+    "46 months",
+    "46months"
+   ],
+   "47-days":[
+    "47 days",
+    "47days"
+   ],
+   "47-months":[
+    "47 months",
+    "47months"
+   ],
+   "48-days":[
+    "48 days",
+    "48days"
+   ],
+   "48-months":[
+    "48 months",
+    "48months"
+   ],
+   "49-days":[
+    "49 days",
+    "49days"
+   ],
+   "5-days":[
+    "5 days",
+    "5days"
+   ],
+   "5-months":[
+    "5 months",
+    "5months"
+   ],
+   "50-days":[
+    "50 days",
+    "50days"
+   ],
+   "51-days":[
+    "51 days",
+    "51days"
+   ],
+   "52-days":[
+    "52 days",
+    "52days"
+   ],
+   "53-days":[
+    "53 days",
+    "53days"
+   ],
+   "54-days":[
+    "54 days",
+    "54days"
+   ],
+   "55-days":[
+    "55 days",
+    "55days"
+   ],
+   "56-days":[
+    "56 days",
+    "56days"
+   ],
+   "57-days":[
+    "57 days",
+    "57days"
+   ],
+   "58-days":[
+    "58 days",
+    "58days"
+   ],
+   "59-days":[
+    "59 days",
+    "59days"
+   ],
+   "6-days":[
+    "6 days",
+    "6days"
+   ],
+   "6-months":[
+    "6 months",
+    "6months"
+   ],
+   "60-days":[
+    "60 days",
+    "60days"
+   ],
+   "7-days":[
+    "7 days",
+    "7days"
+   ],
+   "7-months":[
+    "7 months",
+    "7months"
+   ],
+   "8-days":[
+    "8 days",
+    "8days"
+   ],
+   "8-months":[
+    "8 months",
+    "8months"
+   ],
+   "9-days":[
+    "9 days",
+    "9days"
+   ],
+   "9-months":[
+    "9 months",
+    "9months"
+   ]
+  },
+  "fr":{
+   "1-jour":[
+    "1 jour",
+    "1jour",
+    "1 jour",
+    "1jour"
+   ],
+   "1-mois":[
+    "1 mois",
+    "1mois"
+   ],
+   "10-jours":[
+    "10 jours",
+    "10jours",
+    "10 jour",
+    "10jour"
+   ],
+   "10-mois":[
+    "10 mois",
+    "10mois"
+   ],
+   "11-jours":[
+    "11 jours",
+    "11jours",
+    "11 jour",
+    "11jour"
+   ],
+   "11-mois":[
+    "11 mois",
+    "11mois"
+   ],
+   "12-jours":[
+    "12 jours",
+    "12jours",
+    "12 jour",
+    "12jour"
+   ],
+   "12-mois":[
+    "12 mois",
+    "12mois"
+   ],
+   "13-jours":[
+    "13 jours",
+    "13jours",
+    "13 jour",
+    "13jour"
+   ],
+   "13-mois":[
+    "13 mois",
+    "13mois"
+   ],
+   "14-jours":[
+    "14 jours",
+    "14jours",
+    "14 jour",
+    "14jour"
+   ],
+   "14-mois":[
+    "14 mois",
+    "14mois"
+   ],
+   "15-jours":[
+    "15 jours",
+    "15jours",
+    "15 jour",
+    "15jour"
+   ],
+   "15-mois":[
+    "15 mois",
+    "15mois"
+   ],
+   "16-jours":[
+    "16 jours",
+    "16jours",
+    "16 jour",
+    "16jour"
+   ],
+   "16-mois":[
+    "16 mois",
+    "16mois"
+   ],
+   "17-jours":[
+    "17 jours",
+    "17jours",
+    "17 jour",
+    "17jour"
+   ],
+   "17-mois":[
+    "17 mois",
+    "17mois"
+   ],
+   "18-jours":[
+    "18 jours",
+    "18jours",
+    "18 jour",
+    "18jour"
+   ],
+   "18-mois":[
+    "18 mois",
+    "18mois"
+   ],
+   "19-jours":[
+    "19 jours",
+    "19jours",
+    "19 jour",
+    "19jour"
+   ],
+   "19-mois":[
+    "19 mois",
+    "19mois"
+   ],
+   "2-jours":[
+    "2 jours",
+    "2jours",
+    "2 jour",
+    "2jour"
+   ],
+   "2-mois":[
+    "2 mois",
+    "2mois"
+   ],
+   "20-jours":[
+    "20 jours",
+    "20jours",
+    "20 jour",
+    "20jour"
+   ],
+   "20-mois":[
+    "20 mois",
+    "20mois"
+   ],
+   "21-jours":[
+    "21 jours",
+    "21jours",
+    "21 jour",
+    "21jour"
+   ],
+   "21-mois":[
+    "21 mois",
+    "21mois"
+   ],
+   "22-jours":[
+    "22 jours",
+    "22jours",
+    "22 jour",
+    "22jour"
+   ],
+   "22-mois":[
+    "22 mois",
+    "22mois"
+   ],
+   "23-jours":[
+    "23 jours",
+    "23jours",
+    "23 jour",
+    "23jour"
+   ],
+   "23-mois":[
+    "23 mois",
+    "23mois"
+   ],
+   "24-jours":[
+    "24 jours",
+    "24jours",
+    "24 jour",
+    "24jour"
+   ],
+   "24-mois":[
+    "24 mois",
+    "24mois"
+   ],
+   "25-jours":[
+    "25 jours",
+    "25jours",
+    "25 jour",
+    "25jour"
+   ],
+   "25-mois":[
+    "25 mois",
+    "25mois"
+   ],
+   "26-jours":[
+    "26 jours",
+    "26jours",
+    "26 jour",
+    "26jour"
+   ],
+   "26-mois":[
+    "26 mois",
+    "26mois"
+   ],
+   "27-jours":[
+    "27 jours",
+    "27jours",
+    "27 jour",
+    "27jour"
+   ],
+   "27-mois":[
+    "27 mois",
+    "27mois"
+   ],
+   "28-jours":[
+    "28 jours",
+    "28jours",
+    "28 jour",
+    "28jour"
+   ],
+   "28-mois":[
+    "28 mois",
+    "28mois"
+   ],
+   "29-jours":[
+    "29 jours",
+    "29jours",
+    "29 jour",
+    "29jour"
+   ],
+   "29-mois":[
+    "29 mois",
+    "29mois"
+   ],
+   "3-jours":[
+    "3 jours",
+    "3jours",
+    "3 jour",
+    "3jour"
+   ],
+   "3-mois":[
+    "3 mois",
+    "3mois"
+   ],
+   "30-jours":[
+    "30 jours",
+    "30jours",
+    "30 jour",
+    "30jour"
+   ],
+   "30-mois":[
+    "30 mois",
+    "30mois"
+   ],
+   "31-jours":[
+    "31 jours",
+    "31jours",
+    "31 jour",
+    "31jour"
+   ],
+   "31-mois":[
+    "31 mois",
+    "31mois"
+   ],
+   "32-jours":[
+    "32 jours",
+    "32jours",
+    "32 jour",
+    "32jour"
+   ],
+   "32-mois":[
+    "32 mois",
+    "32mois"
+   ],
+   "33-jours":[
+    "33 jours",
+    "33jours",
+    "33 jour",
+    "33jour"
+   ],
+   "33-mois":[
+    "33 mois",
+    "33mois"
+   ],
+   "34-jours":[
+    "34 jours",
+    "34jours",
+    "34 jour",
+    "34jour"
+   ],
+   "34-mois":[
+    "34 mois",
+    "34mois"
+   ],
+   "35-jours":[
+    "35 jours",
+    "35jours",
+    "35 jour",
+    "35jour"
+   ],
+   "35-mois":[
+    "35 mois",
+    "35mois"
+   ],
+   "36-jours":[
+    "36 jours",
+    "36jours",
+    "36 jour",
+    "36jour"
+   ],
+   "36-mois":[
+    "36 mois",
+    "36mois"
+   ],
+   "37-jours":[
+    "37 jours",
+    "37jours",
+    "37 jour",
+    "37jour"
+   ],
+   "37-mois":[
+    "37 mois",
+    "37mois"
+   ],
+   "38-jours":[
+    "38 jours",
+    "38jours",
+    "38 jour",
+    "38jour"
+   ],
+   "38-mois":[
+    "38 mois",
+    "38mois"
+   ],
+   "39-jours":[
+    "39 jours",
+    "39jours",
+    "39 jour",
+    "39jour"
+   ],
+   "39-mois":[
+    "39 mois",
+    "39mois"
+   ],
+   "4-jours":[
+    "4 jours",
+    "4jours",
+    "4 jour",
+    "4jour"
+   ],
+   "4-mois":[
+    "4 mois",
+    "4mois"
+   ],
+   "40-jours":[
+    "40 jours",
+    "40jours",
+    "40 jour",
+    "40jour"
+   ],
+   "40-mois":[
+    "40 mois",
+    "40mois"
+   ],
+   "41-jours":[
+    "41 jours",
+    "41jours",
+    "41 jour",
+    "41jour"
+   ],
+   "41-mois":[
+    "41 mois",
+    "41mois"
+   ],
+   "42-jours":[
+    "42 jours",
+    "42jours",
+    "42 jour",
+    "42jour"
+   ],
+   "42-mois":[
+    "42 mois",
+    "42mois"
+   ],
+   "43-jours":[
+    "43 jours",
+    "43jours",
+    "43 jour",
+    "43jour"
+   ],
+   "43-mois":[
+    "43 mois",
+    "43mois"
+   ],
+   "44-jours":[
+    "44 jours",
+    "44jours",
+    "44 jour",
+    "44jour"
+   ],
+   "44-mois":[
+    "44 mois",
+    "44mois"
+   ],
+   "45-jours":[
+    "45 jours",
+    "45jours",
+    "45 jour",
+    "45jour"
+   ],
+   "45-mois":[
+    "45 mois",
+    "45mois"
+   ],
+   "46-jours":[
+    "46 jours",
+    "46jours",
+    "46 jour",
+    "46jour"
+   ],
+   "46-mois":[
+    "46 mois",
+    "46mois"
+   ],
+   "47-jours":[
+    "47 jours",
+    "47jours",
+    "47 jour",
+    "47jour"
+   ],
+   "47-mois":[
+    "47 mois",
+    "47mois"
+   ],
+   "48-jours":[
+    "48 jours",
+    "48jours",
+    "48 jour",
+    "48jour"
+   ],
+   "48-mois":[
+    "48 mois",
+    "48mois"
+   ],
+   "49-jours":[
+    "49 jours",
+    "49jours",
+    "49 jour",
+    "49jour"
+   ],
+   "5-jours":[
+    "5 jours",
+    "5jours",
+    "5 jour",
+    "5jour"
+   ],
+   "5-mois":[
+    "5 mois",
+    "5mois"
+   ],
+   "50-jours":[
+    "50 jours",
+    "50jours",
+    "50 jour",
+    "50jour"
+   ],
+   "51-jours":[
+    "51 jours",
+    "51jours",
+    "51 jour",
+    "51jour"
+   ],
+   "52-jours":[
+    "52 jours",
+    "52jours",
+    "52 jour",
+    "52jour"
+   ],
+   "53-jours":[
+    "53 jours",
+    "53jours",
+    "53 jour",
+    "53jour"
+   ],
+   "54-jours":[
+    "54 jours",
+    "54jours",
+    "54 jour",
+    "54jour"
+   ],
+   "55-jours":[
+    "55 jours",
+    "55jours",
+    "55 jour",
+    "55jour"
+   ],
+   "56-jours":[
+    "56 jours",
+    "56jours",
+    "56 jour",
+    "56jour"
+   ],
+   "57-jours":[
+    "57 jours",
+    "57jours",
+    "57 jour",
+    "57jour"
+   ],
+   "58-jours":[
+    "58 jours",
+    "58jours",
+    "58 jour",
+    "58jour"
+   ],
+   "59-jours":[
+    "59 jours",
+    "59jours",
+    "59 jour",
+    "59jour"
+   ],
+   "6-jours":[
+    "6 jours",
+    "6jours",
+    "6 jour",
+    "6jour"
+   ],
+   "6-mois":[
+    "6 mois",
+    "6mois"
+   ],
+   "60-jours":[
+    "60 jours",
+    "60jours",
+    "60 jour",
+    "60jour"
+   ],
+   "7-jours":[
+    "7 jours",
+    "7jours",
+    "7 jour",
+    "7jour"
+   ],
+   "7-mois":[
+    "7 mois",
+    "7mois"
+   ],
+   "8-jours":[
+    "8 jours",
+    "8jours",
+    "8 jour",
+    "8jour"
+   ],
+   "8-mois":[
+    "8 mois",
+    "8mois"
+   ],
+   "9-jours":[
+    "9 jours",
+    "9jours",
+    "9 jour",
+    "9jour"
+   ],
+   "9-mois":[
+    "9 mois",
+    "9mois"
+   ]
+  },
+  "nl":{
+   "1-maand":[
+    "1 maand",
+    "1maand"
+   ],
+   "10-maanden":[
+    "10 maanden",
+    "10maanden"
+   ],
+   "11-maanden":[
+    "11 maanden",
+    "11maanden"
+   ],
+   "12-maanden":[
+    "12 maanden",
+    "12maanden"
+   ],
+   "13-maanden":[
+    "13 maanden",
+    "13maanden"
+   ],
+   "14-maanden":[
+    "14 maanden",
+    "14maanden"
+   ],
+   "15-maanden":[
+    "15 maanden",
+    "15maanden"
+   ],
+   "16-maanden":[
+    "16 maanden",
+    "16maanden"
+   ],
+   "17-maanden":[
+    "17 maanden",
+    "17maanden"
+   ],
+   "2-maanden":[
+    "2 maanden",
+    "2maanden"
+   ],
+   "3-maanden":[
+    "3 maanden",
+    "3maanden"
+   ],
+   "4-maanden":[
+    "4 maanden",
+    "4maanden"
+   ],
+   "5-maanden":[
+    "5 maanden",
+    "5maanden"
+   ],
+   "6-maanden":[
+    "6 maanden",
+    "6maanden"
+   ],
+   "7-maanden":[
+    "7 maanden",
+    "7maanden"
+   ],
+   "8-maanden":[
+    "8 maanden",
+    "8maanden"
+   ],
+   "9-maanden":[
+    "9 maanden",
+    "9maanden"
+   ]
+  },
+  "pt":{
+   "1-9dias":[
+    "1 9dias",
+    "19dias"
+   ],
+   "1-dia":[
+    "1 dia",
+    "1dia"
+   ],
+   "1-mes":[
+    "1 mês",
+    "1mês"
+   ],
+   "10-dias":[
+    "10 dias",
+    "10dias"
+   ],
+   "10-meses":[
+    "10 meses",
+    "10meses"
+   ],
+   "11-dias":[
+    "11 dias",
+    "11dias"
+   ],
+   "11-meses":[
+    "11 meses",
+    "11meses"
+   ],
+   "12-dias":[
+    "12 dias",
+    "12dias"
+   ],
+   "12-meses":[
+    "12 meses",
+    "12meses"
+   ],
+   "13-dias":[
+    "13 dias",
+    "13dias"
+   ],
+   "13-meses":[
+    "13 meses",
+    "13meses"
+   ],
+   "14-dias":[
+    "14 dias",
+    "14dias"
+   ],
+   "14-meses":[
+    "14 meses",
+    "14meses"
+   ],
+   "15-dias":[
+    "15 dias",
+    "15dias"
+   ],
+   "15-meses":[
+    "15 meses",
+    "15meses"
+   ],
+   "16-dias":[
+    "16 dias",
+    "16dias"
+   ],
+   "16-meses":[
+    "16 meses",
+    "16meses"
+   ],
+   "17-dias":[
+    "17 dias",
+    "17dias"
+   ],
+   "17-meses":[
+    "17 meses",
+    "17meses"
+   ],
+   "18-dias":[
+    "18 dias",
+    "18dias"
+   ],
+   "18-meses":[
+    "18 meses",
+    "18meses"
+   ],
+   "19-meses":[
+    "19 meses",
+    "19meses"
+   ],
+   "2-dias":[
+    "2 dias",
+    "2dias"
+   ],
+   "2-meses":[
+    "2 meses",
+    "2meses"
+   ],
+   "20-dias":[
+    "20 dias",
+    "20dias"
+   ],
+   "20-meses":[
+    "20 meses",
+    "20meses"
+   ],
+   "21-dias":[
+    "21 dias",
+    "21dias"
+   ],
+   "21-meses":[
+    "21 meses",
+    "21meses"
+   ],
+   "22-dias":[
+    "22 dias",
+    "22dias"
+   ],
+   "22-meses":[
+    "22 meses",
+    "22meses"
+   ],
+   "23-dias":[
+    "23 dias",
+    "23dias"
+   ],
+   "23-meses":[
+    "23 meses",
+    "23meses"
+   ],
+   "24-dias":[
+    "24 dias",
+    "24dias"
+   ],
+   "24-meses":[
+    "24 meses",
+    "24meses"
+   ],
+   "25-dias":[
+    "25 dias",
+    "25dias"
+   ],
+   "25-meses":[
+    "25 meses",
+    "25meses"
+   ],
+   "26-dias":[
+    "26 dias",
+    "26dias"
+   ],
+   "26-meses":[
+    "26 meses",
+    "26meses"
+   ],
+   "27-dias":[
+    "27 dias",
+    "27dias"
+   ],
+   "27-meses":[
+    "27 meses",
+    "27meses"
+   ],
+   "28-dias":[
+    "28 dias",
+    "28dias"
+   ],
+   "28-meses":[
+    "28 meses",
+    "28meses"
+   ],
+   "29-dias":[
+    "29 dias",
+    "29dias"
+   ],
+   "29-meses":[
+    "29 meses",
+    "29meses"
+   ],
+   "3-dias":[
+    "3 dias",
+    "3dias"
+   ],
+   "3-meses":[
+    "3 meses",
+    "3meses"
+   ],
+   "30-dias":[
+    "30 dias",
+    "30dias"
+   ],
+   "30-meses":[
+    "30 meses",
+    "30meses"
+   ],
+   "31-dias":[
+    "31 dias",
+    "31dias"
+   ],
+   "31-meses":[
+    "31 meses",
+    "31meses"
+   ],
+   "32-dias":[
+    "32 dias",
+    "32dias"
+   ],
+   "32-meses":[
+    "32 meses",
+    "32meses"
+   ],
+   "33-dias":[
+    "33 dias",
+    "33dias"
+   ],
+   "33-meses":[
+    "33 meses",
+    "33meses"
+   ],
+   "34-dias":[
+    "34 dias",
+    "34dias"
+   ],
+   "34-meses":[
+    "34 meses",
+    "34meses"
+   ],
+   "35-dias":[
+    "35 dias",
+    "35dias"
+   ],
+   "35-meses":[
+    "35 meses",
+    "35meses"
+   ],
+   "36-dias":[
+    "36 dias",
+    "36dias"
+   ],
+   "36-meses":[
+    "36 meses",
+    "36meses"
+   ],
+   "37-dias":[
+    "37 dias",
+    "37dias"
+   ],
+   "37-meses":[
+    "37 meses",
+    "37meses"
+   ],
+   "38-dias":[
+    "38 dias",
+    "38dias"
+   ],
+   "38-meses":[
+    "38 meses",
+    "38meses"
+   ],
+   "39-dias":[
+    "39 dias",
+    "39dias"
+   ],
+   "39-meses":[
+    "39 meses",
+    "39meses"
+   ],
+   "4-dias":[
+    "4 dias",
+    "4dias"
+   ],
+   "4-meses":[
+    "4 meses",
+    "4meses"
+   ],
+   "40-dias":[
+    "40 dias",
+    "40dias"
+   ],
+   "40-meses":[
+    "40 meses",
+    "40meses"
+   ],
+   "41-dias":[
+    "41 dias",
+    "41dias"
+   ],
+   "41-meses":[
+    "41 meses",
+    "41meses"
+   ],
+   "42-dias":[
+    "42 dias",
+    "42dias"
+   ],
+   "42-meses":[
+    "42 meses",
+    "42meses"
+   ],
+   "43-dias":[
+    "43 dias",
+    "43dias"
+   ],
+   "43-meses":[
+    "43 meses",
+    "43meses"
+   ],
+   "44-dias":[
+    "44 dias",
+    "44dias"
+   ],
+   "44-meses":[
+    "44 meses",
+    "44meses"
+   ],
+   "45-dias":[
+    "45 dias",
+    "45dias"
+   ],
+   "45-meses":[
+    "45 meses",
+    "45meses"
+   ],
+   "46-dias":[
+    "46 dias",
+    "46dias"
+   ],
+   "46-meses":[
+    "46 meses",
+    "46meses"
+   ],
+   "47-dias":[
+    "47 dias",
+    "47dias"
+   ],
+   "47-meses":[
+    "47 meses",
+    "47meses"
+   ],
+   "48-dias":[
+    "48 dias",
+    "48dias"
+   ],
+   "48-meses":[
+    "48 meses",
+    "48meses"
+   ],
+   "49-dias":[
+    "49 dias",
+    "49dias"
+   ],
+   "5-dias":[
+    "5 dias",
+    "5dias"
+   ],
+   "5-meses":[
+    "5 meses",
+    "5meses"
+   ],
+   "50-dias":[
+    "50 dias",
+    "50dias"
+   ],
+   "51-dias":[
+    "51 dias",
+    "51dias"
+   ],
+   "52-dias":[
+    "52 dias",
+    "52dias"
+   ],
+   "53-dias":[
+    "53 dias",
+    "53dias"
+   ],
+   "54-dias":[
+    "54 dias",
+    "54dias"
+   ],
+   "55-dias":[
+    "55 dias",
+    "55dias"
+   ],
+   "56-dias":[
+    "56 dias",
+    "56dias"
+   ],
+   "57-dias":[
+    "57 dias",
+    "57dias"
+   ],
+   "58-dias":[
+    "58 dias",
+    "58dias"
+   ],
+   "59-dias":[
+    "59 dias",
+    "59dias"
+   ],
+   "6-dias":[
+    "6 dias",
+    "6dias"
+   ],
+   "6-meses":[
+    "6 meses",
+    "6meses"
+   ],
+   "60-dias":[
+    "60 dias",
+    "60dias"
+   ],
+   "7-dias":[
+    "7 dias",
+    "7dias"
+   ],
+   "7-meses":[
+    "7 meses",
+    "7meses"
+   ],
+   "8-dias":[
+    "8 dias",
+    "8dias"
+   ],
+   "8-meses":[
+    "8 meses",
+    "8meses"
+   ],
+   "9-dias":[
+    "9 dias",
+    "9dias"
+   ],
+   "9-meses":[
+    "9 meses",
+    "9meses"
+   ]
+  },
+  "xx":{
+   "1-d":[
+    "1 D",
+    "1D",
+    "1 days",
+    "1 day",
+    "1days",
+    "1day"
+   ],
+   "1-m":[
+    "1 M",
+    "1M",
+    "1",
+    "1 months",
+    "1 month",
+    "1months",
+    "1month"
+   ],
+   "10-d":[
+    "10 D",
+    "10D",
+    "10 days",
+    "10 day",
+    "10days",
+    "10day"
+   ],
+   "10-m":[
+    "10 M",
+    "10M",
+    "10",
+    "10 months",
+    "10 month",
+    "10months",
+    "10month"
+   ],
+   "11-d":[
+    "11 D",
+    "11D",
+    "11 days",
+    "11 day",
+    "11days",
+    "11day"
+   ],
+   "11-m":[
+    "11 M",
+    "11M",
+    "11",
+    "11 months",
+    "11 month",
+    "11months",
+    "11month"
+   ],
+   "12-d":[
+    "12 D",
+    "12D",
+    "12 days",
+    "12 day",
+    "12days",
+    "12day"
+   ],
+   "12-m":[
+    "12 M",
+    "12M",
+    "12",
+    "12 months",
+    "12 month",
+    "12months",
+    "12month"
+   ],
+   "13-d":[
+    "13 D",
+    "13D",
+    "13 days",
+    "13 day",
+    "13days",
+    "13day"
+   ],
+   "13-m":[
+    "13 M",
+    "13M",
+    "13",
+    "13 months",
+    "13 month",
+    "13months",
+    "13month"
+   ],
+   "14-d":[
+    "14 D",
+    "14D",
+    "14 days",
+    "14 day",
+    "14days",
+    "14day"
+   ],
+   "14-m":[
+    "14 M",
+    "14M",
+    "14",
+    "14 months",
+    "14 month",
+    "14months",
+    "14month"
+   ],
+   "15-d":[
+    "15 D",
+    "15D",
+    "15 days",
+    "15 day",
+    "15days",
+    "15day"
+   ],
+   "15-m":[
+    "15 M",
+    "15M",
+    "15",
+    "15 months",
+    "15 month",
+    "15months",
+    "15month"
+   ],
+   "16-d":[
+    "16 D",
+    "16D",
+    "16 days",
+    "16 day",
+    "16days",
+    "16day"
+   ],
+   "16-m":[
+    "16 M",
+    "16M",
+    "16",
+    "16 months",
+    "16 month",
+    "16months",
+    "16month"
+   ],
+   "17-d":[
+    "17 D",
+    "17D",
+    "17 days",
+    "17 day",
+    "17days",
+    "17day"
+   ],
+   "17-m":[
+    "17 M",
+    "17M",
+    "17",
+    "17 months",
+    "17 month",
+    "17months",
+    "17month"
+   ],
+   "18-d":[
+    "18 D",
+    "18D",
+    "18 days",
+    "18 day",
+    "18days",
+    "18day"
+   ],
+   "18-m":[
+    "18 M",
+    "18M",
+    "18",
+    "18 months",
+    "18 month",
+    "18months",
+    "18month"
+   ],
+   "19-d":[
+    "19 D",
+    "19D",
+    "19 days",
+    "19 day",
+    "19days",
+    "19day"
+   ],
+   "19-m":[
+    "19 M",
+    "19M",
+    "19",
+    "19 months",
+    "19 month",
+    "19months",
+    "19month"
+   ],
+   "2-d":[
+    "2 D",
+    "2D",
+    "2 days",
+    "2 day",
+    "2days",
+    "2day"
+   ],
+   "2-m":[
+    "2 M",
+    "2M",
+    "2",
+    "2 months",
+    "2 month",
+    "2months",
+    "2month"
+   ],
+   "20-d":[
+    "20 D",
+    "20D",
+    "20 days",
+    "20 day",
+    "20days",
+    "20day"
+   ],
+   "20-m":[
+    "20 M",
+    "20M",
+    "20",
+    "20 months",
+    "20 month",
+    "20months",
+    "20month"
+   ],
+   "21-d":[
+    "21 D",
+    "21D",
+    "21 days",
+    "21 day",
+    "21days",
+    "21day"
+   ],
+   "21-m":[
+    "21 M",
+    "21M",
+    "21",
+    "21 months",
+    "21 month",
+    "21months",
+    "21month"
+   ],
+   "22-d":[
+    "22 D",
+    "22D",
+    "22 days",
+    "22 day",
+    "22days",
+    "22day"
+   ],
+   "22-m":[
+    "22 M",
+    "22M",
+    "22",
+    "22 months",
+    "22 month",
+    "22months",
+    "22month"
+   ],
+   "23-d":[
+    "23 D",
+    "23D",
+    "23 days",
+    "23 day",
+    "23days",
+    "23day"
+   ],
+   "23-m":[
+    "23 M",
+    "23M",
+    "23",
+    "23 months",
+    "23 month",
+    "23months",
+    "23month"
+   ],
+   "24-d":[
+    "24 D",
+    "24D",
+    "24 days",
+    "24 day",
+    "24days",
+    "24day"
+   ],
+   "24-m":[
+    "24 M",
+    "24M",
+    "24",
+    "24 months",
+    "24 month",
+    "24months",
+    "24month"
+   ],
+   "25-d":[
+    "25 D",
+    "25D",
+    "25 days",
+    "25 day",
+    "25days",
+    "25day"
+   ],
+   "25-m":[
+    "25 M",
+    "25M",
+    "25",
+    "25 months",
+    "25 month",
+    "25months",
+    "25month"
+   ],
+   "26-d":[
+    "26 D",
+    "26D",
+    "26 days",
+    "26 day",
+    "26days",
+    "26day"
+   ],
+   "26-m":[
+    "26 M",
+    "26M",
+    "26",
+    "26 months",
+    "26 month",
+    "26months",
+    "26month"
+   ],
+   "27-d":[
+    "27 D",
+    "27D",
+    "27 days",
+    "27 day",
+    "27days",
+    "27day"
+   ],
+   "27-m":[
+    "27 M",
+    "27M",
+    "27",
+    "27 months",
+    "27 month",
+    "27months",
+    "27month"
+   ],
+   "28-d":[
+    "28 D",
+    "28D",
+    "28 days",
+    "28 day",
+    "28days",
+    "28day"
+   ],
+   "28-m":[
+    "28 M",
+    "28M",
+    "28",
+    "28 months",
+    "28 month",
+    "28months",
+    "28month"
+   ],
+   "29-d":[
+    "29 D",
+    "29D",
+    "29 days",
+    "29 day",
+    "29days",
+    "29day"
+   ],
+   "29-m":[
+    "29 M",
+    "29M",
+    "29",
+    "29 months",
+    "29 month",
+    "29months",
+    "29month"
+   ],
+   "3-d":[
+    "3 D",
+    "3D",
+    "3 days",
+    "3 day",
+    "3days",
+    "3day"
+   ],
+   "3-m":[
+    "3 M",
+    "3M",
+    "3",
+    "3 months",
+    "3 month",
+    "3months",
+    "3month"
+   ],
+   "30-d":[
+    "30 D",
+    "30D",
+    "30 days",
+    "30 day",
+    "30days",
+    "30day"
+   ],
+   "30-m":[
+    "30 M",
+    "30M",
+    "30",
+    "30 months",
+    "30 month",
+    "30months",
+    "30month"
+   ],
+   "31-d":[
+    "31 D",
+    "31D",
+    "31 days",
+    "31 day",
+    "31days",
+    "31day"
+   ],
+   "31-m":[
+    "31 M",
+    "31M",
+    "31",
+    "31 months",
+    "31 month",
+    "31months",
+    "31month"
+   ],
+   "32-d":[
+    "32 D",
+    "32D",
+    "32 days",
+    "32 day",
+    "32days",
+    "32day"
+   ],
+   "32-m":[
+    "32 M",
+    "32M",
+    "32",
+    "32 months",
+    "32 month",
+    "32months",
+    "32month"
+   ],
+   "33-d":[
+    "33 D",
+    "33D",
+    "33 days",
+    "33 day",
+    "33days",
+    "33day"
+   ],
+   "33-m":[
+    "33 M",
+    "33M",
+    "33",
+    "33 months",
+    "33 month",
+    "33months",
+    "33month"
+   ],
+   "34-d":[
+    "34 D",
+    "34D",
+    "34 days",
+    "34 day",
+    "34days",
+    "34day"
+   ],
+   "34-m":[
+    "34 M",
+    "34M",
+    "34",
+    "34 months",
+    "34 month",
+    "34months",
+    "34month"
+   ],
+   "35-d":[
+    "35 D",
+    "35D",
+    "35 days",
+    "35 day",
+    "35days",
+    "35day"
+   ],
+   "35-m":[
+    "35 M",
+    "35M",
+    "35",
+    "35 months",
+    "35 month",
+    "35months",
+    "35month"
+   ],
+   "36-d":[
+    "36 D",
+    "36D",
+    "36 days",
+    "36 day",
+    "36days",
+    "36day"
+   ],
+   "36-m":[
+    "36 M",
+    "36M",
+    "36",
+    "36 months",
+    "36 month",
+    "36months",
+    "36month"
+   ],
+   "37-d":[
+    "37 D",
+    "37D",
+    "37 days",
+    "37 day",
+    "37days",
+    "37day"
+   ],
+   "37-m":[
+    "37 M",
+    "37M",
+    "37",
+    "37 months",
+    "37 month",
+    "37months",
+    "37month"
+   ],
+   "38-d":[
+    "38 D",
+    "38D",
+    "38 days",
+    "38 day",
+    "38days",
+    "38day"
+   ],
+   "38-m":[
+    "38 M",
+    "38M",
+    "38",
+    "38 months",
+    "38 month",
+    "38months",
+    "38month"
+   ],
+   "39-d":[
+    "39 D",
+    "39D",
+    "39 days",
+    "39 day",
+    "39days",
+    "39day"
+   ],
+   "39-m":[
+    "39 M",
+    "39M",
+    "39",
+    "39 months",
+    "39 month",
+    "39months",
+    "39month"
+   ],
+   "4-d":[
+    "4 D",
+    "4D",
+    "4 days",
+    "4 day",
+    "4days",
+    "4day"
+   ],
+   "4-m":[
+    "4 M",
+    "4M",
+    "4",
+    "4 months",
+    "4 month",
+    "4months",
+    "4month"
+   ],
+   "40-d":[
+    "40 D",
+    "40D",
+    "40 days",
+    "40 day",
+    "40days",
+    "40day"
+   ],
+   "40-m":[
+    "40 M",
+    "40M",
+    "40",
+    "40 months",
+    "40 month",
+    "40months",
+    "40month"
+   ],
+   "41-d":[
+    "41 D",
+    "41D",
+    "41 days",
+    "41 day",
+    "41days",
+    "41day"
+   ],
+   "41-m":[
+    "41 M",
+    "41M",
+    "41",
+    "41 months",
+    "41 month",
+    "41months",
+    "41month"
+   ],
+   "42-d":[
+    "42 D",
+    "42D",
+    "42 days",
+    "42 day",
+    "42days",
+    "42day"
+   ],
+   "42-m":[
+    "42 M",
+    "42M",
+    "42",
+    "42 months",
+    "42 month",
+    "42months",
+    "42month"
+   ],
+   "43-d":[
+    "43 D",
+    "43D",
+    "43 days",
+    "43 day",
+    "43days",
+    "43day"
+   ],
+   "43-m":[
+    "43 M",
+    "43M",
+    "43",
+    "43 months",
+    "43 month",
+    "43months",
+    "43month"
+   ],
+   "44-d":[
+    "44 D",
+    "44D",
+    "44 days",
+    "44 day",
+    "44days",
+    "44day"
+   ],
+   "44-m":[
+    "44 M",
+    "44M",
+    "44",
+    "44 months",
+    "44 month",
+    "44months",
+    "44month"
+   ],
+   "45-d":[
+    "45 D",
+    "45D",
+    "45 days",
+    "45 day",
+    "45days",
+    "45day"
+   ],
+   "45-m":[
+    "45 M",
+    "45M",
+    "45",
+    "45 months",
+    "45 month",
+    "45months",
+    "45month"
+   ],
+   "46-d":[
+    "46 D",
+    "46D",
+    "46 days",
+    "46 day",
+    "46days",
+    "46day"
+   ],
+   "46-m":[
+    "46 M",
+    "46M",
+    "46",
+    "46 months",
+    "46 month",
+    "46months",
+    "46month"
+   ],
+   "47-d":[
+    "47 D",
+    "47D",
+    "47 days",
+    "47 day",
+    "47days",
+    "47day"
+   ],
+   "47-m":[
+    "47 M",
+    "47M",
+    "47",
+    "47 months",
+    "47 month",
+    "47months",
+    "47month"
+   ],
+   "48-d":[
+    "48 D",
+    "48D",
+    "48 days",
+    "48 day",
+    "48days",
+    "48day"
+   ],
+   "48-m":[
+    "48 M",
+    "48M",
+    "48",
+    "48 months",
+    "48 month",
+    "48months",
+    "48month"
+   ],
+   "49-d":[
+    "49 D",
+    "49D",
+    "49 days",
+    "49 day",
+    "49days",
+    "49day"
+   ],
+   "5-d":[
+    "5 D",
+    "5D",
+    "5 days",
+    "5 day",
+    "5days",
+    "5day"
+   ],
+   "5-m":[
+    "5 M",
+    "5M",
+    "5",
+    "5 months",
+    "5 month",
+    "5months",
+    "5month"
+   ],
+   "50-d":[
+    "50 D",
+    "50D",
+    "50 days",
+    "50 day",
+    "50days",
+    "50day"
+   ],
+   "51-d":[
+    "51 D",
+    "51D",
+    "51 days",
+    "51 day",
+    "51days",
+    "51day"
+   ],
+   "52-d":[
+    "52 D",
+    "52D",
+    "52 days",
+    "52 day",
+    "52days",
+    "52day"
+   ],
+   "53-d":[
+    "53 D",
+    "53D",
+    "53 days",
+    "53 day",
+    "53days",
+    "53day"
+   ],
+   "54-d":[
+    "54 D",
+    "54D",
+    "54 days",
+    "54 day",
+    "54days",
+    "54day"
+   ],
+   "55-d":[
+    "55 D",
+    "55D",
+    "55 days",
+    "55 day",
+    "55days",
+    "55day"
+   ],
+   "56-d":[
+    "56 D",
+    "56D",
+    "56 days",
+    "56 day",
+    "56days",
+    "56day"
+   ],
+   "57-d":[
+    "57 D",
+    "57D",
+    "57 days",
+    "57 day",
+    "57days",
+    "57day"
+   ],
+   "58-d":[
+    "58 D",
+    "58D",
+    "58 days",
+    "58 day",
+    "58days",
+    "58day"
+   ],
+   "59-d":[
+    "59 D",
+    "59D",
+    "59 days",
+    "59 day",
+    "59days",
+    "59day"
+   ],
+   "6-d":[
+    "6 D",
+    "6D",
+    "6 days",
+    "6 day",
+    "6days",
+    "6day"
+   ],
+   "6-m":[
+    "6 M",
+    "6M",
+    "6",
+    "6 months",
+    "6 month",
+    "6months",
+    "6month"
+   ],
+   "60-d":[
+    "60 D",
+    "60D",
+    "60 days",
+    "60 day",
+    "60days",
+    "60day"
+   ],
+   "7-d":[
+    "7 D",
+    "7D",
+    "7 days",
+    "7 day",
+    "7days",
+    "7day"
+   ],
+   "7-m":[
+    "7 M",
+    "7M",
+    "7",
+    "7 months",
+    "7 month",
+    "7months",
+    "7month"
+   ],
+   "8-d":[
+    "8 D",
+    "8D",
+    "8 days",
+    "8 day",
+    "8days",
+    "8day"
+   ],
+   "8-m":[
+    "8 M",
+    "8M",
+    "8",
+    "8 months",
+    "8 month",
+    "8months",
+    "8month"
+   ],
+   "9-d":[
+    "9 D",
+    "9D",
+    "9 days",
+    "9 day",
+    "9days",
+    "9day"
+   ],
+   "9-m":[
+    "9 M",
+    "9M",
+    "9",
+    "9 months",
+    "9 month",
+    "9months",
+    "9month"
+   ]
+  }
+ },
+ "synonyms_for_extended":{
+  "bg":{
+   "1-ден":{
+    "1-ден":1,
+    "1ден":1
+   },
+   "1-месец":{
+    "1-месец":1,
+    "1месец":1
+   },
+   "10-дена":{
+    "10-дена":1,
+    "10дена":1
+   },
+   "10-месеца":{
+    "10-месеца":1,
+    "10месеца":1
+   },
+   "11-дена":{
+    "11-дена":1,
+    "11дена":1
+   },
+   "11-месеца":{
+    "11-месеца":1,
+    "11месеца":1
+   },
+   "12-дена":{
+    "12-дена":1,
+    "12дена":1
+   },
+   "12-месеца":{
+    "12-месеца":1,
+    "12месеца":1
+   },
+   "13-дена":{
+    "13-дена":1,
+    "13дена":1
+   },
+   "13-месеца":{
+    "13-месеца":1,
+    "13месеца":1
+   },
+   "14-дена":{
+    "14-дена":1,
+    "14дена":1
+   },
+   "14-месеца":{
+    "14-месеца":1,
+    "14месеца":1
+   },
+   "15-дена":{
+    "15-дена":1,
+    "15дена":1
+   },
+   "15-месеца":{
+    "15-месеца":1,
+    "15месеца":1
+   },
+   "16-дена":{
+    "16-дена":1,
+    "16дена":1
+   },
+   "16-месеца":{
+    "16-месеца":1,
+    "16месеца":1
+   },
+   "17-дена":{
+    "17-дена":1,
+    "17дена":1
+   },
+   "17-месеца":{
+    "17-месеца":1,
+    "17месеца":1
+   },
+   "18-дена":{
+    "18-дена":1,
+    "18дена":1
+   },
+   "18-месеца":{
+    "18-месеца":1,
+    "18месеца":1
+   },
+   "19-дена":{
+    "19-дена":1,
+    "19дена":1
+   },
+   "19-месеца":{
+    "19-месеца":1,
+    "19месеца":1
+   },
+   "2-дена":{
+    "2-дена":1,
+    "2дена":1
+   },
+   "2-месеца":{
+    "2-месеца":1,
+    "2месеца":1
+   },
+   "20-дена":{
+    "20-дена":1,
+    "20дена":1
+   },
+   "20-месеца":{
+    "20-месеца":1,
+    "20месеца":1
+   },
+   "21-дена":{
+    "21-дена":1,
+    "21дена":1
+   },
+   "21-месеца":{
+    "21-месеца":1,
+    "21месеца":1
+   },
+   "22-дена":{
+    "22-дена":1,
+    "22дена":1
+   },
+   "22-месеца":{
+    "22-месеца":1,
+    "22месеца":1
+   },
+   "23-дена":{
+    "23-дена":1,
+    "23дена":1
+   },
+   "23-месеца":{
+    "23-месеца":1,
+    "23месеца":1
+   },
+   "24-дена":{
+    "24-дена":1,
+    "24дена":1
+   },
+   "24-месеца":{
+    "24-месеца":1,
+    "24месеца":1
+   },
+   "25-дена":{
+    "25-дена":1,
+    "25дена":1
+   },
+   "25-месеца":{
+    "25-месеца":1,
+    "25месеца":1
+   },
+   "26-дена":{
+    "26-дена":1,
+    "26дена":1
+   },
+   "26-месеца":{
+    "26-месеца":1,
+    "26месеца":1
+   },
+   "27-дена":{
+    "27-дена":1,
+    "27дена":1
+   },
+   "27-месеца":{
+    "27-месеца":1,
+    "27месеца":1
+   },
+   "28-дена":{
+    "28-дена":1,
+    "28дена":1
+   },
+   "28-месеца":{
+    "28-месеца":1,
+    "28месеца":1
+   },
+   "29-дена":{
+    "29-дена":1,
+    "29дена":1
+   },
+   "29-месеца":{
+    "29-месеца":1,
+    "29месеца":1
+   },
+   "3-дена":{
+    "3-дена":1,
+    "3дена":1
+   },
+   "3-месеца":{
+    "3-месеца":1,
+    "3месеца":1
+   },
+   "30-дена":{
+    "30-дена":1,
+    "30дена":1
+   },
+   "30-месеца":{
+    "30-месеца":1,
+    "30месеца":1
+   },
+   "31-дена":{
+    "31-дена":1,
+    "31дена":1
+   },
+   "31-месеца":{
+    "31-месеца":1,
+    "31месеца":1
+   },
+   "32-дена":{
+    "32-дена":1,
+    "32дена":1
+   },
+   "32-месеца":{
+    "32-месеца":1,
+    "32месеца":1
+   },
+   "33-дена":{
+    "33-дена":1,
+    "33дена":1
+   },
+   "33-месеца":{
+    "33-месеца":1,
+    "33месеца":1
+   },
+   "34-дена":{
+    "34-дена":1,
+    "34дена":1
+   },
+   "34-месеца":{
+    "34-месеца":1,
+    "34месеца":1
+   },
+   "35-дена":{
+    "35-дена":1,
+    "35дена":1
+   },
+   "35-месеца":{
+    "35-месеца":1,
+    "35месеца":1
+   },
+   "36-дена":{
+    "36-дена":1,
+    "36дена":1
+   },
+   "36-месеца":{
+    "36-месеца":1,
+    "36месеца":1
+   },
+   "37-дена":{
+    "37-дена":1,
+    "37дена":1
+   },
+   "37-месеца":{
+    "37-месеца":1,
+    "37месеца":1
+   },
+   "38-дена":{
+    "38-дена":1,
+    "38дена":1
+   },
+   "38-месеца":{
+    "38-месеца":1,
+    "38месеца":1
+   },
+   "39-дена":{
+    "39-дена":1,
+    "39дена":1
+   },
+   "39-месеца":{
+    "39-месеца":1,
+    "39месеца":1
+   },
+   "4-дена":{
+    "4-дена":1,
+    "4дена":1
+   },
+   "4-месеца":{
+    "4-месеца":1,
+    "4месеца":1
+   },
+   "40-дена":{
+    "40-дена":1,
+    "40дена":1
+   },
+   "40-месеца":{
+    "40-месеца":1,
+    "40месеца":1
+   },
+   "41-дена":{
+    "41-дена":1,
+    "41дена":1
+   },
+   "41-месеца":{
+    "41-месеца":1,
+    "41месеца":1
+   },
+   "42-дена":{
+    "42-дена":1,
+    "42дена":1
+   },
+   "42-месеца":{
+    "42-месеца":1,
+    "42месеца":1
+   },
+   "43-дена":{
+    "43-дена":1,
+    "43дена":1
+   },
+   "43-месеца":{
+    "43-месеца":1,
+    "43месеца":1
+   },
+   "44-дена":{
+    "44-дена":1,
+    "44дена":1
+   },
+   "44-месеца":{
+    "44-месеца":1,
+    "44месеца":1
+   },
+   "45-дена":{
+    "45-дена":1,
+    "45дена":1
+   },
+   "45-месеца":{
+    "45-месеца":1,
+    "45месеца":1
+   },
+   "46-дена":{
+    "46-дена":1,
+    "46дена":1
+   },
+   "46-месеца":{
+    "46-месеца":1,
+    "46месеца":1
+   },
+   "47-дена":{
+    "47-дена":1,
+    "47дена":1
+   },
+   "47-месеца":{
+    "47-месеца":1,
+    "47месеца":1
+   },
+   "48-дена":{
+    "48-дена":1,
+    "48дена":1
+   },
+   "48-месеца":{
+    "48-месеца":1,
+    "48месеца":1
+   },
+   "49-дена":{
+    "49-дена":1,
+    "49дена":1
+   },
+   "5-дена":{
+    "5-дена":1,
+    "5дена":1
+   },
+   "5-месеца":{
+    "5-месеца":1,
+    "5месеца":1
+   },
+   "50-дена":{
+    "50-дена":1,
+    "50дена":1
+   },
+   "51-дена":{
+    "51-дена":1,
+    "51дена":1
+   },
+   "52-дена":{
+    "52-дена":1,
+    "52дена":1
+   },
+   "53-дена":{
+    "53-дена":1,
+    "53дена":1
+   },
+   "54-дена":{
+    "54-дена":1,
+    "54дена":1
+   },
+   "55-дена":{
+    "55-дена":1,
+    "55дена":1
+   },
+   "56-дена":{
+    "56-дена":1,
+    "56дена":1
+   },
+   "57-дена":{
+    "57-дена":1,
+    "57дена":1
+   },
+   "58-дена":{
+    "58-дена":1,
+    "58дена":1
+   },
+   "59-дена":{
+    "59-дена":1,
+    "59дена":1
+   },
+   "6-дена":{
+    "6-дена":1,
+    "6дена":1
+   },
+   "6-месеца":{
+    "6-месеца":1,
+    "6месеца":1
+   },
+   "60-дена":{
+    "60-дена":1,
+    "60дена":1
+   },
+   "7-дена":{
+    "7-дена":1,
+    "7дена":1
+   },
+   "7-месеца":{
+    "7-месеца":1,
+    "7месеца":1
+   },
+   "8-дена":{
+    "8-дена":1,
+    "8дена":1
+   },
+   "8-месеца":{
+    "8-месеца":1,
+    "8месеца":1
+   },
+   "9-дена":{
+    "9-дена":1,
+    "9дена":1
+   },
+   "9-месеца":{
+    "9-месеца":1,
+    "9месеца":1
+   }
+  },
+  "en":{
+   "1-day":{
+    "1-day":1,
+    "1day":1
+   },
+   "1-month":{
+    "1-month":1,
+    "1month":1
+   },
+   "10-days":{
+    "10-days":1,
+    "10days":1
+   },
+   "10-months":{
+    "10-months":1,
+    "10months":1
+   },
+   "11-days":{
+    "11-days":1,
+    "11days":1
+   },
+   "11-months":{
+    "11-months":1,
+    "11months":1
+   },
+   "12-days":{
+    "12-days":1,
+    "12days":1
+   },
+   "12-months":{
+    "12-months":1,
+    "12months":1
+   },
+   "13-days":{
+    "13-days":1,
+    "13days":1
+   },
+   "13-months":{
+    "13-months":1,
+    "13months":1
+   },
+   "14-days":{
+    "14-days":1,
+    "14days":1
+   },
+   "14-months":{
+    "14-months":1,
+    "14months":1
+   },
+   "15-days":{
+    "15-days":1,
+    "15days":1
+   },
+   "15-months":{
+    "15-months":1,
+    "15months":1
+   },
+   "16-days":{
+    "16-days":1,
+    "16days":1
+   },
+   "16-months":{
+    "16-months":1,
+    "16months":1
+   },
+   "17-days":{
+    "17-days":1,
+    "17days":1
+   },
+   "17-months":{
+    "17-months":1,
+    "17months":1
+   },
+   "18-days":{
+    "18-days":1,
+    "18days":1
+   },
+   "18-months":{
+    "18-months":1,
+    "18months":1
+   },
+   "19-days":{
+    "19-days":1,
+    "19days":1
+   },
+   "19-months":{
+    "19-months":1,
+    "19months":1
+   },
+   "2-days":{
+    "2-days":1,
+    "2days":1
+   },
+   "2-months":{
+    "2-months":1,
+    "2months":1
+   },
+   "20-days":{
+    "20-days":1,
+    "20days":1
+   },
+   "20-months":{
+    "20-months":1,
+    "20months":1
+   },
+   "21-days":{
+    "21-days":1,
+    "21days":1
+   },
+   "21-months":{
+    "21-months":1,
+    "21months":1
+   },
+   "22-days":{
+    "22-days":1,
+    "22days":1
+   },
+   "22-months":{
+    "22-months":1,
+    "22months":1
+   },
+   "23-days":{
+    "23-days":1,
+    "23days":1
+   },
+   "23-months":{
+    "23-months":1,
+    "23months":1
+   },
+   "24-days":{
+    "24-days":1,
+    "24days":1
+   },
+   "24-months":{
+    "24-months":1,
+    "24months":1
+   },
+   "25-days":{
+    "25-days":1,
+    "25days":1
+   },
+   "25-months":{
+    "25-months":1,
+    "25months":1
+   },
+   "26-days":{
+    "26-days":1,
+    "26days":1
+   },
+   "26-months":{
+    "26-months":1,
+    "26months":1
+   },
+   "27-days":{
+    "27-days":1,
+    "27days":1
+   },
+   "27-months":{
+    "27-months":1,
+    "27months":1
+   },
+   "28-days":{
+    "28-days":1,
+    "28days":1
+   },
+   "28-months":{
+    "28-months":1,
+    "28months":1
+   },
+   "29-days":{
+    "29-days":1,
+    "29days":1
+   },
+   "29-months":{
+    "29-months":1,
+    "29months":1
+   },
+   "3-days":{
+    "3-days":1,
+    "3days":1
+   },
+   "3-months":{
+    "3-months":1,
+    "3months":1
+   },
+   "30-days":{
+    "30-days":1,
+    "30days":1
+   },
+   "30-months":{
+    "30-months":1,
+    "30months":1
+   },
+   "31-days":{
+    "31-days":1,
+    "31days":1
+   },
+   "31-months":{
+    "31-months":1,
+    "31months":1
+   },
+   "32-days":{
+    "32-days":1,
+    "32days":1
+   },
+   "32-months":{
+    "32-months":1,
+    "32months":1
+   },
+   "33-days":{
+    "33-days":1,
+    "33days":1
+   },
+   "33-months":{
+    "33-months":1,
+    "33months":1
+   },
+   "34-days":{
+    "34-days":1,
+    "34days":1
+   },
+   "34-months":{
+    "34-months":1,
+    "34months":1
+   },
+   "35-days":{
+    "35-days":1,
+    "35days":1
+   },
+   "35-months":{
+    "35-months":1,
+    "35months":1
+   },
+   "36-days":{
+    "36-days":1,
+    "36days":1
+   },
+   "36-months":{
+    "36-months":1,
+    "36months":1
+   },
+   "37-days":{
+    "37-days":1,
+    "37days":1
+   },
+   "37-months":{
+    "37-months":1,
+    "37months":1
+   },
+   "38-days":{
+    "38-days":1,
+    "38days":1
+   },
+   "38-months":{
+    "38-months":1,
+    "38months":1
+   },
+   "39-days":{
+    "39-days":1,
+    "39days":1
+   },
+   "39-months":{
+    "39-months":1,
+    "39months":1
+   },
+   "4-days":{
+    "4-days":1,
+    "4days":1
+   },
+   "4-months":{
+    "4-months":1,
+    "4months":1
+   },
+   "40-days":{
+    "40-days":1,
+    "40days":1
+   },
+   "40-months":{
+    "40-months":1,
+    "40months":1
+   },
+   "41-days":{
+    "41-days":1,
+    "41days":1
+   },
+   "41-months":{
+    "41-months":1,
+    "41months":1
+   },
+   "42-days":{
+    "42-days":1,
+    "42days":1
+   },
+   "42-months":{
+    "42-months":1,
+    "42months":1
+   },
+   "43-days":{
+    "43-days":1,
+    "43days":1
+   },
+   "43-months":{
+    "43-months":1,
+    "43months":1
+   },
+   "44-days":{
+    "44-days":1,
+    "44days":1
+   },
+   "44-months":{
+    "44-months":1,
+    "44months":1
+   },
+   "45-days":{
+    "45-days":1,
+    "45days":1
+   },
+   "45-months":{
+    "45-months":1,
+    "45months":1
+   },
+   "46-days":{
+    "46-days":1,
+    "46days":1
+   },
+   "46-months":{
+    "46-months":1,
+    "46months":1
+   },
+   "47-days":{
+    "47-days":1,
+    "47days":1
+   },
+   "47-months":{
+    "47-months":1,
+    "47months":1
+   },
+   "48-days":{
+    "48-days":1,
+    "48days":1
+   },
+   "48-months":{
+    "48-months":1,
+    "48months":1
+   },
+   "49-days":{
+    "49-days":1,
+    "49days":1
+   },
+   "5-days":{
+    "5-days":1,
+    "5days":1
+   },
+   "5-months":{
+    "5-months":1,
+    "5months":1
+   },
+   "50-days":{
+    "50-days":1,
+    "50days":1
+   },
+   "51-days":{
+    "51-days":1,
+    "51days":1
+   },
+   "52-days":{
+    "52-days":1,
+    "52days":1
+   },
+   "53-days":{
+    "53-days":1,
+    "53days":1
+   },
+   "54-days":{
+    "54-days":1,
+    "54days":1
+   },
+   "55-days":{
+    "55-days":1,
+    "55days":1
+   },
+   "56-days":{
+    "56-days":1,
+    "56days":1
+   },
+   "57-days":{
+    "57-days":1,
+    "57days":1
+   },
+   "58-days":{
+    "58-days":1,
+    "58days":1
+   },
+   "59-days":{
+    "59-days":1,
+    "59days":1
+   },
+   "6-days":{
+    "6-days":1,
+    "6days":1
+   },
+   "6-months":{
+    "6-months":1,
+    "6months":1
+   },
+   "60-days":{
+    "60-days":1,
+    "60days":1
+   },
+   "7-days":{
+    "7-days":1,
+    "7days":1
+   },
+   "7-months":{
+    "7-months":1,
+    "7months":1
+   },
+   "8-days":{
+    "8-days":1,
+    "8days":1
+   },
+   "8-months":{
+    "8-months":1,
+    "8months":1
+   },
+   "9-days":{
+    "9-days":1,
+    "9days":1
+   },
+   "9-months":{
+    "9-months":1,
+    "9months":1
+   }
+  },
+  "fr":{
+   "1-jour":{
+    "1-jour":1,
+    "1jour":1
+   },
+   "1-mois":{
+    "1-mois":1,
+    "1mois":1
+   },
+   "10-jours":{
+    "10-jour":1,
+    "10-jours":1,
+    "10jour":1,
+    "10jours":1
+   },
+   "10-mois":{
+    "10-mois":1,
+    "10mois":1
+   },
+   "11-jours":{
+    "11-jour":1,
+    "11-jours":1,
+    "11jour":1,
+    "11jours":1
+   },
+   "11-mois":{
+    "11-mois":1,
+    "11mois":1
+   },
+   "12-jours":{
+    "12-jour":1,
+    "12-jours":1,
+    "12jour":1,
+    "12jours":1
+   },
+   "12-mois":{
+    "12-mois":1,
+    "12mois":1
+   },
+   "13-jours":{
+    "13-jour":1,
+    "13-jours":1,
+    "13jour":1,
+    "13jours":1
+   },
+   "13-mois":{
+    "13-mois":1,
+    "13mois":1
+   },
+   "14-jours":{
+    "14-jour":1,
+    "14-jours":1,
+    "14jour":1,
+    "14jours":1
+   },
+   "14-mois":{
+    "14-mois":1,
+    "14mois":1
+   },
+   "15-jours":{
+    "15-jour":1,
+    "15-jours":1,
+    "15jour":1,
+    "15jours":1
+   },
+   "15-mois":{
+    "15-mois":1,
+    "15mois":1
+   },
+   "16-jours":{
+    "16-jour":1,
+    "16-jours":1,
+    "16jour":1,
+    "16jours":1
+   },
+   "16-mois":{
+    "16-mois":1,
+    "16mois":1
+   },
+   "17-jours":{
+    "17-jour":1,
+    "17-jours":1,
+    "17jour":1,
+    "17jours":1
+   },
+   "17-mois":{
+    "17-mois":1,
+    "17mois":1
+   },
+   "18-jours":{
+    "18-jour":1,
+    "18-jours":1,
+    "18jour":1,
+    "18jours":1
+   },
+   "18-mois":{
+    "18-mois":1,
+    "18mois":1
+   },
+   "19-jours":{
+    "19-jour":1,
+    "19-jours":1,
+    "19jour":1,
+    "19jours":1
+   },
+   "19-mois":{
+    "19-mois":1,
+    "19mois":1
+   },
+   "2-jours":{
+    "2-jour":1,
+    "2-jours":1,
+    "2jour":1,
+    "2jours":1
+   },
+   "2-mois":{
+    "2-mois":1,
+    "2mois":1
+   },
+   "20-jours":{
+    "20-jour":1,
+    "20-jours":1,
+    "20jour":1,
+    "20jours":1
+   },
+   "20-mois":{
+    "20-mois":1,
+    "20mois":1
+   },
+   "21-jours":{
+    "21-jour":1,
+    "21-jours":1,
+    "21jour":1,
+    "21jours":1
+   },
+   "21-mois":{
+    "21-mois":1,
+    "21mois":1
+   },
+   "22-jours":{
+    "22-jour":1,
+    "22-jours":1,
+    "22jour":1,
+    "22jours":1
+   },
+   "22-mois":{
+    "22-mois":1,
+    "22mois":1
+   },
+   "23-jours":{
+    "23-jour":1,
+    "23-jours":1,
+    "23jour":1,
+    "23jours":1
+   },
+   "23-mois":{
+    "23-mois":1,
+    "23mois":1
+   },
+   "24-jours":{
+    "24-jour":1,
+    "24-jours":1,
+    "24jour":1,
+    "24jours":1
+   },
+   "24-mois":{
+    "24-mois":1,
+    "24mois":1
+   },
+   "25-jours":{
+    "25-jour":1,
+    "25-jours":1,
+    "25jour":1,
+    "25jours":1
+   },
+   "25-mois":{
+    "25-mois":1,
+    "25mois":1
+   },
+   "26-jours":{
+    "26-jour":1,
+    "26-jours":1,
+    "26jour":1,
+    "26jours":1
+   },
+   "26-mois":{
+    "26-mois":1,
+    "26mois":1
+   },
+   "27-jours":{
+    "27-jour":1,
+    "27-jours":1,
+    "27jour":1,
+    "27jours":1
+   },
+   "27-mois":{
+    "27-mois":1,
+    "27mois":1
+   },
+   "28-jours":{
+    "28-jour":1,
+    "28-jours":1,
+    "28jour":1,
+    "28jours":1
+   },
+   "28-mois":{
+    "28-mois":1,
+    "28mois":1
+   },
+   "29-jours":{
+    "29-jour":1,
+    "29-jours":1,
+    "29jour":1,
+    "29jours":1
+   },
+   "29-mois":{
+    "29-mois":1,
+    "29mois":1
+   },
+   "3-jours":{
+    "3-jour":1,
+    "3-jours":1,
+    "3jour":1,
+    "3jours":1
+   },
+   "3-mois":{
+    "3-mois":1,
+    "3mois":1
+   },
+   "30-jours":{
+    "30-jour":1,
+    "30-jours":1,
+    "30jour":1,
+    "30jours":1
+   },
+   "30-mois":{
+    "30-mois":1,
+    "30mois":1
+   },
+   "31-jours":{
+    "31-jour":1,
+    "31-jours":1,
+    "31jour":1,
+    "31jours":1
+   },
+   "31-mois":{
+    "31-mois":1,
+    "31mois":1
+   },
+   "32-jours":{
+    "32-jour":1,
+    "32-jours":1,
+    "32jour":1,
+    "32jours":1
+   },
+   "32-mois":{
+    "32-mois":1,
+    "32mois":1
+   },
+   "33-jours":{
+    "33-jour":1,
+    "33-jours":1,
+    "33jour":1,
+    "33jours":1
+   },
+   "33-mois":{
+    "33-mois":1,
+    "33mois":1
+   },
+   "34-jours":{
+    "34-jour":1,
+    "34-jours":1,
+    "34jour":1,
+    "34jours":1
+   },
+   "34-mois":{
+    "34-mois":1,
+    "34mois":1
+   },
+   "35-jours":{
+    "35-jour":1,
+    "35-jours":1,
+    "35jour":1,
+    "35jours":1
+   },
+   "35-mois":{
+    "35-mois":1,
+    "35mois":1
+   },
+   "36-jours":{
+    "36-jour":1,
+    "36-jours":1,
+    "36jour":1,
+    "36jours":1
+   },
+   "36-mois":{
+    "36-mois":1,
+    "36mois":1
+   },
+   "37-jours":{
+    "37-jour":1,
+    "37-jours":1,
+    "37jour":1,
+    "37jours":1
+   },
+   "37-mois":{
+    "37-mois":1,
+    "37mois":1
+   },
+   "38-jours":{
+    "38-jour":1,
+    "38-jours":1,
+    "38jour":1,
+    "38jours":1
+   },
+   "38-mois":{
+    "38-mois":1,
+    "38mois":1
+   },
+   "39-jours":{
+    "39-jour":1,
+    "39-jours":1,
+    "39jour":1,
+    "39jours":1
+   },
+   "39-mois":{
+    "39-mois":1,
+    "39mois":1
+   },
+   "4-jours":{
+    "4-jour":1,
+    "4-jours":1,
+    "4jour":1,
+    "4jours":1
+   },
+   "4-mois":{
+    "4-mois":1,
+    "4mois":1
+   },
+   "40-jours":{
+    "40-jour":1,
+    "40-jours":1,
+    "40jour":1,
+    "40jours":1
+   },
+   "40-mois":{
+    "40-mois":1,
+    "40mois":1
+   },
+   "41-jours":{
+    "41-jour":1,
+    "41-jours":1,
+    "41jour":1,
+    "41jours":1
+   },
+   "41-mois":{
+    "41-mois":1,
+    "41mois":1
+   },
+   "42-jours":{
+    "42-jour":1,
+    "42-jours":1,
+    "42jour":1,
+    "42jours":1
+   },
+   "42-mois":{
+    "42-mois":1,
+    "42mois":1
+   },
+   "43-jours":{
+    "43-jour":1,
+    "43-jours":1,
+    "43jour":1,
+    "43jours":1
+   },
+   "43-mois":{
+    "43-mois":1,
+    "43mois":1
+   },
+   "44-jours":{
+    "44-jour":1,
+    "44-jours":1,
+    "44jour":1,
+    "44jours":1
+   },
+   "44-mois":{
+    "44-mois":1,
+    "44mois":1
+   },
+   "45-jours":{
+    "45-jour":1,
+    "45-jours":1,
+    "45jour":1,
+    "45jours":1
+   },
+   "45-mois":{
+    "45-mois":1,
+    "45mois":1
+   },
+   "46-jours":{
+    "46-jour":1,
+    "46-jours":1,
+    "46jour":1,
+    "46jours":1
+   },
+   "46-mois":{
+    "46-mois":1,
+    "46mois":1
+   },
+   "47-jours":{
+    "47-jour":1,
+    "47-jours":1,
+    "47jour":1,
+    "47jours":1
+   },
+   "47-mois":{
+    "47-mois":1,
+    "47mois":1
+   },
+   "48-jours":{
+    "48-jour":1,
+    "48-jours":1,
+    "48jour":1,
+    "48jours":1
+   },
+   "48-mois":{
+    "48-mois":1,
+    "48mois":1
+   },
+   "49-jours":{
+    "49-jour":1,
+    "49-jours":1,
+    "49jour":1,
+    "49jours":1
+   },
+   "5-jours":{
+    "5-jour":1,
+    "5-jours":1,
+    "5jour":1,
+    "5jours":1
+   },
+   "5-mois":{
+    "5-mois":1,
+    "5mois":1
+   },
+   "50-jours":{
+    "50-jour":1,
+    "50-jours":1,
+    "50jour":1,
+    "50jours":1
+   },
+   "51-jours":{
+    "51-jour":1,
+    "51-jours":1,
+    "51jour":1,
+    "51jours":1
+   },
+   "52-jours":{
+    "52-jour":1,
+    "52-jours":1,
+    "52jour":1,
+    "52jours":1
+   },
+   "53-jours":{
+    "53-jour":1,
+    "53-jours":1,
+    "53jour":1,
+    "53jours":1
+   },
+   "54-jours":{
+    "54-jour":1,
+    "54-jours":1,
+    "54jour":1,
+    "54jours":1
+   },
+   "55-jours":{
+    "55-jour":1,
+    "55-jours":1,
+    "55jour":1,
+    "55jours":1
+   },
+   "56-jours":{
+    "56-jour":1,
+    "56-jours":1,
+    "56jour":1,
+    "56jours":1
+   },
+   "57-jours":{
+    "57-jour":1,
+    "57-jours":1,
+    "57jour":1,
+    "57jours":1
+   },
+   "58-jours":{
+    "58-jour":1,
+    "58-jours":1,
+    "58jour":1,
+    "58jours":1
+   },
+   "59-jours":{
+    "59-jour":1,
+    "59-jours":1,
+    "59jour":1,
+    "59jours":1
+   },
+   "6-jours":{
+    "6-jour":1,
+    "6-jours":1,
+    "6jour":1,
+    "6jours":1
+   },
+   "6-mois":{
+    "6-mois":1,
+    "6mois":1
+   },
+   "60-jours":{
+    "60-jour":1,
+    "60-jours":1,
+    "60jour":1,
+    "60jours":1
+   },
+   "7-jours":{
+    "7-jour":1,
+    "7-jours":1,
+    "7jour":1,
+    "7jours":1
+   },
+   "7-mois":{
+    "7-mois":1,
+    "7mois":1
+   },
+   "8-jours":{
+    "8-jour":1,
+    "8-jours":1,
+    "8jour":1,
+    "8jours":1
+   },
+   "8-mois":{
+    "8-mois":1,
+    "8mois":1
+   },
+   "9-jours":{
+    "9-jour":1,
+    "9-jours":1,
+    "9jour":1,
+    "9jours":1
+   },
+   "9-mois":{
+    "9-mois":1,
+    "9mois":1
+   }
+  },
+  "nl":{
+   "1-maand":{
+    "1-maand":1,
+    "1maand":1
+   },
+   "10-maanden":{
+    "10-maanden":1,
+    "10maanden":1
+   },
+   "11-maanden":{
+    "11-maanden":1,
+    "11maanden":1
+   },
+   "12-maanden":{
+    "12-maanden":1,
+    "12maanden":1
+   },
+   "13-maanden":{
+    "13-maanden":1,
+    "13maanden":1
+   },
+   "14-maanden":{
+    "14-maanden":1,
+    "14maanden":1
+   },
+   "15-maanden":{
+    "15-maanden":1,
+    "15maanden":1
+   },
+   "16-maanden":{
+    "16-maanden":1,
+    "16maanden":1
+   },
+   "17-maanden":{
+    "17-maanden":1,
+    "17maanden":1
+   },
+   "2-maanden":{
+    "2-maanden":1,
+    "2maanden":1
+   },
+   "3-maanden":{
+    "3-maanden":1,
+    "3maanden":1
+   },
+   "4-maanden":{
+    "4-maanden":1,
+    "4maanden":1
+   },
+   "5-maanden":{
+    "5-maanden":1,
+    "5maanden":1
+   },
+   "6-maanden":{
+    "6-maanden":1,
+    "6maanden":1
+   },
+   "7-maanden":{
+    "7-maanden":1,
+    "7maanden":1
+   },
+   "8-maanden":{
+    "8-maanden":1,
+    "8maanden":1
+   },
+   "9-maanden":{
+    "9-maanden":1,
+    "9maanden":1
+   }
+  },
+  "pt":{
+   "1-9dias":{
+    "1-9dias":1,
+    "19dias":1
+   },
+   "1-dia":{
+    "1-dia":1,
+    "1dia":1
+   },
+   "1-mes":{
+    "1-mes":1,
+    "1mes":1
+   },
+   "10-dias":{
+    "10-dias":1,
+    "10dias":1
+   },
+   "10-meses":{
+    "10-meses":1,
+    "10meses":1
+   },
+   "11-dias":{
+    "11-dias":1,
+    "11dias":1
+   },
+   "11-meses":{
+    "11-meses":1,
+    "11meses":1
+   },
+   "12-dias":{
+    "12-dias":1,
+    "12dias":1
+   },
+   "12-meses":{
+    "12-meses":1,
+    "12meses":1
+   },
+   "13-dias":{
+    "13-dias":1,
+    "13dias":1
+   },
+   "13-meses":{
+    "13-meses":1,
+    "13meses":1
+   },
+   "14-dias":{
+    "14-dias":1,
+    "14dias":1
+   },
+   "14-meses":{
+    "14-meses":1,
+    "14meses":1
+   },
+   "15-dias":{
+    "15-dias":1,
+    "15dias":1
+   },
+   "15-meses":{
+    "15-meses":1,
+    "15meses":1
+   },
+   "16-dias":{
+    "16-dias":1,
+    "16dias":1
+   },
+   "16-meses":{
+    "16-meses":1,
+    "16meses":1
+   },
+   "17-dias":{
+    "17-dias":1,
+    "17dias":1
+   },
+   "17-meses":{
+    "17-meses":1,
+    "17meses":1
+   },
+   "18-dias":{
+    "18-dias":1,
+    "18dias":1
+   },
+   "18-meses":{
+    "18-meses":1,
+    "18meses":1
+   },
+   "19-meses":{
+    "19-meses":1,
+    "19meses":1
+   },
+   "2-dias":{
+    "2-dias":1,
+    "2dias":1
+   },
+   "2-meses":{
+    "2-meses":1,
+    "2meses":1
+   },
+   "20-dias":{
+    "20-dias":1,
+    "20dias":1
+   },
+   "20-meses":{
+    "20-meses":1,
+    "20meses":1
+   },
+   "21-dias":{
+    "21-dias":1,
+    "21dias":1
+   },
+   "21-meses":{
+    "21-meses":1,
+    "21meses":1
+   },
+   "22-dias":{
+    "22-dias":1,
+    "22dias":1
+   },
+   "22-meses":{
+    "22-meses":1,
+    "22meses":1
+   },
+   "23-dias":{
+    "23-dias":1,
+    "23dias":1
+   },
+   "23-meses":{
+    "23-meses":1,
+    "23meses":1
+   },
+   "24-dias":{
+    "24-dias":1,
+    "24dias":1
+   },
+   "24-meses":{
+    "24-meses":1,
+    "24meses":1
+   },
+   "25-dias":{
+    "25-dias":1,
+    "25dias":1
+   },
+   "25-meses":{
+    "25-meses":1,
+    "25meses":1
+   },
+   "26-dias":{
+    "26-dias":1,
+    "26dias":1
+   },
+   "26-meses":{
+    "26-meses":1,
+    "26meses":1
+   },
+   "27-dias":{
+    "27-dias":1,
+    "27dias":1
+   },
+   "27-meses":{
+    "27-meses":1,
+    "27meses":1
+   },
+   "28-dias":{
+    "28-dias":1,
+    "28dias":1
+   },
+   "28-meses":{
+    "28-meses":1,
+    "28meses":1
+   },
+   "29-dias":{
+    "29-dias":1,
+    "29dias":1
+   },
+   "29-meses":{
+    "29-meses":1,
+    "29meses":1
+   },
+   "3-dias":{
+    "3-dias":1,
+    "3dias":1
+   },
+   "3-meses":{
+    "3-meses":1,
+    "3meses":1
+   },
+   "30-dias":{
+    "30-dias":1,
+    "30dias":1
+   },
+   "30-meses":{
+    "30-meses":1,
+    "30meses":1
+   },
+   "31-dias":{
+    "31-dias":1,
+    "31dias":1
+   },
+   "31-meses":{
+    "31-meses":1,
+    "31meses":1
+   },
+   "32-dias":{
+    "32-dias":1,
+    "32dias":1
+   },
+   "32-meses":{
+    "32-meses":1,
+    "32meses":1
+   },
+   "33-dias":{
+    "33-dias":1,
+    "33dias":1
+   },
+   "33-meses":{
+    "33-meses":1,
+    "33meses":1
+   },
+   "34-dias":{
+    "34-dias":1,
+    "34dias":1
+   },
+   "34-meses":{
+    "34-meses":1,
+    "34meses":1
+   },
+   "35-dias":{
+    "35-dias":1,
+    "35dias":1
+   },
+   "35-meses":{
+    "35-meses":1,
+    "35meses":1
+   },
+   "36-dias":{
+    "36-dias":1,
+    "36dias":1
+   },
+   "36-meses":{
+    "36-meses":1,
+    "36meses":1
+   },
+   "37-dias":{
+    "37-dias":1,
+    "37dias":1
+   },
+   "37-meses":{
+    "37-meses":1,
+    "37meses":1
+   },
+   "38-dias":{
+    "38-dias":1,
+    "38dias":1
+   },
+   "38-meses":{
+    "38-meses":1,
+    "38meses":1
+   },
+   "39-dias":{
+    "39-dias":1,
+    "39dias":1
+   },
+   "39-meses":{
+    "39-meses":1,
+    "39meses":1
+   },
+   "4-dias":{
+    "4-dias":1,
+    "4dias":1
+   },
+   "4-meses":{
+    "4-meses":1,
+    "4meses":1
+   },
+   "40-dias":{
+    "40-dias":1,
+    "40dias":1
+   },
+   "40-meses":{
+    "40-meses":1,
+    "40meses":1
+   },
+   "41-dias":{
+    "41-dias":1,
+    "41dias":1
+   },
+   "41-meses":{
+    "41-meses":1,
+    "41meses":1
+   },
+   "42-dias":{
+    "42-dias":1,
+    "42dias":1
+   },
+   "42-meses":{
+    "42-meses":1,
+    "42meses":1
+   },
+   "43-dias":{
+    "43-dias":1,
+    "43dias":1
+   },
+   "43-meses":{
+    "43-meses":1,
+    "43meses":1
+   },
+   "44-dias":{
+    "44-dias":1,
+    "44dias":1
+   },
+   "44-meses":{
+    "44-meses":1,
+    "44meses":1
+   },
+   "45-dias":{
+    "45-dias":1,
+    "45dias":1
+   },
+   "45-meses":{
+    "45-meses":1,
+    "45meses":1
+   },
+   "46-dias":{
+    "46-dias":1,
+    "46dias":1
+   },
+   "46-meses":{
+    "46-meses":1,
+    "46meses":1
+   },
+   "47-dias":{
+    "47-dias":1,
+    "47dias":1
+   },
+   "47-meses":{
+    "47-meses":1,
+    "47meses":1
+   },
+   "48-dias":{
+    "48-dias":1,
+    "48dias":1
+   },
+   "48-meses":{
+    "48-meses":1,
+    "48meses":1
+   },
+   "49-dias":{
+    "49-dias":1,
+    "49dias":1
+   },
+   "5-dias":{
+    "5-dias":1,
+    "5dias":1
+   },
+   "5-meses":{
+    "5-meses":1,
+    "5meses":1
+   },
+   "50-dias":{
+    "50-dias":1,
+    "50dias":1
+   },
+   "51-dias":{
+    "51-dias":1,
+    "51dias":1
+   },
+   "52-dias":{
+    "52-dias":1,
+    "52dias":1
+   },
+   "53-dias":{
+    "53-dias":1,
+    "53dias":1
+   },
+   "54-dias":{
+    "54-dias":1,
+    "54dias":1
+   },
+   "55-dias":{
+    "55-dias":1,
+    "55dias":1
+   },
+   "56-dias":{
+    "56-dias":1,
+    "56dias":1
+   },
+   "57-dias":{
+    "57-dias":1,
+    "57dias":1
+   },
+   "58-dias":{
+    "58-dias":1,
+    "58dias":1
+   },
+   "59-dias":{
+    "59-dias":1,
+    "59dias":1
+   },
+   "6-dias":{
+    "6-dias":1,
+    "6dias":1
+   },
+   "6-meses":{
+    "6-meses":1,
+    "6meses":1
+   },
+   "60-dias":{
+    "60-dias":1,
+    "60dias":1
+   },
+   "7-dias":{
+    "7-dias":1,
+    "7dias":1
+   },
+   "7-meses":{
+    "7-meses":1,
+    "7meses":1
+   },
+   "8-dias":{
+    "8-dias":1,
+    "8dias":1
+   },
+   "8-meses":{
+    "8-meses":1,
+    "8meses":1
+   },
+   "9-dias":{
+    "9-dias":1,
+    "9dias":1
+   },
+   "9-meses":{
+    "9-meses":1,
+    "9meses":1
+   }
+  },
+  "xx":{
+   "1-d":{
+    "1-d":1,
+    "1-day":1,
+    "1-days":1,
+    "1-m-day":1,
+    "1-m-days":1,
+    "1-month-day":1,
+    "1-month-days":1,
+    "1-months-day":1,
+    "1-months-days":1,
+    "1d":1,
+    "1day":1,
+    "1days":1,
+    "1m-day":1,
+    "1m-days":1,
+    "1month-day":1,
+    "1month-days":1,
+    "1months-day":1,
+    "1months-days":1
+   },
+   "1-m":{
+    "1":1,
+    "1-m":1,
+    "1-month":1,
+    "1-months":1,
+    "1m":1,
+    "1month":1,
+    "1months":1
+   },
+   "10-d":{
+    "10-d":1,
+    "10-day":1,
+    "10-days":1,
+    "10-m-day":1,
+    "10-m-days":1,
+    "10-month-day":1,
+    "10-month-days":1,
+    "10-months-day":1,
+    "10-months-days":1,
+    "10d":1,
+    "10day":1,
+    "10days":1,
+    "10m-day":1,
+    "10m-days":1,
+    "10month-day":1,
+    "10month-days":1,
+    "10months-day":1,
+    "10months-days":1
+   },
+   "10-m":{
+    "10":1,
+    "10-m":1,
+    "10-month":1,
+    "10-months":1,
+    "10m":1,
+    "10month":1,
+    "10months":1
+   },
+   "11-d":{
+    "11-d":1,
+    "11-day":1,
+    "11-days":1,
+    "11-m-day":1,
+    "11-m-days":1,
+    "11-month-day":1,
+    "11-month-days":1,
+    "11-months-day":1,
+    "11-months-days":1,
+    "11d":1,
+    "11day":1,
+    "11days":1,
+    "11m-day":1,
+    "11m-days":1,
+    "11month-day":1,
+    "11month-days":1,
+    "11months-day":1,
+    "11months-days":1
+   },
+   "11-m":{
+    "11":1,
+    "11-m":1,
+    "11-month":1,
+    "11-months":1,
+    "11m":1,
+    "11month":1,
+    "11months":1
+   },
+   "12-d":{
+    "12-d":1,
+    "12-day":1,
+    "12-days":1,
+    "12-m-day":1,
+    "12-m-days":1,
+    "12-month-day":1,
+    "12-month-days":1,
+    "12-months-day":1,
+    "12-months-days":1,
+    "12d":1,
+    "12day":1,
+    "12days":1,
+    "12m-day":1,
+    "12m-days":1,
+    "12month-day":1,
+    "12month-days":1,
+    "12months-day":1,
+    "12months-days":1
+   },
+   "12-m":{
+    "12":1,
+    "12-m":1,
+    "12-month":1,
+    "12-months":1,
+    "12m":1,
+    "12month":1,
+    "12months":1
+   },
+   "13-d":{
+    "13-d":1,
+    "13-day":1,
+    "13-days":1,
+    "13-m-day":1,
+    "13-m-days":1,
+    "13-month-day":1,
+    "13-month-days":1,
+    "13-months-day":1,
+    "13-months-days":1,
+    "13d":1,
+    "13day":1,
+    "13days":1,
+    "13m-day":1,
+    "13m-days":1,
+    "13month-day":1,
+    "13month-days":1,
+    "13months-day":1,
+    "13months-days":1
+   },
+   "13-m":{
+    "13":1,
+    "13-m":1,
+    "13-month":1,
+    "13-months":1,
+    "13m":1,
+    "13month":1,
+    "13months":1
+   },
+   "14-d":{
+    "14-d":1,
+    "14-day":1,
+    "14-days":1,
+    "14-m-day":1,
+    "14-m-days":1,
+    "14-month-day":1,
+    "14-month-days":1,
+    "14-months-day":1,
+    "14-months-days":1,
+    "14d":1,
+    "14day":1,
+    "14days":1,
+    "14m-day":1,
+    "14m-days":1,
+    "14month-day":1,
+    "14month-days":1,
+    "14months-day":1,
+    "14months-days":1
+   },
+   "14-m":{
+    "14":1,
+    "14-m":1,
+    "14-month":1,
+    "14-months":1,
+    "14m":1,
+    "14month":1,
+    "14months":1
+   },
+   "15-d":{
+    "15-d":1,
+    "15-day":1,
+    "15-days":1,
+    "15-m-day":1,
+    "15-m-days":1,
+    "15-month-day":1,
+    "15-month-days":1,
+    "15-months-day":1,
+    "15-months-days":1,
+    "15d":1,
+    "15day":1,
+    "15days":1,
+    "15m-day":1,
+    "15m-days":1,
+    "15month-day":1,
+    "15month-days":1,
+    "15months-day":1,
+    "15months-days":1
+   },
+   "15-m":{
+    "15":1,
+    "15-m":1,
+    "15-month":1,
+    "15-months":1,
+    "15m":1,
+    "15month":1,
+    "15months":1
+   },
+   "16-d":{
+    "16-d":1,
+    "16-day":1,
+    "16-days":1,
+    "16-m-day":1,
+    "16-m-days":1,
+    "16-month-day":1,
+    "16-month-days":1,
+    "16-months-day":1,
+    "16-months-days":1,
+    "16d":1,
+    "16day":1,
+    "16days":1,
+    "16m-day":1,
+    "16m-days":1,
+    "16month-day":1,
+    "16month-days":1,
+    "16months-day":1,
+    "16months-days":1
+   },
+   "16-m":{
+    "16":1,
+    "16-m":1,
+    "16-month":1,
+    "16-months":1,
+    "16m":1,
+    "16month":1,
+    "16months":1
+   },
+   "17-d":{
+    "17-d":1,
+    "17-day":1,
+    "17-days":1,
+    "17-m-day":1,
+    "17-m-days":1,
+    "17-month-day":1,
+    "17-month-days":1,
+    "17-months-day":1,
+    "17-months-days":1,
+    "17d":1,
+    "17day":1,
+    "17days":1,
+    "17m-day":1,
+    "17m-days":1,
+    "17month-day":1,
+    "17month-days":1,
+    "17months-day":1,
+    "17months-days":1
+   },
+   "17-m":{
+    "17":1,
+    "17-m":1,
+    "17-month":1,
+    "17-months":1,
+    "17m":1,
+    "17month":1,
+    "17months":1
+   },
+   "18-d":{
+    "18-d":1,
+    "18-day":1,
+    "18-days":1,
+    "18-m-day":1,
+    "18-m-days":1,
+    "18-month-day":1,
+    "18-month-days":1,
+    "18-months-day":1,
+    "18-months-days":1,
+    "18d":1,
+    "18day":1,
+    "18days":1,
+    "18m-day":1,
+    "18m-days":1,
+    "18month-day":1,
+    "18month-days":1,
+    "18months-day":1,
+    "18months-days":1
+   },
+   "18-m":{
+    "18":1,
+    "18-m":1,
+    "18-month":1,
+    "18-months":1,
+    "18m":1,
+    "18month":1,
+    "18months":1
+   },
+   "19-d":{
+    "19-d":1,
+    "19-day":1,
+    "19-days":1,
+    "19-m-day":1,
+    "19-m-days":1,
+    "19-month-day":1,
+    "19-month-days":1,
+    "19-months-day":1,
+    "19-months-days":1,
+    "19d":1,
+    "19day":1,
+    "19days":1,
+    "19m-day":1,
+    "19m-days":1,
+    "19month-day":1,
+    "19month-days":1,
+    "19months-day":1,
+    "19months-days":1
+   },
+   "19-m":{
+    "19":1,
+    "19-m":1,
+    "19-month":1,
+    "19-months":1,
+    "19m":1,
+    "19month":1,
+    "19months":1
+   },
+   "2-d":{
+    "2-d":1,
+    "2-day":1,
+    "2-days":1,
+    "2-m-day":1,
+    "2-m-days":1,
+    "2-month-day":1,
+    "2-month-days":1,
+    "2-months-day":1,
+    "2-months-days":1,
+    "2d":1,
+    "2day":1,
+    "2days":1,
+    "2m-day":1,
+    "2m-days":1,
+    "2month-day":1,
+    "2month-days":1,
+    "2months-day":1,
+    "2months-days":1
+   },
+   "2-m":{
+    "2":1,
+    "2-m":1,
+    "2-month":1,
+    "2-months":1,
+    "2m":1,
+    "2month":1,
+    "2months":1
+   },
+   "20-d":{
+    "20-d":1,
+    "20-day":1,
+    "20-days":1,
+    "20-m-day":1,
+    "20-m-days":1,
+    "20-month-day":1,
+    "20-month-days":1,
+    "20-months-day":1,
+    "20-months-days":1,
+    "20d":1,
+    "20day":1,
+    "20days":1,
+    "20m-day":1,
+    "20m-days":1,
+    "20month-day":1,
+    "20month-days":1,
+    "20months-day":1,
+    "20months-days":1
+   },
+   "20-m":{
+    "20":1,
+    "20-m":1,
+    "20-month":1,
+    "20-months":1,
+    "20m":1,
+    "20month":1,
+    "20months":1
+   },
+   "21-d":{
+    "21-d":1,
+    "21-day":1,
+    "21-days":1,
+    "21-m-day":1,
+    "21-m-days":1,
+    "21-month-day":1,
+    "21-month-days":1,
+    "21-months-day":1,
+    "21-months-days":1,
+    "21d":1,
+    "21day":1,
+    "21days":1,
+    "21m-day":1,
+    "21m-days":1,
+    "21month-day":1,
+    "21month-days":1,
+    "21months-day":1,
+    "21months-days":1
+   },
+   "21-m":{
+    "21":1,
+    "21-m":1,
+    "21-month":1,
+    "21-months":1,
+    "21m":1,
+    "21month":1,
+    "21months":1
+   },
+   "22-d":{
+    "22-d":1,
+    "22-day":1,
+    "22-days":1,
+    "22-m-day":1,
+    "22-m-days":1,
+    "22-month-day":1,
+    "22-month-days":1,
+    "22-months-day":1,
+    "22-months-days":1,
+    "22d":1,
+    "22day":1,
+    "22days":1,
+    "22m-day":1,
+    "22m-days":1,
+    "22month-day":1,
+    "22month-days":1,
+    "22months-day":1,
+    "22months-days":1
+   },
+   "22-m":{
+    "22":1,
+    "22-m":1,
+    "22-month":1,
+    "22-months":1,
+    "22m":1,
+    "22month":1,
+    "22months":1
+   },
+   "23-d":{
+    "23-d":1,
+    "23-day":1,
+    "23-days":1,
+    "23-m-day":1,
+    "23-m-days":1,
+    "23-month-day":1,
+    "23-month-days":1,
+    "23-months-day":1,
+    "23-months-days":1,
+    "23d":1,
+    "23day":1,
+    "23days":1,
+    "23m-day":1,
+    "23m-days":1,
+    "23month-day":1,
+    "23month-days":1,
+    "23months-day":1,
+    "23months-days":1
+   },
+   "23-m":{
+    "23":1,
+    "23-m":1,
+    "23-month":1,
+    "23-months":1,
+    "23m":1,
+    "23month":1,
+    "23months":1
+   },
+   "24-d":{
+    "24-d":1,
+    "24-day":1,
+    "24-days":1,
+    "24-m-day":1,
+    "24-m-days":1,
+    "24-month-day":1,
+    "24-month-days":1,
+    "24-months-day":1,
+    "24-months-days":1,
+    "24d":1,
+    "24day":1,
+    "24days":1,
+    "24m-day":1,
+    "24m-days":1,
+    "24month-day":1,
+    "24month-days":1,
+    "24months-day":1,
+    "24months-days":1
+   },
+   "24-m":{
+    "24":1,
+    "24-m":1,
+    "24-month":1,
+    "24-months":1,
+    "24m":1,
+    "24month":1,
+    "24months":1
+   },
+   "25-d":{
+    "25-d":1,
+    "25-day":1,
+    "25-days":1,
+    "25-m-day":1,
+    "25-m-days":1,
+    "25-month-day":1,
+    "25-month-days":1,
+    "25-months-day":1,
+    "25-months-days":1,
+    "25d":1,
+    "25day":1,
+    "25days":1,
+    "25m-day":1,
+    "25m-days":1,
+    "25month-day":1,
+    "25month-days":1,
+    "25months-day":1,
+    "25months-days":1
+   },
+   "25-m":{
+    "25":1,
+    "25-m":1,
+    "25-month":1,
+    "25-months":1,
+    "25m":1,
+    "25month":1,
+    "25months":1
+   },
+   "26-d":{
+    "26-d":1,
+    "26-day":1,
+    "26-days":1,
+    "26-m-day":1,
+    "26-m-days":1,
+    "26-month-day":1,
+    "26-month-days":1,
+    "26-months-day":1,
+    "26-months-days":1,
+    "26d":1,
+    "26day":1,
+    "26days":1,
+    "26m-day":1,
+    "26m-days":1,
+    "26month-day":1,
+    "26month-days":1,
+    "26months-day":1,
+    "26months-days":1
+   },
+   "26-m":{
+    "26":1,
+    "26-m":1,
+    "26-month":1,
+    "26-months":1,
+    "26m":1,
+    "26month":1,
+    "26months":1
+   },
+   "27-d":{
+    "27-d":1,
+    "27-day":1,
+    "27-days":1,
+    "27-m-day":1,
+    "27-m-days":1,
+    "27-month-day":1,
+    "27-month-days":1,
+    "27-months-day":1,
+    "27-months-days":1,
+    "27d":1,
+    "27day":1,
+    "27days":1,
+    "27m-day":1,
+    "27m-days":1,
+    "27month-day":1,
+    "27month-days":1,
+    "27months-day":1,
+    "27months-days":1
+   },
+   "27-m":{
+    "27":1,
+    "27-m":1,
+    "27-month":1,
+    "27-months":1,
+    "27m":1,
+    "27month":1,
+    "27months":1
+   },
+   "28-d":{
+    "28-d":1,
+    "28-day":1,
+    "28-days":1,
+    "28-m-day":1,
+    "28-m-days":1,
+    "28-month-day":1,
+    "28-month-days":1,
+    "28-months-day":1,
+    "28-months-days":1,
+    "28d":1,
+    "28day":1,
+    "28days":1,
+    "28m-day":1,
+    "28m-days":1,
+    "28month-day":1,
+    "28month-days":1,
+    "28months-day":1,
+    "28months-days":1
+   },
+   "28-m":{
+    "28":1,
+    "28-m":1,
+    "28-month":1,
+    "28-months":1,
+    "28m":1,
+    "28month":1,
+    "28months":1
+   },
+   "29-d":{
+    "29-d":1,
+    "29-day":1,
+    "29-days":1,
+    "29-m-day":1,
+    "29-m-days":1,
+    "29-month-day":1,
+    "29-month-days":1,
+    "29-months-day":1,
+    "29-months-days":1,
+    "29d":1,
+    "29day":1,
+    "29days":1,
+    "29m-day":1,
+    "29m-days":1,
+    "29month-day":1,
+    "29month-days":1,
+    "29months-day":1,
+    "29months-days":1
+   },
+   "29-m":{
+    "29":1,
+    "29-m":1,
+    "29-month":1,
+    "29-months":1,
+    "29m":1,
+    "29month":1,
+    "29months":1
+   },
+   "3-d":{
+    "3-d":1,
+    "3-day":1,
+    "3-days":1,
+    "3-m-day":1,
+    "3-m-days":1,
+    "3-month-day":1,
+    "3-month-days":1,
+    "3-months-day":1,
+    "3-months-days":1,
+    "3d":1,
+    "3day":1,
+    "3days":1,
+    "3m-day":1,
+    "3m-days":1,
+    "3month-day":1,
+    "3month-days":1,
+    "3months-day":1,
+    "3months-days":1
+   },
+   "3-m":{
+    "3":1,
+    "3-m":1,
+    "3-month":1,
+    "3-months":1,
+    "3m":1,
+    "3month":1,
+    "3months":1
+   },
+   "30-d":{
+    "30-d":1,
+    "30-day":1,
+    "30-days":1,
+    "30-m-day":1,
+    "30-m-days":1,
+    "30-month-day":1,
+    "30-month-days":1,
+    "30-months-day":1,
+    "30-months-days":1,
+    "30d":1,
+    "30day":1,
+    "30days":1,
+    "30m-day":1,
+    "30m-days":1,
+    "30month-day":1,
+    "30month-days":1,
+    "30months-day":1,
+    "30months-days":1
+   },
+   "30-m":{
+    "30":1,
+    "30-m":1,
+    "30-month":1,
+    "30-months":1,
+    "30m":1,
+    "30month":1,
+    "30months":1
+   },
+   "31-d":{
+    "31-d":1,
+    "31-day":1,
+    "31-days":1,
+    "31-m-day":1,
+    "31-m-days":1,
+    "31-month-day":1,
+    "31-month-days":1,
+    "31-months-day":1,
+    "31-months-days":1,
+    "31d":1,
+    "31day":1,
+    "31days":1,
+    "31m-day":1,
+    "31m-days":1,
+    "31month-day":1,
+    "31month-days":1,
+    "31months-day":1,
+    "31months-days":1
+   },
+   "31-m":{
+    "31":1,
+    "31-m":1,
+    "31-month":1,
+    "31-months":1,
+    "31m":1,
+    "31month":1,
+    "31months":1
+   },
+   "32-d":{
+    "32-d":1,
+    "32-day":1,
+    "32-days":1,
+    "32-m-day":1,
+    "32-m-days":1,
+    "32-month-day":1,
+    "32-month-days":1,
+    "32-months-day":1,
+    "32-months-days":1,
+    "32d":1,
+    "32day":1,
+    "32days":1,
+    "32m-day":1,
+    "32m-days":1,
+    "32month-day":1,
+    "32month-days":1,
+    "32months-day":1,
+    "32months-days":1
+   },
+   "32-m":{
+    "32":1,
+    "32-m":1,
+    "32-month":1,
+    "32-months":1,
+    "32m":1,
+    "32month":1,
+    "32months":1
+   },
+   "33-d":{
+    "33-d":1,
+    "33-day":1,
+    "33-days":1,
+    "33-m-day":1,
+    "33-m-days":1,
+    "33-month-day":1,
+    "33-month-days":1,
+    "33-months-day":1,
+    "33-months-days":1,
+    "33d":1,
+    "33day":1,
+    "33days":1,
+    "33m-day":1,
+    "33m-days":1,
+    "33month-day":1,
+    "33month-days":1,
+    "33months-day":1,
+    "33months-days":1
+   },
+   "33-m":{
+    "33":1,
+    "33-m":1,
+    "33-month":1,
+    "33-months":1,
+    "33m":1,
+    "33month":1,
+    "33months":1
+   },
+   "34-d":{
+    "34-d":1,
+    "34-day":1,
+    "34-days":1,
+    "34-m-day":1,
+    "34-m-days":1,
+    "34-month-day":1,
+    "34-month-days":1,
+    "34-months-day":1,
+    "34-months-days":1,
+    "34d":1,
+    "34day":1,
+    "34days":1,
+    "34m-day":1,
+    "34m-days":1,
+    "34month-day":1,
+    "34month-days":1,
+    "34months-day":1,
+    "34months-days":1
+   },
+   "34-m":{
+    "34":1,
+    "34-m":1,
+    "34-month":1,
+    "34-months":1,
+    "34m":1,
+    "34month":1,
+    "34months":1
+   },
+   "35-d":{
+    "35-d":1,
+    "35-day":1,
+    "35-days":1,
+    "35-m-day":1,
+    "35-m-days":1,
+    "35-month-day":1,
+    "35-month-days":1,
+    "35-months-day":1,
+    "35-months-days":1,
+    "35d":1,
+    "35day":1,
+    "35days":1,
+    "35m-day":1,
+    "35m-days":1,
+    "35month-day":1,
+    "35month-days":1,
+    "35months-day":1,
+    "35months-days":1
+   },
+   "35-m":{
+    "35":1,
+    "35-m":1,
+    "35-month":1,
+    "35-months":1,
+    "35m":1,
+    "35month":1,
+    "35months":1
+   },
+   "36-d":{
+    "36-d":1,
+    "36-day":1,
+    "36-days":1,
+    "36-m-day":1,
+    "36-m-days":1,
+    "36-month-day":1,
+    "36-month-days":1,
+    "36-months-day":1,
+    "36-months-days":1,
+    "36d":1,
+    "36day":1,
+    "36days":1,
+    "36m-day":1,
+    "36m-days":1,
+    "36month-day":1,
+    "36month-days":1,
+    "36months-day":1,
+    "36months-days":1
+   },
+   "36-m":{
+    "36":1,
+    "36-m":1,
+    "36-month":1,
+    "36-months":1,
+    "36m":1,
+    "36month":1,
+    "36months":1
+   },
+   "37-d":{
+    "37-d":1,
+    "37-day":1,
+    "37-days":1,
+    "37-m-day":1,
+    "37-m-days":1,
+    "37-month-day":1,
+    "37-month-days":1,
+    "37-months-day":1,
+    "37-months-days":1,
+    "37d":1,
+    "37day":1,
+    "37days":1,
+    "37m-day":1,
+    "37m-days":1,
+    "37month-day":1,
+    "37month-days":1,
+    "37months-day":1,
+    "37months-days":1
+   },
+   "37-m":{
+    "37":1,
+    "37-m":1,
+    "37-month":1,
+    "37-months":1,
+    "37m":1,
+    "37month":1,
+    "37months":1
+   },
+   "38-d":{
+    "38-d":1,
+    "38-day":1,
+    "38-days":1,
+    "38-m-day":1,
+    "38-m-days":1,
+    "38-month-day":1,
+    "38-month-days":1,
+    "38-months-day":1,
+    "38-months-days":1,
+    "38d":1,
+    "38day":1,
+    "38days":1,
+    "38m-day":1,
+    "38m-days":1,
+    "38month-day":1,
+    "38month-days":1,
+    "38months-day":1,
+    "38months-days":1
+   },
+   "38-m":{
+    "38":1,
+    "38-m":1,
+    "38-month":1,
+    "38-months":1,
+    "38m":1,
+    "38month":1,
+    "38months":1
+   },
+   "39-d":{
+    "39-d":1,
+    "39-day":1,
+    "39-days":1,
+    "39-m-day":1,
+    "39-m-days":1,
+    "39-month-day":1,
+    "39-month-days":1,
+    "39-months-day":1,
+    "39-months-days":1,
+    "39d":1,
+    "39day":1,
+    "39days":1,
+    "39m-day":1,
+    "39m-days":1,
+    "39month-day":1,
+    "39month-days":1,
+    "39months-day":1,
+    "39months-days":1
+   },
+   "39-m":{
+    "39":1,
+    "39-m":1,
+    "39-month":1,
+    "39-months":1,
+    "39m":1,
+    "39month":1,
+    "39months":1
+   },
+   "4-d":{
+    "4-d":1,
+    "4-day":1,
+    "4-days":1,
+    "4-m-day":1,
+    "4-m-days":1,
+    "4-month-day":1,
+    "4-month-days":1,
+    "4-months-day":1,
+    "4-months-days":1,
+    "4d":1,
+    "4day":1,
+    "4days":1,
+    "4m-day":1,
+    "4m-days":1,
+    "4month-day":1,
+    "4month-days":1,
+    "4months-day":1,
+    "4months-days":1
+   },
+   "4-m":{
+    "4":1,
+    "4-m":1,
+    "4-month":1,
+    "4-months":1,
+    "4m":1,
+    "4month":1,
+    "4months":1
+   },
+   "40-d":{
+    "40-d":1,
+    "40-day":1,
+    "40-days":1,
+    "40-m-day":1,
+    "40-m-days":1,
+    "40-month-day":1,
+    "40-month-days":1,
+    "40-months-day":1,
+    "40-months-days":1,
+    "40d":1,
+    "40day":1,
+    "40days":1,
+    "40m-day":1,
+    "40m-days":1,
+    "40month-day":1,
+    "40month-days":1,
+    "40months-day":1,
+    "40months-days":1
+   },
+   "40-m":{
+    "40":1,
+    "40-m":1,
+    "40-month":1,
+    "40-months":1,
+    "40m":1,
+    "40month":1,
+    "40months":1
+   },
+   "41-d":{
+    "41-d":1,
+    "41-day":1,
+    "41-days":1,
+    "41-m-day":1,
+    "41-m-days":1,
+    "41-month-day":1,
+    "41-month-days":1,
+    "41-months-day":1,
+    "41-months-days":1,
+    "41d":1,
+    "41day":1,
+    "41days":1,
+    "41m-day":1,
+    "41m-days":1,
+    "41month-day":1,
+    "41month-days":1,
+    "41months-day":1,
+    "41months-days":1
+   },
+   "41-m":{
+    "41":1,
+    "41-m":1,
+    "41-month":1,
+    "41-months":1,
+    "41m":1,
+    "41month":1,
+    "41months":1
+   },
+   "42-d":{
+    "42-d":1,
+    "42-day":1,
+    "42-days":1,
+    "42-m-day":1,
+    "42-m-days":1,
+    "42-month-day":1,
+    "42-month-days":1,
+    "42-months-day":1,
+    "42-months-days":1,
+    "42d":1,
+    "42day":1,
+    "42days":1,
+    "42m-day":1,
+    "42m-days":1,
+    "42month-day":1,
+    "42month-days":1,
+    "42months-day":1,
+    "42months-days":1
+   },
+   "42-m":{
+    "42":1,
+    "42-m":1,
+    "42-month":1,
+    "42-months":1,
+    "42m":1,
+    "42month":1,
+    "42months":1
+   },
+   "43-d":{
+    "43-d":1,
+    "43-day":1,
+    "43-days":1,
+    "43-m-day":1,
+    "43-m-days":1,
+    "43-month-day":1,
+    "43-month-days":1,
+    "43-months-day":1,
+    "43-months-days":1,
+    "43d":1,
+    "43day":1,
+    "43days":1,
+    "43m-day":1,
+    "43m-days":1,
+    "43month-day":1,
+    "43month-days":1,
+    "43months-day":1,
+    "43months-days":1
+   },
+   "43-m":{
+    "43":1,
+    "43-m":1,
+    "43-month":1,
+    "43-months":1,
+    "43m":1,
+    "43month":1,
+    "43months":1
+   },
+   "44-d":{
+    "44-d":1,
+    "44-day":1,
+    "44-days":1,
+    "44-m-day":1,
+    "44-m-days":1,
+    "44-month-day":1,
+    "44-month-days":1,
+    "44-months-day":1,
+    "44-months-days":1,
+    "44d":1,
+    "44day":1,
+    "44days":1,
+    "44m-day":1,
+    "44m-days":1,
+    "44month-day":1,
+    "44month-days":1,
+    "44months-day":1,
+    "44months-days":1
+   },
+   "44-m":{
+    "44":1,
+    "44-m":1,
+    "44-month":1,
+    "44-months":1,
+    "44m":1,
+    "44month":1,
+    "44months":1
+   },
+   "45-d":{
+    "45-d":1,
+    "45-day":1,
+    "45-days":1,
+    "45-m-day":1,
+    "45-m-days":1,
+    "45-month-day":1,
+    "45-month-days":1,
+    "45-months-day":1,
+    "45-months-days":1,
+    "45d":1,
+    "45day":1,
+    "45days":1,
+    "45m-day":1,
+    "45m-days":1,
+    "45month-day":1,
+    "45month-days":1,
+    "45months-day":1,
+    "45months-days":1
+   },
+   "45-m":{
+    "45":1,
+    "45-m":1,
+    "45-month":1,
+    "45-months":1,
+    "45m":1,
+    "45month":1,
+    "45months":1
+   },
+   "46-d":{
+    "46-d":1,
+    "46-day":1,
+    "46-days":1,
+    "46-m-day":1,
+    "46-m-days":1,
+    "46-month-day":1,
+    "46-month-days":1,
+    "46-months-day":1,
+    "46-months-days":1,
+    "46d":1,
+    "46day":1,
+    "46days":1,
+    "46m-day":1,
+    "46m-days":1,
+    "46month-day":1,
+    "46month-days":1,
+    "46months-day":1,
+    "46months-days":1
+   },
+   "46-m":{
+    "46":1,
+    "46-m":1,
+    "46-month":1,
+    "46-months":1,
+    "46m":1,
+    "46month":1,
+    "46months":1
+   },
+   "47-d":{
+    "47-d":1,
+    "47-day":1,
+    "47-days":1,
+    "47-m-day":1,
+    "47-m-days":1,
+    "47-month-day":1,
+    "47-month-days":1,
+    "47-months-day":1,
+    "47-months-days":1,
+    "47d":1,
+    "47day":1,
+    "47days":1,
+    "47m-day":1,
+    "47m-days":1,
+    "47month-day":1,
+    "47month-days":1,
+    "47months-day":1,
+    "47months-days":1
+   },
+   "47-m":{
+    "47":1,
+    "47-m":1,
+    "47-month":1,
+    "47-months":1,
+    "47m":1,
+    "47month":1,
+    "47months":1
+   },
+   "48-d":{
+    "48-d":1,
+    "48-day":1,
+    "48-days":1,
+    "48-m-day":1,
+    "48-m-days":1,
+    "48-month-day":1,
+    "48-month-days":1,
+    "48-months-day":1,
+    "48-months-days":1,
+    "48d":1,
+    "48day":1,
+    "48days":1,
+    "48m-day":1,
+    "48m-days":1,
+    "48month-day":1,
+    "48month-days":1,
+    "48months-day":1,
+    "48months-days":1
+   },
+   "48-m":{
+    "48":1,
+    "48-m":1,
+    "48-month":1,
+    "48-months":1,
+    "48m":1,
+    "48month":1,
+    "48months":1
+   },
+   "49-d":{
+    "49-d":1,
+    "49-day":1,
+    "49-days":1,
+    "49d":1,
+    "49day":1,
+    "49days":1
+   },
+   "5-d":{
+    "5-d":1,
+    "5-day":1,
+    "5-days":1,
+    "5-m-day":1,
+    "5-m-days":1,
+    "5-month-day":1,
+    "5-month-days":1,
+    "5-months-day":1,
+    "5-months-days":1,
+    "5d":1,
+    "5day":1,
+    "5days":1,
+    "5m-day":1,
+    "5m-days":1,
+    "5month-day":1,
+    "5month-days":1,
+    "5months-day":1,
+    "5months-days":1
+   },
+   "5-m":{
+    "5":1,
+    "5-m":1,
+    "5-month":1,
+    "5-months":1,
+    "5m":1,
+    "5month":1,
+    "5months":1
+   },
+   "50-d":{
+    "50-d":1,
+    "50-day":1,
+    "50-days":1,
+    "50d":1,
+    "50day":1,
+    "50days":1
+   },
+   "51-d":{
+    "51-d":1,
+    "51-day":1,
+    "51-days":1,
+    "51d":1,
+    "51day":1,
+    "51days":1
+   },
+   "52-d":{
+    "52-d":1,
+    "52-day":1,
+    "52-days":1,
+    "52d":1,
+    "52day":1,
+    "52days":1
+   },
+   "53-d":{
+    "53-d":1,
+    "53-day":1,
+    "53-days":1,
+    "53d":1,
+    "53day":1,
+    "53days":1
+   },
+   "54-d":{
+    "54-d":1,
+    "54-day":1,
+    "54-days":1,
+    "54d":1,
+    "54day":1,
+    "54days":1
+   },
+   "55-d":{
+    "55-d":1,
+    "55-day":1,
+    "55-days":1,
+    "55d":1,
+    "55day":1,
+    "55days":1
+   },
+   "56-d":{
+    "56-d":1,
+    "56-day":1,
+    "56-days":1,
+    "56d":1,
+    "56day":1,
+    "56days":1
+   },
+   "57-d":{
+    "57-d":1,
+    "57-day":1,
+    "57-days":1,
+    "57d":1,
+    "57day":1,
+    "57days":1
+   },
+   "58-d":{
+    "58-d":1,
+    "58-day":1,
+    "58-days":1,
+    "58d":1,
+    "58day":1,
+    "58days":1
+   },
+   "59-d":{
+    "59-d":1,
+    "59-day":1,
+    "59-days":1,
+    "59d":1,
+    "59day":1,
+    "59days":1
+   },
+   "6-d":{
+    "6-d":1,
+    "6-day":1,
+    "6-days":1,
+    "6-m-day":1,
+    "6-m-days":1,
+    "6-month-day":1,
+    "6-month-days":1,
+    "6-months-day":1,
+    "6-months-days":1,
+    "6d":1,
+    "6day":1,
+    "6days":1,
+    "6m-day":1,
+    "6m-days":1,
+    "6month-day":1,
+    "6month-days":1,
+    "6months-day":1,
+    "6months-days":1
+   },
+   "6-m":{
+    "6":1,
+    "6-m":1,
+    "6-month":1,
+    "6-months":1,
+    "6m":1,
+    "6month":1,
+    "6months":1
+   },
+   "60-d":{
+    "60-d":1,
+    "60-day":1,
+    "60-days":1,
+    "60d":1,
+    "60day":1,
+    "60days":1
+   },
+   "7-d":{
+    "7-d":1,
+    "7-day":1,
+    "7-days":1,
+    "7-m-day":1,
+    "7-m-days":1,
+    "7-month-day":1,
+    "7-month-days":1,
+    "7-months-day":1,
+    "7-months-days":1,
+    "7d":1,
+    "7day":1,
+    "7days":1,
+    "7m-day":1,
+    "7m-days":1,
+    "7month-day":1,
+    "7month-days":1,
+    "7months-day":1,
+    "7months-days":1
+   },
+   "7-m":{
+    "7":1,
+    "7-m":1,
+    "7-month":1,
+    "7-months":1,
+    "7m":1,
+    "7month":1,
+    "7months":1
+   },
+   "8-d":{
+    "8-d":1,
+    "8-day":1,
+    "8-days":1,
+    "8-m-day":1,
+    "8-m-days":1,
+    "8-month-day":1,
+    "8-month-days":1,
+    "8-months-day":1,
+    "8-months-days":1,
+    "8d":1,
+    "8day":1,
+    "8days":1,
+    "8m-day":1,
+    "8m-days":1,
+    "8month-day":1,
+    "8month-days":1,
+    "8months-day":1,
+    "8months-days":1
+   },
+   "8-m":{
+    "8":1,
+    "8-m":1,
+    "8-month":1,
+    "8-months":1,
+    "8m":1,
+    "8month":1,
+    "8months":1
+   },
+   "9-d":{
+    "9-d":1,
+    "9-day":1,
+    "9-days":1,
+    "9-m-day":1,
+    "9-m-days":1,
+    "9-month-day":1,
+    "9-month-days":1,
+    "9-months-day":1,
+    "9-months-days":1,
+    "9d":1,
+    "9day":1,
+    "9days":1,
+    "9m-day":1,
+    "9m-days":1,
+    "9month-day":1,
+    "9month-days":1,
+    "9months-day":1,
+    "9months-days":1
+   },
+   "9-m":{
+    "9":1,
+    "9-m":1,
+    "9-month":1,
+    "9-months":1,
+    "9m":1,
+    "9month":1,
+    "9months":1
+   }
+  }
+ },
+ "translations_from":{
+  "bg:1-ден":"en:1-day",
+  "bg:1-месец":"en:1-month",
+  "bg:10-дена":"en:10-days",
+  "bg:10-месеца":"en:10-months",
+  "bg:11-дена":"en:11-days",
+  "bg:11-месеца":"en:11-months",
+  "bg:12-дена":"en:12-days",
+  "bg:12-месеца":"en:12-months",
+  "bg:13-дена":"en:13-days",
+  "bg:13-месеца":"en:13-months",
+  "bg:14-дена":"en:14-days",
+  "bg:14-месеца":"en:14-months",
+  "bg:15-дена":"en:15-days",
+  "bg:15-месеца":"en:15-months",
+  "bg:16-дена":"en:16-days",
+  "bg:16-месеца":"en:16-months",
+  "bg:17-дена":"en:17-days",
+  "bg:17-месеца":"en:17-months",
+  "bg:18-дена":"en:18-days",
+  "bg:18-месеца":"en:18-months",
+  "bg:19-дена":"en:19-days",
+  "bg:19-месеца":"en:19-months",
+  "bg:2-дена":"en:2-days",
+  "bg:2-месеца":"en:2-months",
+  "bg:20-дена":"en:20-days",
+  "bg:20-месеца":"en:20-months",
+  "bg:21-дена":"en:21-days",
+  "bg:21-месеца":"en:21-months",
+  "bg:22-дена":"en:22-days",
+  "bg:22-месеца":"en:22-months",
+  "bg:23-дена":"en:23-days",
+  "bg:23-месеца":"en:23-months",
+  "bg:24-дена":"en:24-days",
+  "bg:24-месеца":"en:24-months",
+  "bg:25-дена":"en:25-days",
+  "bg:25-месеца":"en:25-months",
+  "bg:26-дена":"en:26-days",
+  "bg:26-месеца":"en:26-months",
+  "bg:27-дена":"en:27-days",
+  "bg:27-месеца":"en:27-months",
+  "bg:28-дена":"en:28-days",
+  "bg:28-месеца":"en:28-months",
+  "bg:29-дена":"en:29-days",
+  "bg:29-месеца":"en:29-months",
+  "bg:3-дена":"en:3-days",
+  "bg:3-месеца":"en:3-months",
+  "bg:30-дена":"en:30-days",
+  "bg:30-месеца":"en:30-months",
+  "bg:31-дена":"en:31-days",
+  "bg:31-месеца":"en:31-months",
+  "bg:32-дена":"en:32-days",
+  "bg:32-месеца":"en:32-months",
+  "bg:33-дена":"en:33-days",
+  "bg:33-месеца":"en:33-months",
+  "bg:34-дена":"en:34-days",
+  "bg:34-месеца":"en:34-months",
+  "bg:35-дена":"en:35-days",
+  "bg:35-месеца":"en:35-months",
+  "bg:36-дена":"en:36-days",
+  "bg:36-месеца":"en:36-months",
+  "bg:37-дена":"en:37-days",
+  "bg:37-месеца":"en:37-months",
+  "bg:38-дена":"en:38-days",
+  "bg:38-месеца":"en:38-months",
+  "bg:39-дена":"en:39-days",
+  "bg:39-месеца":"en:39-months",
+  "bg:4-дена":"en:4-days",
+  "bg:4-месеца":"en:4-months",
+  "bg:40-дена":"en:40-days",
+  "bg:40-месеца":"en:40-months",
+  "bg:41-дена":"en:41-days",
+  "bg:41-месеца":"en:41-months",
+  "bg:42-дена":"en:42-days",
+  "bg:42-месеца":"en:42-months",
+  "bg:43-дена":"en:43-days",
+  "bg:43-месеца":"en:43-months",
+  "bg:44-дена":"en:44-days",
+  "bg:44-месеца":"en:44-months",
+  "bg:45-дена":"en:45-days",
+  "bg:45-месеца":"en:45-months",
+  "bg:46-дена":"en:46-days",
+  "bg:46-месеца":"en:46-months",
+  "bg:47-дена":"en:47-days",
+  "bg:47-месеца":"en:47-months",
+  "bg:48-дена":"en:48-days",
+  "bg:48-месеца":"en:48-months",
+  "bg:49-дена":"en:49-days",
+  "bg:5-дена":"en:5-days",
+  "bg:5-месеца":"en:5-months",
+  "bg:50-дена":"en:50-days",
+  "bg:51-дена":"en:51-days",
+  "bg:52-дена":"en:52-days",
+  "bg:53-дена":"en:53-days",
+  "bg:54-дена":"en:54-days",
+  "bg:55-дена":"en:55-days",
+  "bg:56-дена":"en:56-days",
+  "bg:57-дена":"en:57-days",
+  "bg:58-дена":"en:58-days",
+  "bg:59-дена":"en:59-days",
+  "bg:6-дена":"en:6-days",
+  "bg:6-месеца":"en:6-months",
+  "bg:60-дена":"en:60-days",
+  "bg:7-дена":"en:7-days",
+  "bg:7-месеца":"en:7-months",
+  "bg:8-дена":"en:8-days",
+  "bg:8-месеца":"en:8-months",
+  "bg:9-дена":"en:9-days",
+  "bg:9-месеца":"en:9-months",
+  "en:1-day":"en:1-day",
+  "en:1-month":"en:1-month",
+  "en:10-days":"en:10-days",
+  "en:10-months":"en:10-months",
+  "en:11-days":"en:11-days",
+  "en:11-months":"en:11-months",
+  "en:12-days":"en:12-days",
+  "en:12-months":"en:12-months",
+  "en:13-days":"en:13-days",
+  "en:13-months":"en:13-months",
+  "en:14-days":"en:14-days",
+  "en:14-months":"en:14-months",
+  "en:15-days":"en:15-days",
+  "en:15-months":"en:15-months",
+  "en:16-days":"en:16-days",
+  "en:16-months":"en:16-months",
+  "en:17-days":"en:17-days",
+  "en:17-months":"en:17-months",
+  "en:18-days":"en:18-days",
+  "en:18-months":"en:18-months",
+  "en:19-days":"en:19-days",
+  "en:19-months":"en:19-months",
+  "en:2-days":"en:2-days",
+  "en:2-months":"en:2-months",
+  "en:20-days":"en:20-days",
+  "en:20-months":"en:20-months",
+  "en:21-days":"en:21-days",
+  "en:21-months":"en:21-months",
+  "en:22-days":"en:22-days",
+  "en:22-months":"en:22-months",
+  "en:23-days":"en:23-days",
+  "en:23-months":"en:23-months",
+  "en:24-days":"en:24-days",
+  "en:24-months":"en:24-months",
+  "en:25-days":"en:25-days",
+  "en:25-months":"en:25-months",
+  "en:26-days":"en:26-days",
+  "en:26-months":"en:26-months",
+  "en:27-days":"en:27-days",
+  "en:27-months":"en:27-months",
+  "en:28-days":"en:28-days",
+  "en:28-months":"en:28-months",
+  "en:29-days":"en:29-days",
+  "en:29-months":"en:29-months",
+  "en:3-days":"en:3-days",
+  "en:3-months":"en:3-months",
+  "en:30-days":"en:30-days",
+  "en:30-months":"en:30-months",
+  "en:31-days":"en:31-days",
+  "en:31-months":"en:31-months",
+  "en:32-days":"en:32-days",
+  "en:32-months":"en:32-months",
+  "en:33-days":"en:33-days",
+  "en:33-months":"en:33-months",
+  "en:34-days":"en:34-days",
+  "en:34-months":"en:34-months",
+  "en:35-days":"en:35-days",
+  "en:35-months":"en:35-months",
+  "en:36-days":"en:36-days",
+  "en:36-months":"en:36-months",
+  "en:37-days":"en:37-days",
+  "en:37-months":"en:37-months",
+  "en:38-days":"en:38-days",
+  "en:38-months":"en:38-months",
+  "en:39-days":"en:39-days",
+  "en:39-months":"en:39-months",
+  "en:4-days":"en:4-days",
+  "en:4-months":"en:4-months",
+  "en:40-days":"en:40-days",
+  "en:40-months":"en:40-months",
+  "en:41-days":"en:41-days",
+  "en:41-months":"en:41-months",
+  "en:42-days":"en:42-days",
+  "en:42-months":"en:42-months",
+  "en:43-days":"en:43-days",
+  "en:43-months":"en:43-months",
+  "en:44-days":"en:44-days",
+  "en:44-months":"en:44-months",
+  "en:45-days":"en:45-days",
+  "en:45-months":"en:45-months",
+  "en:46-days":"en:46-days",
+  "en:46-months":"en:46-months",
+  "en:47-days":"en:47-days",
+  "en:47-months":"en:47-months",
+  "en:48-days":"en:48-days",
+  "en:48-months":"en:48-months",
+  "en:49-days":"en:49-days",
+  "en:5-days":"en:5-days",
+  "en:5-months":"en:5-months",
+  "en:50-days":"en:50-days",
+  "en:51-days":"en:51-days",
+  "en:52-days":"en:52-days",
+  "en:53-days":"en:53-days",
+  "en:54-days":"en:54-days",
+  "en:55-days":"en:55-days",
+  "en:56-days":"en:56-days",
+  "en:57-days":"en:57-days",
+  "en:58-days":"en:58-days",
+  "en:59-days":"en:59-days",
+  "en:6-days":"en:6-days",
+  "en:6-months":"en:6-months",
+  "en:60-days":"en:60-days",
+  "en:7-days":"en:7-days",
+  "en:7-months":"en:7-months",
+  "en:8-days":"en:8-days",
+  "en:8-months":"en:8-months",
+  "en:9-days":"en:9-days",
+  "en:9-months":"en:9-months",
+  "fr:1-jour":"en:1-day",
+  "fr:1-mois":"en:1-month",
+  "fr:10-jours":"en:10-days",
+  "fr:10-mois":"en:10-months",
+  "fr:11-jours":"en:11-days",
+  "fr:11-mois":"en:11-months",
+  "fr:12-jours":"en:12-days",
+  "fr:12-mois":"en:12-months",
+  "fr:13-jours":"en:13-days",
+  "fr:13-mois":"en:13-months",
+  "fr:14-jours":"en:14-days",
+  "fr:14-mois":"en:14-months",
+  "fr:15-jours":"en:15-days",
+  "fr:15-mois":"en:15-months",
+  "fr:16-jours":"en:16-days",
+  "fr:16-mois":"en:16-months",
+  "fr:17-jours":"en:17-days",
+  "fr:17-mois":"en:17-months",
+  "fr:18-jours":"en:18-days",
+  "fr:18-mois":"en:18-months",
+  "fr:19-jours":"en:19-days",
+  "fr:19-mois":"en:19-months",
+  "fr:2-jours":"en:2-days",
+  "fr:2-mois":"en:2-months",
+  "fr:20-jours":"en:20-days",
+  "fr:20-mois":"en:20-months",
+  "fr:21-jours":"en:21-days",
+  "fr:21-mois":"en:21-months",
+  "fr:22-jours":"en:22-days",
+  "fr:22-mois":"en:22-months",
+  "fr:23-jours":"en:23-days",
+  "fr:23-mois":"en:23-months",
+  "fr:24-jours":"en:24-days",
+  "fr:24-mois":"en:24-months",
+  "fr:25-jours":"en:25-days",
+  "fr:25-mois":"en:25-months",
+  "fr:26-jours":"en:26-days",
+  "fr:26-mois":"en:26-months",
+  "fr:27-jours":"en:27-days",
+  "fr:27-mois":"en:27-months",
+  "fr:28-jours":"en:28-days",
+  "fr:28-mois":"en:28-months",
+  "fr:29-jours":"en:29-days",
+  "fr:29-mois":"en:29-months",
+  "fr:3-jours":"en:3-days",
+  "fr:3-mois":"en:3-months",
+  "fr:30-jours":"en:30-days",
+  "fr:30-mois":"en:30-months",
+  "fr:31-jours":"en:31-days",
+  "fr:31-mois":"en:31-months",
+  "fr:32-jours":"en:32-days",
+  "fr:32-mois":"en:32-months",
+  "fr:33-jours":"en:33-days",
+  "fr:33-mois":"en:33-months",
+  "fr:34-jours":"en:34-days",
+  "fr:34-mois":"en:34-months",
+  "fr:35-jours":"en:35-days",
+  "fr:35-mois":"en:35-months",
+  "fr:36-jours":"en:36-days",
+  "fr:36-mois":"en:36-months",
+  "fr:37-jours":"en:37-days",
+  "fr:37-mois":"en:37-months",
+  "fr:38-jours":"en:38-days",
+  "fr:38-mois":"en:38-months",
+  "fr:39-jours":"en:39-days",
+  "fr:39-mois":"en:39-months",
+  "fr:4-jours":"en:4-days",
+  "fr:4-mois":"en:4-months",
+  "fr:40-jours":"en:40-days",
+  "fr:40-mois":"en:40-months",
+  "fr:41-jours":"en:41-days",
+  "fr:41-mois":"en:41-months",
+  "fr:42-jours":"en:42-days",
+  "fr:42-mois":"en:42-months",
+  "fr:43-jours":"en:43-days",
+  "fr:43-mois":"en:43-months",
+  "fr:44-jours":"en:44-days",
+  "fr:44-mois":"en:44-months",
+  "fr:45-jours":"en:45-days",
+  "fr:45-mois":"en:45-months",
+  "fr:46-jours":"en:46-days",
+  "fr:46-mois":"en:46-months",
+  "fr:47-jours":"en:47-days",
+  "fr:47-mois":"en:47-months",
+  "fr:48-jours":"en:48-days",
+  "fr:48-mois":"en:48-months",
+  "fr:49-jours":"en:49-days",
+  "fr:5-jours":"en:5-days",
+  "fr:5-mois":"en:5-months",
+  "fr:50-jours":"en:50-days",
+  "fr:51-jours":"en:51-days",
+  "fr:52-jours":"en:52-days",
+  "fr:53-jours":"en:53-days",
+  "fr:54-jours":"en:54-days",
+  "fr:55-jours":"en:55-days",
+  "fr:56-jours":"en:56-days",
+  "fr:57-jours":"en:57-days",
+  "fr:58-jours":"en:58-days",
+  "fr:59-jours":"en:59-days",
+  "fr:6-jours":"en:6-days",
+  "fr:6-mois":"en:6-months",
+  "fr:60-jours":"en:60-days",
+  "fr:7-jours":"en:7-days",
+  "fr:7-mois":"en:7-months",
+  "fr:8-jours":"en:8-days",
+  "fr:8-mois":"en:8-months",
+  "fr:9-jours":"en:9-days",
+  "fr:9-mois":"en:9-months",
+  "nl:1-maand":"en:1-month",
+  "nl:10-maanden":"en:10-months",
+  "nl:11-maanden":"en:11-months",
+  "nl:12-maanden":"en:12-months",
+  "nl:13-maanden":"en:13-months",
+  "nl:14-maanden":"en:14-months",
+  "nl:15-maanden":"en:15-months",
+  "nl:16-maanden":"en:16-months",
+  "nl:17-maanden":"en:17-months",
+  "nl:2-maanden":"en:2-months",
+  "nl:3-maanden":"en:3-months",
+  "nl:4-maanden":"en:4-months",
+  "nl:5-maanden":"en:5-months",
+  "nl:6-maanden":"en:6-months",
+  "nl:7-maanden":"en:7-months",
+  "nl:8-maanden":"en:8-months",
+  "nl:9-maanden":"en:9-months",
+  "pt:1-9dias":"en:19-days",
+  "pt:1-dia":"en:1-day",
+  "pt:1-mes":"en:1-month",
+  "pt:10-dias":"en:10-days",
+  "pt:10-meses":"en:10-months",
+  "pt:11-dias":"en:11-days",
+  "pt:11-meses":"en:11-months",
+  "pt:12-dias":"en:12-days",
+  "pt:12-meses":"en:12-months",
+  "pt:13-dias":"en:13-days",
+  "pt:13-meses":"en:13-months",
+  "pt:14-dias":"en:14-days",
+  "pt:14-meses":"en:14-months",
+  "pt:15-dias":"en:15-days",
+  "pt:15-meses":"en:15-months",
+  "pt:16-dias":"en:16-days",
+  "pt:16-meses":"en:16-months",
+  "pt:17-dias":"en:17-days",
+  "pt:17-meses":"en:17-months",
+  "pt:18-dias":"en:18-days",
+  "pt:18-meses":"en:18-months",
+  "pt:19-meses":"en:19-months",
+  "pt:2-dias":"en:2-days",
+  "pt:2-meses":"en:2-months",
+  "pt:20-dias":"en:20-days",
+  "pt:20-meses":"en:20-months",
+  "pt:21-dias":"en:21-days",
+  "pt:21-meses":"en:21-months",
+  "pt:22-dias":"en:22-days",
+  "pt:22-meses":"en:22-months",
+  "pt:23-dias":"en:23-days",
+  "pt:23-meses":"en:23-months",
+  "pt:24-dias":"en:24-days",
+  "pt:24-meses":"en:24-months",
+  "pt:25-dias":"en:25-days",
+  "pt:25-meses":"en:25-months",
+  "pt:26-dias":"en:26-days",
+  "pt:26-meses":"en:26-months",
+  "pt:27-dias":"en:27-days",
+  "pt:27-meses":"en:27-months",
+  "pt:28-dias":"en:28-days",
+  "pt:28-meses":"en:28-months",
+  "pt:29-dias":"en:29-days",
+  "pt:29-meses":"en:29-months",
+  "pt:3-dias":"en:3-days",
+  "pt:3-meses":"en:3-months",
+  "pt:30-dias":"en:30-days",
+  "pt:30-meses":"en:30-months",
+  "pt:31-dias":"en:31-days",
+  "pt:31-meses":"en:31-months",
+  "pt:32-dias":"en:32-days",
+  "pt:32-meses":"en:32-months",
+  "pt:33-dias":"en:33-days",
+  "pt:33-meses":"en:33-months",
+  "pt:34-dias":"en:34-days",
+  "pt:34-meses":"en:34-months",
+  "pt:35-dias":"en:35-days",
+  "pt:35-meses":"en:35-months",
+  "pt:36-dias":"en:36-days",
+  "pt:36-meses":"en:36-months",
+  "pt:37-dias":"en:37-days",
+  "pt:37-meses":"en:37-months",
+  "pt:38-dias":"en:38-days",
+  "pt:38-meses":"en:38-months",
+  "pt:39-dias":"en:39-days",
+  "pt:39-meses":"en:39-months",
+  "pt:4-dias":"en:4-days",
+  "pt:4-meses":"en:4-months",
+  "pt:40-dias":"en:40-days",
+  "pt:40-meses":"en:40-months",
+  "pt:41-dias":"en:41-days",
+  "pt:41-meses":"en:41-months",
+  "pt:42-dias":"en:42-days",
+  "pt:42-meses":"en:42-months",
+  "pt:43-dias":"en:43-days",
+  "pt:43-meses":"en:43-months",
+  "pt:44-dias":"en:44-days",
+  "pt:44-meses":"en:44-months",
+  "pt:45-dias":"en:45-days",
+  "pt:45-meses":"en:45-months",
+  "pt:46-dias":"en:46-days",
+  "pt:46-meses":"en:46-months",
+  "pt:47-dias":"en:47-days",
+  "pt:47-meses":"en:47-months",
+  "pt:48-dias":"en:48-days",
+  "pt:48-meses":"en:48-months",
+  "pt:49-dias":"en:49-days",
+  "pt:5-dias":"en:5-days",
+  "pt:5-meses":"en:5-months",
+  "pt:50-dias":"en:50-days",
+  "pt:51-dias":"en:51-days",
+  "pt:52-dias":"en:52-days",
+  "pt:53-dias":"en:53-days",
+  "pt:54-dias":"en:54-days",
+  "pt:55-dias":"en:55-days",
+  "pt:56-dias":"en:56-days",
+  "pt:57-dias":"en:57-days",
+  "pt:58-dias":"en:58-days",
+  "pt:59-dias":"en:59-days",
+  "pt:6-dias":"en:6-days",
+  "pt:6-meses":"en:6-months",
+  "pt:60-dias":"en:60-days",
+  "pt:7-dias":"en:7-days",
+  "pt:7-meses":"en:7-months",
+  "pt:8-dias":"en:8-days",
+  "pt:8-meses":"en:8-months",
+  "pt:9-dias":"en:9-days",
+  "pt:9-meses":"en:9-months",
+  "xx:1-d":"en:1-day",
+  "xx:1-m":"en:1-month",
+  "xx:10-d":"en:10-days",
+  "xx:10-m":"en:10-months",
+  "xx:11-d":"en:11-days",
+  "xx:11-m":"en:11-months",
+  "xx:12-d":"en:12-days",
+  "xx:12-m":"en:12-months",
+  "xx:13-d":"en:13-days",
+  "xx:13-m":"en:13-months",
+  "xx:14-d":"en:14-days",
+  "xx:14-m":"en:14-months",
+  "xx:15-d":"en:15-days",
+  "xx:15-m":"en:15-months",
+  "xx:16-d":"en:16-days",
+  "xx:16-m":"en:16-months",
+  "xx:17-d":"en:17-days",
+  "xx:17-m":"en:17-months",
+  "xx:18-d":"en:18-days",
+  "xx:18-m":"en:18-months",
+  "xx:19-d":"en:19-days",
+  "xx:19-m":"en:19-months",
+  "xx:2-d":"en:2-days",
+  "xx:2-m":"en:2-months",
+  "xx:20-d":"en:20-days",
+  "xx:20-m":"en:20-months",
+  "xx:21-d":"en:21-days",
+  "xx:21-m":"en:21-months",
+  "xx:22-d":"en:22-days",
+  "xx:22-m":"en:22-months",
+  "xx:23-d":"en:23-days",
+  "xx:23-m":"en:23-months",
+  "xx:24-d":"en:24-days",
+  "xx:24-m":"en:24-months",
+  "xx:25-d":"en:25-days",
+  "xx:25-m":"en:25-months",
+  "xx:26-d":"en:26-days",
+  "xx:26-m":"en:26-months",
+  "xx:27-d":"en:27-days",
+  "xx:27-m":"en:27-months",
+  "xx:28-d":"en:28-days",
+  "xx:28-m":"en:28-months",
+  "xx:29-d":"en:29-days",
+  "xx:29-m":"en:29-months",
+  "xx:3-d":"en:3-days",
+  "xx:3-m":"en:3-months",
+  "xx:30-d":"en:30-days",
+  "xx:30-m":"en:30-months",
+  "xx:31-d":"en:31-days",
+  "xx:31-m":"en:31-months",
+  "xx:32-d":"en:32-days",
+  "xx:32-m":"en:32-months",
+  "xx:33-d":"en:33-days",
+  "xx:33-m":"en:33-months",
+  "xx:34-d":"en:34-days",
+  "xx:34-m":"en:34-months",
+  "xx:35-d":"en:35-days",
+  "xx:35-m":"en:35-months",
+  "xx:36-d":"en:36-days",
+  "xx:36-m":"en:36-months",
+  "xx:37-d":"en:37-days",
+  "xx:37-m":"en:37-months",
+  "xx:38-d":"en:38-days",
+  "xx:38-m":"en:38-months",
+  "xx:39-d":"en:39-days",
+  "xx:39-m":"en:39-months",
+  "xx:4-d":"en:4-days",
+  "xx:4-m":"en:4-months",
+  "xx:40-d":"en:40-days",
+  "xx:40-m":"en:40-months",
+  "xx:41-d":"en:41-days",
+  "xx:41-m":"en:41-months",
+  "xx:42-d":"en:42-days",
+  "xx:42-m":"en:42-months",
+  "xx:43-d":"en:43-days",
+  "xx:43-m":"en:43-months",
+  "xx:44-d":"en:44-days",
+  "xx:44-m":"en:44-months",
+  "xx:45-d":"en:45-days",
+  "xx:45-m":"en:45-months",
+  "xx:46-d":"en:46-days",
+  "xx:46-m":"en:46-months",
+  "xx:47-d":"en:47-days",
+  "xx:47-m":"en:47-months",
+  "xx:48-d":"en:48-days",
+  "xx:48-m":"en:48-months",
+  "xx:49-d":"en:49-days",
+  "xx:5-d":"en:5-days",
+  "xx:5-m":"en:5-months",
+  "xx:50-d":"en:50-days",
+  "xx:51-d":"en:51-days",
+  "xx:52-d":"en:52-days",
+  "xx:53-d":"en:53-days",
+  "xx:54-d":"en:54-days",
+  "xx:55-d":"en:55-days",
+  "xx:56-d":"en:56-days",
+  "xx:57-d":"en:57-days",
+  "xx:58-d":"en:58-days",
+  "xx:59-d":"en:59-days",
+  "xx:6-d":"en:6-days",
+  "xx:6-m":"en:6-months",
+  "xx:60-d":"en:60-days",
+  "xx:7-d":"en:7-days",
+  "xx:7-m":"en:7-months",
+  "xx:8-d":"en:8-days",
+  "xx:8-m":"en:8-months",
+  "xx:9-d":"en:9-days",
+  "xx:9-m":"en:9-months"
+ },
+ "translations_to":{
+  "en:1-day":{
+   "bg":"1 ден",
+   "en":"1 day",
+   "fr":"1 jour",
+   "pt":"1 dia",
+   "xx":"1 D"
+  },
+  "en:1-month":{
+   "bg":"1 месец",
+   "en":"1 month",
+   "fr":"1 mois",
+   "nl":"1 maand",
+   "pt":"1 mês",
+   "xx":"1 M"
+  },
+  "en:10-days":{
+   "bg":"10 дена",
+   "en":"10 days",
+   "fr":"10 jours",
+   "pt":"10 dias",
+   "xx":"10 D"
+  },
+  "en:10-months":{
+   "bg":"10 месеца",
+   "en":"10 months",
+   "fr":"10 mois",
+   "nl":"10 maanden",
+   "pt":"10 meses",
+   "xx":"10 M"
+  },
+  "en:11-days":{
+   "bg":"11 дена",
+   "en":"11 days",
+   "fr":"11 jours",
+   "pt":"11 dias",
+   "xx":"11 D"
+  },
+  "en:11-months":{
+   "bg":"11 месеца",
+   "en":"11 months",
+   "fr":"11 mois",
+   "nl":"11 maanden",
+   "pt":"11 meses",
+   "xx":"11 M"
+  },
+  "en:12-days":{
+   "bg":"12 дена",
+   "en":"12 days",
+   "fr":"12 jours",
+   "pt":"12 dias",
+   "xx":"12 D"
+  },
+  "en:12-months":{
+   "bg":"12 месеца",
+   "en":"12 months",
+   "fr":"12 mois",
+   "nl":"12 maanden",
+   "pt":"12 meses",
+   "xx":"12 M"
+  },
+  "en:13-days":{
+   "bg":"13 дена",
+   "en":"13 days",
+   "fr":"13 jours",
+   "pt":"13 dias",
+   "xx":"13 D"
+  },
+  "en:13-months":{
+   "bg":"13 месеца",
+   "en":"13 months",
+   "fr":"13 mois",
+   "nl":"13 maanden",
+   "pt":"13 meses",
+   "xx":"13 M"
+  },
+  "en:14-days":{
+   "bg":"14 дена",
+   "en":"14 days",
+   "fr":"14 jours",
+   "pt":"14 dias",
+   "xx":"14 D"
+  },
+  "en:14-months":{
+   "bg":"14 месеца",
+   "en":"14 months",
+   "fr":"14 mois",
+   "nl":"14 maanden",
+   "pt":"14 meses",
+   "xx":"14 M"
+  },
+  "en:15-days":{
+   "bg":"15 дена",
+   "en":"15 days",
+   "fr":"15 jours",
+   "pt":"15 dias",
+   "xx":"15 D"
+  },
+  "en:15-months":{
+   "bg":"15 месеца",
+   "en":"15 months",
+   "fr":"15 mois",
+   "nl":"15 maanden",
+   "pt":"15 meses",
+   "xx":"15 M"
+  },
+  "en:16-days":{
+   "bg":"16 дена",
+   "en":"16 days",
+   "fr":"16 jours",
+   "pt":"16 dias",
+   "xx":"16 D"
+  },
+  "en:16-months":{
+   "bg":"16 месеца",
+   "en":"16 months",
+   "fr":"16 mois",
+   "nl":"16 maanden",
+   "pt":"16 meses",
+   "xx":"16 M"
+  },
+  "en:17-days":{
+   "bg":"17 дена",
+   "en":"17 days",
+   "fr":"17 jours",
+   "pt":"17 dias",
+   "xx":"17 D"
+  },
+  "en:17-months":{
+   "bg":"17 месеца",
+   "en":"17 months",
+   "fr":"17 mois",
+   "nl":"17 maanden",
+   "pt":"17 meses",
+   "xx":"17 M"
+  },
+  "en:18-days":{
+   "bg":"18 дена",
+   "en":"18 days",
+   "fr":"18 jours",
+   "pt":"18 dias",
+   "xx":"18 D"
+  },
+  "en:18-months":{
+   "bg":"18 месеца",
+   "en":"18 months",
+   "fr":"18 mois",
+   "pt":"18 meses",
+   "xx":"18 M"
+  },
+  "en:19-days":{
+   "bg":"19 дена",
+   "en":"19 days",
+   "fr":"19 jours",
+   "pt":"1 9dias",
+   "xx":"19 D"
+  },
+  "en:19-months":{
+   "bg":"19 месеца",
+   "en":"19 months",
+   "fr":"19 mois",
+   "pt":"19 meses",
+   "xx":"19 M"
+  },
+  "en:2-days":{
+   "bg":"2 дена",
+   "en":"2 days",
+   "fr":"2 jours",
+   "pt":"2 dias",
+   "xx":"2 D"
+  },
+  "en:2-months":{
+   "bg":"2 месеца",
+   "en":"2 months",
+   "fr":"2 mois",
+   "nl":"2 maanden",
+   "pt":"2 meses",
+   "xx":"2 M"
+  },
+  "en:20-days":{
+   "bg":"20 дена",
+   "en":"20 days",
+   "fr":"20 jours",
+   "pt":"20 dias",
+   "xx":"20 D"
+  },
+  "en:20-months":{
+   "bg":"20 месеца",
+   "en":"20 months",
+   "fr":"20 mois",
+   "pt":"20 meses",
+   "xx":"20 M"
+  },
+  "en:21-days":{
+   "bg":"21 дена",
+   "en":"21 days",
+   "fr":"21 jours",
+   "pt":"21 dias",
+   "xx":"21 D"
+  },
+  "en:21-months":{
+   "bg":"21 месеца",
+   "en":"21 months",
+   "fr":"21 mois",
+   "pt":"21 meses",
+   "xx":"21 M"
+  },
+  "en:22-days":{
+   "bg":"22 дена",
+   "en":"22 days",
+   "fr":"22 jours",
+   "pt":"22 dias",
+   "xx":"22 D"
+  },
+  "en:22-months":{
+   "bg":"22 месеца",
+   "en":"22 months",
+   "fr":"22 mois",
+   "pt":"22 meses",
+   "xx":"22 M"
+  },
+  "en:23-days":{
+   "bg":"23 дена",
+   "en":"23 days",
+   "fr":"23 jours",
+   "pt":"23 dias",
+   "xx":"23 D"
+  },
+  "en:23-months":{
+   "bg":"23 месеца",
+   "en":"23 months",
+   "fr":"23 mois",
+   "pt":"23 meses",
+   "xx":"23 M"
+  },
+  "en:24-days":{
+   "bg":"24 дена",
+   "en":"24 days",
+   "fr":"24 jours",
+   "pt":"24 dias",
+   "xx":"24 D"
+  },
+  "en:24-months":{
+   "bg":"24 месеца",
+   "en":"24 months",
+   "fr":"24 mois",
+   "pt":"24 meses",
+   "xx":"24 M"
+  },
+  "en:25-days":{
+   "bg":"25 дена",
+   "en":"25 days",
+   "fr":"25 jours",
+   "pt":"25 dias",
+   "xx":"25 D"
+  },
+  "en:25-months":{
+   "bg":"25 месеца",
+   "en":"25 months",
+   "fr":"25 mois",
+   "pt":"25 meses",
+   "xx":"25 M"
+  },
+  "en:26-days":{
+   "bg":"26 дена",
+   "en":"26 days",
+   "fr":"26 jours",
+   "pt":"26 dias",
+   "xx":"26 D"
+  },
+  "en:26-months":{
+   "bg":"26 месеца",
+   "en":"26 months",
+   "fr":"26 mois",
+   "pt":"26 meses",
+   "xx":"26 M"
+  },
+  "en:27-days":{
+   "bg":"27 дена",
+   "en":"27 days",
+   "fr":"27 jours",
+   "pt":"27 dias",
+   "xx":"27 D"
+  },
+  "en:27-months":{
+   "bg":"27 месеца",
+   "en":"27 months",
+   "fr":"27 mois",
+   "pt":"27 meses",
+   "xx":"27 M"
+  },
+  "en:28-days":{
+   "bg":"28 дена",
+   "en":"28 days",
+   "fr":"28 jours",
+   "pt":"28 dias",
+   "xx":"28 D"
+  },
+  "en:28-months":{
+   "bg":"28 месеца",
+   "en":"28 months",
+   "fr":"28 mois",
+   "pt":"28 meses",
+   "xx":"28 M"
+  },
+  "en:29-days":{
+   "bg":"29 дена",
+   "en":"29 days",
+   "fr":"29 jours",
+   "pt":"29 dias",
+   "xx":"29 D"
+  },
+  "en:29-months":{
+   "bg":"29 месеца",
+   "en":"29 months",
+   "fr":"29 mois",
+   "pt":"29 meses",
+   "xx":"29 M"
+  },
+  "en:3-days":{
+   "bg":"3 дена",
+   "en":"3 days",
+   "fr":"3 jours",
+   "pt":"3 dias",
+   "xx":"3 D"
+  },
+  "en:3-months":{
+   "bg":"3 месеца",
+   "en":"3 months",
+   "fr":"3 mois",
+   "nl":"3 maanden",
+   "pt":"3 meses",
+   "xx":"3 M"
+  },
+  "en:30-days":{
+   "bg":"30 дена",
+   "en":"30 days",
+   "fr":"30 jours",
+   "pt":"30 dias",
+   "xx":"30 D"
+  },
+  "en:30-months":{
+   "bg":"30 месеца",
+   "en":"30 months",
+   "fr":"30 mois",
+   "pt":"30 meses",
+   "xx":"30 M"
+  },
+  "en:31-days":{
+   "bg":"31 дена",
+   "en":"31 days",
+   "fr":"31 jours",
+   "pt":"31 dias",
+   "xx":"31 D"
+  },
+  "en:31-months":{
+   "bg":"31 месеца",
+   "en":"31 months",
+   "fr":"31 mois",
+   "pt":"31 meses",
+   "xx":"31 M"
+  },
+  "en:32-days":{
+   "bg":"32 дена",
+   "en":"32 days",
+   "fr":"32 jours",
+   "pt":"32 dias",
+   "xx":"32 D"
+  },
+  "en:32-months":{
+   "bg":"32 месеца",
+   "en":"32 months",
+   "fr":"32 mois",
+   "pt":"32 meses",
+   "xx":"32 M"
+  },
+  "en:33-days":{
+   "bg":"33 дена",
+   "en":"33 days",
+   "fr":"33 jours",
+   "pt":"33 dias",
+   "xx":"33 D"
+  },
+  "en:33-months":{
+   "bg":"33 месеца",
+   "en":"33 months",
+   "fr":"33 mois",
+   "pt":"33 meses",
+   "xx":"33 M"
+  },
+  "en:34-days":{
+   "bg":"34 дена",
+   "en":"34 days",
+   "fr":"34 jours",
+   "pt":"34 dias",
+   "xx":"34 D"
+  },
+  "en:34-months":{
+   "bg":"34 месеца",
+   "en":"34 months",
+   "fr":"34 mois",
+   "pt":"34 meses",
+   "xx":"34 M"
+  },
+  "en:35-days":{
+   "bg":"35 дена",
+   "en":"35 days",
+   "fr":"35 jours",
+   "pt":"35 dias",
+   "xx":"35 D"
+  },
+  "en:35-months":{
+   "bg":"35 месеца",
+   "en":"35 months",
+   "fr":"35 mois",
+   "pt":"35 meses",
+   "xx":"35 M"
+  },
+  "en:36-days":{
+   "bg":"36 дена",
+   "en":"36 days",
+   "fr":"36 jours",
+   "pt":"36 dias",
+   "xx":"36 D"
+  },
+  "en:36-months":{
+   "bg":"36 месеца",
+   "en":"36 months",
+   "fr":"36 mois",
+   "pt":"36 meses",
+   "xx":"36 M"
+  },
+  "en:37-days":{
+   "bg":"37 дена",
+   "en":"37 days",
+   "fr":"37 jours",
+   "pt":"37 dias",
+   "xx":"37 D"
+  },
+  "en:37-months":{
+   "bg":"37 месеца",
+   "en":"37 months",
+   "fr":"37 mois",
+   "pt":"37 meses",
+   "xx":"37 M"
+  },
+  "en:38-days":{
+   "bg":"38 дена",
+   "en":"38 days",
+   "fr":"38 jours",
+   "pt":"38 dias",
+   "xx":"38 D"
+  },
+  "en:38-months":{
+   "bg":"38 месеца",
+   "en":"38 months",
+   "fr":"38 mois",
+   "pt":"38 meses",
+   "xx":"38 M"
+  },
+  "en:39-days":{
+   "bg":"39 дена",
+   "en":"39 days",
+   "fr":"39 jours",
+   "pt":"39 dias",
+   "xx":"39 D"
+  },
+  "en:39-months":{
+   "bg":"39 месеца",
+   "en":"39 months",
+   "fr":"39 mois",
+   "pt":"39 meses",
+   "xx":"39 M"
+  },
+  "en:4-days":{
+   "bg":"4 дена",
+   "en":"4 days",
+   "fr":"4 jours",
+   "pt":"4 dias",
+   "xx":"4 D"
+  },
+  "en:4-months":{
+   "bg":"4 месеца",
+   "en":"4 months",
+   "fr":"4 mois",
+   "nl":"4 maanden",
+   "pt":"4 meses",
+   "xx":"4 M"
+  },
+  "en:40-days":{
+   "bg":"40 дена",
+   "en":"40 days",
+   "fr":"40 jours",
+   "pt":"40 dias",
+   "xx":"40 D"
+  },
+  "en:40-months":{
+   "bg":"40 месеца",
+   "en":"40 months",
+   "fr":"40 mois",
+   "pt":"40 meses",
+   "xx":"40 M"
+  },
+  "en:41-days":{
+   "bg":"41 дена",
+   "en":"41 days",
+   "fr":"41 jours",
+   "pt":"41 dias",
+   "xx":"41 D"
+  },
+  "en:41-months":{
+   "bg":"41 месеца",
+   "en":"41 months",
+   "fr":"41 mois",
+   "pt":"41 meses",
+   "xx":"41 M"
+  },
+  "en:42-days":{
+   "bg":"42 дена",
+   "en":"42 days",
+   "fr":"42 jours",
+   "pt":"42 dias",
+   "xx":"42 D"
+  },
+  "en:42-months":{
+   "bg":"42 месеца",
+   "en":"42 months",
+   "fr":"42 mois",
+   "pt":"42 meses",
+   "xx":"42 M"
+  },
+  "en:43-days":{
+   "bg":"43 дена",
+   "en":"43 days",
+   "fr":"43 jours",
+   "pt":"43 dias",
+   "xx":"43 D"
+  },
+  "en:43-months":{
+   "bg":"43 месеца",
+   "en":"43 months",
+   "fr":"43 mois",
+   "pt":"43 meses",
+   "xx":"43 M"
+  },
+  "en:44-days":{
+   "bg":"44 дена",
+   "en":"44 days",
+   "fr":"44 jours",
+   "pt":"44 dias",
+   "xx":"44 D"
+  },
+  "en:44-months":{
+   "bg":"44 месеца",
+   "en":"44 months",
+   "fr":"44 mois",
+   "pt":"44 meses",
+   "xx":"44 M"
+  },
+  "en:45-days":{
+   "bg":"45 дена",
+   "en":"45 days",
+   "fr":"45 jours",
+   "pt":"45 dias",
+   "xx":"45 D"
+  },
+  "en:45-months":{
+   "bg":"45 месеца",
+   "en":"45 months",
+   "fr":"45 mois",
+   "pt":"45 meses",
+   "xx":"45 M"
+  },
+  "en:46-days":{
+   "bg":"46 дена",
+   "en":"46 days",
+   "fr":"46 jours",
+   "pt":"46 dias",
+   "xx":"46 D"
+  },
+  "en:46-months":{
+   "bg":"46 месеца",
+   "en":"46 months",
+   "fr":"46 mois",
+   "pt":"46 meses",
+   "xx":"46 M"
+  },
+  "en:47-days":{
+   "bg":"47 дена",
+   "en":"47 days",
+   "fr":"47 jours",
+   "pt":"47 dias",
+   "xx":"47 D"
+  },
+  "en:47-months":{
+   "bg":"47 месеца",
+   "en":"47 months",
+   "fr":"47 mois",
+   "pt":"47 meses",
+   "xx":"47 M"
+  },
+  "en:48-days":{
+   "bg":"48 дена",
+   "en":"48 days",
+   "fr":"48 jours",
+   "pt":"48 dias",
+   "xx":"48 D"
+  },
+  "en:48-months":{
+   "bg":"48 месеца",
+   "en":"48 months",
+   "fr":"48 mois",
+   "pt":"48 meses",
+   "xx":"48 M"
+  },
+  "en:49-days":{
+   "bg":"49 дена",
+   "en":"49 days",
+   "fr":"49 jours",
+   "pt":"49 dias",
+   "xx":"49 D"
+  },
+  "en:5-days":{
+   "bg":"5 дена",
+   "en":"5 days",
+   "fr":"5 jours",
+   "pt":"5 dias",
+   "xx":"5 D"
+  },
+  "en:5-months":{
+   "bg":"5 месеца",
+   "en":"5 months",
+   "fr":"5 mois",
+   "nl":"5 maanden",
+   "pt":"5 meses",
+   "xx":"5 M"
+  },
+  "en:50-days":{
+   "bg":"50 дена",
+   "en":"50 days",
+   "fr":"50 jours",
+   "pt":"50 dias",
+   "xx":"50 D"
+  },
+  "en:51-days":{
+   "bg":"51 дена",
+   "en":"51 days",
+   "fr":"51 jours",
+   "pt":"51 dias",
+   "xx":"51 D"
+  },
+  "en:52-days":{
+   "bg":"52 дена",
+   "en":"52 days",
+   "fr":"52 jours",
+   "pt":"52 dias",
+   "xx":"52 D"
+  },
+  "en:53-days":{
+   "bg":"53 дена",
+   "en":"53 days",
+   "fr":"53 jours",
+   "pt":"53 dias",
+   "xx":"53 D"
+  },
+  "en:54-days":{
+   "bg":"54 дена",
+   "en":"54 days",
+   "fr":"54 jours",
+   "pt":"54 dias",
+   "xx":"54 D"
+  },
+  "en:55-days":{
+   "bg":"55 дена",
+   "en":"55 days",
+   "fr":"55 jours",
+   "pt":"55 dias",
+   "xx":"55 D"
+  },
+  "en:56-days":{
+   "bg":"56 дена",
+   "en":"56 days",
+   "fr":"56 jours",
+   "pt":"56 dias",
+   "xx":"56 D"
+  },
+  "en:57-days":{
+   "bg":"57 дена",
+   "en":"57 days",
+   "fr":"57 jours",
+   "pt":"57 dias",
+   "xx":"57 D"
+  },
+  "en:58-days":{
+   "bg":"58 дена",
+   "en":"58 days",
+   "fr":"58 jours",
+   "pt":"58 dias",
+   "xx":"58 D"
+  },
+  "en:59-days":{
+   "bg":"59 дена",
+   "en":"59 days",
+   "fr":"59 jours",
+   "pt":"59 dias",
+   "xx":"59 D"
+  },
+  "en:6-days":{
+   "bg":"6 дена",
+   "en":"6 days",
+   "fr":"6 jours",
+   "pt":"6 dias",
+   "xx":"6 D"
+  },
+  "en:6-months":{
+   "bg":"6 месеца",
+   "en":"6 months",
+   "fr":"6 mois",
+   "nl":"6 maanden",
+   "pt":"6 meses",
+   "xx":"6 M"
+  },
+  "en:60-days":{
+   "bg":"60 дена",
+   "en":"60 days",
+   "fr":"60 jours",
+   "pt":"60 dias",
+   "xx":"60 D"
+  },
+  "en:7-days":{
+   "bg":"7 дена",
+   "en":"7 days",
+   "fr":"7 jours",
+   "pt":"7 dias",
+   "xx":"7 D"
+  },
+  "en:7-months":{
+   "bg":"7 месеца",
+   "en":"7 months",
+   "fr":"7 mois",
+   "nl":"7 maanden",
+   "pt":"7 meses",
+   "xx":"7 M"
+  },
+  "en:8-days":{
+   "bg":"8 дена",
+   "en":"8 days",
+   "fr":"8 jours",
+   "pt":"8 dias",
+   "xx":"8 D"
+  },
+  "en:8-months":{
+   "bg":"8 месеца",
+   "en":"8 months",
+   "fr":"8 mois",
+   "nl":"8 maanden",
+   "pt":"8 meses",
+   "xx":"8 M"
+  },
+  "en:9-days":{
+   "bg":"9 дена",
+   "en":"9 days",
+   "fr":"9 jours",
+   "pt":"9 dias",
+   "xx":"9 D"
+  },
+  "en:9-months":{
+   "bg":"9 месеца",
+   "en":"9 months",
+   "fr":"9 mois",
+   "nl":"9 maanden",
+   "pt":"9 meses",
+   "xx":"9 M"
+  }
+ }
+}
