@@ -1,0 +1,2253 @@
+{
+ "all_parents":{
+  "en:deposit-refunds":[
+   "en:recycle",
+   "en:return-to-store"
+  ],
+  "en:recycle-as-food-waste":[
+   "en:recycle",
+   "en:recycle-as-green-waste"
+  ],
+  "en:recycle-as-garden-waste":[
+   "en:recycle",
+   "en:recycle-as-green-waste"
+  ],
+  "en:recycle-as-green-waste":[
+   "en:recycle"
+  ],
+  "en:recycle-in-coloured-glass-bin":[
+   "en:recycle",
+   "en:recycle-in-glass-bin"
+  ],
+  "en:recycle-in-glass-bin":[
+   "en:recycle"
+  ],
+  "en:recycle-in-metal-packaging-bin":[
+   "en:recycle",
+   "en:recycle-with-metals"
+  ],
+  "en:recycle-in-newspaper-bin":[
+   "en:recycle",
+   "en:recycle-in-paper-bin"
+  ],
+  "en:recycle-in-paper-bin":[
+   "en:recycle"
+  ],
+  "en:recycle-in-paper-packaging-bin":[
+   "en:recycle",
+   "en:recycle-in-paper-bin"
+  ],
+  "en:recycle-in-sorting-bin":[
+   "en:recycle"
+  ],
+  "en:recycle-in-uncoloured-glass-bin":[
+   "en:recycle",
+   "en:recycle-in-glass-bin"
+  ],
+  "en:recycle-with-bags-at-large-supermarket":[
+   "en:recycle"
+  ],
+  "en:recycle-with-drink-cartons":[
+   "en:recycle"
+  ],
+  "en:recycle-with-metals":[
+   "en:recycle"
+  ],
+  "en:recycle-with-plastics":[
+   "en:recycle"
+  ],
+  "en:recycle-with-plastics-metal-and-bricks":[
+   "en:recycle"
+  ],
+  "en:return-pet-bottle-to-store":[
+   "en:recycle",
+   "en:return-to-store"
+  ],
+  "en:return-to-store":[
+   "en:recycle"
+  ],
+  "nl:statiegeldblik":[
+   "en:recycle",
+   "en:return-to-store"
+  ]
+ },
+ "direct_children":{
+  "en:recycle":{
+   "en:recycle-as-green-waste":1,
+   "en:recycle-in-glass-bin":1,
+   "en:recycle-in-paper-bin":1,
+   "en:recycle-in-sorting-bin":1,
+   "en:recycle-with-bags-at-large-supermarket":1,
+   "en:recycle-with-drink-cartons":1,
+   "en:recycle-with-metals":1,
+   "en:recycle-with-plastics":1,
+   "en:recycle-with-plastics-metal-and-bricks":1,
+   "en:return-to-store":1
+  },
+  "en:recycle-as-green-waste":{
+   "en:recycle-as-food-waste":1,
+   "en:recycle-as-garden-waste":1
+  },
+  "en:recycle-in-glass-bin":{
+   "en:recycle-in-coloured-glass-bin":1,
+   "en:recycle-in-uncoloured-glass-bin":1
+  },
+  "en:recycle-in-paper-bin":{
+   "en:recycle-in-newspaper-bin":1,
+   "en:recycle-in-paper-packaging-bin":1
+  },
+  "en:recycle-with-metals":{
+   "en:recycle-in-metal-packaging-bin":1
+  },
+  "en:return-to-store":{
+   "en:deposit-refunds":1,
+   "en:return-pet-bottle-to-store":1,
+   "nl:statiegeldblik":1
+  }
+ },
+ "direct_parents":{
+  "en:deposit-refunds":{
+   "en:return-to-store":1
+  },
+  "en:recycle-as-food-waste":{
+   "en:recycle-as-green-waste":1
+  },
+  "en:recycle-as-garden-waste":{
+   "en:recycle-as-green-waste":1
+  },
+  "en:recycle-as-green-waste":{
+   "en:recycle":1
+  },
+  "en:recycle-in-coloured-glass-bin":{
+   "en:recycle-in-glass-bin":1
+  },
+  "en:recycle-in-glass-bin":{
+   "en:recycle":1
+  },
+  "en:recycle-in-metal-packaging-bin":{
+   "en:recycle-with-metals":1
+  },
+  "en:recycle-in-newspaper-bin":{
+   "en:recycle-in-paper-bin":1
+  },
+  "en:recycle-in-paper-bin":{
+   "en:recycle":1
+  },
+  "en:recycle-in-paper-packaging-bin":{
+   "en:recycle-in-paper-bin":1
+  },
+  "en:recycle-in-sorting-bin":{
+   "en:recycle":1
+  },
+  "en:recycle-in-uncoloured-glass-bin":{
+   "en:recycle-in-glass-bin":1
+  },
+  "en:recycle-with-bags-at-large-supermarket":{
+   "en:recycle":1
+  },
+  "en:recycle-with-drink-cartons":{
+   "en:recycle":1
+  },
+  "en:recycle-with-metals":{
+   "en:recycle":1
+  },
+  "en:recycle-with-plastics":{
+   "en:recycle":1
+  },
+  "en:recycle-with-plastics-metal-and-bricks":{
+   "en:recycle":1
+  },
+  "en:return-pet-bottle-to-store":{
+   "en:return-to-store":1
+  },
+  "en:return-to-store":{
+   "en:recycle":1
+  },
+  "nl:statiegeldblik":{
+   "en:return-to-store":1
+  }
+ },
+ "just_synonyms":{
+  "fr:conteneur":1,
+  "sv:sortera":1
+ },
+ "level":{
+  "en:deposit-refunds":1,
+  "en:discard":1,
+  "en:recycle":3,
+  "en:recycle-as-food-waste":1,
+  "en:recycle-as-garden-waste":1,
+  "en:recycle-as-green-waste":2,
+  "en:recycle-in-coloured-glass-bin":1,
+  "en:recycle-in-glass-bin":2,
+  "en:recycle-in-metal-packaging-bin":1,
+  "en:recycle-in-newspaper-bin":1,
+  "en:recycle-in-paper-bin":2,
+  "en:recycle-in-paper-packaging-bin":1,
+  "en:recycle-in-sorting-bin":1,
+  "en:recycle-in-uncoloured-glass-bin":1,
+  "en:recycle-with-bags-at-large-supermarket":1,
+  "en:recycle-with-drink-cartons":1,
+  "en:recycle-with-metals":2,
+  "en:recycle-with-plastics":1,
+  "en:recycle-with-plastics-metal-and-bricks":1,
+  "en:return-pet-bottle-to-store":1,
+  "en:return-to-store":2,
+  "en:reuse":1,
+  "fr:conteneur":1,
+  "nl:statiegeldblik":1,
+  "sv:sortera":1
+ },
+ "properties":{
+  "en:recycle-in-coloured-glass-bin":{
+   "packaging_materials:en":"en:coloured-glass"
+  },
+  "en:recycle-in-glass-bin":{
+   "packaging_materials:en":"en:glass"
+  },
+  "en:recycle-in-newspaper-bin":{
+   "packaging_materials:en":"en:paper"
+  },
+  "en:recycle-in-paper-packaging-bin":{
+   "packaging_materials:en":"en:paper-packaging"
+  },
+  "en:recycle-in-uncoloured-glass-bin":{
+   "packaging_materials:en":"en:uncoloured-glass"
+  },
+  "en:recycle-with-drink-cartons":{
+   "packaging_shapes:en":"en:brick"
+  },
+  "en:recycle-with-metals":{
+   "packaging_materials:en":"en:metal"
+  },
+  "en:recycle-with-plastics":{
+   "packaging_materials:en":"en:plastic"
+  },
+  "en:return-pet-bottle-to-store":{
+   "packaging_materials:en":"en:pet-1-polyethylene-terephthalate",
+   "packaging_shapes:en":"en:bottle"
+  },
+  "nl:statiegeldblik":{
+   "packaging_shapes:en":"en:can"
+  }
+ },
+ "root_entries":{
+  "en:discard":1,
+  "en:recycle":1,
+  "en:reuse":1
+ },
+ "stopwords":{
+  "bg":[
+   "в",
+   "във"
+  ],
+  "bg.orig":"stopwords:bg:в, във\n",
+  "bg.strings":[
+   "в",
+   "във"
+  ],
+  "en":[
+   "in",
+   "the"
+  ],
+  "en.orig":"stopwords:en:in, the\n",
+  "en.strings":[
+   "in",
+   "the"
+  ],
+  "fr":[
+   "le",
+   "la",
+   "dans"
+  ],
+  "fr.orig":"stopwords:fr:le, la, dans\n",
+  "fr.strings":[
+   "le",
+   "la",
+   "dans"
+  ],
+  "it":[
+   "nel",
+   "nella",
+   "nei",
+   "la",
+   "i",
+   "con",
+   "l",
+   "al",
+   "a",
+   "da"
+  ],
+  "it.orig":"stopwords:it:nel, nella, nei, la, i, con, l', al, a, da\n",
+  "it.strings":[
+   "nel",
+   "nella",
+   "nei",
+   "la",
+   "i",
+   "con",
+   "l'",
+   "al",
+   "a",
+   "da"
+  ]
+ },
+ "synonyms":{
+  "bg":{
+   "да-се-рециклира":"за-рециклиране",
+   "за-рециклиране":"за-рециклиране",
+   "използвай-повторно":"използвай-повторно",
+   "използвайте-повторно":"използвай-повторно",
+   "рециклирай":"за-рециклиране"
+  },
+  "de":{
+   "mehrfach-verwendbar":"wiederverwenden",
+   "nachfüllbar":"wiederverwenden",
+   "nicht-recycelbar":"wegwerfen",
+   "nicht-recyceln":"wegwerfen",
+   "nicht-zum-recyceln":"wegwerfen",
+   "recycelbar":"recyceln",
+   "recyceln":"recyceln",
+   "wegwerfen":"wegwerfen",
+   "wiederverwendbar":"wiederverwenden",
+   "wiederverwenden":"wiederverwenden",
+   "zum-recyceln":"recyceln",
+   "zum-wegwerfen":"wegwerfen",
+   "zum-wiederverwenden":"wiederverwenden"
+  },
+  "en":{
+   "compost":"recycle-as-green-waste",
+   "deposit":"return-to-store",
+   "deposit-refund":"deposit-refunds",
+   "deposit-refunds":"deposit-refunds",
+   "discard":"discard",
+   "don-t-recyclable-at-home":"recycle-with-bags-at-large-supermarket",
+   "don-t-recycle-at-home":"recycle-with-bags-at-large-supermarket",
+   "don-t-to-be-recycled-at-home":"recycle-with-bags-at-large-supermarket",
+   "don-t-to-recycle-at-home":"recycle-with-bags-at-large-supermarket",
+   "glas-bin":"recycle-in-glass-bin",
+   "glas-container":"recycle-in-glass-bin",
+   "green-waste":"recycle-as-green-waste",
+   "in-glass-bin":"recycle-in-glass-bin",
+   "in-glass-container":"recycle-in-glass-bin",
+   "multiple-use":"reuse",
+   "non-recyclable":"discard",
+   "non-recycle":"discard",
+   "non-to-be-recycled":"discard",
+   "non-to-recycle":"discard",
+   "pet-deposit-bottle":"return-pet-bottle-to-store",
+   "pet-return-to-store-bottle":"return-pet-bottle-to-store",
+   "re-usable":"reuse",
+   "re-use":"reuse",
+   "recyclable":"recycle",
+   "recyclable-a-food-waste":"recycle-as-food-waste",
+   "recyclable-a-garden-waste":"recycle-as-garden-waste",
+   "recyclable-a-green-waste":"recycle-as-green-waste",
+   "recyclable-as-food-waste":"recycle-as-food-waste",
+   "recyclable-as-garden-waste":"recycle-as-garden-waste",
+   "recyclable-as-green-waste":"recycle-as-green-waste",
+   "recyclable-at-store":"recycle-with-bags-at-large-supermarket",
+   "recyclable-coloured-glas-bin":"recycle-in-coloured-glass-bin",
+   "recyclable-glas-bin":"recycle-in-glass-bin",
+   "recyclable-glas-container":"recycle-in-glass-bin",
+   "recyclable-in-coloured-glass-bin":"recycle-in-coloured-glass-bin",
+   "recyclable-in-glass-bin":"recycle-in-glass-bin",
+   "recyclable-in-glass-container":"recycle-in-glass-bin",
+   "recyclable-in-metal-packaging-bin":"recycle-in-metal-packaging-bin",
+   "recyclable-in-newspaper-bin":"recycle-in-newspaper-bin",
+   "recyclable-in-paper-bin":"recycle-in-paper-bin",
+   "recyclable-in-paper-container":"recycle-in-paper-bin",
+   "recyclable-in-paper-packaging-bin":"recycle-in-paper-packaging-bin",
+   "recyclable-in-sorting-bin":"recycle-in-sorting-bin",
+   "recyclable-in-uncoloured-glass-bin":"recycle-in-uncoloured-glass-bin",
+   "recyclable-metal-packaging-bin":"recycle-in-metal-packaging-bin",
+   "recyclable-newspaper-bin":"recycle-in-newspaper-bin",
+   "recyclable-paper-bin":"recycle-in-paper-bin",
+   "recyclable-paper-container":"recycle-in-paper-bin",
+   "recyclable-paper-packaging-bin":"recycle-in-paper-packaging-bin",
+   "recyclable-sorting-bin":"recycle-in-sorting-bin",
+   "recyclable-uncoloured-glas-bin":"recycle-in-uncoloured-glass-bin",
+   "recyclable-with-bag-at-large-supermarket":"recycle-with-bags-at-large-supermarket",
+   "recyclable-with-bags-at-large-supermarket":"recycle-with-bags-at-large-supermarket",
+   "recyclable-with-drink-carton":"recycle-with-drink-cartons",
+   "recyclable-with-drink-cartons":"recycle-with-drink-cartons",
+   "recyclable-with-glas":"recycle-in-glass-bin",
+   "recyclable-with-glass":"recycle-in-glass-bin",
+   "recyclable-with-metal":"recycle-with-metals",
+   "recyclable-with-metals":"recycle-with-metals",
+   "recyclable-with-paper":"recycle-in-paper-bin",
+   "recyclable-with-plastic":"recycle-with-plastics",
+   "recyclable-with-plastic-metal-and-brick":"recycle-with-plastics-metal-and-bricks",
+   "recyclable-with-plastics":"recycle-with-plastics",
+   "recyclable-with-plastics-metal-and-bricks":"recycle-with-plastics-metal-and-bricks",
+   "recycle":"recycle",
+   "recycle-a-food-waste":"recycle-as-food-waste",
+   "recycle-a-garden-waste":"recycle-as-garden-waste",
+   "recycle-a-green-waste":"recycle-as-green-waste",
+   "recycle-as-food-waste":"recycle-as-food-waste",
+   "recycle-as-garden-waste":"recycle-as-garden-waste",
+   "recycle-as-green-waste":"recycle-as-green-waste",
+   "recycle-at-store":"recycle-with-bags-at-large-supermarket",
+   "recycle-coloured-glas-bin":"recycle-in-coloured-glass-bin",
+   "recycle-glas-bin":"recycle-in-glass-bin",
+   "recycle-glas-container":"recycle-in-glass-bin",
+   "recycle-in-coloured-glass-bin":"recycle-in-coloured-glass-bin",
+   "recycle-in-glass-bin":"recycle-in-glass-bin",
+   "recycle-in-glass-container":"recycle-in-glass-bin",
+   "recycle-in-metal-packaging-bin":"recycle-in-metal-packaging-bin",
+   "recycle-in-newspaper-bin":"recycle-in-newspaper-bin",
+   "recycle-in-paper-bin":"recycle-in-paper-bin",
+   "recycle-in-paper-container":"recycle-in-paper-bin",
+   "recycle-in-paper-packaging-bin":"recycle-in-paper-packaging-bin",
+   "recycle-in-sorting-bin":"recycle-in-sorting-bin",
+   "recycle-in-uncoloured-glass-bin":"recycle-in-uncoloured-glass-bin",
+   "recycle-metal-packaging-bin":"recycle-in-metal-packaging-bin",
+   "recycle-newspaper-bin":"recycle-in-newspaper-bin",
+   "recycle-paper-bin":"recycle-in-paper-bin",
+   "recycle-paper-container":"recycle-in-paper-bin",
+   "recycle-paper-packaging-bin":"recycle-in-paper-packaging-bin",
+   "recycle-sorting-bin":"recycle-in-sorting-bin",
+   "recycle-uncoloured-glas-bin":"recycle-in-uncoloured-glass-bin",
+   "recycle-with-bag-at-large-supermarket":"recycle-with-bags-at-large-supermarket",
+   "recycle-with-bags-at-large-supermarket":"recycle-with-bags-at-large-supermarket",
+   "recycle-with-drink-carton":"recycle-with-drink-cartons",
+   "recycle-with-drink-cartons":"recycle-with-drink-cartons",
+   "recycle-with-glas":"recycle-in-glass-bin",
+   "recycle-with-glass":"recycle-in-glass-bin",
+   "recycle-with-metal":"recycle-with-metals",
+   "recycle-with-metals":"recycle-with-metals",
+   "recycle-with-paper":"recycle-in-paper-bin",
+   "recycle-with-plastic":"recycle-with-plastics",
+   "recycle-with-plastic-metal-and-brick":"recycle-with-plastics-metal-and-bricks",
+   "recycle-with-plastics":"recycle-with-plastics",
+   "recycle-with-plastics-metal-and-bricks":"recycle-with-plastics-metal-and-bricks",
+   "refill":"reuse",
+   "refillable":"reuse",
+   "return-pet-bottle-to-store":"return-pet-bottle-to-store",
+   "return-to-store":"return-to-store",
+   "return-to-store-refund":"deposit-refunds",
+   "return-to-store-refunds":"deposit-refunds",
+   "reusable":"reuse",
+   "reuse":"reuse",
+   "sorting-bin":"recycle-in-sorting-bin",
+   "throw-away":"discard",
+   "to-be-discarded":"discard",
+   "to-be-re-used":"reuse",
+   "to-be-recycled":"recycle",
+   "to-be-recycled-a-food-waste":"recycle-as-food-waste",
+   "to-be-recycled-a-garden-waste":"recycle-as-garden-waste",
+   "to-be-recycled-a-green-waste":"recycle-as-green-waste",
+   "to-be-recycled-as-food-waste":"recycle-as-food-waste",
+   "to-be-recycled-as-garden-waste":"recycle-as-garden-waste",
+   "to-be-recycled-as-green-waste":"recycle-as-green-waste",
+   "to-be-recycled-at-store":"recycle-with-bags-at-large-supermarket",
+   "to-be-recycled-coloured-glas-bin":"recycle-in-coloured-glass-bin",
+   "to-be-recycled-glas-bin":"recycle-in-glass-bin",
+   "to-be-recycled-glas-container":"recycle-in-glass-bin",
+   "to-be-recycled-in-coloured-glass-bin":"recycle-in-coloured-glass-bin",
+   "to-be-recycled-in-glass-bin":"recycle-in-glass-bin",
+   "to-be-recycled-in-glass-container":"recycle-in-glass-bin",
+   "to-be-recycled-in-metal-packaging-bin":"recycle-in-metal-packaging-bin",
+   "to-be-recycled-in-newspaper-bin":"recycle-in-newspaper-bin",
+   "to-be-recycled-in-paper-bin":"recycle-in-paper-bin",
+   "to-be-recycled-in-paper-container":"recycle-in-paper-bin",
+   "to-be-recycled-in-paper-packaging-bin":"recycle-in-paper-packaging-bin",
+   "to-be-recycled-in-sorting-bin":"recycle-in-sorting-bin",
+   "to-be-recycled-in-uncoloured-glass-bin":"recycle-in-uncoloured-glass-bin",
+   "to-be-recycled-metal-packaging-bin":"recycle-in-metal-packaging-bin",
+   "to-be-recycled-newspaper-bin":"recycle-in-newspaper-bin",
+   "to-be-recycled-paper-bin":"recycle-in-paper-bin",
+   "to-be-recycled-paper-container":"recycle-in-paper-bin",
+   "to-be-recycled-paper-packaging-bin":"recycle-in-paper-packaging-bin",
+   "to-be-recycled-sorting-bin":"recycle-in-sorting-bin",
+   "to-be-recycled-uncoloured-glas-bin":"recycle-in-uncoloured-glass-bin",
+   "to-be-recycled-with-bag-at-large-supermarket":"recycle-with-bags-at-large-supermarket",
+   "to-be-recycled-with-bags-at-large-supermarket":"recycle-with-bags-at-large-supermarket",
+   "to-be-recycled-with-drink-carton":"recycle-with-drink-cartons",
+   "to-be-recycled-with-drink-cartons":"recycle-with-drink-cartons",
+   "to-be-recycled-with-glas":"recycle-in-glass-bin",
+   "to-be-recycled-with-glass":"recycle-in-glass-bin",
+   "to-be-recycled-with-metal":"recycle-with-metals",
+   "to-be-recycled-with-metals":"recycle-with-metals",
+   "to-be-recycled-with-paper":"recycle-in-paper-bin",
+   "to-be-recycled-with-plastic":"recycle-with-plastics",
+   "to-be-recycled-with-plastic-metal-and-brick":"recycle-with-plastics-metal-and-bricks",
+   "to-be-recycled-with-plastics":"recycle-with-plastics",
+   "to-be-recycled-with-plastics-metal-and-bricks":"recycle-with-plastics-metal-and-bricks",
+   "to-be-reused":"reuse",
+   "to-be-thrown-away":"discard",
+   "to-discard":"discard",
+   "to-re-use":"reuse",
+   "to-recycle":"recycle",
+   "to-recycle-a-food-waste":"recycle-as-food-waste",
+   "to-recycle-a-garden-waste":"recycle-as-garden-waste",
+   "to-recycle-a-green-waste":"recycle-as-green-waste",
+   "to-recycle-as-food-waste":"recycle-as-food-waste",
+   "to-recycle-as-garden-waste":"recycle-as-garden-waste",
+   "to-recycle-as-green-waste":"recycle-as-green-waste",
+   "to-recycle-at-store":"recycle-with-bags-at-large-supermarket",
+   "to-recycle-coloured-glas-bin":"recycle-in-coloured-glass-bin",
+   "to-recycle-glas-bin":"recycle-in-glass-bin",
+   "to-recycle-glas-container":"recycle-in-glass-bin",
+   "to-recycle-in-coloured-glass-bin":"recycle-in-coloured-glass-bin",
+   "to-recycle-in-glass-bin":"recycle-in-glass-bin",
+   "to-recycle-in-glass-container":"recycle-in-glass-bin",
+   "to-recycle-in-metal-packaging-bin":"recycle-in-metal-packaging-bin",
+   "to-recycle-in-newspaper-bin":"recycle-in-newspaper-bin",
+   "to-recycle-in-paper-bin":"recycle-in-paper-bin",
+   "to-recycle-in-paper-container":"recycle-in-paper-bin",
+   "to-recycle-in-paper-packaging-bin":"recycle-in-paper-packaging-bin",
+   "to-recycle-in-sorting-bin":"recycle-in-sorting-bin",
+   "to-recycle-in-uncoloured-glass-bin":"recycle-in-uncoloured-glass-bin",
+   "to-recycle-metal-packaging-bin":"recycle-in-metal-packaging-bin",
+   "to-recycle-newspaper-bin":"recycle-in-newspaper-bin",
+   "to-recycle-paper-bin":"recycle-in-paper-bin",
+   "to-recycle-paper-container":"recycle-in-paper-bin",
+   "to-recycle-paper-packaging-bin":"recycle-in-paper-packaging-bin",
+   "to-recycle-sorting-bin":"recycle-in-sorting-bin",
+   "to-recycle-uncoloured-glas-bin":"recycle-in-uncoloured-glass-bin",
+   "to-recycle-with-bag-at-large-supermarket":"recycle-with-bags-at-large-supermarket",
+   "to-recycle-with-bags-at-large-supermarket":"recycle-with-bags-at-large-supermarket",
+   "to-recycle-with-drink-carton":"recycle-with-drink-cartons",
+   "to-recycle-with-drink-cartons":"recycle-with-drink-cartons",
+   "to-recycle-with-glas":"recycle-in-glass-bin",
+   "to-recycle-with-glass":"recycle-in-glass-bin",
+   "to-recycle-with-metal":"recycle-with-metals",
+   "to-recycle-with-metals":"recycle-with-metals",
+   "to-recycle-with-paper":"recycle-in-paper-bin",
+   "to-recycle-with-plastic":"recycle-with-plastics",
+   "to-recycle-with-plastic-metal-and-brick":"recycle-with-plastics-metal-and-bricks",
+   "to-recycle-with-plastics":"recycle-with-plastics",
+   "to-recycle-with-plastics-metal-and-bricks":"recycle-with-plastics-metal-and-bricks",
+   "to-refill":"reuse",
+   "to-reuse":"reuse",
+   "to-throw-away":"discard"
+  },
+  "es":{
+   "al-amarillo":"contenedor-amarillo",
+   "al-azul":"contenedor-azul",
+   "al-verde":"contenedor-verde",
+   "contenedor-amarillo":"contenedor-amarillo",
+   "contenedor-azul":"contenedor-azul",
+   "contenedor-de-envase":"contenedor-amarillo",
+   "contenedor-de-envases":"contenedor-amarillo",
+   "contenedor-de-papel":"contenedor-azul",
+   "contenedor-de-vidrio":"contenedor-verde",
+   "contenedor-verde":"contenedor-verde",
+   "embalaje-no-reciclable":"embalaje-no-reciclable",
+   "no-reciclable":"embalaje-no-reciclable",
+   "recicla-amarillo":"contenedor-amarillo",
+   "recicla-azul":"contenedor-azul",
+   "recicla-verde":"contenedor-verde"
+  },
+  "fr":{
+   "a-composter":"compostable",
+   "a-jeter":"jeter",
+   "a-recycler":"recycler",
+   "a-recycler-avec-le-carton-a-boisson":"recycler-avec-les-cartons-a-boissons",
+   "a-recycler-avec-le-papier":"recycler-dans-le-conteneur-a-papier",
+   "a-recycler-avec-le-plastique":"recycler-avec-le-plastique",
+   "a-recycler-avec-le-plastique-metal-et-brique":"recycler-avec-les-plastiques-metal-et-briques",
+   "a-recycler-avec-le-verre":"recycler-dans-le-conteneur-a-verre",
+   "a-recycler-avec-les-cartons-a-boissons":"recycler-avec-les-cartons-a-boissons",
+   "a-recycler-avec-les-plastiques-metal-et-briques":"recycler-avec-les-plastiques-metal-et-briques",
+   "a-recycler-avec-papier":"recycler-dans-le-conteneur-a-papier",
+   "a-recycler-avec-plastique":"recycler-avec-le-plastique",
+   "a-recycler-avec-verre":"recycler-dans-le-conteneur-a-verre",
+   "a-recycler-bac-a-papier":"recycler-dans-le-conteneur-a-papier",
+   "a-recycler-bac-a-verre":"recycler-dans-le-conteneur-a-verre",
+   "a-recycler-benne-a-papier":"recycler-dans-le-conteneur-a-papier",
+   "a-recycler-benne-a-verre":"recycler-dans-le-conteneur-a-verre",
+   "a-recycler-conteneur-a-papier":"recycler-dans-le-conteneur-a-papier",
+   "a-recycler-conteneur-a-verre":"recycler-dans-le-conteneur-a-verre",
+   "a-recycler-dans-le-bac-a-papier":"recycler-dans-le-conteneur-a-papier",
+   "a-recycler-dans-le-bac-a-verre":"recycler-dans-le-conteneur-a-verre",
+   "a-recycler-dans-le-benne-a-papier":"recycler-dans-le-conteneur-a-papier",
+   "a-recycler-dans-le-benne-a-verre":"recycler-dans-le-conteneur-a-verre",
+   "a-recycler-dans-le-conteneur-a-papier":"recycler-dans-le-conteneur-a-papier",
+   "a-recycler-dans-le-conteneur-a-verre":"recycler-dans-le-conteneur-a-verre",
+   "a-recycler-dans-le-poubelle-a-verre":"recycler-dans-le-conteneur-a-verre",
+   "a-recycler-poubelle-a-verre":"recycler-dans-le-conteneur-a-verre",
+   "a-reemployer":"reutiliser",
+   "a-reutiliser":"reutiliser",
+   "avec-le-papier":"recycler-dans-le-conteneur-a-papier",
+   "avec-le-verre":"recycler-dans-le-conteneur-a-verre",
+   "avec-papier":"recycler-dans-le-conteneur-a-papier",
+   "avec-verre":"recycler-dans-le-conteneur-a-verre",
+   "bac-a-papier":"recycler-dans-le-conteneur-a-papier",
+   "bac-de-tri":"bac-de-tri",
+   "bac-verre":"recycler-dans-le-conteneur-a-verre",
+   "benne":"conteneur",
+   "benne-a-papier":"recycler-dans-le-conteneur-a-papier",
+   "benne-a-verre":"recycler-dans-le-conteneur-a-verre",
+   "bouteille-en-pet-consignee":"bouteille-en-pet-consignee",
+   "compostable":"compostable",
+   "consigne":"consigne",
+   "consigne-remboursable":"consigne-remboursable",
+   "container":"conteneur",
+   "container-a-papier":"recycler-dans-le-conteneur-a-papier",
+   "container-a-verre":"recycler-dans-le-conteneur-a-verre",
+   "conteneur":"conteneur",
+   "conteneur-a-papier":"recycler-dans-le-conteneur-a-papier",
+   "conteneur-a-verre":"recycler-dans-le-conteneur-a-verre",
+   "dans-le-bac-a-papier":"recycler-dans-le-conteneur-a-papier",
+   "dans-le-benne-a-papier":"recycler-dans-le-conteneur-a-papier",
+   "dans-le-benne-a-verre":"recycler-dans-le-conteneur-a-verre",
+   "dans-le-container-a-papier":"recycler-dans-le-conteneur-a-papier",
+   "dans-le-container-a-verre":"recycler-dans-le-conteneur-a-verre",
+   "dans-le-conteneur-a-papier":"recycler-dans-le-conteneur-a-papier",
+   "dans-le-conteneur-a-verre":"recycler-dans-le-conteneur-a-verre",
+   "dans-le-poubelle-a-papier":"recycler-dans-le-conteneur-a-papier",
+   "dans-le-poubelle-a-verre":"recycler-dans-le-conteneur-a-verre",
+   "jeter":"jeter",
+   "non-a-recycler":"jeter",
+   "non-recyclable":"jeter",
+   "non-recycler":"jeter",
+   "poubelle":"conteneur",
+   "poubelle-a-papier":"recycler-dans-le-conteneur-a-papier",
+   "poubelle-a-verre":"recycler-dans-le-conteneur-a-verre",
+   "rapporter-au-magasin":"consigne",
+   "rapporter-au-magasin-remboursable":"consigne-remboursable",
+   "rapporter-bouteille-en-pet-au-magasin":"bouteille-en-pet-consignee",
+   "rapporter-la-bouteille-en-pet-au-magasin":"bouteille-en-pet-consignee",
+   "recyclable":"recycler",
+   "recyclable-avec-le-carton-a-boisson":"recycler-avec-les-cartons-a-boissons",
+   "recyclable-avec-le-papier":"recycler-dans-le-conteneur-a-papier",
+   "recyclable-avec-le-plastique":"recycler-avec-le-plastique",
+   "recyclable-avec-le-plastique-metal-et-brique":"recycler-avec-les-plastiques-metal-et-briques",
+   "recyclable-avec-le-verre":"recycler-dans-le-conteneur-a-verre",
+   "recyclable-avec-les-cartons-a-boissons":"recycler-avec-les-cartons-a-boissons",
+   "recyclable-avec-les-plastiques-metal-et-briques":"recycler-avec-les-plastiques-metal-et-briques",
+   "recyclable-avec-papier":"recycler-dans-le-conteneur-a-papier",
+   "recyclable-avec-plastique":"recycler-avec-le-plastique",
+   "recyclable-avec-verre":"recycler-dans-le-conteneur-a-verre",
+   "recyclable-bac-a-papier":"recycler-dans-le-conteneur-a-papier",
+   "recyclable-bac-a-verre":"recycler-dans-le-conteneur-a-verre",
+   "recyclable-benne-a-papier":"recycler-dans-le-conteneur-a-papier",
+   "recyclable-benne-a-verre":"recycler-dans-le-conteneur-a-verre",
+   "recyclable-conteneur-a-papier":"recycler-dans-le-conteneur-a-papier",
+   "recyclable-conteneur-a-verre":"recycler-dans-le-conteneur-a-verre",
+   "recyclable-dans-le-bac-a-papier":"recycler-dans-le-conteneur-a-papier",
+   "recyclable-dans-le-bac-a-verre":"recycler-dans-le-conteneur-a-verre",
+   "recyclable-dans-le-benne-a-papier":"recycler-dans-le-conteneur-a-papier",
+   "recyclable-dans-le-benne-a-verre":"recycler-dans-le-conteneur-a-verre",
+   "recyclable-dans-le-conteneur-a-papier":"recycler-dans-le-conteneur-a-papier",
+   "recyclable-dans-le-conteneur-a-verre":"recycler-dans-le-conteneur-a-verre",
+   "recyclable-dans-le-poubelle-a-verre":"recycler-dans-le-conteneur-a-verre",
+   "recyclable-poubelle-a-verre":"recycler-dans-le-conteneur-a-verre",
+   "recycler":"recycler",
+   "recycler-avec-le-carton-a-boisson":"recycler-avec-les-cartons-a-boissons",
+   "recycler-avec-le-papier":"recycler-dans-le-conteneur-a-papier",
+   "recycler-avec-le-plastique":"recycler-avec-le-plastique",
+   "recycler-avec-le-plastique-metal-et-brique":"recycler-avec-les-plastiques-metal-et-briques",
+   "recycler-avec-le-verre":"recycler-dans-le-conteneur-a-verre",
+   "recycler-avec-les-cartons-a-boissons":"recycler-avec-les-cartons-a-boissons",
+   "recycler-avec-les-plastiques-metal-et-briques":"recycler-avec-les-plastiques-metal-et-briques",
+   "recycler-avec-papier":"recycler-dans-le-conteneur-a-papier",
+   "recycler-avec-plastique":"recycler-avec-le-plastique",
+   "recycler-avec-verre":"recycler-dans-le-conteneur-a-verre",
+   "recycler-bac-a-papier":"recycler-dans-le-conteneur-a-papier",
+   "recycler-bac-a-verre":"recycler-dans-le-conteneur-a-verre",
+   "recycler-benne-a-papier":"recycler-dans-le-conteneur-a-papier",
+   "recycler-benne-a-verre":"recycler-dans-le-conteneur-a-verre",
+   "recycler-container-a-papier":"recycler-dans-le-conteneur-a-papier",
+   "recycler-container-a-verre":"recycler-dans-le-conteneur-a-verre",
+   "recycler-conteneur-a-papier":"recycler-dans-le-conteneur-a-papier",
+   "recycler-conteneur-a-verre":"recycler-dans-le-conteneur-a-verre",
+   "recycler-dans-le-bac-a-papier":"recycler-dans-le-conteneur-a-papier",
+   "recycler-dans-le-bac-a-verre":"recycler-dans-le-conteneur-a-verre",
+   "recycler-dans-le-benne-a-papier":"recycler-dans-le-conteneur-a-papier",
+   "recycler-dans-le-benne-a-verre":"recycler-dans-le-conteneur-a-verre",
+   "recycler-dans-le-container-a-papier":"recycler-dans-le-conteneur-a-papier",
+   "recycler-dans-le-container-a-verre":"recycler-dans-le-conteneur-a-verre",
+   "recycler-dans-le-conteneur-a-papier":"recycler-dans-le-conteneur-a-papier",
+   "recycler-dans-le-conteneur-a-verre":"recycler-dans-le-conteneur-a-verre",
+   "recycler-dans-le-poubelle-a-papier":"recycler-dans-le-conteneur-a-papier",
+   "recycler-dans-le-poubelle-a-verre":"recycler-dans-le-conteneur-a-verre",
+   "recycler-poubelle-a-papier":"recycler-dans-le-conteneur-a-papier",
+   "recycler-poubelle-a-verre":"recycler-dans-le-conteneur-a-verre",
+   "reemployable":"reutiliser",
+   "reemployer":"reutiliser",
+   "retourner-au-magasin":"consigne",
+   "retourner-au-magasin-remboursable":"consigne-remboursable",
+   "reutilisable":"reutiliser",
+   "reutiliser":"reutiliser",
+   "tri-verre":"recycler-dans-le-conteneur-a-verre",
+   "usage-multiple":"reutiliser"
+  },
+  "hr":{
+   "povratna-naknada":"povratna-naknada"
+  },
+  "hu":{
+   "eldobandó":"eldobható",
+   "eldobható":"eldobható",
+   "eldobni":"eldobható",
+   "kidobandó":"eldobható",
+   "kidobható":"eldobható",
+   "kidobni":"eldobható",
+   "nem-újrahasznosítandó":"eldobható",
+   "nem-újrahasznosítható":"eldobható",
+   "nem-újrahasznosításra":"eldobható",
+   "szemét":"eldobható",
+   "többször-felhasználható":"újrafelhasználható",
+   "többszörhasználatos":"újrafelhasználható",
+   "többszöri-felhasználásra":"újrafelhasználható",
+   "újra-felhasználható":"újrafelhasználható",
+   "újrafelhasználható":"újrafelhasználható",
+   "újrafelhasználni":"újrafelhasználható",
+   "újrafelhasználásra":"újrafelhasználható",
+   "újrahasznosítandó":"újrahasznosítható",
+   "újrahasznosítható":"újrahasznosítható",
+   "újrahasznosításra":"újrahasznosítható"
+  },
+  "it":{
+   "alluminio":"raccolta-metalli",
+   "carta":"raccolta-carta",
+   "compost":"umido",
+   "compostabile":"umido",
+   "indifferenziata":"non-riciclabile",
+   "latta":"raccolta-metalli",
+   "metalli":"raccolta-metalli",
+   "metallo":"raccolta-metalli",
+   "non-raccolta":"non-riciclabile",
+   "non-riciclabile":"non-riciclabile",
+   "non-riciclare":"non-riciclabile",
+   "plastica":"raccolta-plastica",
+   "plastica-alluminio-e-bricchetti":"raccolta-plastica-metalli-e-bricchetti",
+   "plastica-alluminio-e-tetrapack":"raccolta-plastica-metalli-e-bricchetti",
+   "plastica-latta-e-bricchetti":"raccolta-plastica-metalli-e-bricchetti",
+   "plastica-latta-e-tetrapack":"raccolta-plastica-metalli-e-bricchetti",
+   "plastica-metalli-e-bricchetti":"raccolta-plastica-metalli-e-bricchetti",
+   "plastica-metalli-e-tetrapack":"raccolta-plastica-metalli-e-bricchetti",
+   "plastica-metallo-e-bricchetti":"raccolta-plastica-metalli-e-bricchetti",
+   "plastica-metallo-e-tetrapack":"raccolta-plastica-metalli-e-bricchetti",
+   "plastica-raccolta-metalli-e-bricchetti":"raccolta-plastica-metalli-e-bricchetti",
+   "plastica-raccolta-metalli-e-tetrapack":"raccolta-plastica-metalli-e-bricchetti",
+   "plastica-riciclabile-metalli-e-bricchetti":"raccolta-plastica-metalli-e-bricchetti",
+   "plastica-riciclabile-metalli-e-tetrapack":"raccolta-plastica-metalli-e-bricchetti",
+   "plastica-riciclare-metalli-e-bricchetti":"raccolta-plastica-metalli-e-bricchetti",
+   "plastica-riciclare-metalli-e-tetrapack":"raccolta-plastica-metalli-e-bricchetti",
+   "puo-essere-riutilizzata":"riusare",
+   "puo-essere-riutilizzato":"riusare",
+   "raccolta":"riciclare",
+   "raccolta-carta":"raccolta-carta",
+   "raccolta-metalli":"raccolta-metalli",
+   "raccolta-plastica":"raccolta-plastica",
+   "raccolta-plastica-alluminio-e-bricchetti":"raccolta-plastica-metalli-e-bricchetti",
+   "raccolta-plastica-alluminio-e-tetrapack":"raccolta-plastica-metalli-e-bricchetti",
+   "raccolta-plastica-latta-e-bricchetti":"raccolta-plastica-metalli-e-bricchetti",
+   "raccolta-plastica-latta-e-tetrapack":"raccolta-plastica-metalli-e-bricchetti",
+   "raccolta-plastica-metalli-e-bricchetti":"raccolta-plastica-metalli-e-bricchetti",
+   "raccolta-plastica-metalli-e-tetrapack":"raccolta-plastica-metalli-e-bricchetti",
+   "raccolta-plastica-metallo-e-bricchetti":"raccolta-plastica-metalli-e-bricchetti",
+   "raccolta-plastica-metallo-e-tetrapack":"raccolta-plastica-metalli-e-bricchetti",
+   "raccolta-plastica-raccolta-metalli-e-bricchetti":"raccolta-plastica-metalli-e-bricchetti",
+   "raccolta-plastica-raccolta-metalli-e-tetrapack":"raccolta-plastica-metalli-e-bricchetti",
+   "raccolta-plastica-riciclabile-metalli-e-bricchetti":"raccolta-plastica-metalli-e-bricchetti",
+   "raccolta-plastica-riciclabile-metalli-e-tetrapack":"raccolta-plastica-metalli-e-bricchetti",
+   "raccolta-plastica-riciclare-metalli-e-bricchetti":"raccolta-plastica-metalli-e-bricchetti",
+   "raccolta-plastica-riciclare-metalli-e-tetrapack":"raccolta-plastica-metalli-e-bricchetti",
+   "raccolta-riciclabile-plastica-metalli-e-bricchetti":"raccolta-plastica-metalli-e-bricchetti",
+   "raccolta-riciclabile-plastica-metalli-e-tetrapack":"raccolta-plastica-metalli-e-bricchetti",
+   "raccolta-riciclare-plastica-metalli-e-bricchetti":"raccolta-plastica-metalli-e-bricchetti",
+   "raccolta-riciclare-plastica-metalli-e-tetrapack":"raccolta-plastica-metalli-e-bricchetti",
+   "raccolta-umido":"umido",
+   "raccolta-vetro":"raccolta-vetro",
+   "restituire-al-negozio":"riconsegnare-al-negozio",
+   "restituire-negozio":"riconsegnare-al-negozio",
+   "riciclabile":"riciclare",
+   "riciclabile-carta":"raccolta-carta",
+   "riciclabile-metalli":"raccolta-metalli",
+   "riciclabile-plastica":"raccolta-plastica",
+   "riciclabile-plastica-metalli-e-bricchetti":"raccolta-plastica-metalli-e-bricchetti",
+   "riciclabile-plastica-metalli-e-tetrapack":"raccolta-plastica-metalli-e-bricchetti",
+   "riciclabile-umido":"umido",
+   "riciclabile-vetro":"raccolta-vetro",
+   "riciclare":"riciclare",
+   "riciclare-carta":"raccolta-carta",
+   "riciclare-metalli":"raccolta-metalli",
+   "riciclare-plastica":"raccolta-plastica",
+   "riciclare-plastica-metalli-e-bricchetti":"raccolta-plastica-metalli-e-bricchetti",
+   "riciclare-plastica-metalli-e-tetrapack":"raccolta-plastica-metalli-e-bricchetti",
+   "riciclare-umido":"umido",
+   "riciclare-vetro":"raccolta-vetro",
+   "riconsegnare-al-negozio":"riconsegnare-al-negozio",
+   "riconsegnare-negozio":"riconsegnare-al-negozio",
+   "riusare":"riusare",
+   "riutilizzare":"riusare",
+   "umido":"umido",
+   "vetro":"raccolta-vetro"
+  },
+  "nb":{
+   "gjenvinnes":"gjenvinnes"
+  },
+  "nl":{
+   "bij-drankencartons":"recycle-bij-drankencartons",
+   "bij-oud-papier":"recyclen-bij-oud-papier",
+   "bij-plastic-afval":"recycle-bij-plastic-afval",
+   "bij-restafval":"restafval",
+   "gft":"recycle-als-gft",
+   "glasbak":"recyclen-in-de-glasbak",
+   "in-de-glasbak":"recyclen-in-de-glasbak",
+   "in-de-papierbak":"recyclen-bij-oud-papier",
+   "in-glasbak":"recyclen-in-de-glasbak",
+   "in-papierbak":"recyclen-bij-oud-papier",
+   "niet-pmd":"restafval",
+   "niet-recycle-bij-plastic-metaal-en-drankencartons":"restafval",
+   "niet-wel-pmd":"restafval",
+   "papierbak":"recyclen-bij-oud-papier",
+   "plastic-afval":"recycle-bij-plastic-afval",
+   "pmd":"recycle-bij-plastic-metaal-en-drankencartons",
+   "recycle-als-gft":"recycle-als-gft",
+   "recycle-als-statiegeldblik":"statiegeldblik",
+   "recycle-als-statiegeldfles":"recycle-als-statiegeldfles",
+   "recycle-bij-drankencartons":"recycle-bij-drankencartons",
+   "recycle-bij-plastic-afval":"recycle-bij-plastic-afval",
+   "recycle-bij-plastic-metaal-en-drankencartons":"recycle-bij-plastic-metaal-en-drankencartons",
+   "recyclen-bij-oud-papier":"recyclen-bij-oud-papier",
+   "recyclen-in-de-glasbak":"recyclen-in-de-glasbak",
+   "restafval":"restafval",
+   "statiegeldblik":"statiegeldblik",
+   "statiegeldfles":"recycle-als-statiegeldfles",
+   "wel-pmd":"recycle-bij-plastic-metaal-en-drankencartons"
+  },
+  "pt":{
+   "a-descartar":"descartar",
+   "a-reciclar":"reciclavel",
+   "a-reencher":"reutilizar",
+   "a-reutilizar":"reutilizar",
+   "a-ser-reutilizado":"reutilizar",
+   "descartar":"descartar",
+   "ecoponto-amarelo":"ecoponto-amarelo",
+   "ecoponto-azul":"ecoponto-azul",
+   "ecoponto-verde":"ecoponto-verde",
+   "nao-a-reciclar":"descartar",
+   "nao-para-reciclar":"descartar",
+   "nao-reciclael":"descartar",
+   "nao-reciclavel":"descartar",
+   "para-descartar":"descartar",
+   "para-reciclar":"reciclavel",
+   "para-reencher":"reutilizar",
+   "para-reutilizar":"reutilizar",
+   "para-ser-reutilizado":"reutilizar",
+   "para-tornar-a-encher":"reutilizar",
+   "para-tornar-a-reencher":"reutilizar",
+   "recicla-amarillo":"ecoponto-amarelo",
+   "recicla-azul":"ecoponto-azul",
+   "recicla-verde":"ecoponto-verde",
+   "reciclavel":"reciclavel",
+   "reencher":"reutilizar",
+   "reutilizar":"reutilizar",
+   "reutilizavel":"reutilizar",
+   "tornar-a-encher":"reutilizar",
+   "tornar-a-reencher":"reutilizar"
+  },
+  "sv":{
+   "färgat-glas":"sorteras-som-färgat-glas",
+   "färgat-glasförpackning":"sorteras-som-färgat-glas",
+   "färgat-sortera-som-glas":"sorteras-som-färgat-glas",
+   "färgat-sorteras-som-glas":"sorteras-som-färgat-glas",
+   "glas":"sorteras-som-glas",
+   "glasförpackning":"sorteras-som-glas",
+   "matavfall":"sorteras-som-matavfall",
+   "metall":"sorteras-som-metall",
+   "metallförpackning":"sorteras-som-metallförpackning",
+   "ofärgat-glas":"sorteras-som-ofärgat-glas",
+   "ofärgat-glasförpackning":"sorteras-som-ofärgat-glas",
+   "ofärgat-sortera-som-glas":"sorteras-som-ofärgat-glas",
+   "ofärgat-sorteras-som-glas":"sorteras-som-ofärgat-glas",
+   "pant":"panta",
+   "panta":"panta",
+   "pappersförpackning":"sorteras-som-pappersförpackning",
+   "plast":"sorteras-som-plast",
+   "plastförpackning":"sorteras-som-plast",
+   "sortera":"sortera",
+   "sortera-som-färgat-glas":"sorteras-som-färgat-glas",
+   "sortera-som-färgat-glasförpackning":"sorteras-som-färgat-glas",
+   "sortera-som-färgat-sortera-som-glas":"sorteras-som-färgat-glas",
+   "sortera-som-färgat-sorteras-som-glas":"sorteras-som-färgat-glas",
+   "sortera-som-glas":"sorteras-som-glas",
+   "sortera-som-matavfall":"sorteras-som-matavfall",
+   "sortera-som-metall":"sorteras-som-metall",
+   "sortera-som-metallförpackning":"sorteras-som-metallförpackning",
+   "sortera-som-ofärgat-glas":"sorteras-som-ofärgat-glas",
+   "sortera-som-ofärgat-glasförpackning":"sorteras-som-ofärgat-glas",
+   "sortera-som-ofärgat-sortera-som-glas":"sorteras-som-ofärgat-glas",
+   "sortera-som-ofärgat-sorteras-som-glas":"sorteras-som-ofärgat-glas",
+   "sortera-som-pappersförpackning":"sorteras-som-pappersförpackning",
+   "sortera-som-plast":"sorteras-som-plast",
+   "sortera-som-restavfall":"sorteras-som-restavfall",
+   "sortera-som-tidningar":"sorteras-som-tidningar",
+   "sortera-som-trädgårdsavfall":"sorteras-som-trädgårdsavfall",
+   "sorteras":"sortera",
+   "sorteras-som-färgat-glas":"sorteras-som-färgat-glas",
+   "sorteras-som-färgat-glasförpackning":"sorteras-som-färgat-glas",
+   "sorteras-som-färgat-sortera-som-glas":"sorteras-som-färgat-glas",
+   "sorteras-som-färgat-sorteras-som-glas":"sorteras-som-färgat-glas",
+   "sorteras-som-glas":"sorteras-som-glas",
+   "sorteras-som-matavfall":"sorteras-som-matavfall",
+   "sorteras-som-metall":"sorteras-som-metall",
+   "sorteras-som-metallförpackning":"sorteras-som-metallförpackning",
+   "sorteras-som-ofärgat-glas":"sorteras-som-ofärgat-glas",
+   "sorteras-som-ofärgat-glasförpackning":"sorteras-som-ofärgat-glas",
+   "sorteras-som-ofärgat-sortera-som-glas":"sorteras-som-ofärgat-glas",
+   "sorteras-som-ofärgat-sorteras-som-glas":"sorteras-som-ofärgat-glas",
+   "sorteras-som-pappersförpackning":"sorteras-som-pappersförpackning",
+   "sorteras-som-plast":"sorteras-som-plast",
+   "sorteras-som-restavfall":"sorteras-som-restavfall",
+   "sorteras-som-tidningar":"sorteras-som-tidningar",
+   "sorteras-som-trädgårdsavfall":"sorteras-som-trädgårdsavfall",
+   "tidning":"sorteras-som-tidningar",
+   "tidningar":"sorteras-som-tidningar",
+   "tidningspapper":"sorteras-som-tidningar",
+   "trädgårdsavfall":"sorteras-som-trädgårdsavfall"
+  }
+ },
+ "synonyms_for":{
+  "bg":{
+   "за-рециклиране":[
+    "за рециклиране",
+    "рециклирай",
+    "да се рециклира"
+   ],
+   "използвай-повторно":[
+    "използвай повторно",
+    "използвайте повторно"
+   ]
+  },
+  "de":{
+   "recyceln":[
+    "recyceln",
+    "zum Recyceln",
+    "recycelbar"
+   ],
+   "wegwerfen":[
+    "wegwerfen",
+    "nicht recycelbar",
+    "zum Wegwerfen"
+   ],
+   "wiederverwenden":[
+    "wiederverwenden",
+    "wiederverwendbar",
+    "nachfüllbar",
+    "mehrfach verwendbar",
+    "zum Wiederverwenden"
+   ]
+  },
+  "en":{
+   "deposit-refunds":[
+    "deposit refunds"
+   ],
+   "discard":[
+    "discard",
+    "to discard",
+    "throw away",
+    "to throw away",
+    "non-recyclable",
+    "to be thrown away",
+    "to be discarded"
+   ],
+   "recycle":[
+    "recycle",
+    "to recycle",
+    "to be recycled",
+    "recyclable"
+   ],
+   "recycle-as-food-waste":[
+    "recycle as food waste"
+   ],
+   "recycle-as-garden-waste":[
+    "recycle as garden waste"
+   ],
+   "recycle-as-green-waste":[
+    "recycle as green waste",
+    "compost",
+    "green waste"
+   ],
+   "recycle-in-coloured-glass-bin":[
+    "recycle in coloured glass bin"
+   ],
+   "recycle-in-glass-bin":[
+    "recycle in glass bin",
+    "recycle in glass container",
+    "recycle with glass",
+    "in glass bin",
+    "in glass container"
+   ],
+   "recycle-in-metal-packaging-bin":[
+    "recycle in metal packaging bin"
+   ],
+   "recycle-in-newspaper-bin":[
+    "recycle in newspaper bin"
+   ],
+   "recycle-in-paper-bin":[
+    "recycle in paper bin",
+    "recycle in paper container",
+    "recycle with paper"
+   ],
+   "recycle-in-paper-packaging-bin":[
+    "recycle in paper packaging bin"
+   ],
+   "recycle-in-sorting-bin":[
+    "recycle in sorting bin",
+    "sorting bin"
+   ],
+   "recycle-in-uncoloured-glass-bin":[
+    "recycle in uncoloured glass bin"
+   ],
+   "recycle-with-bags-at-large-supermarket":[
+    "recycle with bags at large supermarket",
+    "recycle at store",
+    "don't recycle at home"
+   ],
+   "recycle-with-drink-cartons":[
+    "recycle with drink cartons"
+   ],
+   "recycle-with-metals":[
+    "recycle with metals"
+   ],
+   "recycle-with-plastics":[
+    "recycle with plastics"
+   ],
+   "recycle-with-plastics-metal-and-bricks":[
+    "recycle with plastics - metal and bricks"
+   ],
+   "return-pet-bottle-to-store":[
+    "return PET bottle to store",
+    "PET deposit bottle",
+    "return PET bottle to store",
+    "PET deposit bottle"
+   ],
+   "return-to-store":[
+    "return to store",
+    "deposit"
+   ],
+   "reuse":[
+    "reuse",
+    "re-use",
+    "to reuse",
+    "to re-use",
+    "to be reused",
+    "to be re-used",
+    "reusable",
+    "re-usable",
+    "Refillable",
+    "refill",
+    "to refill",
+    "multiple use"
+   ]
+  },
+  "es":{
+   "contenedor-amarillo":[
+    "Contenedor amarillo",
+    "Al amarillo",
+    "Contenedor de envases",
+    "Recicla amarillo"
+   ],
+   "contenedor-azul":[
+    "Contenedor azul",
+    "Al azul",
+    "Contenedor de papel",
+    "Recicla azul"
+   ],
+   "contenedor-verde":[
+    "Contenedor verde",
+    "Al verde",
+    "Contenedor de vidrio",
+    "Recicla verde"
+   ],
+   "embalaje-no-reciclable":[
+    "embalaje no reciclable",
+    "no reciclable"
+   ]
+  },
+  "fr":{
+   "bac-de-tri":[
+    "bac de tri"
+   ],
+   "bouteille-en-pet-consignee":[
+    "bouteille en PET consignée",
+    "rapporter la bouteille en PET au magasin",
+    "bouteille en PET consignée",
+    "rapporter la bouteille en PET au magasin"
+   ],
+   "compostable":[
+    "compostable",
+    "à composter"
+   ],
+   "consigne":[
+    "consigné",
+    "consigne",
+    "rapporter au magasin",
+    "retourner au magasin"
+   ],
+   "consigne-remboursable":[
+    "consigne remboursable"
+   ],
+   "conteneur":[
+    "conteneur",
+    "container",
+    "poubelle",
+    "benne"
+   ],
+   "jeter":[
+    "jeter",
+    "à jeter",
+    "non-recyclable"
+   ],
+   "recycler":[
+    "recycler",
+    "à recycler",
+    "recyclable"
+   ],
+   "recycler-avec-le-plastique":[
+    "recycler avec le plastique"
+   ],
+   "recycler-avec-les-cartons-a-boissons":[
+    "recycler avec les cartons à boissons"
+   ],
+   "recycler-avec-les-plastiques-metal-et-briques":[
+    "recycler avec les plastiques - métal et briques"
+   ],
+   "recycler-dans-le-conteneur-a-papier":[
+    "recycler dans le conteneur à papier",
+    "recycler dans le bac à papier",
+    "recycler avec le papier",
+    "dans le conteneur à papier",
+    "dans le bac à papier",
+    "avec le papier"
+   ],
+   "recycler-dans-le-conteneur-a-verre":[
+    "recycler dans le conteneur à verre",
+    "recycler dans le bac à verre",
+    "recycler avec le verre",
+    "dans le conteneur à verre",
+    "avec le verre",
+    "tri verre",
+    "bac verre"
+   ],
+   "reutiliser":[
+    "réutiliser",
+    "à réutiliser",
+    "réutilisable",
+    "usage multiple",
+    "réemployer",
+    "à réemployer",
+    "réemployable"
+   ]
+  },
+  "hr":{
+   "povratna-naknada":[
+    "povratna naknada"
+   ]
+  },
+  "hu":{
+   "eldobható":[
+    "eldobható",
+    "eldobandó",
+    "eldobni",
+    "kidobható",
+    "kidobni",
+    "kidobandó",
+    "nem újrahasznosítható",
+    "szemét"
+   ],
+   "újrafelhasználható":[
+    "újrafelhasználható",
+    "újrafelhasználásra",
+    "újrafelhasználni",
+    "többszörhasználatos",
+    "többszöri felhasználásra",
+    "többször felhasználható",
+    "újra felhasználható"
+   ],
+   "újrahasznosítható":[
+    "újrahasznosítható",
+    "újrahasznosítandó",
+    "újrahasznosításra"
+   ]
+  },
+  "it":{
+   "non-riciclabile":[
+    "non riciclabile",
+    "indifferenziata"
+   ],
+   "raccolta-carta":[
+    "raccolta carta",
+    "carta"
+   ],
+   "raccolta-metalli":[
+    "raccolta metalli",
+    "alluminio",
+    "latta",
+    "metallo",
+    "metalli"
+   ],
+   "raccolta-plastica":[
+    "raccolta plastica",
+    "plastica"
+   ],
+   "raccolta-plastica-metalli-e-bricchetti":[
+    "raccolta plastica - metalli e bricchetti",
+    "raccolta plastica - metalli e tetrapack"
+   ],
+   "raccolta-vetro":[
+    "raccolta vetro",
+    "vetro"
+   ],
+   "riciclare":[
+    "riciclare",
+    "riciclabile",
+    "raccolta"
+   ],
+   "riconsegnare-al-negozio":[
+    "riconsegnare al negozio",
+    "restituire al negozio"
+   ],
+   "riusare":[
+    "riusare",
+    "riutilizzare",
+    "può essere riutilizzato",
+    "può essere riutilizzata"
+   ],
+   "umido":[
+    "umido",
+    "raccolta umido",
+    "compost",
+    "compostabile"
+   ]
+  },
+  "nb":{
+   "gjenvinnes":[
+    "gjenvinnes"
+   ]
+  },
+  "nl":{
+   "recycle-als-gft":[
+    "recycle als GFT",
+    "gft"
+   ],
+   "recycle-als-statiegeldfles":[
+    "recycle als statiegeldfles",
+    "statiegeldfles"
+   ],
+   "recycle-bij-drankencartons":[
+    "recycle bij drankencartons",
+    "bij drankencartons"
+   ],
+   "recycle-bij-plastic-afval":[
+    "recycle bij plastic afval",
+    "bij plastic afval",
+    "plastic afval"
+   ],
+   "recycle-bij-plastic-metaal-en-drankencartons":[
+    "recycle bij Plastic - Metaal en Drankencartons",
+    "PMD",
+    "wel PMD"
+   ],
+   "recyclen-bij-oud-papier":[
+    "recyclen bij oud papier",
+    "bij oud papier",
+    "in papierbak",
+    "in de papierbak",
+    "papierbak"
+   ],
+   "recyclen-in-de-glasbak":[
+    "recyclen in de glasbak",
+    "glasbak",
+    "in de glasbak",
+    "in glasbak"
+   ],
+   "restafval":[
+    "restafval",
+    "bij restafval",
+    "niet PMD"
+   ],
+   "statiegeldblik":[
+    "statiegeldblik",
+    "recycle als statiegeldblik"
+   ]
+  },
+  "pt":{
+   "descartar":[
+    "descartar",
+    "a descartar",
+    "para descartar",
+    "não-reciclável",
+    "não recicláel"
+   ],
+   "ecoponto-amarelo":[
+    "Ecoponto amarelo",
+    "Recicla amarillo"
+   ],
+   "ecoponto-azul":[
+    "Ecoponto azul",
+    "Recicla azul"
+   ],
+   "ecoponto-verde":[
+    "Ecoponto Verde",
+    "Recicla verde"
+   ],
+   "reciclavel":[
+    "reciclável",
+    "a reciclar",
+    "para reciclar"
+   ],
+   "reutilizar":[
+    "reutilizar",
+    "a reutilizar",
+    "para reutilizar",
+    "para ser reutilizado",
+    "a ser reutilizado",
+    "reutilizável",
+    "tornar a encher",
+    "para tornar a encher",
+    "reencher",
+    "tornar a reencher",
+    "para tornar a reencher",
+    "para reencher",
+    "a reencher"
+   ]
+  },
+  "sv":{
+   "panta":[
+    "panta",
+    "pant"
+   ],
+   "sortera":[
+    "sortera",
+    "sorteras"
+   ],
+   "sorteras-som-färgat-glas":[
+    "sorteras som färgat glas",
+    "färgat glas"
+   ],
+   "sorteras-som-glas":[
+    "sorteras som glas",
+    "glas",
+    "glasförpackning"
+   ],
+   "sorteras-som-matavfall":[
+    "sorteras som matavfall",
+    "matavfall"
+   ],
+   "sorteras-som-metall":[
+    "sorteras som metall",
+    "metall"
+   ],
+   "sorteras-som-metallförpackning":[
+    "sorteras som metallförpackning",
+    "metallförpackning"
+   ],
+   "sorteras-som-ofärgat-glas":[
+    "sorteras som ofärgat glas",
+    "ofärgat glas"
+   ],
+   "sorteras-som-pappersförpackning":[
+    "sorteras som pappersförpackning",
+    "pappersförpackning"
+   ],
+   "sorteras-som-plast":[
+    "sorteras som plast",
+    "plast",
+    "plastförpackning"
+   ],
+   "sorteras-som-restavfall":[
+    "sorteras som restavfall"
+   ],
+   "sorteras-som-tidningar":[
+    "sorteras som tidningar",
+    "tidningar",
+    "tidning",
+    "tidningspapper"
+   ],
+   "sorteras-som-trädgårdsavfall":[
+    "sorteras som trädgårdsavfall",
+    "trädgårdsavfall"
+   ]
+  }
+ },
+ "synonyms_for_extended":{
+  "bg":{
+   "за-рециклиране":{
+    "да-се-рециклира":1,
+    "за-рециклиране":1,
+    "рециклирай":1
+   },
+   "използвай-повторно":{
+    "използвай-повторно":1,
+    "използвайте-повторно":1
+   }
+  },
+  "de":{
+   "recyceln":{
+    "recycelbar":1,
+    "recyceln":1,
+    "zum-recyceln":1
+   },
+   "wegwerfen":{
+    "nicht-recycelbar":1,
+    "nicht-recyceln":1,
+    "nicht-zum-recyceln":1,
+    "wegwerfen":1,
+    "zum-wegwerfen":1
+   },
+   "wiederverwenden":{
+    "mehrfach-verwendbar":1,
+    "nachfüllbar":1,
+    "wiederverwendbar":1,
+    "wiederverwenden":1,
+    "zum-wiederverwenden":1
+   }
+  },
+  "en":{
+   "deposit-refunds":{
+    "deposit-refunds":1,
+    "return-to-store-refunds":1
+   },
+   "discard":{
+    "discard":1,
+    "non-recyclable":1,
+    "non-recycle":1,
+    "non-to-be-recycled":1,
+    "non-to-recycle":1,
+    "throw-away":1,
+    "to-be-discarded":1,
+    "to-be-thrown-away":1,
+    "to-discard":1,
+    "to-throw-away":1
+   },
+   "recycle":{
+    "recyclable":1,
+    "recycle":1,
+    "to-be-recycled":1,
+    "to-recycle":1
+   },
+   "recycle-as-food-waste":{
+    "recyclable-as-food-waste":1,
+    "recycle-as-food-waste":1,
+    "to-be-recycled-as-food-waste":1,
+    "to-recycle-as-food-waste":1
+   },
+   "recycle-as-garden-waste":{
+    "recyclable-as-garden-waste":1,
+    "recycle-as-garden-waste":1,
+    "to-be-recycled-as-garden-waste":1,
+    "to-recycle-as-garden-waste":1
+   },
+   "recycle-as-green-waste":{
+    "compost":1,
+    "green-waste":1,
+    "recyclable-as-green-waste":1,
+    "recycle-as-green-waste":1,
+    "to-be-recycled-as-green-waste":1,
+    "to-recycle-as-green-waste":1
+   },
+   "recycle-in-coloured-glass-bin":{
+    "recyclable-in-coloured-glass-bin":1,
+    "recycle-in-coloured-glass-bin":1,
+    "to-be-recycled-in-coloured-glass-bin":1,
+    "to-recycle-in-coloured-glass-bin":1
+   },
+   "recycle-in-glass-bin":{
+    "in-glass-bin":1,
+    "in-glass-container":1,
+    "recyclable-in-glass-bin":1,
+    "recyclable-in-glass-container":1,
+    "recyclable-with-glass":1,
+    "recycle-in-glass-bin":1,
+    "recycle-in-glass-container":1,
+    "recycle-with-glass":1,
+    "to-be-recycled-in-glass-bin":1,
+    "to-be-recycled-in-glass-container":1,
+    "to-be-recycled-with-glass":1,
+    "to-recycle-in-glass-bin":1,
+    "to-recycle-in-glass-container":1,
+    "to-recycle-with-glass":1
+   },
+   "recycle-in-metal-packaging-bin":{
+    "recyclable-in-metal-packaging-bin":1,
+    "recycle-in-metal-packaging-bin":1,
+    "to-be-recycled-in-metal-packaging-bin":1,
+    "to-recycle-in-metal-packaging-bin":1
+   },
+   "recycle-in-newspaper-bin":{
+    "recyclable-in-newspaper-bin":1,
+    "recycle-in-newspaper-bin":1,
+    "to-be-recycled-in-newspaper-bin":1,
+    "to-recycle-in-newspaper-bin":1
+   },
+   "recycle-in-paper-bin":{
+    "recyclable-in-paper-bin":1,
+    "recyclable-in-paper-container":1,
+    "recyclable-with-paper":1,
+    "recycle-in-paper-bin":1,
+    "recycle-in-paper-container":1,
+    "recycle-with-paper":1,
+    "to-be-recycled-in-paper-bin":1,
+    "to-be-recycled-in-paper-container":1,
+    "to-be-recycled-with-paper":1,
+    "to-recycle-in-paper-bin":1,
+    "to-recycle-in-paper-container":1,
+    "to-recycle-with-paper":1
+   },
+   "recycle-in-paper-packaging-bin":{
+    "recyclable-in-paper-packaging-bin":1,
+    "recycle-in-paper-packaging-bin":1,
+    "to-be-recycled-in-paper-packaging-bin":1,
+    "to-recycle-in-paper-packaging-bin":1
+   },
+   "recycle-in-sorting-bin":{
+    "recyclable-in-sorting-bin":1,
+    "recycle-in-sorting-bin":1,
+    "sorting-bin":1,
+    "to-be-recycled-in-sorting-bin":1,
+    "to-recycle-in-sorting-bin":1
+   },
+   "recycle-in-uncoloured-glass-bin":{
+    "recyclable-in-uncoloured-glass-bin":1,
+    "recycle-in-uncoloured-glass-bin":1,
+    "to-be-recycled-in-uncoloured-glass-bin":1,
+    "to-recycle-in-uncoloured-glass-bin":1
+   },
+   "recycle-with-bags-at-large-supermarket":{
+    "don-t-recyclable-at-home":1,
+    "don-t-recycle-at-home":1,
+    "don-t-to-be-recycled-at-home":1,
+    "don-t-to-recycle-at-home":1,
+    "recyclable-at-store":1,
+    "recyclable-with-bags-at-large-supermarket":1,
+    "recycle-at-store":1,
+    "recycle-with-bags-at-large-supermarket":1,
+    "to-be-recycled-at-store":1,
+    "to-be-recycled-with-bags-at-large-supermarket":1,
+    "to-recycle-at-store":1,
+    "to-recycle-with-bags-at-large-supermarket":1
+   },
+   "recycle-with-drink-cartons":{
+    "recyclable-with-drink-cartons":1,
+    "recycle-with-drink-cartons":1,
+    "to-be-recycled-with-drink-cartons":1,
+    "to-recycle-with-drink-cartons":1
+   },
+   "recycle-with-metals":{
+    "recyclable-with-metals":1,
+    "recycle-with-metals":1,
+    "to-be-recycled-with-metals":1,
+    "to-recycle-with-metals":1
+   },
+   "recycle-with-plastics":{
+    "recyclable-with-plastics":1,
+    "recycle-with-plastics":1,
+    "to-be-recycled-with-plastics":1,
+    "to-recycle-with-plastics":1
+   },
+   "recycle-with-plastics-metal-and-bricks":{
+    "recyclable-with-plastics-metal-and-bricks":1,
+    "recycle-with-plastics-metal-and-bricks":1,
+    "to-be-recycled-with-plastics-metal-and-bricks":1,
+    "to-recycle-with-plastics-metal-and-bricks":1
+   },
+   "return-pet-bottle-to-store":{
+    "pet-deposit-bottle":1,
+    "pet-return-to-store-bottle":1,
+    "return-pet-bottle-to-store":1
+   },
+   "return-to-store":{
+    "deposit":1,
+    "return-to-store":1
+   },
+   "reuse":{
+    "multiple-use":1,
+    "re-usable":1,
+    "re-use":1,
+    "refill":1,
+    "refillable":1,
+    "reusable":1,
+    "reuse":1,
+    "to-be-re-used":1,
+    "to-be-reused":1,
+    "to-re-use":1,
+    "to-refill":1,
+    "to-reuse":1
+   }
+  },
+  "es":{
+   "contenedor-amarillo":{
+    "al-amarillo":1,
+    "contenedor-amarillo":1,
+    "contenedor-de-envases":1,
+    "recicla-amarillo":1
+   },
+   "contenedor-azul":{
+    "al-azul":1,
+    "contenedor-azul":1,
+    "contenedor-de-papel":1,
+    "recicla-azul":1
+   },
+   "contenedor-verde":{
+    "al-verde":1,
+    "contenedor-de-vidrio":1,
+    "contenedor-verde":1,
+    "recicla-verde":1
+   },
+   "embalaje-no-reciclable":{
+    "embalaje-no-reciclable":1,
+    "no-reciclable":1
+   }
+  },
+  "fr":{
+   "bac-de-tri":{
+    "bac-de-tri":1
+   },
+   "bouteille-en-pet-consignee":{
+    "bouteille-en-pet-consignee":1,
+    "rapporter-la-bouteille-en-pet-au-magasin":1
+   },
+   "compostable":{
+    "a-composter":1,
+    "compostable":1
+   },
+   "consigne":{
+    "consigne":1,
+    "rapporter-au-magasin":1,
+    "retourner-au-magasin":1
+   },
+   "consigne-remboursable":{
+    "consigne-remboursable":1,
+    "rapporter-au-magasin-remboursable":1,
+    "retourner-au-magasin-remboursable":1
+   },
+   "conteneur":{
+    "benne":1,
+    "container":1,
+    "conteneur":1,
+    "poubelle":1
+   },
+   "jeter":{
+    "a-jeter":1,
+    "jeter":1,
+    "non-a-recycler":1,
+    "non-recyclable":1,
+    "non-recycler":1
+   },
+   "recycler":{
+    "a-recycler":1,
+    "recyclable":1,
+    "recycler":1
+   },
+   "recycler-avec-le-plastique":{
+    "a-recycler-avec-le-plastique":1,
+    "recyclable-avec-le-plastique":1,
+    "recycler-avec-le-plastique":1
+   },
+   "recycler-avec-les-cartons-a-boissons":{
+    "a-recycler-avec-les-cartons-a-boissons":1,
+    "recyclable-avec-les-cartons-a-boissons":1,
+    "recycler-avec-les-cartons-a-boissons":1
+   },
+   "recycler-avec-les-plastiques-metal-et-briques":{
+    "a-recycler-avec-les-plastiques-metal-et-briques":1,
+    "recyclable-avec-les-plastiques-metal-et-briques":1,
+    "recycler-avec-les-plastiques-metal-et-briques":1
+   },
+   "recycler-dans-le-conteneur-a-papier":{
+    "a-recycler-avec-le-papier":1,
+    "a-recycler-dans-le-bac-a-papier":1,
+    "a-recycler-dans-le-benne-a-papier":1,
+    "a-recycler-dans-le-conteneur-a-papier":1,
+    "avec-le-papier":1,
+    "dans-le-bac-a-papier":1,
+    "dans-le-benne-a-papier":1,
+    "dans-le-container-a-papier":1,
+    "dans-le-conteneur-a-papier":1,
+    "dans-le-poubelle-a-papier":1,
+    "recyclable-avec-le-papier":1,
+    "recyclable-dans-le-bac-a-papier":1,
+    "recyclable-dans-le-benne-a-papier":1,
+    "recyclable-dans-le-conteneur-a-papier":1,
+    "recycler-avec-le-papier":1,
+    "recycler-dans-le-bac-a-papier":1,
+    "recycler-dans-le-benne-a-papier":1,
+    "recycler-dans-le-container-a-papier":1,
+    "recycler-dans-le-conteneur-a-papier":1,
+    "recycler-dans-le-poubelle-a-papier":1
+   },
+   "recycler-dans-le-conteneur-a-verre":{
+    "a-recycler-avec-le-verre":1,
+    "a-recycler-dans-le-bac-a-verre":1,
+    "a-recycler-dans-le-benne-a-verre":1,
+    "a-recycler-dans-le-conteneur-a-verre":1,
+    "a-recycler-dans-le-poubelle-a-verre":1,
+    "avec-le-verre":1,
+    "bac-verre":1,
+    "dans-le-benne-a-verre":1,
+    "dans-le-container-a-verre":1,
+    "dans-le-conteneur-a-verre":1,
+    "dans-le-poubelle-a-verre":1,
+    "recyclable-avec-le-verre":1,
+    "recyclable-dans-le-bac-a-verre":1,
+    "recyclable-dans-le-benne-a-verre":1,
+    "recyclable-dans-le-conteneur-a-verre":1,
+    "recyclable-dans-le-poubelle-a-verre":1,
+    "recycler-avec-le-verre":1,
+    "recycler-dans-le-bac-a-verre":1,
+    "recycler-dans-le-benne-a-verre":1,
+    "recycler-dans-le-container-a-verre":1,
+    "recycler-dans-le-conteneur-a-verre":1,
+    "recycler-dans-le-poubelle-a-verre":1,
+    "tri-verre":1
+   },
+   "reutiliser":{
+    "a-reemployer":1,
+    "a-reutiliser":1,
+    "reemployable":1,
+    "reemployer":1,
+    "reutilisable":1,
+    "reutiliser":1,
+    "usage-multiple":1
+   }
+  },
+  "hr":{
+   "povratna-naknada":{
+    "povratna-naknada":1
+   }
+  },
+  "hu":{
+   "eldobható":{
+    "eldobandó":1,
+    "eldobható":1,
+    "eldobni":1,
+    "kidobandó":1,
+    "kidobható":1,
+    "kidobni":1,
+    "nem-újrahasznosítandó":1,
+    "nem-újrahasznosítható":1,
+    "nem-újrahasznosításra":1,
+    "szemét":1
+   },
+   "újrafelhasználható":{
+    "többször-felhasználható":1,
+    "többszörhasználatos":1,
+    "többszöri-felhasználásra":1,
+    "újra-felhasználható":1,
+    "újrafelhasználható":1,
+    "újrafelhasználni":1,
+    "újrafelhasználásra":1
+   },
+   "újrahasznosítható":{
+    "újrahasznosítandó":1,
+    "újrahasznosítható":1,
+    "újrahasznosításra":1
+   }
+  },
+  "it":{
+   "non-riciclabile":{
+    "indifferenziata":1,
+    "non-raccolta":1,
+    "non-riciclabile":1,
+    "non-riciclare":1
+   },
+   "raccolta-carta":{
+    "carta":1,
+    "raccolta-carta":1,
+    "riciclabile-carta":1,
+    "riciclare-carta":1
+   },
+   "raccolta-metalli":{
+    "alluminio":1,
+    "latta":1,
+    "metalli":1,
+    "metallo":1,
+    "raccolta-metalli":1,
+    "riciclabile-metalli":1,
+    "riciclare-metalli":1
+   },
+   "raccolta-plastica":{
+    "plastica":1,
+    "raccolta-plastica":1,
+    "riciclabile-plastica":1,
+    "riciclare-plastica":1
+   },
+   "raccolta-plastica-metalli-e-bricchetti":{
+    "plastica-alluminio-e-bricchetti":1,
+    "plastica-alluminio-e-tetrapack":1,
+    "plastica-latta-e-bricchetti":1,
+    "plastica-latta-e-tetrapack":1,
+    "plastica-metalli-e-bricchetti":1,
+    "plastica-metalli-e-tetrapack":1,
+    "plastica-metallo-e-bricchetti":1,
+    "plastica-metallo-e-tetrapack":1,
+    "plastica-raccolta-metalli-e-bricchetti":1,
+    "plastica-raccolta-metalli-e-tetrapack":1,
+    "plastica-riciclabile-metalli-e-bricchetti":1,
+    "plastica-riciclabile-metalli-e-tetrapack":1,
+    "plastica-riciclare-metalli-e-bricchetti":1,
+    "plastica-riciclare-metalli-e-tetrapack":1,
+    "raccolta-plastica-alluminio-e-bricchetti":1,
+    "raccolta-plastica-alluminio-e-tetrapack":1,
+    "raccolta-plastica-latta-e-bricchetti":1,
+    "raccolta-plastica-latta-e-tetrapack":1,
+    "raccolta-plastica-metalli-e-bricchetti":1,
+    "raccolta-plastica-metalli-e-tetrapack":1,
+    "raccolta-plastica-metallo-e-bricchetti":1,
+    "raccolta-plastica-metallo-e-tetrapack":1,
+    "raccolta-plastica-raccolta-metalli-e-bricchetti":1,
+    "raccolta-plastica-raccolta-metalli-e-tetrapack":1,
+    "raccolta-plastica-riciclabile-metalli-e-bricchetti":1,
+    "raccolta-plastica-riciclabile-metalli-e-tetrapack":1,
+    "raccolta-plastica-riciclare-metalli-e-bricchetti":1,
+    "raccolta-plastica-riciclare-metalli-e-tetrapack":1,
+    "raccolta-riciclabile-plastica-metalli-e-bricchetti":1,
+    "raccolta-riciclabile-plastica-metalli-e-tetrapack":1,
+    "raccolta-riciclare-plastica-metalli-e-bricchetti":1,
+    "raccolta-riciclare-plastica-metalli-e-tetrapack":1,
+    "riciclabile-plastica-metalli-e-bricchetti":1,
+    "riciclabile-plastica-metalli-e-tetrapack":1,
+    "riciclare-plastica-metalli-e-bricchetti":1,
+    "riciclare-plastica-metalli-e-tetrapack":1
+   },
+   "raccolta-vetro":{
+    "raccolta-vetro":1,
+    "riciclabile-vetro":1,
+    "riciclare-vetro":1,
+    "vetro":1
+   },
+   "riciclare":{
+    "raccolta":1,
+    "riciclabile":1,
+    "riciclare":1
+   },
+   "riconsegnare-al-negozio":{
+    "restituire-al-negozio":1,
+    "riconsegnare-al-negozio":1
+   },
+   "riusare":{
+    "puo-essere-riutilizzata":1,
+    "puo-essere-riutilizzato":1,
+    "riusare":1,
+    "riutilizzare":1
+   },
+   "umido":{
+    "compost":1,
+    "compostabile":1,
+    "raccolta-umido":1,
+    "riciclabile-umido":1,
+    "riciclare-umido":1,
+    "umido":1
+   }
+  },
+  "nb":{
+   "gjenvinnes":{
+    "gjenvinnes":1
+   }
+  },
+  "nl":{
+   "recycle-als-gft":{
+    "gft":1,
+    "recycle-als-gft":1
+   },
+   "recycle-als-statiegeldfles":{
+    "recycle-als-statiegeldfles":1,
+    "statiegeldfles":1
+   },
+   "recycle-bij-drankencartons":{
+    "bij-drankencartons":1,
+    "recycle-bij-drankencartons":1
+   },
+   "recycle-bij-plastic-afval":{
+    "bij-plastic-afval":1,
+    "plastic-afval":1,
+    "recycle-bij-plastic-afval":1
+   },
+   "recycle-bij-plastic-metaal-en-drankencartons":{
+    "pmd":1,
+    "recycle-bij-plastic-metaal-en-drankencartons":1,
+    "wel-pmd":1
+   },
+   "recyclen-bij-oud-papier":{
+    "bij-oud-papier":1,
+    "in-de-papierbak":1,
+    "in-papierbak":1,
+    "papierbak":1,
+    "recyclen-bij-oud-papier":1
+   },
+   "recyclen-in-de-glasbak":{
+    "glasbak":1,
+    "in-de-glasbak":1,
+    "in-glasbak":1,
+    "recyclen-in-de-glasbak":1
+   },
+   "restafval":{
+    "bij-restafval":1,
+    "niet-pmd":1,
+    "niet-recycle-bij-plastic-metaal-en-drankencartons":1,
+    "niet-wel-pmd":1,
+    "restafval":1
+   },
+   "statiegeldblik":{
+    "recycle-als-statiegeldblik":1,
+    "statiegeldblik":1
+   }
+  },
+  "pt":{
+   "descartar":{
+    "a-descartar":1,
+    "descartar":1,
+    "nao-a-reciclar":1,
+    "nao-para-reciclar":1,
+    "nao-reciclael":1,
+    "nao-reciclavel":1,
+    "para-descartar":1
+   },
+   "ecoponto-amarelo":{
+    "ecoponto-amarelo":1,
+    "recicla-amarillo":1
+   },
+   "ecoponto-azul":{
+    "ecoponto-azul":1,
+    "recicla-azul":1
+   },
+   "ecoponto-verde":{
+    "ecoponto-verde":1,
+    "recicla-verde":1
+   },
+   "reciclavel":{
+    "a-reciclar":1,
+    "para-reciclar":1,
+    "reciclavel":1
+   },
+   "reutilizar":{
+    "a-reencher":1,
+    "a-reutilizar":1,
+    "a-ser-reutilizado":1,
+    "para-reencher":1,
+    "para-reutilizar":1,
+    "para-ser-reutilizado":1,
+    "para-tornar-a-encher":1,
+    "para-tornar-a-reencher":1,
+    "reencher":1,
+    "reutilizar":1,
+    "reutilizavel":1,
+    "tornar-a-encher":1,
+    "tornar-a-reencher":1
+   }
+  },
+  "sv":{
+   "panta":{
+    "pant":1,
+    "panta":1
+   },
+   "sortera":{
+    "sortera":1,
+    "sorteras":1
+   },
+   "sorteras-som-färgat-glas":{
+    "färgat-glas":1,
+    "färgat-glasförpackning":1,
+    "färgat-sortera-som-glas":1,
+    "färgat-sorteras-som-glas":1,
+    "sortera-som-färgat-glas":1,
+    "sortera-som-färgat-glasförpackning":1,
+    "sortera-som-färgat-sortera-som-glas":1,
+    "sortera-som-färgat-sorteras-som-glas":1,
+    "sorteras-som-färgat-glas":1,
+    "sorteras-som-färgat-glasförpackning":1,
+    "sorteras-som-färgat-sortera-som-glas":1,
+    "sorteras-som-färgat-sorteras-som-glas":1
+   },
+   "sorteras-som-glas":{
+    "glas":1,
+    "glasförpackning":1,
+    "sortera-som-glas":1,
+    "sorteras-som-glas":1
+   },
+   "sorteras-som-matavfall":{
+    "matavfall":1,
+    "sortera-som-matavfall":1,
+    "sorteras-som-matavfall":1
+   },
+   "sorteras-som-metall":{
+    "metall":1,
+    "sortera-som-metall":1,
+    "sorteras-som-metall":1
+   },
+   "sorteras-som-metallförpackning":{
+    "metallförpackning":1,
+    "sortera-som-metallförpackning":1,
+    "sorteras-som-metallförpackning":1
+   },
+   "sorteras-som-ofärgat-glas":{
+    "ofärgat-glas":1,
+    "ofärgat-glasförpackning":1,
+    "ofärgat-sortera-som-glas":1,
+    "ofärgat-sorteras-som-glas":1,
+    "sortera-som-ofärgat-glas":1,
+    "sortera-som-ofärgat-glasförpackning":1,
+    "sortera-som-ofärgat-sortera-som-glas":1,
+    "sortera-som-ofärgat-sorteras-som-glas":1,
+    "sorteras-som-ofärgat-glas":1,
+    "sorteras-som-ofärgat-glasförpackning":1,
+    "sorteras-som-ofärgat-sortera-som-glas":1,
+    "sorteras-som-ofärgat-sorteras-som-glas":1
+   },
+   "sorteras-som-pappersförpackning":{
+    "pappersförpackning":1,
+    "sortera-som-pappersförpackning":1,
+    "sorteras-som-pappersförpackning":1
+   },
+   "sorteras-som-plast":{
+    "plast":1,
+    "plastförpackning":1,
+    "sortera-som-plast":1,
+    "sorteras-som-plast":1
+   },
+   "sorteras-som-restavfall":{
+    "sortera-som-restavfall":1,
+    "sorteras-som-restavfall":1
+   },
+   "sorteras-som-tidningar":{
+    "sortera-som-tidningar":1,
+    "sorteras-som-tidningar":1,
+    "tidning":1,
+    "tidningar":1,
+    "tidningspapper":1
+   },
+   "sorteras-som-trädgårdsavfall":{
+    "sortera-som-trädgårdsavfall":1,
+    "sorteras-som-trädgårdsavfall":1,
+    "trädgårdsavfall":1
+   }
+  }
+ },
+ "translations_from":{
+  "bg:за-рециклиране":"en:recycle",
+  "bg:използвай-повторно":"en:reuse",
+  "de:recyceln":"en:recycle",
+  "de:wegwerfen":"en:discard",
+  "de:wiederverwenden":"en:reuse",
+  "en:deposit-refunds":"en:deposit-refunds",
+  "en:discard":"en:discard",
+  "en:recycle":"en:recycle",
+  "en:recycle-as-food-waste":"en:recycle-as-food-waste",
+  "en:recycle-as-garden-waste":"en:recycle-as-garden-waste",
+  "en:recycle-as-green-waste":"en:recycle-as-green-waste",
+  "en:recycle-in-coloured-glass-bin":"en:recycle-in-coloured-glass-bin",
+  "en:recycle-in-glass-bin":"en:recycle-in-glass-bin",
+  "en:recycle-in-metal-packaging-bin":"en:recycle-in-metal-packaging-bin",
+  "en:recycle-in-newspaper-bin":"en:recycle-in-newspaper-bin",
+  "en:recycle-in-paper-bin":"en:recycle-in-paper-bin",
+  "en:recycle-in-paper-packaging-bin":"en:recycle-in-paper-packaging-bin",
+  "en:recycle-in-sorting-bin":"en:recycle-in-sorting-bin",
+  "en:recycle-in-uncoloured-glass-bin":"en:recycle-in-uncoloured-glass-bin",
+  "en:recycle-with-bags-at-large-supermarket":"en:recycle-with-bags-at-large-supermarket",
+  "en:recycle-with-drink-cartons":"en:recycle-with-drink-cartons",
+  "en:recycle-with-metals":"en:recycle-with-metals",
+  "en:recycle-with-plastics":"en:recycle-with-plastics",
+  "en:recycle-with-plastics-metal-and-bricks":"en:recycle-with-plastics-metal-and-bricks",
+  "en:return-pet-bottle-to-store":"en:return-pet-bottle-to-store",
+  "en:return-to-store":"en:return-to-store",
+  "en:reuse":"en:reuse",
+  "es:contenedor-amarillo":"en:recycle-with-plastics-metal-and-bricks",
+  "es:contenedor-azul":"en:recycle-in-paper-bin",
+  "es:contenedor-verde":"en:recycle-in-glass-bin",
+  "es:embalaje-no-reciclable":"en:discard",
+  "fr:bac-de-tri":"en:recycle-in-sorting-bin",
+  "fr:bouteille-en-pet-consignee":"en:return-pet-bottle-to-store",
+  "fr:compostable":"en:recycle-as-green-waste",
+  "fr:consigne":"en:return-to-store",
+  "fr:consigne-remboursable":"en:deposit-refunds",
+  "fr:conteneur":"fr:conteneur",
+  "fr:jeter":"en:discard",
+  "fr:recycler":"en:recycle",
+  "fr:recycler-avec-le-plastique":"en:recycle-with-plastics",
+  "fr:recycler-avec-les-cartons-a-boissons":"en:recycle-with-drink-cartons",
+  "fr:recycler-avec-les-plastiques-metal-et-briques":"en:recycle-with-plastics-metal-and-bricks",
+  "fr:recycler-dans-le-conteneur-a-papier":"en:recycle-in-paper-bin",
+  "fr:recycler-dans-le-conteneur-a-verre":"en:recycle-in-glass-bin",
+  "fr:reutiliser":"en:reuse",
+  "hr:povratna-naknada":"en:deposit-refunds",
+  "hu:eldobható":"en:discard",
+  "hu:újrafelhasználható":"en:reuse",
+  "hu:újrahasznosítható":"en:recycle",
+  "it:non-riciclabile":"en:discard",
+  "it:raccolta-carta":"en:recycle-in-paper-bin",
+  "it:raccolta-metalli":"en:recycle-with-metals",
+  "it:raccolta-plastica":"en:recycle-with-plastics",
+  "it:raccolta-plastica-metalli-e-bricchetti":"en:recycle-with-plastics-metal-and-bricks",
+  "it:raccolta-vetro":"en:recycle-in-glass-bin",
+  "it:riciclare":"en:recycle",
+  "it:riconsegnare-al-negozio":"en:return-to-store",
+  "it:riusare":"en:reuse",
+  "it:umido":"en:recycle-as-green-waste",
+  "nb:gjenvinnes":"en:recycle",
+  "nl:recycle-als-gft":"en:recycle-as-green-waste",
+  "nl:recycle-als-statiegeldfles":"en:return-pet-bottle-to-store",
+  "nl:recycle-bij-drankencartons":"en:recycle-with-drink-cartons",
+  "nl:recycle-bij-plastic-afval":"en:recycle-with-plastics",
+  "nl:recycle-bij-plastic-metaal-en-drankencartons":"en:recycle-with-plastics-metal-and-bricks",
+  "nl:recyclen-bij-oud-papier":"en:recycle-in-paper-bin",
+  "nl:recyclen-in-de-glasbak":"en:recycle-in-glass-bin",
+  "nl:restafval":"en:discard",
+  "nl:statiegeldblik":"nl:statiegeldblik",
+  "pt:descartar":"en:discard",
+  "pt:ecoponto-amarelo":"en:recycle-with-plastics-metal-and-bricks",
+  "pt:ecoponto-azul":"en:recycle-in-paper-bin",
+  "pt:ecoponto-verde":"en:recycle-in-glass-bin",
+  "pt:reciclavel":"en:recycle",
+  "pt:reutilizar":"en:reuse",
+  "sv:panta":"en:deposit-refunds",
+  "sv:sortera":"sv:sortera",
+  "sv:sorteras-som-färgat-glas":"en:recycle-in-coloured-glass-bin",
+  "sv:sorteras-som-glas":"en:recycle-in-glass-bin",
+  "sv:sorteras-som-matavfall":"en:recycle-as-food-waste",
+  "sv:sorteras-som-metall":"en:recycle-with-metals",
+  "sv:sorteras-som-metallförpackning":"en:recycle-in-metal-packaging-bin",
+  "sv:sorteras-som-ofärgat-glas":"en:recycle-in-uncoloured-glass-bin",
+  "sv:sorteras-som-pappersförpackning":"en:recycle-in-paper-packaging-bin",
+  "sv:sorteras-som-plast":"en:recycle-with-plastics",
+  "sv:sorteras-som-restavfall":"en:discard",
+  "sv:sorteras-som-tidningar":"en:recycle-in-newspaper-bin",
+  "sv:sorteras-som-trädgårdsavfall":"en:recycle-as-garden-waste"
+ },
+ "translations_to":{
+  "en:deposit-refunds":{
+   "en":"Deposit refunds",
+   "fr":"Consigne remboursable",
+   "hr":"Povratna naknada",
+   "sv":"Panta"
+  },
+  "en:discard":{
+   "de":"Wegwerfen",
+   "en":"Discard",
+   "es":"Embalaje no reciclable",
+   "fr":"Jeter",
+   "hu":"Eldobható",
+   "it":"Non riciclabile",
+   "nl":"Restafval",
+   "pt":"Descartar",
+   "sv":"Sorteras som restavfall"
+  },
+  "en:recycle":{
+   "bg":"За рециклиране",
+   "de":"Recyceln",
+   "en":"Recycle",
+   "fr":"Recycler",
+   "hu":"Újrahasznosítható",
+   "it":"Riciclare",
+   "nb":"Gjenvinnes",
+   "pt":"Reciclável"
+  },
+  "en:recycle-as-food-waste":{
+   "en":"Recycle as food waste",
+   "sv":"Sorteras som matavfall"
+  },
+  "en:recycle-as-garden-waste":{
+   "en":"Recycle as garden waste",
+   "sv":"Sorteras som trädgårdsavfall"
+  },
+  "en:recycle-as-green-waste":{
+   "en":"Recycle as green waste",
+   "fr":"Compostable",
+   "it":"Umido",
+   "nl":"Recycle als GFT"
+  },
+  "en:recycle-in-coloured-glass-bin":{
+   "en":"Recycle in coloured glass bin",
+   "sv":"Sorteras som färgat glas"
+  },
+  "en:recycle-in-glass-bin":{
+   "en":"Recycle in glass bin",
+   "es":"Contenedor verde",
+   "fr":"Recycler dans le conteneur à verre",
+   "it":"Raccolta vetro",
+   "nl":"Recyclen in de glasbak",
+   "pt":"Ecoponto Verde",
+   "sv":"Sorteras som glas"
+  },
+  "en:recycle-in-metal-packaging-bin":{
+   "en":"Recycle in metal packaging bin",
+   "sv":"Sorteras som metallförpackning"
+  },
+  "en:recycle-in-newspaper-bin":{
+   "en":"Recycle in newspaper bin",
+   "sv":"Sorteras som tidningar"
+  },
+  "en:recycle-in-paper-bin":{
+   "en":"Recycle in paper bin",
+   "es":"Contenedor azul",
+   "fr":"Recycler dans le conteneur à papier",
+   "it":"Raccolta carta",
+   "nl":"Recyclen bij oud papier",
+   "pt":"Ecoponto azul"
+  },
+  "en:recycle-in-paper-packaging-bin":{
+   "en":"Recycle in paper packaging bin",
+   "sv":"Sorteras som pappersförpackning"
+  },
+  "en:recycle-in-sorting-bin":{
+   "en":"Recycle in sorting bin",
+   "fr":"Bac de tri"
+  },
+  "en:recycle-in-uncoloured-glass-bin":{
+   "en":"Recycle in uncoloured glass bin",
+   "sv":"Sorteras som ofärgat glas"
+  },
+  "en:recycle-with-bags-at-large-supermarket":{
+   "en":"Recycle with bags at large supermarket"
+  },
+  "en:recycle-with-drink-cartons":{
+   "en":"Recycle with drink cartons",
+   "fr":"Recycler avec les cartons à boissons",
+   "nl":"Recycle bij drankencartons"
+  },
+  "en:recycle-with-metals":{
+   "en":"Recycle with metals",
+   "it":"Raccolta metalli",
+   "sv":"Sorteras som metall"
+  },
+  "en:recycle-with-plastics":{
+   "en":"Recycle with plastics",
+   "fr":"Recycler avec le plastique",
+   "it":"Raccolta plastica",
+   "nl":"Recycle bij plastic afval",
+   "sv":"Sorteras som plast"
+  },
+  "en:recycle-with-plastics-metal-and-bricks":{
+   "en":"Recycle with plastics - metal and bricks",
+   "es":"Contenedor amarillo",
+   "fr":"Recycler avec les plastiques - métal et briques",
+   "it":"Raccolta plastica - metalli e bricchetti",
+   "nl":"Recycle bij Plastic - Metaal en Drankencartons",
+   "pt":"Ecoponto amarelo"
+  },
+  "en:return-pet-bottle-to-store":{
+   "en":"Return PET bottle to store",
+   "fr":"Bouteille en PET consignée",
+   "nl":"Recycle als statiegeldfles"
+  },
+  "en:return-to-store":{
+   "en":"Return to store",
+   "fr":"Consigné",
+   "it":"Riconsegnare al negozio"
+  },
+  "en:reuse":{
+   "bg":"Използвай повторно",
+   "de":"Wiederverwenden",
+   "en":"Reuse",
+   "fr":"Réutiliser",
+   "hu":"Újrafelhasználható",
+   "it":"Riusare",
+   "pt":"Reutilizar"
+  },
+  "fr:conteneur":{
+   "fr":"Conteneur"
+  },
+  "nl:statiegeldblik":{
+   "nl":"Statiegeldblik"
+  },
+  "sv:sortera":{
+   "sv":"Sortera"
+  }
+ }
+}
